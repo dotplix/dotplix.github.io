@@ -5,8 +5,8 @@ title: 16. İstanbul Bienali İzlenimleri
 subtitle: "Bienalde ne gördüm?"
 description: "26 Ekim Cumartesi günü nihayet 16. İstanbul Bienali'ni görmek amacıyla Tophane'deki MSGSÜ İstanbul Resim ve Heykel Müzesine gittim."
 image: https://dotplix.github.io/assets/img/yedinci-kita.jpg
-optimized_image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559825145/theme16_o0seet.jpg
-category: Hayat
+optimized_image: https://dotplix.github.io/assets/img/yedinci-kita.jpg
+category: Sanat
 tags:
   - Bienal
   - Sanat
