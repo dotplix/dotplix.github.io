@@ -5,7 +5,7 @@ date: 2019-10-28 13:32:20 +0300
 subtitle: Dikkate değer düşünceler...
 description: Friedrich Nietzsche'nin fikirleri arasında en heyecan verici olanlarından biri; Amor Fati.
 image: https://dotplix.github.io/assets/img/japo.jpg
-optimized_image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559825145/theme16_o0seet.jpg
+optimized_image: https://dotplix.github.io/assets/img/japo.jpg
 category: Felsefe
 tags:
   - Nietzsche

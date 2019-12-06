@@ -1,7 +1,7 @@
 ---
 layout: post
-title: About Stereotypes
-date: 2019-11-01 00:00:00 +0300
+title: Stereotipler Hakkında
+date: 2019-10-21 00:00:00 +0300
 subtitle: "Stereotipler nedir ve ne için varlar?"
 description: "Stereotipler nedir ve ne için varlar?"
 image: https://dotplix.github.io/assets/img/people.jpg
