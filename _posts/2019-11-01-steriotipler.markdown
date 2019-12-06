@@ -3,7 +3,7 @@ layout: post
 title: About Stereotypes
 date: 2019-11-01 00:00:00 +0300
 subtitle: "Stereotipler nedir ve ne için varlar?"
-description: Bu yazıda *12 Rules for Life: An Antidote to Chaos* kitabından bahsetmek istiyorum.
+description: "Bu yazıda *12 Rules for Life: An Antidote to Chaos* kitabından bahsetmek istiyorum."
 image: https://dotplix.github.io/assets/img/people.jpg
 optimized_image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559825145/theme16_o0seet.jpg
 category: Kültürel
