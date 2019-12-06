@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "12 Rules for Life: An Antidote to Chaos"
+title: "12 Rules for Life, An Antidote to Chaos"
 date: 2019-10-30 00:00:00 +0300
-subtitle: "12 Rules for Life: An Antidote to Chaos"
-description: "Bu yazıda *12 Rules for Life: An Antidote to Chaos* kitabından bahsetmek istiyorum."
+subtitle: "12 Rules for Life, An Antidote to Chaos"
+description: "Bu yazıda *12 Rules for Life, An Antidote to Chaos* kitabından bahsetmek istiyorum."
 image: https://dotplix.github.io/assets/img/12rules.jpg
 optimized_image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559825145/theme16_o0seet.jpg
 category: Kitap
