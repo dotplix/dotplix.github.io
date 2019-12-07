@@ -1,0 +1,77 @@
+- name: 'Still Alive'
+  type: 'Video Game Sountrack'
+  youtube: Y6ljFaKRTrI
+  desc: "Video oyunu Portal'ın kapanışında çalan şarkının adı “Still Alive”. Oyunun karakteri GladOS’un Chell’e yazdığı mektup olarak kurgulanan eserin sözlerinde karakterin pasif agresif ruh halini ve bitmez tükenmez bilim sevgisini görüyoruz."
+  href: "dddddd "
+  img: "still_alive.png"
+  date: "*"
+
+- name: 'Oppenheimer'
+  type: 'Araştırma Konusu'
+  youtube: lb13ynu3Iac
+  desc: "<p>J. Robert Oppenheimer Atom Bombasının üretimine giden süreçte John von Neumann ve Enrico Fermi gibi isimlerle beraber çalıştı.</p>"
+  href: "dddddd "
+  img: "oppenheimer.jpg"
+  date: "*"
+
+- name: 'A Dark Song'
+  type: 'Sinema Filmi'
+  youtube: 5-S3JqJZJ3s
+  desc: "Sıradan bir korku filmi olmanın çok ötesinde. Bir gerilim filmi olmanın yanında sanatsal olarak da başarılı. Film gerçek bir arınma hissi barındırıyor. Atmosferi çok güçlü."
+  href: "dddddd "
+  img: "a_dark_song.jpg"
+  date: "*"
+
+- name: 'Suspiria'
+  type: 'Sinema Filmi'
+  youtube: 5-S3JqJZJ3s
+  desc: "Orjinalinden farklı olarak bu versiyon modern dansa yoğunlaşmış. 77 yılındaki bölünmüş Berlindeki tarihi olaylara yer verilmiş. Konu ile ilgili Der Baader Meinhof Komplex filmi ilgiye değer. Cadılar arasındaki çekişme ve Tilda Swinton'un canlandırdığı Madame Blanc karakteri ilginç."
+  imdbhref: https://www.imdb.com/title/tt1034415/
+  href: "dddddd "
+  img: "suspiria.jpg"
+  date: "*"
+
+- name: 'Cicero'
+  type: 'Tespit'
+  youtube: 5-S3JqJZJ3s
+  desc: "Rome dizisinde Cicero'nun yansıtıldığı hesapçı, çıkarcı hali kötü bir yakıştırma özellikle de şu alıntısını duyanlar için: Bir kütüphane ve bir bahçeniz varsa, ihtiyacınız olan her şeye sahipsiniz demektir. Bunu söyleyen kişi ile dizide yansıtılan aynı kişi olamaz değil mi?"
+  href: "dddddd "
+  img: "nature.jpg"
+  date: "*"
+
+- name: 'Slavoj Zizek ve Antikahraman'
+  type: 'Tespit'
+  youtube: 5-S3JqJZJ3s
+  desc: "<p>Son Joker filmini yorumlaması istendiğinde Slavoj Zizek filmin Joker'e psikososyal bir hikaye verme çabasını manalı bulmadığını söylüyor.</p><blockquote><p>Bütün bu yanlış şartlar toplumun onu dışlaması vs... Aslında bu tarz anti kahramanlarda bu yanlış bir yaklaşım. Onlar aslında birer mucize. Elbette bazı şartların sonuçları olsalar da oluşan etki tamamen farklı. Aynı şartlar altındaki pek çok insan Joker olmuyor. Benzer şekilde acı çekseler bile bu onları Joker yapmıyor. Burada Burada Hannibel Lecter'dan bir satır aklıma geliyor. Lecter'ı sorguladıklarında. Bilirsiniz nasıl hapse düştüğünü nasıl Lecter olduğunu. Psikologlar başına ne gelmesi hangi drama'nın bir Lecter gerektiğini sorguluyorlar. Onun çok güzel bir cevabı var. Bana hiçbir şey olmadı ben dünyaya oldum.</p></blockquote>"
+  href: "dddddd "
+  img: "6a00d8341c86cc53ef0105362f54b0970c.jpg"
+  date: "*"
+  tags: [Joker, Lecter] # add tag
+
+- name: 'Türkiyenin Yaylaları'
+  type: 'Tespit'
+  desc: "<blockquote><p>Pokut Yaylası, Rize ilinin, Çamlıhemşin ilçesinde bulunan bir yayla'dır. Çamlıhemşin'den 1,5 - 2 saatte ulaşılabilmektedir.Ulaşım araba ve yaya olarak sağlanabilmektedir. - Vikipedi</p></blockquote>"
+  href: "dddddd "
+  img: "pokut-yaylasi.jpg"
+  date: "*"
+  
+- name: 'Hipster Ipsum'
+  type: 'Ilginç Seyler'
+  desc: "https://hipsum.co/?paras=5&type=hipster-centric&start-with-lorem=1 The one wonders? How to make one of them?"
+  href: "dddddd "
+  img: "mac.jpg"
+  date: "*"
+
+- name: 'Minecraft Redstone'
+  type: 'Ilginç Seyler'
+  desc: ""
+  href: "dddddd "
+  img: "mac.jpg"
+  date: "*"
+
+- name: 'Doom'
+  type: 'Ilginç Seyler'
+  desc: "https://www.youtube.com/watch?v=R6k72DI0Qo0"
+  href: "dddddd "
+  img: "mac.jpg"
+  date: "*"
