@@ -12,24 +12,3 @@ permalink: /kisa-kisa/
       <li><a href="{{site.baseurl}}/aklima-dusenler" style="">Aklıma Düşenler</a></li>
       </ul>
       
-              {% for member in site.data.members %}
-            
-              <article class="">
-          
-                <div class="">
-                    <img src="https://dotplix.github.io/assets/img/{{ member.img }}" alt="{{ member.name }}">
-      
-                </div>
-              <div class="">
-                <h2 class=""><a>{{ member.name }}</a></h2>
-                <p>{{ member.desc }}</p>
-                <span class="">{{ member.date }}&nbsp;&nbsp;&nbsp;—&nbsp;</span>
-                <span class="">{{ member.type }}</span>
-              </div>
-            </article>
-        
-              {% endfor %}
-    
-              
-            </div>
-    
