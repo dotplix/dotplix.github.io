@@ -1,17 +1,12 @@
 ---
 layout: post
 title: Amor Fati, Kibir ve Oluşun Masumiyeti
-date: 2019-10-28 13:32:20 +0300
-subtitle: Dikkate değer düşünceler...
-description: Friedrich Nietzsche'nin fikirleri arasında en heyecan verici olanlarından biri; Amor Fati.
-image: https://dotplix.github.io/assets/img/japo.jpg
-optimized_image: https://dotplix.github.io/assets/img/japo.jpg
-category: Felsefe
-tags:
-  - Nietzsche
-  - Kibir
-  - Oluşun Masumiyeti
-author: dotplix
+date: 2017-09-12 13:32:20 +0300
+description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
+img: japo.jpg # Add image post (optional)
+imgpage: japo.jpg
+fig-caption: # Add figcaption (optional)
+tags: [Holidays, Hawaii]
 ---
 
 Friedrich Nietzsche'nin fikirleri arasında en heyecan verici olanlarından biri: Amor Fati. "Kaderini sev!" anlamına geliyor. Fakat bunu kuru bir kadercilik olarak anlamamalıyız. Anlatılmak istenen çok daha derin. Pişman olmayı reddeden güçlü ve coşkulu bir bu tutum basit bir teslimiyetçiliğin çok ötesinde. Olayların günlük yaşantımızdaki akışını kabullenmekte yaşadığımız zorlukla başa çıkmak için bir reçete tutuşturuyor elimize. Hatalarımızı, yaşanmamışlıklarımızı tıkıştırdığımız bir bagajla gezmeyi derhal bırakmamızı tembihliyor.

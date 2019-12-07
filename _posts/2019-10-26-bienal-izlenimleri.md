@@ -1,18 +1,10 @@
 ---
-date: 2019-10-27 00:00:00 +0300
 layout: post
 title: 16. İstanbul Bienali İzlenimleri
-subtitle: "Bienalde ne gördüm?"
-description: "26 Ekim Cumartesi günü nihayet 16. İstanbul Bienali'ni görmek amacıyla Tophane'deki MSGSÜ İstanbul Resim ve Heykel Müzesine gittim."
-image: https://dotplix.github.io/assets/img/yedinci-kita.jpg
-optimized_image: https://dotplix.github.io/assets/img/yedinci-kita.jpg
-category: Sanat
-tags:
-  - Bienal
-  - Sanat
-  - Aksiyon Odaklılık
-author: dotplix
-paginate: true
+date: 2019-10-27 00:00:00 +0300
+description:  dddd # Add post description (optional)
+img: yedinci-kita.jpg
+tags: [Sanat, Aksiyon Odaklılık] # add tag
 ---
 
 26 Ekim Cumartesi günü nihayet 16. İstanbul Bienali'ni görmek amacıyla Tophane'deki MSGSÜ İstanbul Resim ve Heykel Müzesine gittim. İstanbul Kültür Sanat Vakfı (İKSV) tarafından düzenlenen ve katılımın ücretsiz olduğu Bienale bu yıl 500000 ziyaretçi bekleniyor. Bienal üç mekanda yapılıyor. Büyükada, Pera Müzesi, ve MSGSÜ. İsterseniz belli bir ücret ödeyerek rehberli turlara katılabiliyorsunuz.  

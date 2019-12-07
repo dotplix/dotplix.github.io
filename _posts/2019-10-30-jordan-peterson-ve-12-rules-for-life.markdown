@@ -1,20 +1,11 @@
 ---
 layout: post
-title: "12 Rules for Life, An Antidote to Chaos"
-date: 2019-10-30 00:00:00 +0300
-subtitle: "12 Rules for Life, An Antidote to Chaos"
-description: "Bu yazıda *12 Rules for Life, An Antidote to Chaos* kitabından bahsetmek istiyorum."
-image: https://dotplix.github.io/assets/img/12rules.jpg
-optimized_image: https://dotplix.github.io/assets/img/12rules.jpg
-category: Kitap
-tags:
-  - Jordan Peterson
-  - Felsefe
-  - Savaş
-author: dotplix
-paginate: true
+title: "12 Rules for Life: An Antidote to Chaos"
+date: 2017-04-06 13:32:20 +0300
+img: 12rules.jpg
+imgpage: 12rules.jpg
+description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
 ---
-
 
 Bu yazıda *12 Rules for Life: An Antidote to Chaos* kitabından bahsetmek istiyorum. Bir süredir Jordan Peterson’un Youtube da Toronto üniversitesindeki dersleri takip ediyordum. Söyledikleri kayda değer bulmamın sebebi etkilendiği insanların “derin felsefi fikirlerini yorumlaması” en azından bu iddiayı taşıması oldu. Nietzche den Jung’dan klinik psikolojiden, biyolojiden, ikinci dünya savaşından bahsediyor. Akademisyen kimliği, ayakları yere basan, hayata etki edecek, entelektüel bir içerik sunuyor. 
 
