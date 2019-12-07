@@ -19,13 +19,17 @@ menu: true
   
           {% for member in site.data.members %}
         
-          <article class="post">
-            <a class="post-thumbnail" style="background-image: url(https://dotplix.github.io/assets/img/{{ member.img }})"></a>
-          <div class="post-content">
-            <h2 class="post-title"><a>{{ member.name }}</a></h2>
+          <article class="">
+      
+            <div class="">
+                <img src="https://dotplix.github.io/assets/img/{{ member.img }}" alt="{{ member.name }}">
+  
+            </div>
+          <div class="">
+            <h2 class=""><a>{{ member.name }}</a></h2>
             <p>{{ member.desc }}</p>
-            <span class="post-date">{{ member.date }}&nbsp;&nbsp;&nbsp;—&nbsp;</span>
-            <span class="post-words">{{ member.type }}</span>
+            <span class="">{{ member.date }}&nbsp;&nbsp;&nbsp;—&nbsp;</span>
+            <span class="">{{ member.type }}</span>
           </div>
         </article>
     
