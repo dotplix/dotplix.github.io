@@ -21,15 +21,17 @@ menu: true
         
           <article class="">
       
-            <div class="">
-                <img src="https://dotplix.github.io/assets/img/{{ member.img }}" alt="{{ member.name }}">
-  
-            </div>
+        
           <div class="">
             <h2 class=""><a>{{ member.name }}</a></h2>
-            <p>{{ member.desc }}</p>
+            <div class="">
+               <div style="max-width: 500px;"><img src="https://dotplix.github.io/assets/img/{{ member.img }}" alt="{{ member.name }}"></div> 
+              <div><p>{{ member.desc }}</p></div>
+            </div>
+            <div>
             <span class="">{{ member.date }}&nbsp;&nbsp;&nbsp;—&nbsp;</span>
             <span class="">{{ member.type }}</span>
+          </div>
           </div>
         </article>
     
