@@ -9,7 +9,7 @@
 - name: 'Oppenheimer'
   type: 'Araştırma Konusu'
   youtube: lb13ynu3Iac
-  desc: "<p>J. Robert Oppenheimer Atom Bombasının üretimine giden süreçte John von Neumann ve Enrico Fermi gibi isimlerle beraber çalıştı.</p>"
+  desc: "<p>Atom Bombasının üretimine giden süreçte John von Neumann ve Enrico Fermi gibi isimlerle beraber çalışan J. Robert Oppenheimer'ın hayatı da kişiliği gibi ilgi çekici.</p>"
   href: "dddddd "
   img: "oppenheimer.jpg"
   date: "*"
@@ -17,7 +17,7 @@
 - name: 'A Dark Song'
   type: 'Sinema Filmi'
   youtube: 5-S3JqJZJ3s
-  desc: "Sıradan bir korku filmi olmanın çok ötesinde. Bir gerilim filmi olmanın yanında sanatsal olarak da başarılı. Film gerçek bir arınma hissi barındırıyor. Atmosferi çok güçlü."
+  desc: "A Dark Song sıradan bir korku filmi olmanın çok ötesine geçiyor. Bir gerilim filmi olmanın yanında sanatsal olarak da başarılı. Film gerçek bir arınma hissi barındırıyor. Atmosferi çok güçlü."
   href: "dddddd "
   img: "a_dark_song.jpg"
   date: "*"
@@ -46,31 +46,32 @@
   href: "dddddd "
   img: "6a00d8341c86cc53ef0105362f54b0970c.jpg"
   date: "*"
-  tags: [Joker, Lecter] # add tag
+  tags: [Joker, Lecter]
 
 - name: 'Türkiyenin Yaylaları'
   type: 'Tespit'
-  desc: "<blockquote><p>Pokut Yaylası, Rize ilinin, Çamlıhemşin ilçesinde bulunan bir yayla'dır. Çamlıhemşin'den 1,5 - 2 saatte ulaşılabilmektedir.Ulaşım araba ve yaya olarak sağlanabilmektedir. - Vikipedi</p></blockquote>"
+  desc: "<blockquote><p>Pokut Yaylası bu yaylalardan biri. Rize ilinin, Çamlıhemşin ilçesinde bulunuyor. İlçeden 1,5 - 2 saat yol gittikten sonra ulaşabiliyorsunuz.</p></blockquote>"
   href: "dddddd "
   img: "pokut-yaylasi.jpg"
   date: "*"
-  
+  tags: [Doğa, Yaylalar]
+
 - name: 'Hipster Ipsum'
-  type: 'Ilginç Seyler'
-  desc: "https://hipsum.co/?paras=5&type=hipster-centric&start-with-lorem=1 The one wonders? How to make one of them?"
+  type: 'Tespit'
+  desc: "https://hipsum.co/?paras=5&type=hipster-centric&start-with-lorem=1 Okuduğunuz zaman direk Hipster kültürünü yansıtmıyor mu? İnsan nasıl yapıldığını merak ediyor."
   href: "dddddd "
   img: "mac.jpg"
   date: "*"
 
 - name: 'Minecraft Redstone'
-  type: 'Ilginç Seyler'
-  desc: ""
+  type: 'Tespit'
+  desc: "Minecraft Redstone sayesinde oyun içinde simülasyonlar yapabiliyorsunuz. Örneğin sanal bir hesap makinesi yapmak güçlü."
   href: "dddddd "
   img: "mac.jpg"
   date: "*"
 
 - name: 'Doom'
-  type: 'Ilginç Seyler'
+  type: 'Tespit'
   desc: "https://www.youtube.com/watch?v=R6k72DI0Qo0"
   href: "dddddd "
   img: "mac.jpg"
