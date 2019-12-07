@@ -11,9 +11,13 @@ Bu yazıda *12 Rules for Life: An Antidote to Chaos* kitabından bahsetmek istiy
 
 Kendi adıma Peterson'un her söylediğine kapılmak doğru değil. Biraz temkinli yaklaşmak gerekiyor. Özellikle politik bir mesaj taşımasa da Jordan Peterson’ın politikleştiği gerçek. Güncel dönemde içeriğinde dini arkaplan giderek artıyor. Amerikan üniversitelerindeki sol eğilimin karşısında tutum takınıyor. Trump ile beraber daha yüksek notadan konuşan kimi zaman sevimsiz batı sağının popüler sembolü haline gelmiş durumda. Temkini bu noktada gerekli görüyorum.
 
-Peterson a yapılan bir eleştiri de sovyet zamanı soğuk savaş dünyasının izlerini barındırdığı yönünde. Maps Of Meaning derslerine nükleer füzelerin kontrol odasına yaptığı ziyareti anlatmakla başlıyor. Dünyanın nükleer savaşın eşiğine gelmesinin psikolojik yansımalarından bahsediyor. Savaşı insan doğasının karanlık yönünün dışa vurumu olarak yorumluyor. Bu konsept benim açımdan ilgi çekici, bu nedenle bununla bir sorunum yok açıkcası.
+Peterson a yapılan bir eleştiri de sovyet zamanı soğuk savaş dünyasının izlerini barındırdığı yönünde. Maps Of Meaning derslerine nükleer füzelerin kontrol odasına yaptığı ziyareti anlatmakla başlıyor. Dünyanın nükleer savaşın eşiğine gelmesinin psikolojik yansımalarından bahsediyor. Savaşı insan doğasının karanlık yönünün dışa vurumu olarak yorumluyor. Bu konsept benim açımdan ilgi çekici, bu nedenle bununla bir sorunum yok açıkcası. Ayrıca bu eski gösterişsiz derslerin dünya çapında ünlenmesini sağlayan Bible Stories'den daha iyi olduğunu söylemeliyim.
 
-Kitap kültürel bir arkaplanda daha çok bireye odaklanıyor. Burada ise eleştiri yeterince orijinal olmadığı ve iddiaların yeterince bilimsel olmadığı yönünde. Örneğin ıstakozların hiyerarşik yapısını günümüz toplumuna uyarlaması çokça eleştirilmiş. Eleştirileri kayda değer bulmakla beraber kitap benim açımdan olumlu. Özetlemekten ziyade anahtar konseptlerden ve bölümlerin bende yarattığı çağrışımlardan bahsedeceğim.
+Jordan Peterson ince bir ikilemde duruyor. Daha popüler olmak için yazdıklarının konusunu belki de içeriğini değiştirir mi? Dine olan yakınlığına mesela bu şekilde bakanlar var. Ben de çok etkilendiğimi söyleyemeyeceğim.
+
+Kitaba geri dönecek olursak kitap kültürel bir arkaplan taşıyor fakat daha çok bireye odaklanıyor. .....buraları doldur.....
+
+Kitapa yöneltilen eleştiriler yeterince orijinal olmadığı ve iddiaların yeterince bilimsel olmadığı yönünde. Örneğin ıstakozların hiyerarşik yapısını günümüz toplumuna uyarlaması çokça eleştirilmiş. Eleştirileri kayda değer bulmakla beraber kitap benim açımdan olumlu. Özetlemekten ziyade anahtar konseptlerden ve bölümlerin bende yarattığı çağrışımlardan bahsedeceğim.
 
 Kitap 12 bölümden oluşuyor. Kabaca çevirecek olursak:
 
@@ -47,6 +51,8 @@ Kendini İfade Etmek : Anlaşılmak çok önemli. Bu noktada kendini düzgün ve
 > Get your words together. Make yourself an articulate creature. Than you are deadly. In the best possible way. And take that seriously. 
 Learn to find your true voice. Every time deviate from that for expedient reasons you corrupt yourself. Your arguments becomes your character. Became articulate and clear you can possibly become.
 Nothing more practical and noble than that at the same time. 
+
+Diğer anahtar konseptler:
 
 * Düşen Cennet 
 * Cehennem
