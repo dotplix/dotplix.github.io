@@ -9,9 +9,9 @@ fig-caption: # Add figcaption (optional)
 tags: [Holidays, Hawaii]
 ---
 
-Stereotip, belirli insan türleri veya belli davranış biçimleri hakkında yaygın olarak benimsenen bir düşünce tarzına verilen isim. Sosyal psikolojinin alanı içerisine girer. Belirli bir grubun bütün üyeleri için bir beklenti söz konusudur. Bu beklenti gruptaki insanların kişilikleri, tercihleri ya da yapabilecekleri hakkında olabilir.
+Stereotip, belirli insan türleri veya belli davranış biçimleri hakkında yaygın olarak benimsenen bir düşünce tarzı. Sosyal psikolojinin alanı içerisine giriyor. Belirli bir grubun bütün üyeleri için bir beklenti söz konusu. Bu beklenti gruptaki insanların kişilikleri, tercihleri ya da yapabilecekleri hakkında olabiliyor.
 
-Stereotipler birer genellemedir çünlü bir kategorideki her bir tekil kişi kişi için doğru oldukları varsayılır. Hızlı karar almada böyle bir genelleme kullanışlı olabileceği gibi, teker teker bireylere uygulandığında yanlışlara sebebiyet verebilir. Önyargı içeren davranışlara sebebiyet verebileceği gibi oldukca sakıncalı bir alan olan sosyal katorilendirmeyle ilişkilidir.
+Stereotipler birer genellemedir çünlü bir kategorideki her bir tekil kişi kişi için doğru oldukları varsayılır. Hızlı karar almada böyle bir genelleme kullanışlı olabileceği gibi teker teker bireylere uygulandığında yanlışlara sebebiyet verebilir. Önyargı içeren davranışlara sebebiyet verebileceği gibi oldukca sakıncalı bir alan olan sosyal katorilendirmeyle ilişkilidir.
 
 Öte yandan stereotipler anlam oluşturmak açısından tuhaf şekilde başarılıdır.
 
