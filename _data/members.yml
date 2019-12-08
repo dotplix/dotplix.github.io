@@ -58,7 +58,7 @@
 
 - name: 'Stoker'
   type: 'Tespit'
-  desc: "Fİlmin yönetmeni Güney Koreli Park Chan-wook olsa da hiçbir Asyalı oyuncu yok.  "
+  desc: "Fİlmin yönetmeni Güney Koreli Park Chan-wook."
   href: "dddddd "
   img: "stoker.jpg"
   date: "*"
