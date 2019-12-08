@@ -17,7 +17,7 @@
 - name: 'A Dark Song'
   type: 'Sinema Filmi'
   youtube: 5-S3JqJZJ3s
-  desc: "A Dark Song sıradan bir korku filmi olmanın çok ötesine geçiyor. Bir gerilim filmi olmanın yanında sanatsal olarak da başarılı. Film gerçek bir arınma hissi barındırıyor. Atmosferi çok güçlü."
+  desc: "Benim için sıradan bir korku filmi olmanın çok ötesinde. Sanatsal olarak başarılı, gerçek bir arınma hissi barındırıyor ve atssmosferi çok güçlü."
   href: "dddddd "
   img: "a_dark_song.jpg"
   date: "*"
@@ -80,6 +80,38 @@
 - name: 'Doom'
   type: 'Tespit'
   desc: "https://www.youtube.com/watch?v=R6k72DI0Qo0"
-  href: "dddddd "
+  href: "Doom oyununu da mesela insanlar printerlara vs yükleyebiliyorlar."
+  img: "mac.jpg"
+  date: "*"
+
+
+  - name: 'Nixie Saatleri'
+  type: 'Tespit'
+  desc: "https://www.youtube.com/watch?v=R6k72DI0Qo0"
+  href: "Doom oyununu da mesela insanlar printerlara vs yükleyebiliyorlar."
+  img: "mac.jpg"
+  date: "*"
+
+
+  - name: 'Bluetooth Nasıl Çalışır'
+  type: 'Tespit'
+  desc: "https://www.youtube.com/watch?v=R6k72DI0Qo0"
+  href: "Doom oyununu da mesela insanlar printerlara vs yükleyebiliyorlar."
+  img: "mac.jpg"
+  date: "*"
+
+
+  - name: 'Logic Gate'ler, Transistörler, Vakum Tüpleri, Entegreler'
+  type: 'Tespit'
+  desc: "https://www.youtube.com/watch?v=R6k72DI0Qo0"
+  href: "Doom oyununu da mesela insanlar printerlara vs yükleyebiliyorlar."
+  img: "mac.jpg"
+  date: "*"
+
+
+  - name: 'Japon Kültürü'
+  type: 'Tespit'
+  desc: "https://www.youtube.com/watch?v=R6k72DI0Qo0"
+  href: "Animeler, Meiji Dönemi, 2. Dünya Savaşı, Bugün dünya kültüründeki yerleri"
   img: "mac.jpg"
   date: "*"
