@@ -3,12 +3,31 @@ layout: main
 title: Kısa Kısa
 permalink: /kisa-kisa/
 ---
-<div class="Akis">
 
-    <ul>
-      <li><a href="{{site.baseurl}}/kitaplar" style="">Edebiyat</a></li>
-      <li><a href="{{site.baseurl}}/filmler" style="">Sinema</a></li>
-      <li><a href="{{site.baseurl}}/eserler" style="">Resim ve Heykel</a></li>
-      <li><a href="{{site.baseurl}}/aklima-dusenler" style="">Aklıma Düşenler</a></li>
+
+    <h1>Kısa Kısa</h1>
+      <ul class="tags">
+    
+        <li><a href="{{site.baseurl}}/kitaplar" class="tag">Edebiyat</a></li>
+        <li><a href="{{site.baseurl}}/filmler" class="tag">Sinema</a></li>
+        <li><a href="{{site.baseurl}}/eserler" class="tag">Resim ve Heykel</a></li>
+        <li><a href="{{site.baseurl}}/aklima-dusenler" clas="tag">Aklıma Düşenler</a></li>
+     
       </ul>
+
+
+      {% for member in site.data.members %}
+      
+      <article class="post">
+        <a class="post-thumbnail" style="background-image: url(https://dotplix.github.io/assets/img/{{ member.img }})"></a>
+      <div class="post-content">
+        <h2 class="post-title"><a>{{ member.name }}</a></h2>
+        <p>{{ member.desc }}</p>
+        <span class="post-date">{{ member.date }}&nbsp;&nbsp;&nbsp;—&nbsp;</span>
+        <span class="post-words">{{ member.type }}</span>
+      </div>
+    </article>
+
+      {% endfor %}
+
       
