@@ -79,29 +79,29 @@
 
 - name: 'Printera Doom Kurmak'
   type: 'Teknoloji'
-  desc: "https://www.youtube.com/watch?v=R6k72DI0Qo0"
-  href: "Doom oyununu da mesela insanlar printerlara vs yükleyebiliyorlar."
+  desc: "Doom oyununu da mesela insanlar printerlara vs yükleyebiliyorlar. https://www.youtube.com/watch?v=R6k72DI0Qo0"
+  href: "#"
   img: "doomonprinter.jpg"
   date: "2019-12-08"
 
 - name: 'Nixie Saatleri'
   type: 'Teknoloji'
-  desc: "https://www.youtube.com/watch?v=R6k72DI0Qo0"
-  href: "Doom oyununu da mesela insanlar printerlara vs yükleyebiliyorlar."
+  desc: "Nixie Saatleri"
+  href: "#"
   img: "nixie.jpg"
   date: "*"
 
 - name: 'Bluetooth Nasıl Çalışır'
   type: 'Teknoloji'
-  desc: "https://www.youtube.com/watch?v=R6k72DI0Qo0"
-  href: "Doom oyununu da mesela insanlar printerlara vs yükleyebiliyorlar."
+  desc: "Bluetooth Nasıl Çalışır"
+  href: "#"
   img: "mac.jpg"
   date: "*"
 
 - name: 'Logic Gateler, Transistörler, Vakum Tüpleri, Entegreler'
   type: 'Teknoloji'
   desc: "https://www.youtube.com/watch?v=R6k72DI0Qo0"
-  href: "Doom oyununu da mesela insanlar printerlara vs yükleyebiliyorlar."
+  href: "Logic Gateler, Transistörler, Vakum Tüpleri, Entegreler"
   img: "mac.jpg"
   date: "*"
 
