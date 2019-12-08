@@ -53,7 +53,7 @@
   desc: "<blockquote><p>Pokut Yaylası bu yaylalardan biri. Rize ilinin, Çamlıhemşin ilçesinde bulunuyor. İlçeden 1,5 - 2 saat yol gittikten sonra ulaşabiliyorsunuz.</p></blockquote>"
   href: "dddddd "
   img: "pokut-yaylasi.jpg"
-  date: "*"
+  date: "2019-12-08"
   tags: [Doğa, Yaylalar]
 
 - name: 'Stoker'
@@ -61,35 +61,35 @@
   desc: "Fİlmin yönetmeni Güney Koreli Park Chan-wook."
   href: "dddddd "
   img: "stoker.jpg"
-  date: "*"
+date: "2019-12-08"
 
 - name: 'Hipster Ipsum'
   type: 'Tespit'
   desc: "https://hipsum.co/?paras=5&type=hipster-centric&start-with-lorem=1 Okuduğunuz zaman direk Hipster kültürünü yansıtmıyor mu? İnsan nasıl yapıldığını merak ediyor."
   href: "dddddd "
   img: "mac.jpg"
-  date: "*"
+ date: "2019-12-08"
 
 - name: 'Minecraft Redstone'
   type: 'Tespit'
   desc: "Minecraft Redstone sayesinde oyun içinde simülasyonlar yapabiliyorsunuz. Örneğin sanal bir hesap makinesi yapmak güçlü."
   href: "dddddd "
-  img: "mac.jpg"
-  date: "*"
+  img: "redstone.jpg"
+  date: "2019-12-08"
 
 - name: 'Doom'
   type: 'Tespit'
   desc: "https://www.youtube.com/watch?v=R6k72DI0Qo0"
   href: "Doom oyununu da mesela insanlar printerlara vs yükleyebiliyorlar."
-  img: "mac.jpg"
-  date: "*"
+  img: "doomonprinter.jpg"
+  date: "2019-12-08"
 
 
 - name: 'Nixie Saatleri'
   type: 'Tespit'
   desc: "https://www.youtube.com/watch?v=R6k72DI0Qo0"
   href: "Doom oyununu da mesela insanlar printerlara vs yükleyebiliyorlar."
-  img: "mac.jpg"
+  img: "nixie.jpg"
   date: "*"
 
 
@@ -113,5 +113,5 @@
   type: 'Tespit'
   desc: "https://www.youtube.com/watch?v=R6k72DI0Qo0"
   href: "Animeler, Meiji Dönemi, 2. Dünya Savaşı, Bugün dünya kültüründeki yerleri"
-  img: "mac.jpg"
+  img: "anime.png"
   date: "*"
