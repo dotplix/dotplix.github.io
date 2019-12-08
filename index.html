@@ -10,8 +10,8 @@ layout: main
   <div class="post-content">
     <h2 class="post-title"><a href="{{post.url | prepend: site.baseurl}}">{{post.title}}</a></h2>
     <p>{{ post.content | strip_html | truncatewords: 25 }}</p>
-    <span class="post-date">Oluşturulma Tarihi: {{post.date | date: '%Y, %b %d'}} Son Düzenlenme Tarihi: XX-XX-XX Etiketler: #XX #XX&nbsp;&nbsp;&nbsp;—&nbsp;</span>
-    <span class="post-words">{% capture words %}{{ post.content | number_of_words }}{% endcapture %}{% unless words contains "-" %}{{ words | plus: 250 | divided_by: 250 | append: " minute read" }}{% endunless %}</span>
+    <div style="float:left;" class="post-date"><p>Oluşturulma Tarihi:</p> <p>{{post.date | date: '%Y, %b %d'}}</p> <p>Son Düzenlenme Tarihi:</p> <p>XX-XX-XX</p> <p>Etiketler:</p><p>#XX #XX</p>&nbsp;&nbsp;&nbsp;—&nbsp;</div>
+    <div class="post-words">{% capture words %}{{ post.content | number_of_words }}{% endcapture %}{% unless words contains "-" %}{{ words | plus: 250 | divided_by: 250 | append: " minute read" }}{% endunless %}</div>
   </div>
 </article>
 {% endfor %}
