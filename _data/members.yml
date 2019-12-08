@@ -56,6 +56,13 @@
   date: "*"
   tags: [Doğa, Yaylalar]
 
+  - name: 'Stoker'
+  type: 'Tespit'
+  desc: "Fİlmin yönetmeni Güney Koreli Park Chan-wook olsa da hiçbir Asyalı oyuncu yok.  "
+  href: "dddddd "
+  img: "stoker.jpg"
+  date: "*"
+
 - name: 'Hipster Ipsum'
   type: 'Tespit'
   desc: "https://hipsum.co/?paras=5&type=hipster-centric&start-with-lorem=1 Okuduğunuz zaman direk Hipster kültürünü yansıtmıyor mu? İnsan nasıl yapıldığını merak ediyor."

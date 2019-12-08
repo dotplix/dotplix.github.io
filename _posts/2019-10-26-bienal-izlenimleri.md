@@ -7,7 +7,7 @@ img: yedinci-kita.jpg
 tags: [Sanat, Aksiyon Odaklılık] # add tag
 ---
 
-26 Ekim Cumartesi günü nihayet 16. İstanbul Bienali'ni görmek amacıyla Tophane'deki MSGSÜ İstanbul Resim ve Heykel Müzesine gittim. İstanbul Kültür Sanat Vakfı (İKSV) tarafından düzenlenen ve katılımın ücretsiz olduğu Bienale bu yıl 500000 ziyaretçi bekleniyor. Bienal üç mekanda yapılıyor. Büyükada, Pera Müzesi, ve MSGSÜ. İsterseniz belli bir ücret ödeyerek rehberli turlara katılabiliyorsunuz.  
+26 Ekim Cumartesi günü nihayet 16. İstanbul Bienali'ni görmek için Bienal'in mekanlarından biri olan Tophane'deki MSGSÜ İstanbul Resim ve Heykel Müzesine gittim. İstanbul Kültür Sanat Vakfı (İKSV) tarafından düzenlenen ve katılımın ücretsiz olduğu Bienale bu yıl 500000 ziyaretçi bekleniyor. Bienal üç mekanda yapılıyor. Büyükada, Pera Müzesi, ve MSGSÜ. İsterseniz belli bir ücret ödeyerek rehberli turlara katılabiliyorsunuz.  
 
 <img src="https://dotplix.github.io/assets/img/yedinci-kita.jpg" alt="Yedinci Kıta" width="600"/>
 
@@ -93,6 +93,8 @@ Film hakkında diğer bilgiler için:
 Bianel Tanıtımından:
 > Korakrit Arunanondchai çalışmalarında, endüstriyel süreçler, aile tarihçeleri ve çağdaş spiritüalizm veya animizm gibi fenomenleri Tayland ile Batı arasındaki kültürel alışverişler çerçevesinde sorguluyor. Arunanondchai’ın bir seri resminin yanı sıra sunduğu tarihle birlikte tuhaf isimli insanlarla dolu bir odada 4 adlı yapıtı, iki tarihsel olayı ilişkiye sokuyor: Donald Trump’ın yükselişi ve Tayland kralının ölümü. Filmde protesto ve yas etkinliklerini, sanatçının Chantri adında bir droneun ruhu ile mektuplaşmalarını, erken yaşta bunayarak hafızasını ve maddi dünyayla ilişkisini yitiren büyükannesini izliyoruz.
 
-* https://vimeo.com/261026131
+* Fragmanı: https://vimeo.com/261026131
+
+Bir diğer dikkatimi çeken nokta da filmleri festival dışında kolay kolay bulamıyor oluşunuz. Şu çağda şu ortamda bile ulaşmanın bu derece zor olması insana bir fikir veriyor. Demekki kaliteli görsel işitsel eğlence ürünü zor bulunuyor ve bizler kalitesizlere boğulmuş durumdayız.
 
 Bienal'den gayet mutlu ayrıldığımı belirtmeliyim. Hem atmosferden hem de gördüğüm sanat eserlerinden o kadar etkileniyorum ki farklı bir dünyaya yolculuk yapmış gibi oluyorum. İçinde bulunduğum ruh hali, modum tamamen değişiyor. Bizimle orada konuşan her ne ise gündelik hayatımızda karşımıza çıkmıyor. İzlediğimiz dizilerde ya da sosyal medya ile dolduramadığımız bir açlık buradaki. Demek ki bu sesi daha çok dinlemek gerekiyor, ona daha fazla zaman ayırmak gerekiyor, onu hayatımıza daha çok katmak gerekiyor ki buradan alacağımız enerjiyle hayatlarımıza bambaşka yerlere taşıyabilelim.
