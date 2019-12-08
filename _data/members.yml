@@ -56,7 +56,7 @@
   date: "*"
   tags: [Doğa, Yaylalar]
 
-  - name: 'Stoker'
+- name: 'Stoker'
   type: 'Tespit'
   desc: "Fİlmin yönetmeni Güney Koreli Park Chan-wook olsa da hiçbir Asyalı oyuncu yok.  "
   href: "dddddd "
@@ -85,7 +85,7 @@
   date: "*"
 
 
-  - name: 'Nixie Saatleri'
+- name: 'Nixie Saatleri'
   type: 'Tespit'
   desc: "https://www.youtube.com/watch?v=R6k72DI0Qo0"
   href: "Doom oyununu da mesela insanlar printerlara vs yükleyebiliyorlar."
@@ -93,7 +93,7 @@
   date: "*"
 
 
-  - name: 'Bluetooth Nasıl Çalışır'
+- name: 'Bluetooth Nasıl Çalışır'
   type: 'Tespit'
   desc: "https://www.youtube.com/watch?v=R6k72DI0Qo0"
   href: "Doom oyununu da mesela insanlar printerlara vs yükleyebiliyorlar."
@@ -101,7 +101,7 @@
   date: "*"
 
 
-  - name: 'Logic Gate'ler, Transistörler, Vakum Tüpleri, Entegreler'
+- name: 'Logic Gate'ler, Transistörler, Vakum Tüpleri, Entegreler'
   type: 'Tespit'
   desc: "https://www.youtube.com/watch?v=R6k72DI0Qo0"
   href: "Doom oyununu da mesela insanlar printerlara vs yükleyebiliyorlar."
@@ -109,7 +109,7 @@
   date: "*"
 
 
-  - name: 'Japon Kültürü'
+- name: 'Japon Kültürü'
   type: 'Tespit'
   desc: "https://www.youtube.com/watch?v=R6k72DI0Qo0"
   href: "Animeler, Meiji Dönemi, 2. Dünya Savaşı, Bugün dünya kültüründeki yerleri"
