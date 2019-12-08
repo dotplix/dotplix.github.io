@@ -61,14 +61,14 @@
   desc: "Fİlmin yönetmeni Güney Koreli Park Chan-wook."
   href: "dddddd "
   img: "stoker.jpg"
-date: "2019-12-08"
+  date: "2019-12-08"
 
 - name: 'Hipster Ipsum'
   type: 'Tespit'
   desc: "https://hipsum.co/?paras=5&type=hipster-centric&start-with-lorem=1 Okuduğunuz zaman direk Hipster kültürünü yansıtmıyor mu? İnsan nasıl yapıldığını merak ediyor."
   href: "dddddd "
   img: "mac.jpg"
- date: "2019-12-08"
+  date: "2019-12-08"
 
 - name: 'Minecraft Redstone'
   type: 'Tespit'
@@ -84,14 +84,12 @@ date: "2019-12-08"
   img: "doomonprinter.jpg"
   date: "2019-12-08"
 
-
 - name: 'Nixie Saatleri'
   type: 'Tespit'
   desc: "https://www.youtube.com/watch?v=R6k72DI0Qo0"
   href: "Doom oyununu da mesela insanlar printerlara vs yükleyebiliyorlar."
   img: "nixie.jpg"
   date: "*"
-
 
 - name: 'Bluetooth Nasıl Çalışır'
   type: 'Tespit'
@@ -100,14 +98,12 @@ date: "2019-12-08"
   img: "mac.jpg"
   date: "*"
 
-
 - name: 'Logic Gateler, Transistörler, Vakum Tüpleri, Entegreler'
   type: 'Tespit'
   desc: "https://www.youtube.com/watch?v=R6k72DI0Qo0"
   href: "Doom oyununu da mesela insanlar printerlara vs yükleyebiliyorlar."
   img: "mac.jpg"
   date: "*"
-
 
 - name: 'Japon Kültürü'
   type: 'Tespit'
