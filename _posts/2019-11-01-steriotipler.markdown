@@ -46,3 +46,4 @@ Birçoğumuz hayatı bu şekilde tiyatro olarak algılıyor. Diğer bir grup ise
 * Nerd
 * Hipster
 * Emo / Gothic
+* Douchebag
