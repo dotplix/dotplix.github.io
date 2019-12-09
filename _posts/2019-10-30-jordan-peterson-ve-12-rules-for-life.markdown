@@ -1,6 +1,5 @@
 ---
 layout: post
-type: article
 title: "12 Rules for Life: An Antidote to Chaos"
 date: 2017-04-06 13:32:20 +0300
 img: 12rules.jpg
