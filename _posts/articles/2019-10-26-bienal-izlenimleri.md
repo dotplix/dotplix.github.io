@@ -1,5 +1,6 @@
 ---
 layout: post
+type: article
 title: 16. İstanbul Bienali İzlenimleri
 date: 2019-10-27 00:00:00 +0300
 description:  dddd # Add post description (optional)
