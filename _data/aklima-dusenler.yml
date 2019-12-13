@@ -20,12 +20,23 @@
 
 - name: "About Cults And Cult-Like Behaviour"
   id: "0006"
-  desc: "What about modern cults? What about moon worshippers?"
+  desc: "What about modern cults? What about moon worshippers? Scientology, EST,"
   
 - name: "A Ghost"
   id: "007"
   desc: "A ghost that haunts people. Spirith of a strange kind. <blockquote>it's a dark philosophy and it haunts her constantly</blockquote>"
+  desctr: "Masalvari bir yaratık... İnsanları yakalayan bir hayalet. Garip çeşitten bir ruh."
 
 - name: "Motiveless"
   id: "008"
   desc: "Act without attachment to the fruits of action. do what you have to do without seeking either evil or good from it. Act without motive as long as we have a motive our actions are not actions they are reactions. They loose the will"
+
+- name: "A Kiss"
+  id: "009"
+  desc: "And a kiss for the occurence..."
+  desctr: "Ve bir öpücük saklayacağım mucizevi şekilde varolan zaman için. O zaman ki kaseye dökülen bir su gibidir. Hislerim seninledir. Olduğum yer olduğun yerdir."
+
+- name: "A Kiss"
+  id: "009"
+  desc: "Are we big enough to became nobody? Big enough to became distant from ourselves and recognize outselves as mere objects. Or agents maybe."
+  desctr: "Peki büyük müyüz hiçkimse olacak kadar? Büyük müyüz kendimize mesafe koyacak kadar ve tanıyacak kadar kendimizi boşluğun zerreleri olarak. Ezilmeden altında zihinlerimizin kölesi olmadan tutkularımızın. Herşeyin içinde ve dışında olabilecek miyiz?"
