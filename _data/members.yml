@@ -1,5 +1,6 @@
 - name: 'Still Alive'
   type: 'Video Game Sountrack'
+  page: 'culture'
   youtube: Y6ljFaKRTrI
   desc: "Video oyunu Portal'ın kapanışında çalan şarkının adı “Still Alive”. Oyunun karakteri GladOS’un Chell’e yazdığı mektup olarak kurgulanan eserin sözlerinde karakterin pasif agresif ruh halini ve bitmez tükenmez bilim sevgisini görüyoruz."
   href: "dddddd "
@@ -8,6 +9,7 @@
 
 - name: 'Oppenheimer'
   type: 'Araştırma Konusu'
+  page: 'teknoloji'
   youtube: lb13ynu3Iac
   desc: "<p>Atom Bombasının üretimine giden süreçte John von Neumann ve Enrico Fermi gibi isimlerle beraber çalışan J. Robert Oppenheimer'ın hayatı da kişiliği gibi ilgi çekici.</p>"
   href: "dddddd "
@@ -16,6 +18,7 @@
 
 - name: 'A Dark Song'
   type: 'Sinema'
+  page: 'sinema'
   youtube: 5-S3JqJZJ3s
   desc: "Benim için sıradan bir korku filmi olmanın çok ötesinde. Sanatsal olarak başarılı, gerçek bir arınma hissi barındırıyor ve atssmosferi çok güçlü."
   href: "dddddd "
@@ -24,6 +27,7 @@
 
 - name: 'Suspiria'
   type: 'Sinema'
+  page: 'sinema'
   youtube: 5-S3JqJZJ3s
   desc: "Orjinalinden farklı olarak bu versiyon modern dansa yoğunlaşmış. 77 yılındaki bölünmüş Berlindeki tarihi olaylara yer verilmiş. Konu ile ilgili Der Baader Meinhof Komplex filmi ilgiye değer. Cadılar arasındaki çekişme ve Tilda Swinton'un canlandırdığı Madame Blanc karakteri ilginç."
   imdbhref: https://www.imdb.com/title/tt1034415/
@@ -117,4 +121,12 @@
   desc: "Bu tuhaf Gotik Alman grubunun müzikleri inanılmaz. Böyle yüksek bir yerden kartal imgesi geliyor gözümün önünde dağlardan."
   href: ""
   img: "anime.png"
+  date: "*"
+
+- name: 'Schopenhauer'
+  type: 'Felsefe'
+  desc: "Alman 19. yy filozofu. Buddism ile yakından ilgilendiğini görüyoruz. Budist düşüncedeki aydınlanmış hayata dair sert bakışı yeniden yorumluyor. Schopenhauer düşüncesine sıkça karamsar deniyor. Bu doğru değil bence. Çünkü karamsarlık bu bakış açısı ile aynı bağlamda değerlendirilmemeli. Peki nasıl mücadele edeceğiz yaşamın trajedisiyle? Bir <b>bilge</b> olmak bunlardan biri. Yaşam istencinin üzerinde ancak onlar olabilirdi. İkincisi daha kolay ulaşılabilir, daha gerçekçi teori ise sanat ve felsefe ile mümkün olduğunca içli dışlı olmak olabilirdi. Bazı zamanlarda bir adım geriye atıp hayata ilüzyon olmadan bakabilirdik böylece. Duygusal olanın karşısında olan sanat. Yunan Trajedileri, la rochefoucauld, Machiavelli. Bu sanat trajik, ağırbaşlıdır. 
+Hastalıklı acı karamsarlıklıklarında bizi derinden avutabilir. Arthur Schopenhauer'ın en bilinen kitabı ise The World As Will And Representation."
+  href: ""
+  img: "schopenhauer.jpg"
   date: "*"
