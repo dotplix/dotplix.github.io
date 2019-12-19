@@ -2,12 +2,12 @@
 layout: main
 ---
 <article class="sinema">
+<div>
+  <h1>Film Analizi: {{ page.title }}</h1>
 
-  {% if page.picture %}
-    <img src="{{ page.picture }}" alt="Photo of a {{ page.title | downcase }}">
-  {% endif %}
-
-  <h1>Animal Profile: {{ page.title }}</h1>
+  <div>
+    {{ content }}
+  </div>
 
   <div class="sinema-class {{ page.class | downcase }}">
     {{ page.class }}
@@ -16,9 +16,13 @@ layout: main
   <div class="sinema-family {{ page.family | downcase }}">
     {{ page.family }}
   </div>
+</div>
 
-  <div>
-    {{ content }}
-  </div>
-  
+<div>
+  {% if page.picture %}
+    <img src="{{ page.picture }}" style="max-width: 355px; float: right;" alt="Photo of a {{ page.title | downcase }}">
+  {% endif %}
+
+</div>
+
 </article>
