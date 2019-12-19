@@ -48,3 +48,5 @@ defaults:
       type: "animals"
     values:
       layout: animal
+
+collections_dir: my_collections
