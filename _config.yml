@@ -36,3 +36,15 @@ paginate: 8
 paginate_path: "/page/:num"
 
 exclude: ["node_modules", "gulpfile.js", "package.json", "yarn.lock"]
+
+collections:
+  animals:
+    output: true
+    permalink: /my-animal/:name
+
+defaults:
+  - scope:
+      path: ""
+      type: "animals"
+    values:
+      layout: animal
