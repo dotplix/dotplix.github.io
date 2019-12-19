@@ -40,13 +40,13 @@ exclude: ["node_modules", "gulpfile.js", "package.json", "yarn.lock"]
 collections:
   animals:
     output: true
-    permalink: /my-animal/:name
+    permalink: /sinema/:name
 
 defaults:
   - scope:
       path: ""
-      type: "animals"
+      type: "sinema"
     values:
-      layout: animal
+      layout: sinema
 
 collections_dir: my_collections

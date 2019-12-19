@@ -1,0 +1,12 @@
+---
+layout: main
+---
+
+<ul>
+  {% for film in site.sinema %}
+    <li>
+      <a href="{{ film.url }}">{{ film.title }}</a>
+      - {{ film.headline }}
+    </li>
+  {% endfor %}
+</ul>
