@@ -2,11 +2,15 @@
 layout: main
 ---
 
-<ul>
-  {% for film in site.sinema %}
-    <li>
-      <a href="{{ film.url }}">{{ film.title }}</a>
-      - {{ film.headline }}
-    </li>
-  {% endfor %}
-</ul>
+{% for film in site.sinema %} 
+<article class="post">
+  <a class="post-thumbnail" style="background-image: url({{ film.picture }})" href="{{ film.url }}"></a>
+<div class="post-content">
+  <h2 class="post-title"><a href="{{ film.url }}">{{ film.title }}</a></h2>
+  <p>{{ film.headline }}</p>
+  <span class="post-date">*&nbsp;&nbsp;&nbsp;—&nbsp;</span>
+  <span class="post-words">Sinema</span>
+</div>
+</article>
+{% endfor %}
+
