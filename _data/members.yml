@@ -118,15 +118,14 @@
 
 - name: 'Deine Lakaiken'
   type: 'Müzik'
-  desc: "Ernst Horn ve Alexander Veljanov tarafından kululan Alman avant-garde darkwave grubu. 1985 yılından beri müzik yapıyorlar. Grup genel olarak çok başarılı buluyorum. En beğendiğim şarkıları Generators, Love Me to the End, Over and Done, Farewell"
+  desc: "Ernst Horn ve Alexander Veljanov tarafından kululan Alman avant-garde darkwave grubu. 1985 yılından beri müzik yapıyorlar. Kesinlikle ilgiye değer. En beğendiğim şarkıları Generators, Love Me to the End, Over and Done, Farewell"
   href: ""
   img: "deine-lakaiken.jpg"
   date: "*"
 
 - name: 'Schopenhauer'
   type: 'Felsefe'
-  desc: "Alman 19. yy filozofu. Buddism ile yakından ilgilendiğini görüyoruz. Budist düşüncedeki aydınlanmış hayata dair sert bakışı yeniden yorumluyor. Schopenhauer düşüncesine sıkça karamsar deniyor. Bu doğru değil bence. Çünkü karamsarlık bu bakış açısı ile aynı bağlamda değerlendirilmemeli. Peki nasıl mücadele edeceğiz yaşamın trajedisiyle? Bir <b>bilge</b> olmak bunlardan biri. Yaşam istencinin üzerinde ancak onlar olabilirdi. İkincisi daha kolay ulaşılabilir, daha gerçekçi teori ise sanat ve felsefe ile mümkün olduğunca içli dışlı olmak olabilirdi. Bazı zamanlarda bir adım geriye atıp hayata ilüzyon olmadan bakabilirdik böylece. Duygusal olanın karşısında olan sanat. Yunan Trajedileri, la rochefoucauld, Machiavelli. Bu sanat trajik, ağırbaşlıdır. 
-Hastalıklı acı karamsarlıklıklarında bizi derinden avutabilir. Arthur Schopenhauer'ın en bilinen kitabı ise The World As Will And Representation."
+  desc: "<p>Alman 19. yy filozofu. Buddism ile yakından ilgilendiğini görüyoruz. Budist düşüncedeki aydınlanmış hayata dair sert bakışı yeniden yorumluyor.</p> <p>Schopenhauer düşüncesine sıkça karamsar deniyor. Bu doğru değil bence. Çünkü karamsarlık bu bakış açısı ile aynı bağlamda değerlendirilmemeli.</p> <p>Peki nasıl mücadele edeceğiz yaşamın trajedisiyle? Bir <b>bilge</b> olmak bunlardan biri. Yaşam istencinin üzerinde ancak onlar olabilirdi.</p> <p> İkincisi daha kolay ulaşılabilir, daha gerçekçi teori ise sanat ve felsefe ile mümkün olduğunca içli dışlı olmak olabilirdi. Bazı zamanlarda bir adım geriye atıp hayata ilüzyon olmadan bakabilirdik böylece. Duygusal olanın karşısında olan sanat. Yunan Trajedileri, la rochefoucauld, Machiavelli. Bu sanat trajik, ağırbaşlıdır. Hastalıklı acı karamsarlıklıklarında bizi derinden avutabilir.</p> <p>Arthur Schopenhauer'ın en bilinen kitabı ise The World As Will And Representation.</p>"
   href: ""
   img: "schopenhauer.jpg"
   date: "*"
@@ -136,13 +135,13 @@ Hastalıklı acı karamsarlıklıklarında bizi derinden avutabilir. Arthur Scho
   type: 'Felsefe'
   desc: "Yalnız olmadığını görmek. Hayatlarımızın anlamı. Modern felsefenin güzelliklerinden biri de zamanımızın Hastalıklarını yazması. Özgürlüğe Giden Yollar için bize bir rehber olması."
   href: ""
-  img: "schopenhauer.jpg"
+  img: "nature.jpg"
   date: "*"
 
 
 - name: 'Nietzche Aforizmaları'
   type: 'Felsefe'
-  desc: "Sıkıcı değil. Nietzche felsefesi Hristiyanlığa fazla mı takıntılı? Nietzche o kadar estetik ki. Acaba bir çeşit hack gibi. Shortcut. 1. Varolma acı beni güçlendirir. 2. I'm Not A Man. I Am Dinamite. 3. Hayatın kendisi bir istismardır. 4. Dünyevi olanın güzelliği. 5. İradenin Tırıvırı dan Üstün Oluşu Nedensizliğe Övgü. 6 Yalnızca Dans Edebilen Bir Tanrı"
-  img: "schopenhauer.jpg"
+  desc: "<p>Sıkıcı değil. Nietzche felsefesi Hıristiyanlığa fazla mı takıntılı? Nietzche o kadar estetik ki. Acaba bir çeşit hack gibi. A Shortcut.</p> <ul><li>1. Varolma acı beni güçlendirir.</li><li> 2. I'm Not A Man. I Am Dinamite.</li><li> 3. Hayatın kendisi bir istismardır.</li><li> 4. Dünyevi olanın güzelliği. </li><li>5. İradenin Tırıvırı dan Üstün Oluşu Nedensizliğe Övgü. </li><li>6 Yalnızca Dans Edebilen Bir Tanrı</li></ul>"
+  img: "nature.jpg"
   date: "*"
 
