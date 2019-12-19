@@ -118,9 +118,9 @@
 
 - name: 'Deine Lakaiken'
   type: 'Müzik'
-  desc: "Bu tuhaf Gotik Alman grubunun müzikleri inanılmaz. Böyle yüksek bir yerden kartal imgesi geliyor gözümün önünde dağlardan."
+  desc: "Ernst Horn ve Alexander Veljanov tarafından kululan Alman avant-garde darkwave grubu. 1985 yılından beri müzik yapıyorlar. Grup genel olarak çok başarılı buluyorum. En beğendiğim şarkıları Generators, Love Me to the End, Over and Done, Farewell"
   href: ""
-  img: "anime.png"
+  img: "deine-lakaiken.jpg"
   date: "*"
 
 - name: 'Schopenhauer'
@@ -130,3 +130,19 @@ Hastalıklı acı karamsarlıklıklarında bizi derinden avutabilir. Arthur Scho
   href: ""
   img: "schopenhauer.jpg"
   date: "*"
+
+
+- name: 'Felsefenin Amacı'
+  type: 'Felsefe'
+  desc: "Yalnız olmadığını görmek. Hayatlarımızın anlamı. Modern felsefenin güzelliklerinden biri de zamanımızın Hastalıklarını yazması. Özgürlüğe Giden Yollar için bize bir rehber olması."
+  href: ""
+  img: "schopenhauer.jpg"
+  date: "*"
+
+
+- name: 'Nietzche Aforizmaları'
+  type: 'Felsefe'
+  desc: "Sıkıcı değil. Nietzche felsefesi Hristiyanlığa fazla mı takıntılı? Nietzche o kadar estetik ki. Acaba bir çeşit hack gibi. Shortcut. 1. Varolma acı beni güçlendirir. 2. I'm Not A Man. I Am Dinamite. 3. Hayatın kendisi bir istismardır. 4. Dünyevi olanın güzelliği. 5. İradenin Tırıvırı dan Üstün Oluşu Nedensizliğe Övgü. 6 Yalnızca Dans Edebilen Bir Tanrı"
+  img: "schopenhauer.jpg"
+  date: "*"
+
