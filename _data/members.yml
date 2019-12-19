@@ -16,25 +16,6 @@
   img: "oppenheimer.jpg"
   date: "*"
 
-- name: 'A Dark Song'
-  type: 'Sinema'
-  page: 'sinema'
-  youtube: 5-S3JqJZJ3s
-  desc: "Benim için sıradan bir korku filmi olmanın çok ötesinde. Sanatsal olarak başarılı, gerçek bir arınma hissi barındırıyor ve atssmosferi çok güçlü."
-  href: "dddddd "
-  img: "a_dark_song.jpg"
-  date: "*"
-
-- name: 'Suspiria'
-  type: 'Sinema'
-  page: 'sinema'
-  youtube: 5-S3JqJZJ3s
-  desc: "Orjinalinden farklı olarak bu versiyon modern dansa yoğunlaşmış. 77 yılındaki bölünmüş Berlindeki tarihi olaylara yer verilmiş. Konu ile ilgili Der Baader Meinhof Komplex filmi ilgiye değer. Cadılar arasındaki çekişme ve Tilda Swinton'un canlandırdığı Madame Blanc karakteri ilginç."
-  imdbhref: https://www.imdb.com/title/tt1034415/
-  href: "dddddd "
-  img: "suspiria.jpg"
-  date: "*"
-
 - name: 'Cicero'
   type: 'Felsefe'
   youtube: 5-S3JqJZJ3s
@@ -59,13 +40,6 @@
   img: "pokut-yaylasi.jpg"
   date: "2019-12-08"
   tags: [Doğa, Yaylalar]
-
-- name: 'Stoker'
-  type: 'Sinema'
-  desc: "Fİlmin yönetmeni Güney Koreli Park Chan-wook."
-  href: "dddddd "
-  img: "stoker.jpg"
-  date: "2019-12-08"
 
 - name: 'Hipster Ipsum'
   type: 'Teknoloji'
