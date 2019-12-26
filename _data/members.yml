@@ -133,18 +133,6 @@
 
 - name: ''
   type: 'Kitap'
-  desc: "1940'dan sonraki jenerasyon Straus, Brodel , foucould, derrida, deleuze, lacan. Bir şeylere çok önce uyanıyorlar. "
-  img: "nature.jpg"
-  date: "*"
-
-- name: ''
-  type: 'Kitap'
-  desc: "Durkheim"
-  img: "nature.jpg"
-  date: "*"
-
-- name: ''
-  type: 'Kitap'
-  desc: "Senede 10 kitap altı okumayın. Bir alanda çok iyi olun. "
+  desc: "1940'dan sonraki jenerasyon Straus, Brodel , foucould, derrida, deleuze, lacan. Bir şeylere çok önce uyanıyorlar... Durkheim, Umberto Eco.... Senede 10 kitap altı okumamak gerekir. Bir alanda çok iyi olmak gerekir."
   img: "nature.jpg"
   date: "*"
