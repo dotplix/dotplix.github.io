@@ -7,11 +7,13 @@ img: mac.jpg
 tags: [Modern]
 ---
 
-Varolmak bir tuhaflık. Bu tuhaflığın içerisinde fırlatıp atıldığımız bu zamanda, bu yere ve bu insanlar ile hayatlarımızı über verimli yaşama telaşesine girelim demiyorum ama onu anlamaya çalışmak bir başlangıç olabilir. En azından kandırılmamak kandırılmaktan iyicedir.
+Varolmak bir tuhaflık. Bu tuhaflığın içerisinde fırlatıp atıldığımız bu zamanda, bu yere ve bu insanlar ile hayatlarımızı über verimli yaşama telaşesine girelim demiyorum ama onu anlamaya çalışmak bir başlangıç olabilir.
 
-Doğaya bakmalı. Her şeyin özünü anlamaya çalışmalı.
+En azından kandırılmamak kandırılmaktan iyicedir.
 
-Biz modern çağda mı yaşıyoruz? Hayır postmodern çağda yaşıyoruz. Modernite bir kez gelip geçti ve esasen geri alınamaz. Bir anlamda hala tıpkı 100 yıl öncesinde modernliğin ilk geldiği günküne benzer yaşıyoruz. Elimizdeki internet ve kuantum bilgisayarlarlar bu gerçekliğe köylüden yaşamdan daha yakın. Değişim daha çok kafalarda oldu diyebiliriz. Bu bir kırılmaydı ve biz modernite modernite ile beraber o dönemin temiz kafa yapısını da kaybettik. Neyi kastediyorum? Çok uzağa gitmeye gerek yok Cumhuriyetin ilk neslinde bunu görmek mümkün. Doğaüstü tekrar dirilmeden önceki zamanın dezavantajları ile beraber avantajları da kayboldu.
+Ne diyoruz hep? Doğaya bakmalı. Her şeyin özünü anlamaya çalışmalı.
+
+Biz modern çağda mı yaşıyoruz? Hayır postmodern çağda yaşıyoruz. Modernite bir kez gelip geçti ve esasen geri alınamaz. Bir anlamda hala tıpkı 100 yıl öncesinde modernliğin ilk geldiği günküne görece benzer bir yaşantı söz konusu. Elimizdeki internet ve kuantum bilgisayarlarlar bu gerçekliğe köylüden yaşamdan daha yakın. Değişim daha çok kafalarda oldu diyebiliriz. Bu bir kırılmaydı ve biz modernite ile beraber o dönemin temiz kafa yapısını da kaybettik. Neyi kastediyorum? Çok uzağa gitmeye gerek yok Cumhuriyetin ilk neslinde bunu görmek mümkün. Doğaüstü tekrar dirilmeden önceki zamanın dezavantajları ile beraber avantajları da kayboldu.
 
 Modernliğin ilk günkü cilasının kaybolmasında ikinci dünya savaşının yeri büyüktür.
 
