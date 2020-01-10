@@ -2,11 +2,11 @@
 title: Üç Filmde Lanthimos
 class: 	Mammalia
 family: Equidae
-headline: Bu yazıda Yunan Yönetmen Lanthimos'un üç filmini inceleyeceğiz. Dogtooth, Kutsal Geyiğin Ölümü ve Sarayın Gözdesi.
+headline: Bu yazıda Yunan Yönetmen Lanthimos'un üç filmini inceleyeceğiz. Dogtooth, Kutsal Geyiğin Ölümü ve Sarayın Gözdesi. 
 picture: /assets/img/suspiria.jpg
 ---
 
-Bu yazıda Yunan Yönetmen Lanthimos'un üç filmini inceleyeceğiz. Dogtooth, Kutsal Geyiğin Ölümü ve Sarayın Gözdesi.
+Bu yazıda Yunan Yönetmen Lanthimos'un üç filmini inceleyeceğiz. Dogtooth, Kutsal Geyiğin Ölümü ve Sarayın Gözdesi. Neden Lanthimos diyecek olursanız. Birincisi bir hayli popüler. Filmleri aynı zamanda sanatsal filmler bunlar ve özellikle Kutsal Geyiğin Ölümü'nü beğendiğimi söylemeliyim.
 
 ## Dogtooth - Köpek Dişi
 
