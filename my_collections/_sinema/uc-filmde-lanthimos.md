@@ -6,7 +6,7 @@ headline: Bu yazıda Yunan Yönetmen Lanthimos'un üç filmini inceleyeceğiz. D
 picture: /assets/img/suspiria.jpg
 ---
 
-Bu yazıda Yunan Yönetmen Lanthimos'un üç filmini inceleyeceğiz. Dogtooth, Kutsal Geyiğin Ölümü ve Sarayın Gözdesi. Neden Lanthimos diyecek olursanız. Birincisi bir hayli popüler. Filmleri aynı zamanda sanatsal filmler bunlar ve özellikle Kutsal Geyiğin Ölümü'nü beğendiğimi söylemeliyim.
+Bu yazıda Yunan Yönetmen Lanthimos'un üç filmini inceleyeceğiz. Dogtooth, Kutsal Geyiğin Ölümü ve Sarayın Gözdesi. Neden Lanthimos diyecek olursanız. Birincisi bir hayli popüler. Filmleri aynı zamanda sanatsal filmler bunlar ve özellikle Kutsal Geyiğin Ölümü'nü pek bir beğendiğimi söylemeliyim.
 
 ## Dogtooth - Köpek Dişi
 
