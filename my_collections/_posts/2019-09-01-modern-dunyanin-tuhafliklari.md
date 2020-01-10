@@ -9,7 +9,7 @@ tags: [Modern]
 
 Çağımızda yaşamanın olumlu olduğu kadar olumsuz yönleri de var. Teknoloji
 
-Biz modern çağda mı yaşıyoruz? Hayır postmodern çağda yaşıyoruz. Modernite bir kez gelip geçti ve geri alınamaz. Bir anlamda hala 100 yıl öncesi gibi modernliğin ilk geldiği günkü gibi yaşıyoruz. Elimizdeki akıllı telefonlar bu gerçekliğe köylüden daha yakın. Biz modernite ile beraber 
+Biz modern çağda mı yaşıyoruz? Hayır postmodern çağda yaşıyoruz. Modernite bir kez gelip geçti ve geri alınamaz. Bir anlamda hala 100 yıl öncesi gibi modernliğin ilk geldiği günkü gibi yaşıyoruz. Elimizdeki akıllı telefonlar bu gerçekliğe köylüden yaşamdan daha yakın. Biz modernite ile beraber 
 
 * Tüketim Çılgınlığı
 * İyicilik : Sahte mükemmelliyetçilik. Mükemmelle uzaktan yakından bir alakası yoktur. İyilikten ziyade iyiliğe yakın olmayı ona benzemeyi umursarlar.
