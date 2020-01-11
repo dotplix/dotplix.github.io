@@ -41,9 +41,9 @@ collections:
   sinema:
     output: true
     permalink: /sinema/:name
-  kitap:
+  kitaplar:
     output: true
-    permalink: /kitap/:name
+    permalink: /kitaplar/:name
   felsefe:
     output: true
     permalink: /felsefe/:name
