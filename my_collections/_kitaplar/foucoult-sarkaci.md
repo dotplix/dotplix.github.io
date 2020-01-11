@@ -3,9 +3,8 @@ title: Faucoult Sarkacı
 Yazar: Umberto Eco
 class: 	Mammalia
 family: Equidae
-headline: Faucoult Sarkacı İtalyan yazar ve Felsefeci Umberto Eco'nun romanı.
+headline: Faucoult Sarkacı İtalyan yazar ve Felsefeci Umberto Eco nun romanı.
 picture: /assets/img/stoker.jpg
-
 ---
 
 
