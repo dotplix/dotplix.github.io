@@ -1,33 +1,15 @@
 ---
 layout: main
-title: Kitaplar
-permalink: /kitaplar/
 ---
-      <article class="article-page">
-        <div class="page-content">
-          <div class="wrap-content">
-            <header class="header-page">
-              <h1 class="page-title">Kitaplar</h1>
-              <div class="page-date"><span>Yapım aşamasında.&nbsp;&nbsp;&nbsp;&nbsp;</span></div>
-            </header>
-            <h3>Okumak İstediklerim</h3>
-            <ul><li>Jung, Carl: Aion</li></ul>
-            <ul><li>Shirer, William L: The Rise and Fall of the Third Reich</li></ul>
 
-            <h3>Kitap Listeleri</h3>
-            <ul><li><a href="https://www.jordanbpeterson.com/great-books/">Jordan Peterson - Great Books</a></li></ul>
-
-            <div class="page-footer">
-              <div class="page-share">
-                <a href="#" title="Share on Twitter" rel="nofollow" target="_blank">Twitter</a>
-                <a href="#" title="Share on Facebook" rel="nofollow" target="_blank">Facebook</a>
-                <a href="#" title="Share on Google+" rel="nofollow" target="_blank">Google+</a>
-              </div>
-              <div class="page-tag">
-                  <a href="#" class="tag">&#35; tag</a>
-         
-              </div>
-            </div>
-          </div> <!-- End Wrap Content -->
-        </div> <!-- End Page Content -->
-      </article> <!-- End Article Page -->
+{% for kitap in site.kitaplar %} 
+<article class="post">
+  <a class="post-thumbnail" style="background-image: url({{ kitap.picture }})" href="{{ kitap.url }}"></a>
+<div class="post-content">
+  <h2 class="post-title"><a href="{{ kitap.url }}">{{ kitap.title }}</a></h2>
+  <p>{{ kitap.headline }}</p>
+  <span class="post-date">*&nbsp;&nbsp;&nbsp;—&nbsp;</span>
+  <span class="post-words">Kitap</span>
+</div>
+</article>
+{% endfor %}
