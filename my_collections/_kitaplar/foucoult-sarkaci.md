@@ -7,7 +7,6 @@ headline: Faucoult Sarkacı İtalyan yazar ve Felsefeci Umberto Eco nun romanı.
 picture: /assets/img/stoker.jpg
 ---
 
-
 https://www.wikizeroo.org/index.php?q=aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvRm91Y2F1bHQnc19QZW5kdWx1bQ
 
 

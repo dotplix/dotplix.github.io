@@ -74,10 +74,17 @@ collections:
 
 
 defaults:
-  - scope:
+  - 
+    scope:
       path: ""
       type: "sinema"
     values:
       layout: sinema
+  - 
+    scope:
+      path: ""
+      type: "kitaplar"
+    values:
+        layout: kitaplar
 
 collections_dir: my_collections
