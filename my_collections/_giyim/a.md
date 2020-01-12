@@ -8,6 +8,7 @@
 
 # Öncelikler
 
-* Etnik kıyafetler
+* Etnik kıyafetler iyi şalvarlar komik. 
 * Neden yapıldığına dikkat etmek gerekiyor. Üse doğru oturmalı.
 * Ciddiyetliden daha rahata.
+* monochromatic look
