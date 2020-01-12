@@ -1,3 +1,5 @@
+Kişisel giyimimde daha özel bir yere gitmek. Tabi ki çalıştığım için giyimim içerisinde bir resmi taraf olmalı. Bir de günlük rahat taraf. 
+
 * https://urun.n11.com/tassiz-kolye/chavin-4-mm-60-cm-siyah-lav-tasi-erkek-kolye-dp65-P197956459
 * https://www.instagram.com/p/B1TKW6mgcOw/
 * https://www.clandestino.com.tr/gomlek
@@ -11,4 +13,4 @@
 * Etnik kıyafetler iyi şalvarlar komik. 
 * Neden yapıldığına dikkat etmek gerekiyor. Üse doğru oturmalı.
 * Ciddiyetliden daha rahata.
-* monochromatic look
+* Monochromatic Look
