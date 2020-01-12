@@ -1,4 +1,4 @@
-Kişisel giyimimde daha özel bir yere gitmek. Tabi ki çalıştığım için giyimim içerisinde bir resmi taraf olmalı. Bir de günlük rahat taraf. 
+Kişisel giyimimde daha özel bir yere gitmek. Giyim içerisinde bir resmi taraf olmalı. Bir de günlük rahat taraf. 
 
 * https://urun.n11.com/tassiz-kolye/chavin-4-mm-60-cm-siyah-lav-tasi-erkek-kolye-dp65-P197956459
 * https://www.instagram.com/p/B1TKW6mgcOw/
