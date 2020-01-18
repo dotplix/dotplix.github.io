@@ -7,7 +7,16 @@ img: mac.jpg
 tags: [Modern]
 ---
 
-Varolmak bir tuhaflık. Bu tuhaflığın içerisinde fırlatıp atıldığımız bu zamanda, bu yere ve bu insanlar ile hayatlarımızı über verimli yaşama telaşesine girelim demiyorum ama onu anlamaya çalışmak bir başlangıç olabilir.
+21. yüzyıl insanları olarak kendimizden daha önce gelenlerden daha farklı zorluklar ile boğuşuyoruz.
+Teknolojinin bütün nimetleri ile verimliliği esas alan tekniğin hüküm sürdüğü bir dünyada yaşamak güzel.
+Fakat yaşadığımız dünyada insan olmanın tarif edilmesi zor bir maliyeti var.
+
+## Tüketim Toplumunda İnsan Kalmak
+## Kitlelerin Vasatlığı
+## Mistik Düşünceye Bakış
+
+
+Varolmak bir tuhaflık. Bu tuhaflığın içerisinde fırlatıp atıldığımız bu zamanda, bu yere atılmış gibiyiz. Bu insanlar ile hayatlarımızı en verimli haliyle yaşama telaşesine girelim demiyorum ama onu anlamaya çalışmak bir başlangıç olabilir.
 
 En azından kandırılmamak kandırılmaktan iyicedir.
 
