@@ -17,7 +17,10 @@ Türkiye asla kötü bir ülke değil. Fakat sorunları var. Türk toplumunun e�
 
 > Know Your Enemies
 
-Peki bunlara nasıl yaklaşmalı? Bireysel olarak aksiyonlarımızda ve söylemimizde ne gibi farklılıklara gitmeliyiz ki bir sonuç elde edebilelim. Sun Tzu'nun Savaş Sanatı kitabında geçtiği gibi belki de düşmanımızı tanımamız gerekiyor. En azından oyun tahtasını tanımlamakla da başlanabilir.
+Peki bunlara nasıl yaklaşmalı? Bireysel olarak aksiyonlarımızda ve söylemimizde ne gibi farklılıklara gitmeliyiz ki bir sonuç elde edebilelim? Düşmanımızı tanımamız gerekiyor. En azından oyun tahtasını bilmeliyiz ki. En azından olummsuzluğu tespit edip elimine edelim.
+
+* Her şeyin sahtesi : her şeyin sahtesinin olduğu bir dünyada yaşıyoruz. Sahte, yüzeysellik. Çünkü reklam kültürü böyledir. Derine inmek ciddi maliyet gerektirir. Bu da insan ömrüdür. Zeki insan enerjisi ve zamanının birleşimi. Bir yerde en değerli kaynak. Bu kısıtlı olduğundan satın almaya iten ilginç bir sahte kültür ürer. Mesela teknolojide bu durum çok belirgin. Gerçek teknoloji içeriği bulmak çok zordur. Çoğu reklamdır.
+
 
 > Denge çok önemli...
 
