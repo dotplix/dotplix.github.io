@@ -1,5 +1,6 @@
 ---
 title: Test
 layout: test
-excerpt: "Test Making"
+excerpt: "Test"
+aside: true
 ---
