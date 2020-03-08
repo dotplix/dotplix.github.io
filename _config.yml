@@ -120,6 +120,8 @@ navigation_header:
   url: /search/
 - title: Hakkında
   url: /search/
+- title: Test
+  url: /test/
 
 navigation_footer:
 - title: Dotplix 
