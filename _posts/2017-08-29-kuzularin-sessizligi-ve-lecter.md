@@ -32,7 +32,7 @@ Sıklıkla kurbanlarının etinden gurme yemekler hazırlıyor. Hannibal'�
 
 
 
-<p><img src="c612ff472f6175dda0f0ae52a94becb2.jpg" alt=""></p>
+<p><img src="/assets/images/clarice_starling.jpg" alt=""></p>
 
 
 Kuzuların sessizliğinde Dr. Lecter Starling'in gözünden ufak, zarif, elleri ve kolları tıpkı kendisinin olduğu gibi güçlü ve sırım gibi dayanıklı olarak tarif ediliyor.
