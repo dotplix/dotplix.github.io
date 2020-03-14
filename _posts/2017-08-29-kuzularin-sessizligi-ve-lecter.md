@@ -7,8 +7,8 @@ excerpt: |
 feature_text: |
   ## The Pot Still
   The modern pot still is a descendant of the alembic, an earlier distillation device
-feature_image: "https://github.com/dotplix/dotplix.github.io/blob/master/assets/images/silence_of_the_lambs.jfif"
-image: "https://github.com/dotplix/dotplix.github.io/blob/master/assets/images/silence_of_the_lambs.jfif"
+feature_image: "/assets/images/silence_of_the_lambs.jfif"
+image: "/images/silence_of_the_lambs.jfif"
 ---
 
 2003 yılında Antony Hopkins tarafından canlandıran Hannibal Lecter karakteri Amerikan Film Enstitüsü tarafından tüm zamanların 1 numaralı kötü adamı olarak seçildi. Karakterin tanınmasında Hopkins'in The Silence of the Lambs (Kuzuların Sessizliği) ve Hannibal gösterdiği ustaca performansın yeri büyük. Psikolojik korku ve gerilimin sınırlarını zorlayan bu karanlık karakter ucuz bir çizgiroman kötüsü olmaktan çok daha fazlası. Onu böylesine tartışmalı kültürel bir fenomen haline getiren bir etkiye cevap veriyor. Peki Lecter'ı bu kadar orijinal yapan ne?
@@ -21,7 +21,7 @@ Eski filmlerde kötüler tek boyutluydu. Daha sonra çok boyutlu kötüler görm
 Ünlü filozof Slavoj Zizek Joker'in yansıtılma şeklini şöyle eleştiriyor:
 
 
-<p><img src="/assets/images/test4.jpg" alt="alt"></p>
+<p><img src="/assets/images/lecter.png" alt="alt"></p>
 
 
 Dr. Hannibal Lecter yazar Tommas Harris'in zihninde doğdu. Adını tüm zamanların en büyük askeri dehalarından biri kabul edilen Kartacalı politikacı ve general Hannibal Barca'dan alıyor. Amerikalı yazar serinin 2. romanı Kuzuların Sessizliği'ni 1988 yılında yayınladı. Seri sinema uyarlamasının ulaştığı başarı sayesinde tüm dünyada tanındı.
@@ -31,7 +31,9 @@ Hopkins'in canlandırdığı Hannibal ekranda göründüğü her sahnede 
 Sıklıkla kurbanlarının etinden gurme yemekler hazırlıyor. Hannibal'ın bu özelliği katil oluşu tekrar tekrar hatırlatılıyor. Bir sahnede sayım memurunun ciğerini "biraz bakla ve güzel bir Chianti'yle" afiyetle yediğini söylüyor. İnsanların kabalıklarından derin bir gücenme duyuyor. Sıklıkla tavırlarını nezaketsiz gördüğü insanları öldürüyor. Yakalanmasından ve Baltimore'da hapsedilmesinden önce Maryland'ın sosyal elitlerinden, Baltimore Filarmoni orkestrasının yönetiyor.
 
 
-<p><img src="/assets/images/test4.jpg" alt="alt"></p>
+
+<p><img src="c612ff472f6175dda0f0ae52a94becb2.jpg" alt=""></p>
+
 
 Kuzuların sessizliğinde Dr. Lecter Starling'in gözünden ufak, zarif, elleri ve kolları tıpkı kendisinin olduğu gibi güçlü ve sırım gibi dayanıklı olarak tarif ediliyor.
 
@@ -53,7 +55,5 @@ Oyuncu Antony Hopkins de tıpkı Hannibal gibi klasik sanat'a derin hayranlık b
 
 Çalınan eser "O Fortuna"  Carmina Burana - Carl Orff yeri gelmişken biraz da eserden bahsedelim.
 
-
-<p><img src="./Şeytan Tüyü_files/z.jpg" alt=""></p>
 
 <h3>Gerçek Dünya Örnekleri</h3>
