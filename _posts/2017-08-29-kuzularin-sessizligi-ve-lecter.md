@@ -21,7 +21,7 @@ Eski filmlerde kötüler tek boyutluydu. Daha sonra çok boyutlu kötüler görm
 Ünlü filozof Slavoj Zizek Joker'in yansıtılma şeklini şöyle eleştiriyor:
 
 
-<p><img src="https://github.com/dotplix/dotplix.github.io/blob/master/assets/images/silence_of_the_lambs.jfif" alt="alt"></p>
+<p><img src="/assets/images/test4.jpg" alt="alt"></p>
 
 
 Dr. Hannibal Lecter yazar Tommas Harris'in zihninde doğdu. Adını tüm zamanların en büyük askeri dehalarından biri kabul edilen Kartacalı politikacı ve general Hannibal Barca'dan alıyor. Amerikalı yazar serinin 2. romanı Kuzuların Sessizliği'ni 1988 yılında yayınladı. Seri sinema uyarlamasının ulaştığı başarı sayesinde tüm dünyada tanındı.
@@ -31,7 +31,7 @@ Hopkins'in canlandırdığı Hannibal ekranda göründüğü her sahnede 
 Sıklıkla kurbanlarının etinden gurme yemekler hazırlıyor. Hannibal'ın bu özelliği katil oluşu tekrar tekrar hatırlatılıyor. Bir sahnede sayım memurunun ciğerini "biraz bakla ve güzel bir Chianti'yle" afiyetle yediğini söylüyor. İnsanların kabalıklarından derin bir gücenme duyuyor. Sıklıkla tavırlarını nezaketsiz gördüğü insanları öldürüyor. Yakalanmasından ve Baltimore'da hapsedilmesinden önce Maryland'ın sosyal elitlerinden, Baltimore Filarmoni orkestrasının yönetiyor.
 
 
-<p><img src="./Şeytan Tüyü_files/latest(1)" alt="alt"></p>
+<p><img src="/assets/images/test4.jpg" alt="alt"></p>
 
 Kuzuların sessizliğinde Dr. Lecter Starling'in gözünden ufak, zarif, elleri ve kolları tıpkı kendisinin olduğu gibi güçlü ve sırım gibi dayanıklı olarak tarif ediliyor.
 
