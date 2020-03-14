@@ -7,10 +7,16 @@ layout: default
 <main class="main  container">
 
   <article class="article  article--post  content  typeset">
-
+    
     <h1>{{ page.title }}</h1>
-    <div class=""{% if feature_image %} style="background-image: url({{ feature_image }})"{% endif %}></div>
     {% include post-meta.html %}
+    
+    {% if feature_image %}
+    <img src="{{ feature_image }}" alt="">
+    </div>
+    
+    {% endif %}
+
     {{ content }}
 
     {% include nav-share.html %}
