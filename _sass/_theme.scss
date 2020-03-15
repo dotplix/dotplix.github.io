@@ -138,7 +138,9 @@ body {
 .content {
   @include breakpoint(break-1) {
     width: 62%;
+    
   }
+  word-break: break-word;
 }
 
 .share .button {
