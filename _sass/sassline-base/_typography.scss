@@ -38,6 +38,7 @@ a {
   p a, li a {
     // background-image: linear-gradient(to bottom,rgba(0, 0, 0, 0) 50%,$linkColour 50%);
     background-position: 0 93%;
+    word-break: break-word;
     background-repeat: repeat-x;
     background-size: 100% 0.15rem;
     text-shadow: 0.1rem 0 $backgroundColour,
@@ -196,6 +197,7 @@ a {
     @include baseline(zeta, $bodytype, 2, 2, all);
 
     dt, dd {
+      word-break: break-word;
       font-feature-settings: 'kern', 'onum', 'liga';
       margin-left: 2rem;
 
