@@ -4,17 +4,29 @@ layout: default
 
 {% include site-header.html %}
 
-<main class="main  container">
+<main class="main  container" style="margin-top: 3rem;">
 
-  <article class="article  article--page  content  typeset">
+  <div class="content">
 
-    <h1>{{ page.title }}</h1>
+    <article class="article  article--page  typeset">
 
-    {{ content }}
+      <div style="float: left; width: 50%">
+        {% include post-list2.html %}
+      </div>
 
-  </article>
 
-  {% if page.aside == true %}{% include site-aside.html %}{% endif %}
+      <div style="float: right; width: 50%; padding-left: 40px;">
+        Dotplix bir seyir defteri, bir blog. Gezegendeki olası hayatlardan birinin bir tarifnamesi.
+        Karanlık sanatlara karşı savunma dersi. Başdöndürücü bir hızla dönen dünyada farkındalığa doğru bir çağrı. 
+
+    </div>
+    </article>
+
+
+
+  </div>
+
+  {% if page.aside == true %}{% include site-aside2.html align="left" %}{% endif %}
 
 </main>
 
