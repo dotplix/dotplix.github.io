@@ -37,7 +37,6 @@ a {
   // Nice underlines for text links.
   p a, li a {
     overflow-wrap: break-word;
-    font-size: 16px;
     // background-image: linear-gradient(to bottom,rgba(0, 0, 0, 0) 50%,$linkColour 50%);
     background-position: 0 93%;
     background-repeat: repeat-x;
@@ -57,7 +56,7 @@ a {
     
     @include baseline($fontsize: zeta, $font: $bodytype, $lineheight: 2, $below: 2, $breakpoint: all);
     overflow-wrap: break-word;
-    font-size: 16px;
+
     font-feature-settings: 'kern', 'onum', 'liga';
   }
 
