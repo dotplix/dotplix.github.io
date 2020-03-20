@@ -27,7 +27,7 @@ Dr Hannibal Lecter yazar Tommas Harris'in zihninde doğdu.Adını tüm 
 
 Hopkins'in canlandırdığı Hannibal ekranda göründüğü her sahnede entellektüel açıdan parlak, kültürlü, sofistike, sanata ve müziğe meraklı mutfakta rafine zevklere sahip olarak biri olarak portre ediliyor. Bir şekilde iyi eğitim almış olduğu anlaşılıyor. İtalyanca, Almanca, Rusça gibi birçok dili konuşuyor. Müthiş bir dikkate sahip.
 
-Sıklıkla kurbanlarının etinden gurme yemekler hazırlıyor. Hannibal'ın bu özelliği katil oluşu tekrar tekrar hatırlatılıyor. Bir sahnede sayım memurunun ciğerini "biraz bakla ve güzel bir Chianti'yle" afiyetle yediğini söylüyor. İnsanların kabalıklarından derin bir gücenme duyuyor.Sıklıkla tavırlarını nezaketsiz gördüğü insanları öldürüyor.Yakalanmasından ve Baltimore'da hapsedilmesinden önce Maryland'ın sosyal elitlerinden Baltimore Filarmoni orkestrasının yönetiyor.
+Sıklıkla kurbanlarının etinden gurme yemekler hazırlıyor. Hannibal'ın bu özelliği katil oluşu tekrar tekrar hatırlatılıyor. Bir sahnede sayım memurunun ciğerini "biraz bakla ve güzel bir Chianti'yle" afiyetle yediğini söylüyor. İnsanların kabalıklarından derin bir gücenme duyuyor.Sıklıkla tavırlarını nezaketsiz gördüğü insanları öldürüyor. Yakalanmasından ve Baltimore'da hapsedilmesinden önce Maryland'ın sosyal elitlerinden Baltimore Filarmoni orkestrasının yönetiyor.
 
 
 
