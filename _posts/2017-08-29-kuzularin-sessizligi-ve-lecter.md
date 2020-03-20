@@ -42,7 +42,7 @@ Hannibal'ın fiziksel özellikleri çok ilgi çekici görünmüyor. Gözleri kes
 
 Hannibal yaptıklarının gerilimi, ondan istenen şey, yukarıdaki tarif ettiğimiz özellikler. Konuşmaya başlaması. Konuşmaya başladığında keskin bir koku alma duygusuna sahip olduğunu ve bunu stil için kullandığını görüyoruz. Cam paravan ardından Starling'in bir gün önce sürdüğü parfümün kokusunu alıyor.
 
-Eidetic bir hafızası vardır ve <em>loci yöntemini</em> kullanır. Hislerini ve hatıralarını zengin detaylarıyla zihninde inşa ettiği "hafıza sarayı"nda saklar.
+Eidetic bir hafızası var. <em>Loci yöntemini</em> kullanıyor. Hislerini ve hatıralarını zengin detaylarıyla zihninde inşa ettiği "hafıza sarayı"nda saklıyor.
 
 Romanda filmde belirtilmeyen bir detay var. Lecter "mid ray duplication polydactyly" denilen hastalık sebebiyle çift orta parmağa sahip. Hannibal romanında çeşitli nedenlerle kendi yüzüne estetik ameliyat yapıyor ve fazla parmağını da alıyor.
 
