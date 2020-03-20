@@ -26,17 +26,19 @@ Dr Hannibal Lecter yazar Tommas Harris'in zihninde doğdu. Adını tüm�
 Amerikalı yazar serinin 2. romanı Kuzuların Sessizliği'ni 1988 yılında yayınladı. Seri sinema uyarlamasının ulaştığı başarı sayesinde tüm dünyada tanındı.
 
 
-Hopkins'in canlandırdığı Hannibal ekranda göründüğü her sahnede entellektüel açıdan parlak, kültürlü, sofistike, sanata ve müziğe meraklı mutfakta rafine zevklere sahip olarak biri olarak portre ediliyor. Bir şekilde iyi eğitim almış olduğu anlaşılıyor. İtalyanca, Almanca, Rusça gibi birçok dili konuşuyor. Müthiş bir dikkate sahip. Sıklıkla kurbanlarının etinden gurme yemekler hazırlıyor. Hannibal'ın bu özelliği katil oluşu tekrar tekrar hatırlatılıyor. Bir sahnede sayım memurunun ciğerini "biraz bakla ve güzel bir Chianti'yle" afiyetle yediğini söylüyor. İnsanların kabalıklarından derin bir gücenme duyuyor. Sıklıkla tavırlarını nezaketsiz gördüğü insanları öldürüyor. Yakalanmasından ve Baltimore'da hapsedilmesinden önce Maryland'ın sosyal elitlerinden.Baltimore Filarmoni orkestrasının yönetiyor.
-
+Hopkins'in canlandırdığı Hannibal karakterinin özelliklerine baktığımız zaman,
+* Göründüğü her sahnede entellektüel açıdan parlak, kültürlü, sofistike, sanata ve müziğe meraklı mutfakta rafine zevklere sahip olarak biri olarak portre ediliyor.
+* Bir şekilde iyi eğitim almış olduğu anlaşılıyor. İtalyanca, Almanca, Rusça gibi birçok dili konuşuyor.
+* Müthiş bir dikkate sahip. Sıklıkla kurbanlarının etinden gurme yemekler hazırlıyor. Hannibal'ın bu özelliği katil oluşu tekrar tekrar hatırlatılıyor. 
+* Bir sahnede sayım memurunun ciğerini "biraz bakla ve güzel bir Chianti'yle" afiyetle yediğini söylüyor.
+* İnsanların kabalıklarından derin bir gücenme duyuyor. Sıklıkla tavırlarını nezaketsiz gördüğü insanları öldürüyor. 
+* Yakalanmasından ve Baltimore'da hapsedilmesinden önce Maryland'ın sosyal elitlerinden.Baltimore Filarmoni orkestrasının yönetiyor.
+* Kuzuların sessizliğinde Dr. Lecter Starling'in gözünden ufak, zarif, elleri ve kolları tıpkı kendisinin olduğu gibi güçlü ve sırım gibi dayanıklı olarak tarif ediliyor.
+* Hannibal'ın fiziksel özellikleri çok ilgi çekici görünmüyor. Gözleri kestane rengi olduğundan ve ışığı kırmızı noktalar şeklinde yansıttığından, ufak beyaz dişlere sahip olduğundan, koyu renk geriye yatırılmış saçları üçgen şeklinde altına indiğinden bahsediliyor. 
+* Korkutucu ve garip... Bir şekilde gizemli.
 
 
 <img src="https://dotplix.github.io/assets/img/clarice_starling.jpg" alt="">
-
-
-Kuzuların sessizliğinde Dr. Lecter Starling'in gözünden ufak, zarif, elleri ve kolları tıpkı kendisinin olduğu gibi güçlü ve sırım gibi dayanıklı olarak tarif ediliyor.
-
-
-Hannibal'ın fiziksel özellikleri çok ilgi çekici görünmüyor. Gözleri kestane rengi olduğundan ve ışığı kırmızı noktalar şeklinde yansıttığından, ufak beyaz dişlere sahip olduğundan, koyu renk geriye yatırılmış saçları üçgen şeklinde altına indiğinden bahsediliyor. Korkutucu ve garip... Bir şekilde gizemli.
 
 
 <ul><li>Felsefik Arkaplan</li><li>Ağır Stil : Stil sahibi olmayan herşeye duyulan derin "yoketme hissi" ile beraber geliyor. Bu yoketme hissi nefret değil aslında. Yapılması gereken bir iş gibi. Bir tür jest.</li> <li>Durum bir şekilde ona karizma kazandırıyor. Filmin de avantajı olan katile katile sorma durumu. Ona muhtaç kalınması. Hayatın karanlık bir cilvesi. Çift taraflı ajanın karizması tıpkı Harry Potter'daki Snape gibi.</li></ul>
