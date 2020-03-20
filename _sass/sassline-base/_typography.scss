@@ -36,6 +36,7 @@ a {
 
   // Nice underlines for text links.
   p a, li a {
+    word-break: break-word;
     // background-image: linear-gradient(to bottom,rgba(0, 0, 0, 0) 50%,$linkColour 50%);
     background-position: 0 93%;
     background-repeat: repeat-x;
@@ -52,8 +53,9 @@ a {
 
   // Paragraphs. OpenType ligatures and oldstyle figures enabled if available.
   p {
+    
     @include baseline($fontsize: zeta, $font: $bodytype, $lineheight: 2, $below: 2, $breakpoint: all);
-
+    word-break: break-word;
     font-feature-settings: 'kern', 'onum', 'liga';
   }
 
