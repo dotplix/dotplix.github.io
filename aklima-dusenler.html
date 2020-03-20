@@ -4,16 +4,28 @@ title: Aklima Dusenler
 permalink: /aklima-dusenler/
 ---
 
+
+<h1>Kısa Kısa</h1>
+<ul class="tags">
+
+  <li><a href="{{site.baseurl}}/kitaplar" class="tag">Edebiyat</a></li>
+  <li><a href="{{site.baseurl}}/sinema" class="tag">Sinema</a></li>
+  <li><a href="{{site.baseurl}}/aklima-dusenler" clas="tag">Ideas</a></li>
+  <li><a href="{{site.baseurl}}/aklima-dusenler" clas="tag">Teknoloji</a></li>
+  <li><a href="{{site.baseurl}}/aklima-dusenler" clas="tag">Popüler Kültür</a></li>
+
+</ul>
+
+
 <article class="article-page">
   <div class="page-content">
     <div class="wrap-content">
-      <header class="header-page">
-        <h1 class="page-title">Aklıma Düşenler</h1>
-        <div class="page-date"><span>11.10.2019</span></div>
-      </header>
+   
       {% for member in site.data.aklima-dusenler %}
-      <h3>{{ member.name }}</h3>
-      <p>{{ member.desc }}</p>
+      <div>
+      <div><h3>#{{ member.id }} - {{ member.name }}</h3><div></div></div>
+      <div><p>{{ member.desc }}</p></div>
+    </div>
       {% endfor %}
       <div class="page-footer">
         <div class="page-share">
