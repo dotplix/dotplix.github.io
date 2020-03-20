@@ -23,7 +23,8 @@ image: "/images/silence_of_the_lambs.jfif"
 <p><img src="/assets/images/lecter.png" alt="alt"></p>
 
 <p>
-Dr Hannibal Lecter yazar Tommas Harris'in zihninde doğdu.Adını tüm zamanların en büyük askeri dehalarından biri kabul edilen Kartacalı politikacı ve general Hannibal Barca'dan alıyor. Amerikalı yazar serinin 2 romanı Kuzuların Sessizliği'ni 1988 yılında yayınladı. Seri sinema uyarlamasının ulaştığı başarı sayesinde tüm dünyada tanındı.
+Dr Hannibal Lecter yazar Tommas Harris'in zihninde doğdu. Adını tüm zamanların en büyük askeri dehalarından biri kabul edilen Kartacalı politikacı ve general Hannibal Barca'dan alıyor. 
+Amerikalı yazar serinin 2. romanı Kuzuların Sessizliği'ni 1988 yılında yayınladı. Seri sinema uyarlamasının ulaştığı başarı sayesinde tüm dünyada tanındı.
 </p>
 <p>
 Hopkins'in canlandırdığı Hannibal ekranda göründüğü her sahnede entellektüel açıdan parlak, kültürlü, sofistike, sanata ve müziğe meraklı mutfakta rafine zevklere sahip olarak biri olarak portre ediliyor. 
