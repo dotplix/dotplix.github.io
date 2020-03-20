@@ -11,12 +11,13 @@ tags: [Psikoloji, Film] # add tag
 
 2003 yılında Antony Hopkins tarafından canlandıran Hannibal Lecter karakteri Amerikan Film Enstitüsü tarafından tüm zamanların 1 numaralı kötü adamı olarak seçildi. Karakterin tanınmasında Hopkins'in The Silence of the Lambs (Kuzuların Sessizliği) ve Hannibal gösterdiği ustaca performansın yeri büyük. Psikolojik korku ve gerilimin sınırlarını zorlayan bu karanlık karakter ucuz bir çizgiroman kötüsü olmaktan çok daha fazlası. Onu böylesine tartışmalı kültürel bir fenomen haline getiren bir etkiye cevap veriyor. Peki Lecter'ı bu kadar orijinal yapan ne?
 
-Korku filmlerinde kötü karakterler arasında belki de en ilgi çekicisi Hannibal Lecter. Hikaye içindeki sunuluş şekli ve zekası ile hemen sıyrılıyor. Lecter aslında herkesin favori kötü adamı Joker’den bile daha incelikli bir yerde.
-
 Eski filmlerde kötüler tek boyutluydu. Daha sonra çok boyutlu kötüler görmeye başladık.
 
-Ünlü filozof Slavoj Zizek Joker'in yansıtılma şeklini şöyle eleştiriyor:
+Korku filmlerinde kötü karakterler arasında belki de en ilgi çekicisi Hannibal Lecter. Hikaye içindeki sunuluş şekli ve zekası ile hemen sıyrılıyor. Lecter aslında herkesin favori kötü adamı Joker’den bile daha incelikli bir yerde.
 
+Son Joker filmini yorumlaması istendiğinde Slavoj Zizek filmin Joker'e psikososyal bir hikaye verme çabasını manalı bulmadığını söylüyor.
+
+>Bütün bu yanlış şartlar toplumun onu dışlaması vs... Aslında bu tarz anti kahramanlarda bu yanlış bir yaklaşım. Onlar aslında birer mucize. Elbette bazı şartların sonuçları olsalar da oluşan etki tamamen farklı. Aynı şartlar altındaki pek çok insan Joker olmuyor. Benzer şekilde acı çekseler bile bu onları Joker yapmıyor. Burada Burada Hannibel Lecter'dan bir satır aklıma geliyor. Lecter'ı sorguladıklarında. Bilirsiniz nasıl hapse düştüğünü nasıl Lecter olduğunu. Psikologlar başına ne gelmesi hangi drama'nın bir Lecter gerektiğini sorguluyorlar. Onun çok güzel bir cevabı var. Bana hiçbir şey olmadı ben dünyaya oldum.
 
 <img src="https://dotplix.github.io/assets/img/lecter.png"  width="600" alt="alt">
 
@@ -25,13 +26,7 @@ Dr Hannibal Lecter yazar Tommas Harris'in zihninde doğdu. Adını tüm�
 Amerikalı yazar serinin 2. romanı Kuzuların Sessizliği'ni 1988 yılında yayınladı. Seri sinema uyarlamasının ulaştığı başarı sayesinde tüm dünyada tanındı.
 
 
-Hopkins'in canlandırdığı Hannibal ekranda göründüğü her sahnede entellektüel açıdan parlak, kültürlü, sofistike, sanata ve müziğe meraklı mutfakta rafine zevklere sahip olarak biri olarak portre ediliyor. 
-
-
-Bir şekilde iyi eğitim almış olduğu anlaşılıyor. İtalyanca, Almanca, Rusça gibi birçok dili konuşuyor. Müthiş bir dikkate sahip.
-
-
-Sıklıkla kurbanlarının etinden gurme yemekler hazırlıyor. Hannibal'ın bu özelliği katil oluşu tekrar tekrar hatırlatılıyor. Bir sahnede sayım memurunun ciğerini "biraz bakla ve güzel bir Chianti'yle" afiyetle yediğini söylüyor. İnsanların kabalıklarından derin bir gücenme duyuyor.Sıklıkla tavırlarını nezaketsiz gördüğü insanları öldürüyor. Yakalanmasından ve Baltimore'da hapsedilmesinden önce Maryland'ın sosyal elitlerinden Baltimore Filarmoni orkestrasının yönetiyor.
+Hopkins'in canlandırdığı Hannibal ekranda göründüğü her sahnede entellektüel açıdan parlak, kültürlü, sofistike, sanata ve müziğe meraklı mutfakta rafine zevklere sahip olarak biri olarak portre ediliyor. Bir şekilde iyi eğitim almış olduğu anlaşılıyor. İtalyanca, Almanca, Rusça gibi birçok dili konuşuyor. Müthiş bir dikkate sahip. Sıklıkla kurbanlarının etinden gurme yemekler hazırlıyor. Hannibal'ın bu özelliği katil oluşu tekrar tekrar hatırlatılıyor. Bir sahnede sayım memurunun ciğerini "biraz bakla ve güzel bir Chianti'yle" afiyetle yediğini söylüyor. İnsanların kabalıklarından derin bir gücenme duyuyor. Sıklıkla tavırlarını nezaketsiz gördüğü insanları öldürüyor. Yakalanmasından ve Baltimore'da hapsedilmesinden önce Maryland'ın sosyal elitlerinden.Baltimore Filarmoni orkestrasının yönetiyor.
 
 
 
