@@ -1,0 +1,137 @@
+- name: 'Still Alive'
+  type: 'Video Game Sountrack'
+  page: 'culture'
+  youtube: Y6ljFaKRTrI
+  desc: "Video oyunu Portal'ın kapanışında çalan şarkının adı “Still Alive”. Oyunun karakteri GladOS’un Chell’e yazdığı mektup olarak kurgulanan eserin sözlerinde karakterin pasif agresif ruh halini ve bitmez tükenmez bilim sevgisini görüyoruz."
+  href: "dddddd "
+  img: "still_alive.png"
+  date: "*"
+
+- name: 'Oppenheimer'
+  type: 'Araştırma Konusu'
+  page: 'teknoloji'
+  youtube: lb13ynu3Iac
+  desc: "<p>Atom Bombasının üretimine giden süreçte John von Neumann ve Enrico Fermi gibi isimlerle beraber çalışan J. Robert Oppenheimer'ın hayatı da kişiliği gibi ilgi çekici.</p>"
+  href: "dddddd "
+  img: "oppenheimer.jpg"
+  date: "*"
+
+- name: 'Cicero'
+  type: 'Felsefe'
+  youtube: 5-S3JqJZJ3s
+  desc: "Rome dizisinde Cicero'nun yansıtıldığı hesapçı, çıkarcı hali kötü bir yakıştırma özellikle de şu alıntısını duyanlar için: Bir kütüphane ve bir bahçeniz varsa, ihtiyacınız olan her şeye sahipsiniz demektir. Bunu söyleyen kişi ile dizide yansıtılan aynı kişi olamaz değil mi?"
+  href: "dddddd "
+  img: "nature.jpg"
+  date: "*"
+
+- name: 'Slavoj Zizek ve Antikahraman'
+  type: 'Felsefe'
+  youtube: 5-S3JqJZJ3s
+  desc: "<p>Son Joker filmini yorumlaması istendiğinde Slavoj Zizek filmin Joker'e psikososyal bir hikaye verme çabasını manalı bulmadığını söylüyor.</p><blockquote><p>Bütün bu yanlış şartlar toplumun onu dışlaması vs... Aslında bu tarz anti kahramanlarda bu yanlış bir yaklaşım. Onlar aslında birer mucize. Elbette bazı şartların sonuçları olsalar da oluşan etki tamamen farklı. Aynı şartlar altındaki pek çok insan Joker olmuyor. Benzer şekilde acı çekseler bile bu onları Joker yapmıyor. Burada Burada Hannibel Lecter'dan bir satır aklıma geliyor. Lecter'ı sorguladıklarında. Bilirsiniz nasıl hapse düştüğünü nasıl Lecter olduğunu. Psikologlar başına ne gelmesi hangi drama'nın bir Lecter gerektiğini sorguluyorlar. Onun çok güzel bir cevabı var. Bana hiçbir şey olmadı ben dünyaya oldum.</p></blockquote>"
+  href: "dddddd "
+  img: "6a00d8341c86cc53ef0105362f54b0970c.jpg"
+  date: "*"
+  tags: [Joker, Lecter]
+
+- name: 'Türkiyenin Yaylaları'
+  type: 'Doğa'
+  desc: "<blockquote><p>Pokut Yaylası bu yaylalardan biri. Rize ilinin, Çamlıhemşin ilçesinde bulunuyor. İlçeden 1,5 - 2 saat yol gittikten sonra ulaşabiliyorsunuz.</p></blockquote>"
+  href: "dddddd "
+  img: "pokut-yaylasi.jpg"
+  date: "2019-12-08"
+  tags: [Doğa, Yaylalar]
+
+- name: 'Hipster Ipsum'
+  type: 'Teknoloji'
+  desc: "https://hipsum.co/?paras=5&type=hipster-centric&start-with-lorem=1 Okuduğunuz zaman direk Hipster kültürünü yansıtmıyor mu? İnsan nasıl yapıldığını merak ediyor."
+  href: "dddddd "
+  img: "mac.jpg"
+  date: "2019-12-08"
+
+- name: 'Minecraft Redstone'
+  type: 'Teknoloji'
+  desc: "Minecraft Redstone sayesinde oyun içinde simülasyonlar yapabiliyorsunuz. Örneğin sanal bir hesap makinesi yapmak güçlü."
+  href: "dddddd "
+  img: "redstone.jpg"
+  date: "2019-12-08"
+
+- name: 'Printera Doom Kurmak'
+  type: 'Teknoloji'
+  desc: "Doom oyununu da mesela insanlar printerlara vs yükleyebiliyorlar. https://www.youtube.com/watch?v=R6k72DI0Qo0"
+  href: "#"
+  img: "doomonprinter.jpg"
+  date: "2019-12-08"
+
+- name: 'Nixie Saatleri'
+  type: 'Teknoloji'
+  desc: "Nixie Saatleri"
+  href: "#"
+  img: "nixie.jpg"
+  date: "*"
+
+- name: 'Bluetooth Nasıl Çalışır'
+  type: 'Teknoloji'
+  desc: "Bluetooth Nasıl Çalışır"
+  href: "#"
+  img: "mac.jpg"
+  date: "*"
+
+- name: 'Logic Gateler, Transistörler, Vakum Tüpleri, Entegreler'
+  type: 'Teknoloji'
+  desc: "https://www.youtube.com/watch?v=R6k72DI0Qo0"
+  href: "Logic Gateler, Transistörler, Vakum Tüpleri, Entegreler"
+  img: "mac.jpg"
+  date: "*"
+
+- name: 'Japon Kültürü'
+  type: 'Araştırma'
+  desc: "https://www.youtube.com/watch?v=R6k72DI0Qo0"
+  href: "Animeler, Meiji Dönemi, 2. Dünya Savaşı, Bugün dünya kültüründeki yerleri"
+  img: "anime.png"
+  date: "*"
+
+- name: 'Deine Lakaiken'
+  type: 'Müzik'
+  desc: "Ernst Horn ve Alexander Veljanov tarafından kululan Alman avant-garde darkwave grubu. 1985 yılından beri müzik yapıyorlar. Kesinlikle ilgiye değer. En beğendiğim şarkıları Generators, Love Me to the End, Over and Done, Farewell"
+  href: ""
+  img: "deine-lakaiken.jpg"
+  date: "*"
+
+- name: 'Schopenhauer'
+  type: 'Felsefe'
+  desc: "<p>Alman 19. yy filozofu. Buddism ile yakından ilgilendiğini görüyoruz. Budist düşüncedeki aydınlanmış hayata dair sert bakışı yeniden yorumluyor.</p> <p>Schopenhauer düşüncesine sıkça karamsar deniyor. Bu doğru değil bence. Çünkü karamsarlık bu bakış açısı ile aynı bağlamda değerlendirilmemeli.</p> <p>Peki nasıl mücadele edeceğiz yaşamın trajedisiyle? Bir <b>bilge</b> olmak bunlardan biri. Yaşam istencinin üzerinde ancak onlar olabilirdi.</p> <p> İkincisi daha kolay ulaşılabilir, daha gerçekçi teori ise sanat ve felsefe ile mümkün olduğunca içli dışlı olmak olabilirdi. Bazı zamanlarda bir adım geriye atıp hayata ilüzyon olmadan bakabilirdik böylece. Duygusal olanın karşısında olan sanat. Yunan Trajedileri, la rochefoucauld, Machiavelli. Bu sanat trajik, ağırbaşlıdır. Hastalıklı acı karamsarlıklıklarında bizi derinden avutabilir.</p> <p>Arthur Schopenhauer'ın en bilinen kitabı ise The World As Will And Representation.</p>"
+  href: ""
+  img: "schopenhauer.jpg"
+  date: "*"
+
+
+- name: 'Felsefenin Amacı'
+  type: 'Felsefe'
+  desc: "Yalnız olmadığını görmek. Hayatlarımızın anlamı. Modern felsefenin güzelliklerinden biri de zamanımızın Hastalıklarını yazması. Özgürlüğe Giden Yollar için bize bir rehber olması."
+  href: ""
+  img: "nature.jpg"
+  date: "*"
+
+- name: 'Nietzche Aforizmaları'
+  type: 'Felsefe'
+  desc: "<p>Sıkıcı değil. Nietzche felsefesi Hıristiyanlığa fazla mı takıntılı? Nietzche o kadar estetik ki. Acaba bir çeşit hack gibi. A Shortcut.</p> <ul><li>1. Varolma acı beni güçlendirir.</li><li> 2. I'm Not A Man. I Am Dinamite.</li><li> 3. Hayatın kendisi bir istismardır.</li><li> 4. Dünyevi olanın güzelliği. </li><li>5. İradenin Tırıvırı dan Üstün Oluşu Nedensizliğe Övgü. </li><li>6 Yalnızca Dans Edebilen Bir Tanrı</li></ul>"
+  img: "nature.jpg"
+  date: "*"
+
+- name: 'A Tale Of Two Cities - Charles Dickens'
+  type: 'Kitap'
+  desc: "Fransız ihtilalini çok iyi anlatıyor."
+  img: "nature.jpg"
+  date: "*"
+
+- name: 'The Weimar Culture: The Outsider As Insider (1968) - Peter Gay'
+  type: 'Kitap'
+  desc: "1918 ile 1933 arasında 15 senesi var almanyanın sanatta atılmışlar. Bauhaus, Metropolis filmi "
+  img: "nature.jpg"
+  date: "*"
+
+- name: ''
+  type: 'Kitap'
+  desc: "1940'dan sonraki jenerasyon Straus, Brodel , foucould, derrida, deleuze, lacan. Bir şeylere çok önce uyanıyorlar... Durkheim, Umberto Eco.... Senede 10 kitap altı okumamak gerekir. Bir alanda çok iyi olmak gerekir."
+  img: "nature.jpg"
+  date: "*"

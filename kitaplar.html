@@ -1,0 +1,15 @@
+---
+layout: main
+---
+
+{% for kitap in site.kitaplar %} 
+<article class="post">
+  <a class="post-thumbnail" style="background-image: url({{ kitap.picture }})" href="{{ kitap.url }}"></a>
+<div class="post-content">
+  <h2 class="post-title"><a href="{{ kitap.url }}">{{ kitap.title }}</a></h2>
+  <p>{{ kitap.headline }}</p>
+  <span class="post-date">*&nbsp;&nbsp;&nbsp;—&nbsp;</span>
+  <span class="post-words">Kitap</span>
+</div>
+</article>
+{% endfor %}
