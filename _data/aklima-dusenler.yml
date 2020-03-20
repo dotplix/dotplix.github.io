@@ -1,6 +1,6 @@
-- name: "Yapılana odaklanmak"
+- name: "Atfedilen Ağırlık"
   id: "0014"
-  desc: "Hiçbirşeye gereğinden çok ağırlık vermemek gerekir.Kötü eyleme romantik bir değer vermek iyilik adına yapılacak en son şey olacaktır. Zenginlik ve fakirlik. Komik durumlar. Gerçekte böyle değil miyiz? Ne farkımız var? Belki o zaman oyunu oynayan kişi olabiliriz."
+  desc: "Hiçbirşeye gereğinden çok ağırlık vermemek gerekir. Kötü eyleme romantik bir değer vermek iyilik adına yapılacak en son şey olacaktır. Zenginlik ve fakirlik. Komik durumlar. Gerçekte böyle değil miyiz? Ne farkımız var? Belki o zaman oyunu oynayan kişi olabiliriz."
 
 - name: "Yapılana odaklanmak"
   id: "0013"
