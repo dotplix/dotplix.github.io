@@ -39,19 +39,19 @@
   desc: "What about modern cults? What about moon worshippers? What drives us into cults like Jim Jones and the People’s Temple, the Manson Family or even Scientology? What about EST? Is it an also a cult?"
   
 - name: "A Ghost"
-  id: "004"
+  id: "0004"
   desc: "A ghost that haunts people. Spirith of a strange kind. <blockquote>it's a dark philosophy and it haunts her constantly</blockquote>"
   desctr: "Masalvari bir yaratık... İnsanları yakalayan bir hayalet. Garip çeşitten bir ruh."
 
 - name: "Motiveless"
-  id: "003"
+  id: "0003"
   desc: "Act without attachment to the fruits of action. do what you have to do without seeking either evil or good from it. Act without motive as long as we have a motive our actions are not actions they are reactions. They loose the will"
 
 - name: "A Kiss"
-  id: "002"
+  id: "0002"
   desc: "A little kiss for this. A little kiss that. And a kiss for the occurence..."
   
 - name: "Objects"
-  id: "001"
+  id: "0001"
   desc: "Are we big enough to became nobody? Big enough to became distant from ourselves and recognize outselves as mere objects. Or agents maybe."
   
