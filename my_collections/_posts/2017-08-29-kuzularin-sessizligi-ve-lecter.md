@@ -49,7 +49,12 @@ Filmin ve romanın bir tür satirik abartı içerisinde olduğunu söylemek müm
 
 <img src="https://dotplix.github.io/assets/img/clarice_starling.jpg" alt="">
 
-Lecter derin bir felsefik arkaplana sahip bu felsefik arkaplan.
+Lecter derin bir felsefik arkaplana sahip olduğunu görüyoruz. Bu felsefik arkaplan Roma İmparatoru ve stoacı filozof Marcus Aurelius'un Meditations kitabından yaptığı bir alıntıda görüyoruz.
+
+Lecter tarafından yapılan alıntı şu şekilde:
+> İlk ilkeler, Clarice. Basitlik. Marcus Aurelius'u oku. Her bir şey için sor: Kendi içinde nedir? Doğası nedir? Ne yapar, bu aradığınız adam?
+
+
 
 Lecter'ın stil sahibi olmayan herşeye duyulan derin "yoketme hissi" yine onun adına yapılmış bir numara. Bu yoketme hissi nefret değil aslında. Yapılması gereken bir iş gibi. Bir tür jest. Durum bir şekilde ona karizma kazandırıyor. Filmin de avantajı olan katile katile sorma durumu. Ona muhtaç kalınması. Hayatın karanlık bir cilvesi. Çift taraflı ajanın karizması tıpkı Harry Potter'daki Snape gibi.
 
