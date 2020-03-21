@@ -15,29 +15,23 @@ Lecter hikaye içindeki sunuluş şekli ve zekası ile hemen sıyrılıyor. Lect
 
 >Bütün bu yanlış şartlar toplumun onu dışlaması vs... Aslında bu tarz anti kahramanlarda bu yanlış bir yaklaşım. Onlar aslında birer mucize. Elbette bazı şartların sonuçları olsalar da oluşan etki tamamen farklı. Aynı şartlar altındaki pek çok insan Joker olmuyor. Benzer şekilde acı çekseler bile bu onları Joker yapmıyor. Burada Burada Hannibel Lecter'dan bir satır aklıma geliyor. Lecter'ı sorguladıklarında. Bilirsiniz nasıl hapse düştüğünü nasıl Lecter olduğunu. Psikologlar başına ne gelmesi hangi drama'nın bir Lecter gerektiğini sorguluyorlar. Onun çok güzel bir cevabı var. Bana hiçbir şey olmadı ben dünyaya oldum.
 
-Lecter bu yönüyle belki de *doğa*nın bu enteresan yönünü yansıtıyor. Bütün o düşük ihtimalli bir nevi mucizevi ölümcül ve güzel hayvanlarına baktığımızda ne kadar kaotik ne kadar mantığa ters bir şekilde güzel ve öldürücü olduklarını görüyoruz. Bu arkaik bir tema olarak zihinlerimizde yer alıyor.
+Lecter bu yönüyle belki de *doğa*nın bu enteresan yönünü yansıtıyor. Bütün o düşük ihtimalli bir nevi mucizevi ölümcül ve güzel hayvanlarına baktığımızda ne kadar kaotik ne kadar mantığa ters bir şekilde güzel ve öldürücü olduklarını görüyoruz. Bu arkaik bir tema olarak zihinlerimizde yer alıyor. Lecter gibi tuhaf karakterlere duyulan heyecenın kaynağı bu olabilir.
 
-Sherlock Holmes'un Moriarty'si gibi. Çizgiroman kötüsüne dönüşme riski .
-
-Dizayn'da ressam Francis Bacon etkisi.
-
+Lecter biraz Sherlock Holmes'un Moriarty'si gibi. Filmde çizgiroman kötüsüne dönüşme riski olduğundan iyi bir oyuncu tarafından canlandırılması istenmiş. Filmin atmosferinin oluşturulmasında ressam Francis Bacon'dan esinlenmeler yapılmış.
 
 <img src="https://dotplix.github.io/assets/img/lecter.png"  width="600" alt="alt">
 
-Dr Hannibal Lecter'ın grotesk karakteri yazar Tommas Harris'in zihninde doğuyor. Harris gazetecilik kariyerinin verdiği etkiyle Harris Ed Gein, Ted Bundy gibi seri katilleri araştırmış. Kuzuların Sessizliği'nde kadın polis bir karakteri başrole koyarak sıradışı bir projeye imza atıyor. Jodie Foster'ın canlandırdığı Clarice derinlikli mitik bir hikayenin kahramanı. Minatour hikayesi.. Kahraman karanlık, kötülük ve cehalet ormanından prensesi kurtararak çıkıyor.
+1990'lı yıllarda Amerikan toplumu seri katillerle ilgili kültürel anlamda endişe ile karışık büyülenme yaşıyor. Ed Gein, Ted Bundy gibi seri katiller toplumun hafızasına çoktan kazınmış. İşte böyle böyle bir ortamda yazar Tommas Harris polisiye, gotik korku ve psikolojik gerilim unsurlarını ustaca bir araya getirerek seriyi ortaya çıkarıyor. Lecter'ın grotesk karakteri yazar Harris'in zihninde doğuyor. Harris gazetecilik kariyerinin verdiği etkiyle Harris Ed Gein, Ted Bundy gibi seri katilleri araştırmış. 
 
-Lecter'ın adı kendisi gibi kurgusal atası Litvanya soylusu *Hannibal the Grimm*'den geliyor. Cannibal sözcüğünün ortaya çıkışı ise onaltıncı yüzyıl ortalarına dayanmakta. İspanyolca çoğul Canibales, Caribes'in bir varyantı. Bu kelime Colombus insan yiyen Kuzey Amerika Yerlileri'ne verdiği isimdi. Aynı zamanda bu takma ad, Romalıları dize getirmek için filler dahil Alplerini orduya yönlendirmekle ünlü olan Kartacalı general Hannibal Barca'ya ile bağlantılı. Tüm zamanların en büyük askeri dehalarından biri kabul edilen Kartacalı politikacı ve general ismini yardımcısı ve arkadaşı olan *Hannibal Monomachus* ile paylaşıyor. Yunan tarihçi Polybius'un anlatımına göre Monomachus yanlış bir şekilde ordunun İspanya'dan İtalya'ya gidişinde erzakın tükeneceği ve yamyamlığa başvurmanın gerekeceği kehanetinde bulunmuş. 
+Kuzuların Sessizliği'nde kadın polis bir karakteri başrole koyarak sıradışı bir projeye imza atıyor. Jodie Foster'ın canlandırdığı Clarice derinlikli mitik bir hikayenin kahramanı. Minatour hikayesi.. Kahraman karanlık, kötülük ve cehalet ormanından prensesi kurtararak çıkıyor. Film FBI'dan destek görüyor. FBI bulmakta zorlandıkları kadın ajanlar için filmi bir tür tanıtım olarak görüyor. Film ekibine çekimler Quantico'daki gerçek FBI tesisleri açılıyor. Filmde birimin başında yer alan Jack Crawford'un aslında gerçek hayatta John Douglass olduğu söyleniyor. FBI'ın filmdekine benzer bir davranışsal psikoloji birimi mevcut. Benzer yöntemler seri katilleri takip etmekte, yakalamakta ve yasa önüne çıkarmakta kullanılıyor.
 
-* Police Prosedural
-* Gothic Horror
-* Phycological Thriller
+Lecter'ın adı kendisi gibi kurgusal atası Litvanya soylusu *Hannibal the Grimm*'den geliyor. Cannibal sözcüğünün ortaya çıkışı ise onaltıncı yüzyıl ortalarına dayanmakta. İspanyolca çoğul Canibales, Caribes'in bir varyantı. Bu kelime Colombus insan yiyen Kuzey Amerika Yerlileri'ne verdiği isimdi. Aynı zamanda bu takma ad, Romalıları dize getirmek için filler dahil Alplerini orduya yönlendirmekle ünlü olan Kartacalı general Hannibal Barca'ya ile bağlantılı. 
 
+Tüm zamanların en büyük askeri dehalarından biri kabul edilen Kartacalı politikacı ve general ismini yardımcısı ve arkadaşı olan *Hannibal Monomachus* ile paylaşıyor. Yunan tarihçi Polybius'un anlatımına göre Monomachus yanlış bir şekilde ordunun İspanya'dan İtalya'ya gidişinde erzakın tükeneceği ve yamyamlığa başvurmanın gerekeceği kehanetinde bulunmuş. 
 
-Harris serinin ikinci romanı *Kuzuların Sessizliği*'ni 1988 yılında yayınladı. Dr. Hannibal Lecter’i konu alan serinin ilk kitabı Hannibal'ın devamı niteliğindeki bu kitabı Kızıl Ejder ve Hannibal Doğuyor izledi. Seri 1991 yılındaki beyazperde uyarlamasının ulaştığı başarı sayesinde tüm dünyada tanındı.
+Harris serinin ikinci romanı *Kuzuların Sessizliği*'ni 1988 yılında yayınlıyor. Dr. Hannibal Lecter’i konu alan serinin ilk kitabı Hannibal'ın devamı niteliğindeki bu kitabı Kızıl Ejder ve Hannibal Doğuyor izliyor. Seri 1991 yılındaki beyazperde uyarlamasının ulaştığı başarı tüm dünyada tanmasına sebep oluyor.
 
 Kuzuların Sessizliği bizi seri katillerin sıradışı dünyasına götürürken Washington Üniversitesinde kriminoloji hocası Robert Keppel ve seri katil Ted Bundy arasındaki gerçek ilişkiden esinleniyor. Ted Bundy Robert Keppel’a, Washington’daki Green River cinayetlerini araştırmasında yardım ediyor. Ted Bundy, 24 Ocak 1989’da idam edildiyse de Green River cinayetleri ancak 2001 yılında çözülebilmiş, cinayetleri işleyen Gary Ridgway 2003 yılında, kırk sekiz cinayet işlediğini kabul ederek suçlu bulunmuş.
-
-1990'lı yıllarda Amerikan toplumu seri katillerle ilgili kültürel anlamda endişe ile karışık büyülenme yaşıyor. Ed Gein, Ted Bundy. 
 
 Hopkins'in canlandırdığı Hannibal karakterinin özelliklerine baktığımız zaman,
 * Göründüğü her sahnede entellektüel açıdan parlak, kültürlü, sofistike, sanata ve müziğe meraklı mutfakta rafine zevklere sahip olarak biri olarak portre ediliyor.
@@ -52,22 +46,15 @@ Hopkins'in canlandırdığı Hannibal karakterinin özelliklerine baktığım
 
 Satirik abartı.
 
-
-
 <img src="https://dotplix.github.io/assets/img/clarice_starling.jpg" alt="">
-
 
 <ul><li>Felsefik Arkaplan</li><li>Ağır Stil : Stil sahibi olmayan herşeye duyulan derin "yoketme hissi" ile beraber geliyor. Bu yoketme hissi nefret değil aslında. Yapılması gereken bir iş gibi. Bir tür jest.</li> <li>Durum bir şekilde ona karizma kazandırıyor. Filmin de avantajı olan katile katile sorma durumu. Ona muhtaç kalınması. Hayatın karanlık bir cilvesi. Çift taraflı ajanın karizması tıpkı Harry Potter'daki Snape gibi.</li></ul>
 
-
 Hannibal yaptıklarının gerilimi, ondan istenen şey, yukarıdaki tarif ettiğimiz özellikler. Konuşmaya başlaması. Konuşmaya başladığında keskin bir koku alma duygusuna sahip olduğunu ve bunu stil için kullandığını görüyoruz. Cam paravan ardından Starling'in bir gün önce sürdüğü parfümün kokusunu alıyor.
-
 
 Eidetic bir hafızası var. <em>Loci yöntemini</em> kullanıyor. Hislerini ve hatıralarını zengin detaylarıyla zihninde inşa ettiği "hafıza sarayı"nda saklıyor.
 
-
 Romanda filmde belirtilmeyen bir detay var. Lecter "mid ray duplication polydactyly" denilen hastalık sebebiyle çift orta parmağa sahip. Hannibal romanında çeşitli nedenlerle kendi yüzüne estetik ameliyat yapıyor ve fazla parmağını da alıyor.
-
 
 ### Hopkins'in Çizdiği Profil
 
@@ -76,12 +63,6 @@ Oyuncu Antony Hopkins de tıpkı Hannibal gibi klasik sanat'a derin hayranlık b
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EJC-_j3SnXk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Çalınan eser "O Fortuna"  Carmina Burana - Carl Orff yeri gelmişken biraz da eserden bahsedelim.
-
-
-### Gerçek Dünya Örnekleri
-
-Film FBI'dan destek görmüş ve hatta kadın ajanlar için bir tür tanıtım filmi gibi görüldüğünden çekimler quantico'daki gerçek FBI tesislerinde yapılmış. FBI'a kadın ajanlar çekmek onlar için büyük bir önem verilmiş.  Jack Crawford, John Douglass behaviour science unit. Serial killers chaising catching and proseduring.  
-
 
 
 Fittings in clothes. Made to order for him. Good looking fit. 
