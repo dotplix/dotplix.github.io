@@ -17,15 +17,27 @@ Lecter hikaye içindeki sunuluş şekli ve zekası ile hemen sıyrılıyor. Lect
 
 Lecter bu yönüyle belki de *doğa*nın bu enteresan yönünü yansıtıyor. Bütün o düşük ihtimalli bir nevi mucizevi ölümcül ve güzel hayvanlarına baktığımızda ne kadar kaotik ne kadar mantığa ters bir şekilde güzel ve öldürücü olduklarını görüyoruz. Bu arkaik bir tema olarak zihinlerimizde yer alıyor.
 
+Sherlock Holmes'un Moriarty'si gibi. Çizgiroman kötüsüne dönüşme riski .
+
+Dizayn'da ressam Francis Bacon etkisi.
+
 
 <img src="https://dotplix.github.io/assets/img/lecter.png"  width="600" alt="alt">
 
-Dr Hannibal Lecter'ın grotesk karakteri yazar Tommas Harris'in zihninde doğuyor. Lecter'ın adı kendisi gibi kurgusal atası Litvanya soylusu *Hannibal the Grimm*'den geliyor. Cannibal sözcüğünün ortaya çıkışı ise onaltıncı yüzyıl ortalarına dayanmakta. İspanyolca çoğul Canibales, Caribes'in bir varyantı. Bu kelime Colombus insan yiyen Kuzey Amerika Yerlileri'ne verdiği isimdi. Aynı zamanda bu takma ad, Romalıları dize getirmek için filler dahil Alplerini orduya yönlendirmekle ünlü olan Kartacalı general Hannibal Barca'ya ile bağlantılı. Tüm zamanların en büyük askeri dehalarından biri kabul edilen Kartacalı politikacı ve general ismini yardımcısı ve arkadaşı olan *Hannibal Monomachus* ile paylaşıyor. Yunan tarihçi Polybius'un anlatımına göre Monomachus ordunun İspanya'dan İtalya'ya gidişinde erzakın tükeneceği ve yamyamlığa başvurmanın gerekeceği kehanetinde bulunmuş. 
+Dr Hannibal Lecter'ın grotesk karakteri yazar Tommas Harris'in zihninde doğuyor. Harris gazetecilik kariyerinin verdiği etkiyle Harris Ed Gein, Ted Bundy gibi seri katilleri araştırmış. Kuzuların Sessizliği'nde kadın polis bir karakteri başrole koyarak sıradışı bir projeye imza atıyor. Jodie Foster'ın canlandırdığı Clarice derinlikli mitik bir hikayenin kahramanı. Minatour hikayesi.. Kahraman karanlık, kötülük ve cehalet ormanından prensesi kurtararak çıkıyor.
 
-Amerikalı yazar serinin ikinci romanı *Kuzuların Sessizliği*'ni 1988 yılında yayınladı. Dr. Hannibal Lecter’i konu alan serinin kitapları sırasıyla Hannibal, Kuzuların Sessizliği, Kızıl Ejder, Hannibal. Seri 1991 yılındaki beyazperde uyarlamasının ulaştığı başarı sayesinde tüm dünyada tanındı.
+Lecter'ın adı kendisi gibi kurgusal atası Litvanya soylusu *Hannibal the Grimm*'den geliyor. Cannibal sözcüğünün ortaya çıkışı ise onaltıncı yüzyıl ortalarına dayanmakta. İspanyolca çoğul Canibales, Caribes'in bir varyantı. Bu kelime Colombus insan yiyen Kuzey Amerika Yerlileri'ne verdiği isimdi. Aynı zamanda bu takma ad, Romalıları dize getirmek için filler dahil Alplerini orduya yönlendirmekle ünlü olan Kartacalı general Hannibal Barca'ya ile bağlantılı. Tüm zamanların en büyük askeri dehalarından biri kabul edilen Kartacalı politikacı ve general ismini yardımcısı ve arkadaşı olan *Hannibal Monomachus* ile paylaşıyor. Yunan tarihçi Polybius'un anlatımına göre Monomachus yanlış bir şekilde ordunun İspanya'dan İtalya'ya gidişinde erzakın tükeneceği ve yamyamlığa başvurmanın gerekeceği kehanetinde bulunmuş. 
+
+* Police Prosedural
+* Gothic Horror
+* Phycological Thriller
+
+
+Harris serinin ikinci romanı *Kuzuların Sessizliği*'ni 1988 yılında yayınladı. Dr. Hannibal Lecter’i konu alan serinin ilk kitabı Hannibal'ın devamı niteliğindeki bu kitabı Kızıl Ejder ve Hannibal Doğuyor izledi. Seri 1991 yılındaki beyazperde uyarlamasının ulaştığı başarı sayesinde tüm dünyada tanındı.
 
 Kuzuların Sessizliği bizi seri katillerin sıradışı dünyasına götürürken Washington Üniversitesinde kriminoloji hocası Robert Keppel ve seri katil Ted Bundy arasındaki gerçek ilişkiden esinleniyor. Ted Bundy Robert Keppel’a, Washington’daki Green River cinayetlerini araştırmasında yardım ediyor. Ted Bundy, 24 Ocak 1989’da idam edildiyse de Green River cinayetleri ancak 2001 yılında çözülebilmiş, cinayetleri işleyen Gary Ridgway 2003 yılında, kırk sekiz cinayet işlediğini kabul ederek suçlu bulunmuş.
 
+1990'lı yıllarda Amerikan toplumu seri katillerle ilgili kültürel anlamda endişe ile karışık büyülenme yaşıyor. Ed Gein, Ted Bundy. 
 
 Hopkins'in canlandırdığı Hannibal karakterinin özelliklerine baktığımız zaman,
 * Göründüğü her sahnede entellektüel açıdan parlak, kültürlü, sofistike, sanata ve müziğe meraklı mutfakta rafine zevklere sahip olarak biri olarak portre ediliyor.
@@ -40,7 +52,6 @@ Hopkins'in canlandırdığı Hannibal karakterinin özelliklerine baktığım
 
 Satirik abartı.
 
-Jodie Foster'ın canlandırdığı karakter de derecede derinlikli.
 
 
 <img src="https://dotplix.github.io/assets/img/clarice_starling.jpg" alt="">
@@ -60,7 +71,7 @@ Romanda filmde belirtilmeyen bir detay var. Lecter "mid ray duplication polydact
 
 ### Hopkins'in Çizdiği Profil
 
-Oyuncu Antony Hopkins de tıpkı Hannibal gibi klasik sanat'a derin hayranlık beslediğini biliyoruz. Kendisini klasik müzik konserlerinde görmek mümkün. Andre Rieu and the Johann Strauss Orchestra konserinde günümüzde takip etmesi zorlu bir kültürel çizginin izini sürüyor.
+Oyuncu Antony Hopkins de tıpkı Hannibal gibi klasik sanat'a derin hayranlık besliyor. Kuzuların Sessizliği'nin senaryosunun kendisine gönderileceğini duyduğunda bunun bir çocuklara yönelik bir uyku masalı olduğunu düşünmüş. Senaryoyu okuduğunda ise hayatında pek çok şeyin değişeceğini anladığını söylemiş. Rolün kendisine gelmesi Elephant Man'deki Treeves rolünün etkisi olmuş. Lecter insancıl hatta merhametli olsa da her birimizin içinde gizli kalmış gölgeli bir figür olduğunu. Kendisini klasik müzik konserlerinde görmek mümkün. Andre Rieu and the Johann Strauss Orchestra konserinde günümüzde takip etmesi zorlu bir kültürel çizginin izini sürüyor.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EJC-_j3SnXk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -68,3 +79,15 @@ Oyuncu Antony Hopkins de tıpkı Hannibal gibi klasik sanat'a derin hayranlık b
 
 
 ### Gerçek Dünya Örnekleri
+
+Film FBI'dan destek görmüş ve hatta kadın ajanlar için bir tür tanıtım filmi gibi görüldüğünden çekimler quantico'daki gerçek FBI tesislerinde yapılmış. FBI'a kadın ajanlar çekmek onlar için büyük bir önem verilmiş.  Jack Crawford, John Douglass behaviour science unit. Serial killers chaising catching and proseduring.  
+
+
+
+Fittings in clothes. Made to order for him. Good looking fit. 
+
+Lean killing machine, hair tightly pulled back as if his brain is bursting out from his skull 
+
+Sahneden 10 dakika önce onun hakkında konuşuyorlar.
+Ayakta beklerken karşılıyor. Onu koklayabiliyor. Opposite of audience expect. It scares them more. Polite gentlemen good morning. Stillness in dichotomy
+Needle her.  
