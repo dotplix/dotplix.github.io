@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Kuzuların Sessizliği ve Lecter
-date: 2019-08-29 00:00:00 +0300
+date: 2020-03-22 00:00:00 +0300
 description: 2003 yılında Antony Hopkins tarafından canlandıran Hannibal Lecter karakteri Amerikan Film Enstitüsü tarafından tüm zamanların 1 numaralı kötü adamı olarak seçildi.
 img: silence_of_the_lambs.jfif
 tags: [Psikoloji, Film] # add tag
@@ -21,7 +21,7 @@ Lecter biraz Sherlock Holmes'un Moriarty'si gibi. Filmde çizgiroman kötüsüne
 
 <img src="https://dotplix.github.io/assets/img/lecter.png"  width="600" alt="alt">
 
-1990'lı yıllarda Amerikan toplumu seri katillerle ilgili kültürel anlamda endişe ile karışık büyülenme yaşıyor. Ed Gein, Ted Bundy gibi seri katiller toplumun hafızasına çoktan kazınmış. İşte böyle böyle bir ortamda yazar Tommas Harris polisiye, gotik korku ve psikolojik gerilim unsurlarını ustaca bir araya getirerek seriyi ortaya çıkarıyor. Lecter'ın grotesk karakteri yazar Harris'in zihninde doğuyor. Harris gazetecilik kariyerinin verdiği etkiyle Harris Ed Gein, Ted Bundy gibi seri katilleri araştırmış. 
+1990'lı yıllarda Amerikan toplumu seri katillerle ilgili kültürel anlamda endişe ile karışık büyülenme yaşıyor. Ed Gein, Ted Bundy gibi seri katiller toplumun hafızasına kazınmış durumda. İşte böyle böyle bir ortamda yazar Tommas Harris polisiye, gotik korku ve psikolojik gerilim unsurlarını ustaca bir araya getirerek seriyi ortaya çıkarıyor. Lecter'ın grotesk karakteri yazar Harris'in zihninde doğuyor. Harris gazetecilik kariyerinin verdiği etkiyle Harris Ed Gein, Ted Bundy gibi seri katilleri araştırmış. 
 
 Kuzuların Sessizliği'nde kadın polis bir karakteri başrole koyarak sıradışı bir projeye imza atıyor. Jodie Foster'ın canlandırdığı Clarice derinlikli mitik bir hikayenin kahramanı. Minatour hikayesi.. Kahraman karanlık, kötülük ve cehalet ormanından prensesi kurtararak çıkıyor. Film FBI'dan destek görüyor. FBI bulmakta zorlandıkları kadın ajanlar için filmi bir tür tanıtım olarak görüyor. Film ekibine çekimler Quantico'daki gerçek FBI tesisleri açılıyor. Filmde birimin başında yer alan Jack Crawford'un aslında gerçek hayatta o dönem FBI'ın davranışsal psikoloji birimini yöneten John Douglass olduğu söyleniyor. Benzer yöntemler seri katilleri takip etmekte, yakalamakta ve yasa önüne çıkarmakta kullanılıyor.
 
