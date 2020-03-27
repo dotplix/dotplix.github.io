@@ -1,10 +1,10 @@
 - name: "Atfedilen Ağırlık"
   id: "0014"
-  desc: "Hiçbirşeye gereğinden çok ağırlık vermemek gerekir. Kötü eyleme romantik bir değer vermek iyilik adına yapılacak en son şey olacaktır. Zenginlik ve fakirlik. Komik durumlar. Gerçekte böyle değil miyiz? Ne farkımız var? Belki o zaman oyunu oynayan kişi olabiliriz."
+  desc: "Hiçbirşeye gereğinden çok ağırlık vermemek gerek. Hele ki kötü eyleme romantik bir değer vermek iyilik adına yapılacak en son şey olacaktır. Çoğu zaman insanlar trajedilerini kendileri yazarlar. Zenginlik ve fakirlik, güzellik ve çirkinlik. Komik durumlar. Bunlara yukarıdan bakmak gerekiyor sanıyorum. Belki o zaman oyunu oynayan kişi olabiliriz."
 
 - name: "Yapılana Odaklanmak"
   id: "0013"
-  desc: "İnsanların ne düşündüğünü anlamak çoğu zaman anlamak zor. Yalnızca yapılana odaklanmalı belki de. Kendimizi de ancak ne yaptığımız ile ifade edebiliriz. Bu kesin."
+  desc: "İnsanların ne düşündüğünü anlamak çoğu zaman anlamak zor. Başka bir insanı bütünüyle anlamak ise neredeyse imkansız. Yalnızca yapılana odaklanmalı belki de. Kendimizi de ancak ne yaptığımız ile ifade edebiliriz. Buna bir kesinlik atfedilebilir. Yapılmış olanın yalanı yoktur."
 
 - name: "Arabuluculuk"
   id: "0012"
@@ -36,7 +36,7 @@
 
 - name: "A Ghost"
   id: "0004"
-  desc: "A ghost that haunts people. Spirith of a strange kind. <blockquote>it's a dark philosophy and it haunts her constantly</blockquote>"
+  desc: "Philosophy, an argumented thought, is so powerfull that we associate it with the supernatural. A ghost that haunts people. Spirith of a strange kind. <blockquote>it's a dark philosophy and it haunts her constantly</blockquote>"
   desctr: "Masalvari bir yaratık... İnsanları yakalayan bir hayalet. Garip çeşitten bir ruh."
 
 - name: "Motiveless"
