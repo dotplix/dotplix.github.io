@@ -20,10 +20,7 @@ Podcast dinlemek ve Youtube videoları da faydalı. Bunu yaparken başka şeyler
 
 ## Dostoyevski - Yeraltından Notlar
 
-Most revolationary work. 
-
-A major theme throughout the novel is man's intensified sense of self which, Dostoyevsky believes, is his greatest strength and, also his prominent weakness.
-Roman boyunca ana tema, Dostoyevski'nin en büyük gücü ve aynı zamanda göze çarpan zayıflığı olduğuna inandığı insanın yoğun kendilik duygusu.
+Yeraltından notlar için Dostoyevski'nin en devrimci çalışması denilebilir. Roman boyunca ana tema, Dostoyevski'nin insandaki en büyük güç ve aynı zamanda göze çarpan zayıflık olduğuna inandığı insanın yoğun kendilik duygusu.
 
 https://www.youtube.com/watch?v=97jBvbmY03g
 
