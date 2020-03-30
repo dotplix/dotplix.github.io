@@ -13,7 +13,7 @@ Zevk için okuyanların sadece küçük bir kısmı kitap satın alıyor.
 Kitap satın alanların sadece küçük bir kısmı zor kitapları satın alıyor.
 Bu özel bir pazar. Bunun değiştiğini sanmıyorum.
 
-Kitabın yazılma sürecinde yazının insana verdiği düşünme ve daha derinleme tekrar düşünme gücünü diğer medyumlarda bulamazsınız.
+Kitabın yazılma sürecinde yazının insana verdiği düşünme ve daha derinleme tekrar düşünme gücünü diğer medium'larda bulamazsınız.
 Gerçekten okuyabiliyorsanız, dinleyebileceğinizden daha hızlı okuyabilirsiniz.
 
 Podcast dinlemek ve Youtube videoları da faydalı. Bunu yaparken başka şeyler yapabilirsiniz. Bu müthiş bir imkan.
