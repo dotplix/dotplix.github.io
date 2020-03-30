@@ -7,21 +7,16 @@ img: okuma-listesi.jpg
 tags: [Kitap, Gelişim] # add tag
 ---
 
-Reading for pleasure is always been a minority occupation. 
+Zevk için okumak her zaman azınlığın uğraşı olmuştur.
+Çoğu insan zevk için okumaz.
+Zevk için okuyanların sadece küçük bir kısmı kitap satın alıyor.
+Kitap satın alanların sadece küçük bir kısmı zor kitapları satın alıyor.
+Bu özel bir pazar. Bunun değiştiğini sanmıyorum.
 
-Most people don't read for pleasure.
+Kitabın yazılma sürecinde yazının insana verdiği düşünme ve daha derinleme tekrar düşünme gücünü diğer medyumlarda bulamazsınız.
+Gerçekten okuyabiliyorsanız, dinleyebileceğinizden daha hızlı okuyabilirsiniz.
 
-Of the people read for pleasure only small porportion by books. 
-
-Of the people buy books only small porportion buy difficult books. 
-
-Its a speciality market. I don't think that is changing.
-
-Book is a depth think and rethink deeper in and any other medium.
-
-If you can really read you can read faster than you can listen.
-
-Podcast dinlemek ve Youtube videoları da faydalı. You can make another things when you doing it.
+Podcast dinlemek ve Youtube videoları da faydalı. Bunu yaparken başka şeyler yapabilirsiniz. Bu müthiş bir imkan.
 
 ## Dostoyevski - Yeraltından Notlar
 
