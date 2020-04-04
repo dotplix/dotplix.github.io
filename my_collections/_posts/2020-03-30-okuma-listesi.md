@@ -9,10 +9,9 @@ tags: [Kitap, Gelişim] # add tag
 
 Kitap okumak benim için her zaman değerli bir uğraş oldu. Küçüklükten beri hasbel kader bu alışkanlığın kazandırıldığı çocuklardan biri olduğumu söylebilirim. Fakat üzerine giderek keskinleştirme fırsatım pek olmadı.
 
-Tabi ki her kitap aynı değil. Ne okuduğunuz önemli. Ama ne olursa olsun okumak gerekiyor. Sizi yalnızca eğlendirdiği için bir şey okumanızda sakınca yok. Bunun yanında ben kurgusal olmayan kitapların kurgusal kitaplardan daha iyi olduğunu düşünüyorum. Araştırmalar sosyolojik tespitler felsefe . Ama kurgusal kitapların da değeri azımsanamaz. 
+Tabi ki her kitap aynı değil. Ne okuduğunuz önemli. Ama ne olursa olsun okumak gerekiyor. Sizi yalnızca eğlendirdiği için bir şey okumanızda sakınca yok. Bunun yanında ben kurgusal olmayan kitapların kurgusal kitaplardan daha iyi olduğunu düşünüyorum. Araştırmalar sosyolojik tespitler felsefe. Ama kurgusal kitapların da değeri azımsanamaz.
 
 Özellikle sosyolojik tespitlerin bilimselliği konusunda emin olamıyoruz. Kişisel gelişim kitaplarının bilimselliğinden emin olunamadığı gibi. Bu nedenle onlara biraz şüpheci yaklaşmakta fayda görüyorum.
-
 
 ### Kitap Okuma Hakkında Notlar
 
