@@ -54,8 +54,10 @@ Lecter derin bir felsefik arkaplana sahip olduğunu görüyoruz. Bu felsefik ark
 Lecter tarafından yapılan alıntı şu şekilde:
 > İlk ilkeler, Clarice. Basitlik. Marcus Aurelius'u oku. Her bir şey için sor: Kendi içinde nedir? Doğası nedir? Ne yapar, bu aradığınız adam?
 
-Lecter'ın stil sahibi olmayan herşeye duyulan derin "yoketme hissi" yine onun adına yapılmış bir numara. Bu yoketme hissi nefret değil aslında. Yapılması gereken bir iş gibi. Bir tür jest. Durum bir şekilde ona karizma kazandırıyor. Filmin de avantajı olan katile katile sorma durumu. Ona muhtaç kalınması. Hayatın karanlık bir cilvesi. Çift taraflı ajanın karizması tıpkı Harry Potter'daki Snape gibi.
+Lecter'ın stil sahibi olmayan herşeye duyulan derin "yoketme hissi" yine onun adına yapılmış bir numara. Bu yoketme hissi nefret değil aslında. Yapılması gereken bir iş gibi. Bir tür jest. Durum bir şekilde ona karizma kazandırıyor. Filmin de avantajı olan katile katile sorma durumu. Ona muhtaç kalınması. Hayatın bu karanlık bir cilvesi tıpkı Harry Potter'daki Snape gibi çift taraflı ajanın karizmasını kazandırıyor. İyi ama bir yönü kötüye dönük.
 
-Hannibal yaptıklarının gerilimi, ondan istenen şey, yukarıdaki tarif ettiğimiz özellikler. Konuşmaya başlaması. Konuşmaya başladığında keskin bir koku alma duygusuna sahip olduğunu ve bunu stil için kullandığını görüyoruz. Cam paravan ardından Starling'in bir gün önce sürdüğü parfümün kokusunu alıyor.
+Hannibal yaptıklarının gerilimi, ondan istenen şey, yukarıdaki tarif ettiğimiz özellikler. Konuşmaya başlaması. Konuşmaya başladığında keskin bir koku alma duygusuna sahip olduğunu ve bunu parfümleri tanımak için kullandığını görüyoruz. Cam paravan ardından Starling'in bir gün önce sürdüğü parfümün kokusunu alıyor.
 
 Oyuncu Antony Hopkins de tıpkı Hannibal gibi klasik sanat'a derin hayranlık besliyor. Kuzuların Sessizliği'nin senaryosunun kendisine gönderileceğini duyduğunda bunun bir çocuklara yönelik bir uyku masalı olduğunu düşünmüş. Senaryoyu okuduğunda ise hayatında pek çok şeyin değişeceğini anladığını söylemiş. Rolün kendisine gelmesi Elephant Man'deki Treeves rolünün etkisi olmuş. Lecter insancıl hatta merhametli olsa da her birimizin içinde gizli kalmış gölgeli bir figür olduğunu. Kendisini klasik müzik konserlerinde görmek mümkün. Andre Rieu and the Johann Strauss Orchestra konserinde görebiliyoruz. Günümüzde takip etmesi zorlu bir kültürel çizginin izini sürüyor.
+
+Bizler için de doğru olan bu belki. Bu eski moda çizginin izini sürmek.
