@@ -1,6 +1,10 @@
+- name: "Entelektüelleştirmek"
+  id: "0015"
+  desc: "Gerekmedikçe hiçbirşeyi entelektüelleştirmemek gerekiyor. Bazen bu yalnızca bir savunma mekanizması. Gerçek dünyaya etkide bulunmaktansa onun karşısında donakalmak bunu da bilgiçlikle gizlemek yaygın bir problem. Bilgiç görünmek ile gerçekten bilmek arasında fark var. Ne nerd ol ne douchebag."
+
 - name: "Atfedilen Ağırlık"
   id: "0014"
-  desc: "Hiçbirşeye gereğinden çok ağırlık vermemek gerek. Hele ki kötü eyleme hislerimizle bir değer vermek iyilik adına yapılacak en son şey olacaktır. Suç özünde ilgi çekici bir şey değildir. Çoğu zaman insanlar trajedilerini kendileri yazarlar. Zenginlik ve fakirlik, güzellik ve çirkinlik. Komik durumlar. Bunlara yukarıdan bakmak gerekiyor sanıyorum. Belki o zaman oyunu oynayan kişi olabiliriz."
+  desc: "Hiçbirşeye gereğinden çok ağırlık vermemek gerek. Hele ki kötü eyleme duygusallığa kapılıp bir değer vermek iyilik adına yapılacak en son şey olacaktır. Suç özünde ilgi çekici bir şey değildir. Çoğu zaman insanlar trajedilerini kendileri yazarlar. Zenginlik ve fakirlik, güzellik ve çirkinlik. Komik durumlar. Bunlara yukarıdan bakmak gerekiyor sanıyorum. Belki o zaman oyunu oynayan kişi olabiliriz."
 
 - name: "Yapılana Odaklanmak"
   id: "0013"
