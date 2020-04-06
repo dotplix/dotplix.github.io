@@ -13,17 +13,19 @@ Tabi ki her kitap aynı değil. Ne okuduğunuz önemli. Ama ne olursa olsun okum
 
 Özellikle sosyolojik tespitlerin bilimselliği konusunda emin olamıyoruz. Kişisel gelişim kitaplarının bilimselliğinden emin olunamadığı gibi. Bu nedenle onlara biraz şüpheci yaklaşmakta fayda görüyorum.
 
-## Liste
 
+## Liste
 
 * Notes From Underground - Fyodor Dostoyevski
 * Dale Carniage - How to Win Friends and Influence People
+* Tao Te Ching - Lao Tzu
+* Alain De Bottom - The News: A User's Manual
 * 12 Rules For Life - Jordan Peterson
 * Beyond Good And Evil - Friedrich Nietzsche
 * Seneca - Letters From A Stoic
 * Meditations - Marcus Aurelious
 * Epictetus - Discourses
-
+* Cheklist Manifesto
 
 ## Kitap Okuma Hakkında Notlar
 
@@ -43,3 +45,9 @@ Yeraltından notlar için Dostoyevski'nin en devrimci çalışması denilebilir.
 
 https://www.youtube.com/watch?v=97jBvbmY03g
 
+## Ne Okumalı?
+
+* İletişim üzerine okumak faydalı olabilir.
+* Textbook okumak faydalı olabilir. Özellikle ekonomi gibi konularda.
+* Teknoloji ve Bilim
+* Kurgusal
