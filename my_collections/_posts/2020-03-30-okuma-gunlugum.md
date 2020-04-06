@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Okuma Listesi
+title: Okuma Gunlugum
 date: 2020-03-30 00:00:00 +0300
 description: Okuma listesi altında okumak istediğim kitapları sıralıyorum.
-img: okuma-listesi.jpg
+img: okuma-gunlugum.jpg
 tags: [Kitap, Gelişim] # add tag
 ---
 
@@ -13,7 +13,19 @@ Tabi ki her kitap aynı değil. Ne okuduğunuz önemli. Ama ne olursa olsun okum
 
 Özellikle sosyolojik tespitlerin bilimselliği konusunda emin olamıyoruz. Kişisel gelişim kitaplarının bilimselliğinden emin olunamadığı gibi. Bu nedenle onlara biraz şüpheci yaklaşmakta fayda görüyorum.
 
-### Kitap Okuma Hakkında Notlar
+## Liste
+
+
+* Notes From Underground - Fyodor Dostoyevski
+* Dale Carniage - How to Win Friends and Influence People
+* 12 Rules For Life - Jordan Peterson
+* Beyond Good And Evil - Friedrich Nietzsche
+* Seneca - Letters From A Stoic
+* Meditations - Marcus Aurelious
+* Epictetus - Discourses
+
+
+## Kitap Okuma Hakkında Notlar
 
 Zevk için okumak her zaman azınlığın uğraşı olmuş. Çoğu insan zevk için okumuyor. Zevk için okuyanların sadece küçük bir kısmı kitap satın alıyor. Kitap satın alanların sadece küçük bir kısmı zor kitapları satın alıyor. Bu durum günümüzde de farklı değil.
 
@@ -31,7 +43,3 @@ Yeraltından notlar için Dostoyevski'nin en devrimci çalışması denilebilir.
 
 https://www.youtube.com/watch?v=97jBvbmY03g
 
-
-## 12 Rules For Life - Jordan Peterson
-
-## Beyond Good And Evil 
