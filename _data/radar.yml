@@ -1,7 +1,7 @@
-- name: "Documentary"
+- name: "Happy People: A Year in the Taiga"
   id: "0007"
   date:
-  desc: "Happy People: A Year in the Taiga"
+  desc: "A documentary about people live in hard circumtances. Pushing beyond the limits. Spiritual awakening."
 
 - name: "Tech News"
   id: "0006"
