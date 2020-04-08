@@ -1,3 +1,8 @@
+- name: "Documentary"
+  id: "0007"
+  date:
+  desc: "Happy People: A Year in the Taiga"
+
 - name: "Tech News"
   id: "0006"
   date:
