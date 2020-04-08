@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Okuma Gunlugum
+title: Okuma Listesi
 date: 2020-03-30 00:00:00 +0300
 description: Okuma listesi altında okumak istediğim kitapları sıralıyorum.
-img: okuma-gunlugum.jpg
+img: okuma-listesi.jpg
 tags: [Kitap, Gelişim] # add tag
 ---
 
-<img src="https://dotplix.github.io/assets/img/okuma-gunlugum.jpg"  width="600" alt="alt">
+<img src="https://dotplix.github.io/assets/img/okuma-listesi.jpg"  width="600" alt="alt">
 
-Okumak insanlar her zaman ayırt edici bir özellik olmuştur. Benim için her zaman değerli bir uğraş oldu. Küçüklükten beri hasbel kader bu alışkanlığın kazandırıldığı çocuklardan biri olduğumu söylebilirim. Fakat üzerine giderek keskinleştirme fırsatım pek olmadı.
+Okumak insanlar her zaman ayırt edici bir özellik olmuştur. Bu nedenle bir okuma listesine sahip olmanın faydası var. Okumak benim için her zaman değerli bir uğraş oldu. Küçüklükten beri hasbel kader bu alışkanlığın kazandırıldığı çocuklardan biri olduğumu söylebilirim. Fakat üzerine giderek keskinleştirme fırsatım pek olmadı.
 
 Tabi ki her kitap aynı değil. Ne okuduğunuz önemli. Ama ne olursa olsun okumak gerekiyor. Sizi yalnızca eğlendirdiği için bir şey okumanızda sakınca yok. Bunun yanında ben kurgusal olmayan kitapların kurgusal kitaplardan daha iyi olduğunu düşünüyorum. Araştırmalar sosyolojik tespitler felsefe. Ama kurgusal kitapların da değeri azımsanamaz.
 
