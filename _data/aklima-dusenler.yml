@@ -1,3 +1,11 @@
+- name: "Dalga"
+  id: "0017"
+  desc: "İnsan ruhu dalgalanır. Bu insan olmanın sıkıntılı taraflarından biri. Kimi zaman zevk peşinde koşan, kimi zaman iş yapmak zorunda kalan, üzülen, sevinen. Skor elde eden, reklam yapan. Göz boyayan. Bizler bu dalgalanmanın dışında bulunmalıyız."
+
+- name: "Korkusuzca"
+  id: "0016"
+  desc: "Korku kurgusal bir şeydir. Bu ilkel mekanizma sizi bağlar. Gerçek dünya ile çoğu zaman bir ilgisi bulunmaz."
+
 - name: "Entelektüelleştirmek"
   id: "0015"
   desc: "Gerekmedikçe hiçbirşeyi entelektüelleştirmemek gerekiyor. Bazen bu yalnızca bir savunma mekanizması. Gerçek dünyaya etkide bulunmaktansa onun karşısında donakalmak bunu da bilgiçlikle gizlemek yaygın bir problem. Bilgiç görünmek ile gerçekten bilmek arasında fark var. Ne nerd ol ne douchebag."
