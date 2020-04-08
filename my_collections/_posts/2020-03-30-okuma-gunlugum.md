@@ -7,25 +7,11 @@ img: okuma-gunlugum.jpg
 tags: [Kitap, Gelişim] # add tag
 ---
 
-Kitap okumak benim için her zaman değerli bir uğraş oldu. Küçüklükten beri hasbel kader bu alışkanlığın kazandırıldığı çocuklardan biri olduğumu söylebilirim. Fakat üzerine giderek keskinleştirme fırsatım pek olmadı.
+Okumak insanlar her zaman ayırt edici bir özellik olmuştur. Benim için her zaman değerli bir uğraş oldu. Küçüklükten beri hasbel kader bu alışkanlığın kazandırıldığı çocuklardan biri olduğumu söylebilirim. Fakat üzerine giderek keskinleştirme fırsatım pek olmadı.
 
 Tabi ki her kitap aynı değil. Ne okuduğunuz önemli. Ama ne olursa olsun okumak gerekiyor. Sizi yalnızca eğlendirdiği için bir şey okumanızda sakınca yok. Bunun yanında ben kurgusal olmayan kitapların kurgusal kitaplardan daha iyi olduğunu düşünüyorum. Araştırmalar sosyolojik tespitler felsefe. Ama kurgusal kitapların da değeri azımsanamaz.
 
 Özellikle sosyolojik tespitlerin bilimselliği konusunda emin olamıyoruz. Kişisel gelişim kitaplarının bilimselliğinden emin olunamadığı gibi. Bu nedenle onlara biraz şüpheci yaklaşmakta fayda görüyorum.
-
-
-## Liste
-
-* Notes From Underground - Fyodor Dostoyevski
-* Dale Carniage - How to Win Friends and Influence People
-* Tao Te Ching - Lao Tzu
-* Alain De Bottom - The News: A User's Manual
-* 12 Rules For Life - Jordan Peterson
-* Beyond Good And Evil - Friedrich Nietzsche
-* Seneca - Letters From A Stoic
-* Meditations - Marcus Aurelious
-* Epictetus - Discourses
-* Cheklist Manifesto
 
 ## Kitap Okuma Hakkında Notlar
 
@@ -38,6 +24,22 @@ Gerçekten okuyabiliyorsanız, dinleyebileceğinizden daha hızlı okuyabilirsin
 Kendini ifade etmenin çok büyük öneme sahip olduğu bir çağda yaşıyoruz. Kendimizi sözlü olduğu kadar yazılı ifade etmek de bunun bir parçası. Kitap ya da bir deneme düşünceye en yakın şey. Kendini doğru dürüst ifade edebilecek insan sayısı gerçekten az. Onlardan biri olmak ise yalnızca okuyarak mümkün.
 
 Kitapların büyük bir kısmını çevirilerinden okuduğumuzdan orjinalinden farklı bir dünya ile karşı karşıya kalabiliyoruz. Çeviri iyiyse sorun yok fakat kötüyse kitaba gölge düşürebilir. Bir kitabı orjinalinden okumakla çevirisinden okumak arasında daima fark olacaktır.
+
+## Okuma Sırası
+
+* Notes From Underground - Fyodor Dostoyevski
+* Dale Carniage - How to Win Friends and Influence People
+
+## İlgimi Çeken
+
+* Tao Te Ching - Lao Tzu
+* Alain De Bottom - The News: A User's Manual
+* 12 Rules For Life - Jordan Peterson
+* Beyond Good And Evil - Friedrich Nietzsche
+* Seneca - Letters From A Stoic
+* Meditations - Marcus Aurelious
+* Epictetus - Discourses
+* Cheklist Manifesto
 
 ## Dostoyevski - Yeraltından Notlar
 
