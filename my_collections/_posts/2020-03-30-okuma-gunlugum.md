@@ -9,7 +9,7 @@ tags: [Kitap, Gelişim] # add tag
 
 <img src="https://dotplix.github.io/assets/img/okuma-listesi.jpg"  width="600" alt="alt">
 
-Okumak günümüzde bir insanı diğerlerinden ayırt eden en önemli şeylerden biri. Hayata dair doğru bir perspektif geliştirmek adına kendimize verebileceğimiz en büyük hediyelerden biri olarak görüyorum. Okumak benim için her zaman değerli bir uğraş oldu. Küçüklükten beri hasbel kader bu alışkanlığın kazandırıldığı çocuklardan biri olduğumu söylebilirim. Fakat üzerine giderek keskinleştirme fırsatım pek olmadı. Bir okuma listesine sahip olmayı bu anlamda anlamlı görüyorum.
+Okumak insanlar her zaman ayırt edici bir özellik olmuştur. Bir okuma listesine sahip olmanın faydası var. Okumak benim için her zaman değerli bir uğraş oldu. Küçüklükten beri hasbel kader bu alışkanlığın kazandırıldığı çocuklardan biri olduğumu söylebilirim. Fakat üzerine giderek keskinleştirme fırsatım pek olmadı.
 
 Tabi ki her kitap aynı değil. Ne okuduğunuz önemli. Ama ne olursa olsun okumak gerekiyor. Sizi yalnızca eğlendirdiği için bir şey okumanızda sakınca yok. Bunun yanında ben kurgusal olmayan kitapların kurgusal kitaplardan daha iyi olduğunu düşünüyorum. Araştırmalar sosyolojik tespitler felsefe. Ama kurgusal kitapların da değeri azımsanamaz.
 
