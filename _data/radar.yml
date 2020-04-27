@@ -1,3 +1,8 @@
+- name: "Kitap"
+  id: "0010"
+  date:
+  desc: "<ul><li>Nuri Bilge Ceylan Söyleşiler: Nuri Bilge Ceylan edebiyattan çok etkilenmiş.</li><li>Karanlık Bir Dünyada Bilimin Mum Işığı, Carl Sagan</li><li>Kör Saatçi, Tübitak 2002 Baskısı</li></ul>"
+
 - name: "Bipolar Disorder"
   id: "0009"
   date:
