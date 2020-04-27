@@ -1,3 +1,7 @@
+- name: "Kibir"
+  id: "0018"
+  desc: "Kendini fazla önemsemek tüm bu hastalıklara neden olur. Günahların en büyüğüne düşüp kendini fazla önemsemeyen birinin kafası asla bulanmaz."
+
 - name: "Dalga"
   id: "0017"
   desc: "İnsan ruhu dalgalanır. Bu insan olmanın sıkıntılı taraflarından biri. Kimi zaman zevk peşinde koşan, kimi zaman iş yapmak zorunda kalan, üzülen, sevinen. Skor elde eden, reklam yapan. Göz boyayan. Bizler bu dalgalanmanın dışında bulunmalıyız."
@@ -24,7 +28,7 @@
 
 - name: "İnsanların çoğu..."
   id: "0011"
-  desc: "İnsanların çoğunun gerçekten ileriye bakan bir ilişkiyi kaldırabilecek duygusal ağırlığa sahip olduğunu düşünmek hata olur. Herşeyden önce ne istediğini kendi de bilmiyor olabilir. Kendini yeterince iyi ifade edemiyor olabilir."
+  desc: "İnsanların çoğunun gerçekten ileriye bakan bir ilişkiyi kaldırabilecek duygusal ağırlığa sahip olduğunu düşünmek hata olur. Herşeyden önce ne istediğini kendi de bilmiyor olabilir. Kendini yeterince iyi ifade edemiyor olabilir. Sen onun yerine onu anlamalısın. Gerekirse onu kendinden daha iyi anlamalısın."
 
 - name: "Motivation"
   id: "0010"
