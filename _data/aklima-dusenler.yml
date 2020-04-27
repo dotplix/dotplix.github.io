@@ -1,3 +1,7 @@
+- name: "Gizli Söz"
+  id: "0019"
+  desc: "Gizli söz ile olur herşey. Dar bir insan topluluğuna hitap eder. Yalnızca takipcisine gider. Takipci hazır değilse arttırıcı olmak yerine etkisiz ya da tam tersi azaltıcıdır."
+
 - name: "Gurur"
   id: "0018"
   desc: "Kendinizi fazla önemsemek, ruhun bu hastalıklarına neden olur. Günahların en büyüğüne düşmeden kendini fazla önemsemeyen birinin kafası asla bulanmaz. Bu kendine özen göstermekten kaçınmak ya da çekingenlik anlamına gelmez."
