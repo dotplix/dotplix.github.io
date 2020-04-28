@@ -1,3 +1,7 @@
+- name: "Ölümü Anımsatmak"
+  id: "0020"
+  desc: "Nietzsche ne öğretir. Ölürüm de ölümü anımsatmaktan. Sıkıcı olmaktan korkarım. Yaşlı kafalı olmaktan korkarım."
+  
 - name: "Gizli Söz"
   id: "0019"
   desc: "Gizli söz ile olur herşey. Dar bir insan topluluğuna hitap eder. Yalnızca takipcisine gider. Takipci hazır değilse arttırıcı olmak yerine etkisiz ya da tam tersi azaltıcıdır."
