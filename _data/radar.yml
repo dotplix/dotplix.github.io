@@ -1,4 +1,9 @@
 - name: "Kitap"
+  id: "0011"
+  date: "29.04.2020"
+  desc: "Kaybedilen Zaferler Erich von Manstein"
+  
+- name: "Kitap"
   id: "0010"
   date:
   desc: "<ul><li>Nuri Bilge Ceylan Söyleşiler: Nuri Bilge Ceylan edebiyattan çok etkilenmiş. Anton Çehov, Fyodor Dostoyevski </li><li>Karanlık Bir Dünyada Bilimin Mum Işığı, Carl Sagan</li><li>Kör Saatçi, Tübitak 2002 Baskısı</li></ul>"
