@@ -7,9 +7,6 @@ img: notes_underground1.jpg
 tags: [Kitap, Gelişim] # add tag
 ---
 
-<img src="https://dotplix.github.io/assets/img/notes_underground2.jpg"  width="600" alt="alt">
-
-
 Dostoyevski'nin insan doğasını anlatmaktaki iyi olduğu yönünde bir kanı var. Yeraltından notlar için Dostoyevski'nin en devrimci çalışması deniliyor. Roman boyunca ana tema, Dostoyevski'nin insandaki en büyük güç ve aynı zamanda göze çarpan zayıflık olduğuna inandığı insanın yoğun kendilik duygusu.
 
 Kitap bir bakıma şaşırtıcı derecede modern. Tıpkı bugün sanat filmlerinde olduğu gibi bir his bırakıyor. Biz hikayenin sonunu gördüğümüzden bu etkiyi anlamak biraz zor oluyor. Öncelikle böyle bir karaktere yer vermenin romancı açısından ne kadar ilerlemeci (progressive) bir yapıt olduğunu görmeliyiz. Dönemin paradigmasının çok dışında. Bir şok etkisi yaratıyor. Daha sonra düşünceleri dünyayı o kadar etkileyecek ki varoluşçu felsefe üzerinde derin izleri olacak. Bir mihenk taşı olacak. Bugün etkisini o kadar görüyoruz ki bu orijinallik artık klasikleşmeye başlıyor.
@@ -29,6 +26,16 @@ Lafın inceliğini ve üslubunu ayarlarken romancılığı kullanıp söyleyen k
 Dostoyevski'nin kurduğu sahnede notların yazarı Bir tür kendini aklama peşindedir. Bazen gerçekten zekice şeyler söyler. Ama biraz dengesizdir. Okuyucusuna yaranmak için her türlü dalkavukluğu yapar. O bir düzenbaz (trickster)'dır. Siz buna bakarak eğlenirsiniz. O ise bundan biraz pişman olur. Siz hafif acır gibi olursunuz. Ama o bunu fark eder mağrur davranır. Acımanıza ihtiyacı yoktur.
 
 Kitabın giriş cümleri baştan okuyucuya mesafeyi veriyor. Dostoyevski kitap boyunca bu mesafeyle hep akıllıca oynayacak. Buradan bir gerçeklik çıkaracak. Seni senden iyi tanıdığını sana ispat edecek. 
+
+### Kitaptan Bazı Alıntılar
+
+* I. Kitap
+    * Süvari İle Takışma
+* II. Kitap
+    * Zverkov Akşam Yemeği
+    * Lisa İle Görüşme
+    * Apollon
+    * Lisa'nın Eve Gelmesi
 
 ### Kitaptan Bazı Alıntılar
 
