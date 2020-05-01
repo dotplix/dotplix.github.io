@@ -3,11 +3,11 @@ layout: post
 title: Yeraltından Notlar
 date: 2020-05-01 00:00:00 +0300
 description: 
-img: okuma-listesi.jpg
+img: notes_underground1.jpg
 tags: [Kitap, Gelişim] # add tag
 ---
 
-<img src="https://dotplix.github.io/assets/img/okuma-listesi.jpg"  width="600" alt="alt">
+<img src="https://dotplix.github.io/assets/img/notes_underground2.jpg"  width="600" alt="alt">
 
 
 Dostoyevski'nin insan doğasını anlatmaktaki iyi olduğu yönünde bir kanı var. Yeraltından notlar için Dostoyevski'nin en devrimci çalışması deniliyor. Roman boyunca ana tema, Dostoyevski'nin insandaki en büyük güç ve aynı zamanda göze çarpan zayıflık olduğuna inandığı insanın yoğun kendilik duygusu.
