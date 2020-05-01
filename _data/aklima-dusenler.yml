@@ -1,10 +1,18 @@
+- name: "Here I Collect"
+  id: "0022"
+  desc:  "The "Radar" which basicly consist of basicly reseach topics I want to explore more. Here I try to collect something different -more philosophical thoughts- as a free thinking experiment."
+
+- name: "Body And The Software"
+  id: "0021"
+  desc:  "Maybe we are upper souls directing that avatar. Avatar consist of body and its software. By itself it doesn't mean anyhing."
+
 - name: "Ölümü Anımsatmak"
   id: "0020"
-  desc: "Nietzsche ne öğretir. Ölürüm de ölümü anımsatmaktan. Sıkıcı olmaktan korkarım. Yaşlı kafalı olmaktan korkarım."
+  desc: "Nietzsche ne öğretir? Sıkıcı olan ölüme çeker. Onu anımsatır. İnsan da bu sıkışmayı çözemezse yaşlandıkça ölüme çekebilir. Ne yapıp et sıkıcı olma. Yaşamı çağrıştıranla bağlantını koparma. Zihninin eskimesine izin verme."
   
 - name: "Gizli Söz"
   id: "0019"
-  desc: "Gizli söz ile olur herşey. Dar bir insan topluluğuna hitap eder. Yalnızca takipcisine gider. Takipci hazır değilse arttırıcı olmak yerine etkisiz ya da tam tersi azaltıcıdır."
+  desc: "Her şey heryerde söylenmez. Gizli söz ile olur herşey. Dar bir insan topluluğuna hitap eder. Yalnızca takipcisine gider. Takipci hazır değilse arttırıcı olmak yerine etkisiz ya da tam tersi azaltıcıdır."
 
 - name: "Gurur"
   id: "0018"
@@ -16,11 +24,11 @@
 
 - name: "Korkusuzca"
   id: "0016"
-  desc: "Korku kurgusal bir şeydir. Bu ilkel mekanizma sizi bağlar. Gerçek dünya ile çoğu zaman bir ilgisi bulunmaz."
+  desc: "Korkular... Bu gerçek dünya ile çoğu zaman bir ilgisi bulunmayan kurgusal, ilkel mekanizma sizi bağlar. "
 
 - name: "Entelektüelleştirmek"
   id: "0015"
-  desc: "Gerekmedikçe hiçbirşeyi entelektüelleştirmemek gerekiyor. Bazen bu yalnızca bir savunma mekanizması. Gerçek dünyaya etkide bulunmaktansa onun karşısında donakalmak bunu da bilgiçlikle gizlemek yaygın bir problem. Bilgiç görünmek ile gerçekten bilmek arasında fark var. Ne nerd ol ne douchebag."
+  desc: "Gerekmedikçe hiçbirşeyi entelektüelleştirmemek gerekiyor. Bazen bu yalnızca bir savunma mekanizması. Gerçek dünyaya etkide bulunmaktansa onun karşısında donakalmak bunu da bilgiçlikle gizlemek yaygın bir problem. Bilgiç görünmek ile gerçekten bilmek arasında fark var. Ne nerd ol ne douchebag. Bunu bilinçle yıkabilirsin ama bunun yarattığı öfke de içinde kalmamalı."
 
 - name: "Atfedilen Ağırlık"
   id: "0014"
@@ -40,11 +48,11 @@
 
 - name: "Motivation"
   id: "0010"
-  desc: "We are a gift to the existence. So we care. We care everything about ourselves. Our looks. Our body. Our habbits. Our clothes. The things we eat. The way we talk."
+  desc: "We are a gift to the existence. So we care. We care everything about ourselves. Our looks. Our body. Our habbits. Our clothes. The things we eat. The way we talk. Everything is meaningless except you care. If you care than every move is goddamn important."
 
 - name: "Soulless"
   id: "0009"
-  desc: "But It's hard to sense our soul. We are soulless in a way.And thinking like that can clear our perspective a little. At least it's not vain."
+  desc: "But It's hard to sense our soul. We are soulless in a way. Thinking like that can clear our perspective a little. At least it's not vain."
 
 - name: "Keep In Mind"
   id: "0008"
@@ -74,4 +82,3 @@
 - name: "Objects"
   id: "0001"
   desc: "Are we big enough to became nobody? Big enough to became distant from ourselves and recognize outselves as mere objects. Or agents maybe."
-  
