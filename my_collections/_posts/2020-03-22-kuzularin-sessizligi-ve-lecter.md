@@ -9,11 +9,11 @@ tags: [Psikoloji, Film] # add tag
 
 <img src="https://dotplix.github.io/assets/img/silence_of_the_lambs.jfif"  width="600" alt="alt">
 
-2003 yılında Antony Hopkins tarafından canlandıran Hannibal Lecter karakteri Amerikan Film Enstitüsü tarafından tüm zamanların 1 numaralı kötü adamı olarak seçildi. Hopkins filmde 24 dakika 52 saniye gözükmesine rağmen 1992’de Akademi Ödülleri’nde En İyi Erkek Oyuncu Oscarını aldı. Karakterin tanınmasında Hopkins'in The Silence of the Lambs (Kuzuların Sessizliği) ve Hannibal gösterdiği ustaca performansın yeri büyük. Psikolojik korku ve gerilimin sınırlarını zorlayan bu karanlık karakter onu ucuz bir çizgiroman kötüsü olmaktan çok daha fazlası haline getiren bir etkiye cevap veriyor. Peki Lecter'ı bu kadar orijinal yapan ne?
+2003 yılında Amerikan Film Enstitüsü tarafından Antony Hopkins tarafından canlandıran Hannibal Lecter karakteri tüm zamanların 1 numaralı kötü adamı olarak seçildi. Hopkins filmde 24 dakika 52 saniye gözükmesine rağmen 1992’de Akademi Ödülleri’nde En İyi Erkek Oyuncu Oscarını aldı. Karakterin tanınmasında Hopkins'in The Silence of the Lambs (Kuzuların Sessizliği) ve Hannibal gösterdiği ustaca performansın yeri büyük. Psikolojik korku ve gerilimin sınırlarını zorlayan bu karanlık karakter aynı zamanda entelektüel bir süperkahraman. Onu ucuz bir çizgiroman kötüsü olmaktan çok daha fazlası haline getiren bir etkiye cevap veriyor. Peki Lecter'ı özünde bu kadar orijinal yapan ne?
 
 Lecter hikaye içindeki sunuluş şekli ve zekası ile hemen sıyrılıyor. Lecter bu yönüyle Joker’den bile daha incelikli bir yerde. Son Joker filmini yorumlaması istendiğinde Slavoj Zizek filmin Joker'e psikososyal bir hikaye verme çabasını manalı bulmadığını belirterek Lecter'a atıfta bulunuyor.
 
->Bütün bu yanlış şartlar toplumun onu dışlaması vs... Aslında bu tarz anti kahramanlarda bu yanlış bir yaklaşım. Onlar aslında birer mucize. Elbette bazı şartların sonuçları olsalar da oluşan etki tamamen farklı. Aynı şartlar altındaki pek çok insan Joker olmuyor. Benzer şekilde acı çekseler bile bu onları Joker yapmıyor. Burada Burada Hannibel Lecter'dan bir satır aklıma geliyor. Lecter'ı sorguladıklarında. Bilirsiniz nasıl hapse düştüğünü nasıl Lecter olduğunu. Psikologlar başına ne gelmesi hangi drama'nın bir Lecter gerektiğini sorguluyorlar. Onun çok güzel bir cevabı var. Bana hiçbir şey olmadı ben dünyaya oldum.
+>Bu tarz anti kahramanlarda bütün bu yanlış şartlar toplumun onu dışlaması gibi durulmar aslında  yanlış bir yaklaşım. Onlar aslında birer mucize. Elbette bazı şartların sonuçları oluyorlar. Fakat oluşan etki tamamen farklı. Aynı şartlar altındaki pek çok insan Joker olmuyor. Benzer şekilde acı çekseler bile bu onları Joker yapmıyor. Burada Burada Hannibel Lecter'dan bir satır aklıma geliyor. Lecter'ı sorguladıklarında. Bilirsiniz nasıl hapse düştüğünü nasıl Lecter olduğunu. Psikologlar başına ne gelmesi hangi drama'nın bir Lecter gerektiğini sorguluyorlar. Onun çok güzel bir cevabı var. Bana hiçbir şey olmadı. Ben dünyaya oldum.
 
 Lecter bu yönüyle belki de *doğa*nın bu enteresan yönünü yansıtıyor. Bütün o düşük ihtimalli bir nevi mucizevi ölümcül ve güzel hayvanlarına baktığımızda ne kadar kaotik ne kadar mantığa ters bir şekilde güzel ve öldürücü olduklarını görüyoruz. Bu arkaik bir tema olarak zihinlerimizde yer alıyor. Lecter gibi tuhaf karakterlere duyulan heyecenın kaynağı bu olabilir.
 
@@ -49,15 +49,15 @@ Filmin ve romanın bir tür satirik abartı içerisinde olduğunu söylemek müm
 
 <img src="https://dotplix.github.io/assets/img/clarice_starling.jpg" alt="">
 
-Lecter derin bir felsefik arkaplana sahip olduğunu görüyoruz. Bu felsefik arkaplan Roma İmparatoru ve stoacı filozof Marcus Aurelius'un Meditations kitabından yaptığı bir alıntıda görüyoruz.
+Entelektüel Lecter bekleneceği üzere derin bir felsefik arkaplana sahip. Bu felsefik arkaplan Roma İmparatoru ve stoacı filozof Marcus Aurelius'un Meditations kitabından yaptığı bir alıntıda görüyoruz.
 
 Lecter tarafından yapılan alıntı şu şekilde:
 > İlk ilkeler, Clarice. Basitlik. Marcus Aurelius'u oku. Her bir şey için sor: Kendi içinde nedir? Doğası nedir? Ne yapar, bu aradığınız adam?
 
-Lecter'ın stil sahibi olmayan herşeye duyulan derin "yoketme hissi" yine onun adına yapılmış bir numara. Bu yoketme hissi nefret değil aslında. Yapılması gereken bir iş gibi. Bir tür jest. Durum bir şekilde ona karizma kazandırıyor. Filmin de avantajı olan katile katile sorma durumu. Ona muhtaç kalınması. Hayatın bu karanlık bir cilvesi tıpkı Harry Potter'daki Snape gibi çift taraflı ajanın karizmasını kazandırıyor. İyi ama bir yönü kötüye dönük.
+Lecter'ın stil sahibi olmayan herşeye duyduğu derin "yoketme hissi" yine onun adına yapılmış bir numara. Bu yoketme hissi nefret değil aslında. Yapılması gereken bir iş gibi. Bir tür jest. Durum bir şekilde ona karizma kazandırıyor. Filmin de avantajı olan katile katile sorma durumu. Ona muhtaç kalınması. Hayatın bu karanlık bir cilvesi tıpkı Harry Potter'daki Snape gibi çift taraflı ajanın karizmasını kazandırıyor. İyi ama bir yönü kötüye dönük.
 
 Hannibal yaptıklarının gerilimi, ondan istenen şey, yukarıdaki tarif ettiğimiz özellikler. Konuşmaya başlaması. Konuşmaya başladığında keskin bir koku alma duygusuna sahip olduğunu ve bunu parfümleri tanımak için kullandığını görüyoruz. Cam paravan ardından Starling'in bir gün önce sürdüğü parfümün kokusunu alıyor.
 
 Oyuncu Antony Hopkins de tıpkı Hannibal gibi klasik sanat'a derin hayranlık besliyor. Kuzuların Sessizliği'nin senaryosunun kendisine gönderileceğini duyduğunda bunun bir çocuklara yönelik bir uyku masalı olduğunu düşünmüş. Senaryoyu okuduğunda ise hayatında pek çok şeyin değişeceğini anladığını söylemiş. Rolün kendisine gelmesi Elephant Man'deki Treeves rolünün etkisi olmuş. Lecter insancıl hatta merhametli olsa da her birimizin içinde gizli kalmış gölgeli bir figür olduğunu. Kendisini klasik müzik konserlerinde görmek mümkün. Andre Rieu and the Johann Strauss Orchestra konserinde görebiliyoruz. Günümüzde takip etmesi zorlu bir kültürel çizginin izini sürüyor.
 
-Bizler için de doğru olan bu belki. Bu eski moda çizginin izini sürmek.
+Bizler ne süperkahraman olacağız ne de bir psikopat ama belki bu eski moda çizginin izini sürmek bizim için eğlenceli olabilir.
