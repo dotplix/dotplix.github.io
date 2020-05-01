@@ -1,12 +1,12 @@
-- name: "Kitap"
+- name: "Breaking The Waves"
   id: "0012"
   date: ""
-  desc: "Breaking The Waves"
+  desc: "A movie directed in dogma 95 style."
 
 - name: "Kitap"
   id: "0011"
   date: "29.04.2020"
-  desc: "Kaybedilen Zaferler Erich von Manstein"
+  desc: "Kaybedilen Zaferler - Erich von Manstein"
   
 - name: "Kitap"
   id: "0010"
