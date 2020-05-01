@@ -12,11 +12,11 @@ tags: [Kitap, Gelişim] # add tag
 
 Okumak sıradanlaşma tehlikesine yüz tuttuğumuz günümüzde bir insanı diğerlerinden ayırt eden en önemli özelliklerden biri. Hayata dair doğru bir perspektif geliştirmek adına kendimize verebileceğimiz en büyük hediyelerden biri olarak görüyorum. Okumak benim için her zaman değerli bir uğraş oldu. Küçüklükten beri hasbel kader bu alışkanlığın kazandırıldığı çocuklardan biri olduğumu söylebilirim. Fakat üzerine giderek keskinleştirmek adına bir okuma listesine sahip olmayı bu anlamda anlamlı görüyorum.
 
-Tabi ki her kitap aynı değil. Ne okuduğunuz önemli. Ama ne olursa olsun okumak gerekiyor. Sizi yalnızca eğlendirdiği için bir şey okumanızda sakınca yok. Bunun yanında ben kurgusal olmayan kitapların kurgusal kitaplardan daha iyi olduğunu düşünüyorum. Hedef her zaman kurgusal olmayan dünyayı anlamamızı sağlayacak kitaplar olmalı. Ama kurgusal kitapların da değeri azımsanamaz. Özellikle temel bir entelektüel arkaplan oluşturmak için Dostoyevski, Çehov gibi edebi yazarları okumak şart.
+Tabi ki her kitap aynı değil. Ne okuduğunuz önemli. Ama ne olursa olsun okumak gerekiyor. Sizi yalnızca eğlendirdiği için bir şey okumanızda sakınca yok. Bunun yanında ben kurgusal olmayan kitapların kurgusal kitaplardan daha iyi olduğunu düşünüyorum. Hedef her zaman kurgusal olmayan dünyayı anlamamızı sağlayacak kitaplar olmalı. Ama kurgusal kitapların da değeri azımsanamaz. Özellikle temel bir entelektüel arkaplan oluşturmak için Dostoyevski, Tolstoy, Puşkin, Gogol, Çehov gibi edebi yazarların yanında Freud, Marx, Nietzche gibi edebiyat dışından yazarları da okumak istiyorum.
 
 Özellikle sosyolojik tespitlerin bilimselliği konusunda emin olamıyoruz. Kişisel gelişim kitaplarının bilimselliğinden emin olunamadığı gibi. Bu nedenle onlara biraz şüpheci yaklaşmakta fayda görüyorum.
 
-Birçoğumuz dizilere ve filmlere yönelmiş vaziyetteyiz. Oysa zihnimizi keskinleştirmek ve entelektüel anlamda bir fark yaratmak istiyorsak gerçek bir okuyucu olmak şart. Kendini tekrar eden dizilere ve filmlere harcadığımız zamanı okuyarak verimli bir şekilde değerlendirmek mümkün.
+Birçoğumuz dizilere ve filmlere yönelmiş vaziyetteyiz. Oysa zihnimizi keskinleştirmek ve entelektüel anlamda bir fark yaratmak istiyorsak gerçek bir okuyucu olmak şart. Kendini tekrar eden dizilere ve filmlere harcadığımız zamanı okuyarak daha verimli bir şekilde değerlendirmek mümkün.
 
 ## Kitap Okuma Hakkında Notlar
 
