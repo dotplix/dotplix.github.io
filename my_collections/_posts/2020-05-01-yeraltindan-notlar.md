@@ -38,7 +38,7 @@ Kitabın giriş cümleri baştan okuyucuya mesafeyi veriyor. Dostoyevski kitap b
 
 > Gerçek, tam bir hastalıktır. Sıradan bir bilinç, insanın yaşaması için fazlasıyla yeterlidir.
 
-### Neden Şlgimi çekti?
+### Neden İlgimi çekti?
 
 Kısa bir kitap yalnızca 150 sayfa kadar. Daha önce tavsiye edildiğini ve referans gösterildiğine çok şahit oldum. Dostoyevski'nin insan doğasını anlatmakta iyi olduğu yönünde bir kanı var.
 
