@@ -11,7 +11,7 @@ tags: [Psikoloji, Film] # add tag
 
 2003 yılında Amerikan Film Enstitüsü tarafından Antony Hopkins tarafından canlandıran Hannibal Lecter karakteri tüm zamanların 1 numaralı kötü adamı olarak seçildi. Hopkins filmde 24 dakika 52 saniye gözükmesine rağmen 1992’de Akademi Ödülleri’nde En İyi Erkek Oyuncu Oscarını aldı. Karakterin tanınmasında Hopkins'in The Silence of the Lambs (Kuzuların Sessizliği) ve Hannibal gösterdiği ustaca performansın yeri büyük. Psikolojik korku ve gerilimin sınırlarını zorlayan bu karanlık karakter aynı zamanda entelektüel bir süperkahraman. Onu ucuz bir çizgiroman kötüsü olmaktan çok daha fazlası haline getiren bir etkiye cevap veriyor. Peki Lecter'ı özünde bu kadar orijinal yapan ne?
 
-Lecter hikaye içindeki sunuluş şekli ve zekası ile hemen sıyrılıyor. Lecter bu yönüyle Joker’den bile daha incelikli bir yerde. Son Joker filmini yorumlaması istendiğinde Slavoj Zizek filmin Joker'e psikososyal bir hikaye verme çabasını manalı bulmadığını belirterek Lecter'a atıfta bulunuyor.
+Lecter hikaye içindeki sunuluş şekli ve zekası ile hemen sıyrılıyor. Lecter bu yönüyle Joker’den bile daha incelikli bir yerde. 2019 tarihli Joker filmini yorumlaması istendiğinde Slavoj Zizek filmin  Lecter'a inginç bir atıfta bulunuyor.
 
 >Bu tarz anti kahramanlarda bütün bu yanlış şartlar toplumun onu dışlaması gibi durulmar aslında  yanlış bir yaklaşım. Onlar aslında birer mucize. Elbette bazı şartların sonuçları oluyorlar. Fakat oluşan etki tamamen farklı. Aynı şartlar altındaki pek çok insan Joker olmuyor. Benzer şekilde acı çekseler bile bu onları Joker yapmıyor. Burada Burada Hannibel Lecter'dan bir satır aklıma geliyor. Lecter'ı sorguladıklarında. Bilirsiniz nasıl hapse düştüğünü nasıl Lecter olduğunu. Psikologlar başına ne gelmesi hangi drama'nın bir Lecter gerektiğini sorguluyorlar. Onun çok güzel bir cevabı var. Bana hiçbir şey olmadı. Ben dünyaya oldum.
 
@@ -37,7 +37,6 @@ Hopkins'in canlandırdığı Hannibal karakterinin özelliklerine baktığım
 * Göründüğü her sahnede entellektüel açıdan parlak, kültürlü, sofistike, sanata ve müziğe meraklı mutfakta rafine zevklere sahip olarak biri olarak portre ediliyor.
 * Bir şekilde iyi eğitim almış olduğu anlaşılıyor. İtalyanca, Almanca, Rusça gibi birçok dili konuşuyor.
 * Müthiş bir dikkate sahip. Sıklıkla kurbanlarının etinden gurme yemekler hazırlıyor. Hannibal'ın bu özelliği katil oluşu tekrar tekrar hatırlatılıyor. 
-* Bir sahnede sayım memurunun ciğerini "biraz bakla ve güzel bir Chianti'yle" afiyetle yediğini söylüyor.
 * İnsanların kabalıklarından derin bir gücenme duyuyor. Sıklıkla tavırlarını nezaketsiz gördüğü insanları öldürüyor. 
 * Yakalanmasından ve Baltimore'da hapsedilmesinden önce Maryland'ın sosyal elitlerinden.Baltimore Filarmoni orkestrasının yönetiyor.
 * Kuzuların sessizliğinde Dr. Lecter Starling'in gözünden ufak, zarif, elleri ve kolları tıpkı kendisinin olduğu gibi güçlü ve sırım gibi dayanıklı olarak tarif ediliyor.
@@ -45,7 +44,7 @@ Hopkins'in canlandırdığı Hannibal karakterinin özelliklerine baktığım
 * Eidetic bir hafızası var. <em>Loci yöntemini</em> kullanıyor. Hislerini ve hatıralarını zengin detaylarıyla zihninde inşa ettiği "hafıza sarayı"nda saklıyor.
 * Romanda filmde belirtilmeyen bir detay var. Lecter "mid ray duplication polydactyly" denilen hastalık sebebiyle çift orta parmağa sahip. Hannibal romanında çeşitli nedenlerle kendi yüzüne estetik ameliyat yapıyor ve fazla parmağını da alıyor.
 
-Filmin ve romanın bir tür satirik abartı içerisinde olduğunu söylemek mümkün. Sonuçda drama olduğundan gerçeği biraz abartıyor. Lecter'ın bu anlamda bir süperkahraman olduğunu söylemek mümkün. Lecter açısından film bir süperkahraman filmi. Olaylar onun gücünü açığa çıkaracak şekilde kurgulanıyor. Bunun yanında kaotik bir element olarak Lecter aşırı üstün olduğundan olaylarla oynuyor.
+Filmin ve romanın bir tür satirik abartı içerisinde olduğunu söylemek mümkün. Lecter'ın bu anlamda bir süpermen olduğunu söylemek mümkün.
 
 <img src="https://dotplix.github.io/assets/img/clarice_starling.jpg" alt="">
 
@@ -58,6 +57,6 @@ Lecter'ın stil sahibi olmayan herşeye duyduğu derin "yoketme hissi" yine onun
 
 Hannibal yaptıklarının gerilimi, ondan istenen şey, yukarıdaki tarif ettiğimiz özellikler. Konuşmaya başlaması. Konuşmaya başladığında keskin bir koku alma duygusuna sahip olduğunu ve bunu parfümleri tanımak için kullandığını görüyoruz. Cam paravan ardından Starling'in bir gün önce sürdüğü parfümün kokusunu alıyor.
 
-Oyuncu Antony Hopkins de tıpkı Hannibal gibi klasik sanat'a derin hayranlık besliyor. Kuzuların Sessizliği'nin senaryosunun kendisine gönderileceğini duyduğunda bunun bir çocuklara yönelik bir uyku masalı olduğunu düşünmüş. Senaryoyu okuduğunda ise hayatında pek çok şeyin değişeceğini anladığını söylemiş. Rolün kendisine gelmesi Elephant Man'deki Treeves rolünün etkisi olmuş. Lecter insancıl hatta merhametli olsa da her birimizin içinde gizli kalmış gölgeli bir figür olduğunu. Kendisini klasik müzik konserlerinde görmek mümkün. Andre Rieu and the Johann Strauss Orchestra konserinde görebiliyoruz. Günümüzde takip etmesi zorlu bir kültürel çizginin izini sürüyor.
+Oyuncu Antony Hopkins de tıpkı Hannibal gibi klasik sanat'a derin hayranlık besliyor. Kuzuların Sessizliği'nin senaryosunun kendisine gönderileceğini duyduğunda bunun bir çocuklara yönelik bir uyku masalı olduğunu düşünmüş. Senaryoyu okuduğunda ise hayatında pek çok şeyin değişeceğini anladığını söylemiş. Rolün kendisine gelmesi Elephant Man'deki Treeves rolünün etkisi olmuş. Lecter insancıl hatta merhametli olsa da her birimizin içinde gizli kalmış gölgeli bir figür olduğunu. Kendisini klasik müzik konserlerinde görmek mümkün. Andre Rieu and the Johann Strauss Orchestra konserinde görebiliyoruz. Günümüzde takip etmesi zorlu bir kültürel çizginin izini sürüyor. 
 
-Bizler ne süperkahraman olacağız ne de bir psikopat ama belki bu eski moda çizginin izini sürmek bizim için eğlenceli olabilir.
+Bu eski moda çizginin izini sürmek bizim için eğlenceli olabilir.
