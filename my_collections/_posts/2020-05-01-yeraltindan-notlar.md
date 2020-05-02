@@ -29,9 +29,11 @@ Kitabın giriş cümleri baştan okuyucuya mesafeyi veriyor. Dostoyevski kitap b
 
 ### Kitaptan Bazı Alıntılar
 
+Kitap ilginç bir kurguya sahip. İlk bölümde notların yazarı kendini anlatırken ikinci bölümde başından geçen olayları anlatıyor.
+
 * I. Kitap
     * Süvari İle Takışma
-* II. Kitap
+* II. Kitap : Sulu Sepken Üzerine
     * Zverkov Akşam Yemeği
     * Lisa İle Görüşme
     * Apollon
@@ -49,11 +51,13 @@ Kitabın giriş cümleri baştan okuyucuya mesafeyi veriyor. Dostoyevski kitap b
 
 Kısa bir kitap yalnızca 150 sayfa kadar. Daha önce tavsiye edildiğini ve referans gösterildiğine çok şahit oldum. Dostoyevski'nin insan doğasını anlatmakta iyi olduğu yönünde bir kanı var.
 
-Takip ettiğim JBP derslerinin etkisi oldu. Özellikle alıntı yaptığı insanın bir piyano tuşu olmamak için her şeyi yapacağı ile ilgili bölüm beni etkilemişti. Bu alıntıdaki dilin çok daha çarpıcı olduğunu belirtmeliyim.
+Takip ettiğim JBP* derslerinin etkisi oldu. Özellikle alıntı yaptığı insanın bir piyano tuşu olmamak için her şeyi yapacağı ile ilgili bölüm beni etkilemişti. Bu alıntıdaki dilin çok daha çarpıcı olduğunu belirtmeliyim.
 
-### Hangi versiyonunu okudum?
+* https://www.youtube.com/watch?v=97jBvbmY03g
 
-Pek iyi bir versiyon olmadığı yönünde şüphelerim var. Biraz araştırmadan aldığım bir kitap olmuş.
+### Hangi baskısını okudum?
+
+Pek iyi bir baskı olmadığı yönünde şüphelerim var. Biraz araştırmadan aldığım bir kitap olmuş.
 
 ```
 Remzi Kitabevi Nisan 2018
@@ -66,7 +70,7 @@ Kapak: Öer Erduran
 
 ### Kitaptan ne ölçüde etkilendim ?
 
-Çok fazla etkilenmedim. Özellikle bunalımlar ve aşk acıları diğer insanlara karşı aşırı düşüncelere Stefan Zweig kitaplarından biraz aşinayım. Kitabın ününü varoluşçu felsefe üzerindeki etkisinden kısmen anlasam da belki de çeviri sebebiyle bu etki biraz kırmış olabilir. Daha önce de bahsettiğim gibi hikayenin sonunu baştan gördüğümden tarihsel perspektif içerisindeki etkisini hissedemiyoruz. Özellikle yazarın kendisini anlattığı ilk bölümde zekice paragraflar var. Daha sonra tekrar farklı bir çeviri veya İngilizce versiyonu okunabilir.
+Çok fazla etkilenmedim. Özellikle bunalımlar ve aşk acıları diğer insanlara karşı aşırı düşüncelere Stefan Zweig kitaplarından biraz aşinayım. Kitabın ününü varoluşçu felsefe üzerindeki etkisinden kısmen anlasam da belki de çeviri sebebiyle bu etki biraz kırılmış olabilir. Daha önce de bahsettiğim gibi hikayenin sonunu baştan gördüğümüzden tarihsel perspektif içerisindeki etkisini hissedemiyoruz. Özellikle yazarın kendisini anlattığı ilk bölümde zekice paragraflar var. Daha sonra tekrar farklı bir çeviri veya İngilizce versiyonu okunabilir.
 
 ### Kaç puan veririm?
 
