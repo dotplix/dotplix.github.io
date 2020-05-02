@@ -1,30 +1,34 @@
 - name: "Here I Collect"
-  id: "0023"
-  desc:  "The Radar which consist of basic reseach topics that I want to explore more. Here I try to collect something different -more philosophical thoughts- as a thinking experiment."
+  id: "0024"
+  desc:  "While "Radar" is basically consist of research topics that I want to investigate more, I try to do something different here and share more philosophical thoughts as a thinking experiment."
 
 - name: "Body And The Software"
-  id: "0022"
+  id: "0023"
   desc:  "Maybe we are upper souls directing that avatar. Avatar consist of body and its software. By itself it doesn't mean anyhing."
 
 - name: "Ölümü Anımsatmak"
-  id: "0021"
+  id: "0022"
   desc: "Nietzsche ne öğretir? Sıkıcı olan ölüme çeker. Onu anımsatır. İnsan da bu sıkışmayı çözemezse yaşlandıkça ölüme çekebilir. Ne yapıp et sıkıcı olma. Yaşamı çağrıştıranla bağlantını koparma. Zihninin eskimesine izin verme."
   
 - name: "Gizli Söz"
-  id: "0020"
+  id: "0021"
   desc: "Her şey heryerde söylenmez. Gizli söz ile olur herşey. Dar bir insan topluluğuna hitap eder. Yalnızca takipcisine gider. Takipci hazır değilse arttırıcı olmak yerine etkisiz ya da tam tersi azaltıcıdır."
 
 - name: "Gurur"
-  id: "0019"
+  id: "0020"
   desc: "Kendinizi fazla önemsemek, ruhun bu hastalıklarına neden olur. Günahların en büyüğüne düşmeden kendini fazla önemsemeyen birinin kafası asla bulanmaz. Bu kendine özen göstermekten kaçınmak ya da çekingenlik anlamına gelmez."
 
 - name: "Dalga"
-  id: "0018"
+  id: "0019"
   desc: "İnsan ruhu dalgalanır. Bu insan olmanın sıkıntılı taraflarından biri. Kimi zaman zevk peşinde koşan, kimi zaman istemediği bir iş yapmak zorunda kalan, üzülen, sevinen. Skor elde eden, reklamını yapan. Göz boyayan. Bizler bu dalgalanmanın dışında bulunmalıyız."
 
 - name: "Since Everybody Fails"
-  id: "0017"
+  id: "0018"
   desc:  "Since everybody fails please don't focus on your little mistakes. Of course they count but nobody cares them in a short term. Do what you can to make circumtances better now. Dramatical act of showing weakness is not making it any better."
+
+- name: "Cleverness"
+  id: "0017"
+  desc: "They say nobody is dissatisfied with their cleverness. But what did the unnamed minds of a mad scientists with an extreme acuteness? Thats what you will see in that practice."
 
 - name: "Korkular"
   id: "0016"
@@ -68,7 +72,7 @@
 
 - name: "No Authenticity"
   id: "0006"
-  desc: "Of course we are for authenticity. But we should know the value of being above of everything. Never shouldn't underestimate it. Its pure."
+  desc: "Of course we are for the authenticity. But we should know the value of being above of everything. Never shouldn't underestimate it. Its pure."
 
 - name: "A Ghost"
   id: "0004"
