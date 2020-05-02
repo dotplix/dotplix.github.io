@@ -1,6 +1,10 @@
+- name: "Sıyrıldık mı"
+  id: "0025"
+  desc: "Ve sıyrıldık mı dünya üzerinde durmanın sarhoşluğundan. </br>Ona hiç sahip olmayanlardan daha bile canlıyız."
+
 - name: "Here I Collect"
   id: "0024"
-  desc:  "While "Radar" is basically consist of research topics that I want to investigate more, I try to do something different here and share more philosophical thoughts as a thinking experiment."
+  desc:  "While Radar is basically consist of research topics that I want to investigate more, I try to do something different here and share more philosophical thoughts as a thinking experiment."
 
 - name: "Body And The Software"
   id: "0023"
