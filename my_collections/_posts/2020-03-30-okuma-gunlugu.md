@@ -7,7 +7,7 @@ img: okuma-listesi.jpg
 tags: [Kitap, Gelişim] # add tag
 ---
 
-<img src="https://dotplix.github.io/assets/img/okuma-listesi.jpg"  width="600" alt="alt">
+<img src="https://tozbulut.github.io/assets/img/okuma-listesi.jpg"  width="600" alt="alt">
 
 
 Okumak sıradanlaşma tehlikesine yüz tuttuğumuz günümüzde bir insanı diğerlerinden ayırt eden en önemli özelliklerden biri. Hayata dair doğru bir perspektif geliştirmek adına kendimize verebileceğimiz en büyük hediyelerden biri olarak görüyorum. Okumak benim için her zaman değerli bir uğraş oldu. Küçüklükten beri hasbel kader bu alışkanlığın kazandırıldığı çocuklardan biri olduğumu söylebilirim. Fakat üzerine giderek keskinleştirmek adına bir okuma listesine sahip olmayı bu anlamda anlamlı görüyorum.
