@@ -4,7 +4,7 @@ title: Yeraltından Notlar
 date: 2020-05-01 00:00:00 +0300
 description: 
 img: notes_underground1.jpg
-tags: [Kitap, Gelişim] # add tag
+tags: [Dostoyevski, İnsan, Roman, Psikoloji] # add tag
 ---
 
 Dostoyevski'nin insan doğasını anlatmaktaki iyi olduğu yönünde bir kanı var. Yeraltından notlar için Dostoyevski'nin en devrimci çalışması deniliyor. Roman boyunca ana tema, Dostoyevski'nin insandaki en büyük güç ve aynı zamanda göze çarpan zayıflık olduğuna inandığı insanın yoğun kendilik duygusu.
@@ -29,7 +29,8 @@ Kitabın giriş cümleri baştan okuyucuya mesafeyi veriyor. Dostoyevski kitap b
 
 ### Kitaptan Bazı Alıntılar
 
-Kitap ilginç bir kurguya sahip. İlk bölümde notların yazarı kendini anlatırken ikinci bölümde başından geçen olayları anlatıyor.
+Kitap ilginç bir kurguya sahip. İlk bölümde notların yazarı kendini anlatırken ikinci bölümde başından geçen olayları anlatıyor. İlk bölüm tamamen yazarın fikirlerini anlatırken ikinci bölümde yazarı faklı durumlarda buluyoruz.
+
 
 * I. Kitap
     * Süvari İle Takışma
@@ -78,4 +79,4 @@ Kapak: Öer Erduran
 
 ### İleriki Okumalar
 
-Daha sonra Karamazov Kardeşler'ini okumayı düşünüyorum. Çernişevski'nin Ne Yapmalı'sı da ilgimi çektiğini söylemeliyim.
+Daha sonra Karamazov Kardeşler'ini okumayı düşünüyorum. Suç ve Ceza, Budala ve Ecinniler okumak istediğim kitaplar arasında. Yeraltından Notlar'a etkisinden sonra Çernişevski'nin Ne Yapmalı'sı da ilgimi çektiğini söylemeliyim.

@@ -1,8 +1,13 @@
-- name: "Breaking The Waves"
+- name: "Kitap - Tank Girl"
+  id: "0013"
+  date: "02.05.2020"
+  desc: "British post-apocalyptic comic series by Alan Martin and Jamie Hewlett that was originally published in Deadline magazine."
+  
+- name: "Kitap - Amak-ı Hayal"
   id: "0012"
-  date: ""
-  desc: "A movie directed in dogma 95 style."
-
+  date: "02.05.2020"
+  desc: "A book about ..."
+  
 - name: "Kitap"
   id: "0011"
   date: "29.04.2020"

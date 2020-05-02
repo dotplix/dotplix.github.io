@@ -1,3 +1,21 @@
+* İnşa edilen benliğin nasıl sahte olduğu. Ne kadar hatalarla dolu olduğu.
+* Teffekkür çok zahmet gerektiriyor. DIşarıdan veri almak daha kolay. SIkılmamak mümkün değil tabi. 
+* Self-flagellation
+* Zizek Nunes
+* Fırsat Geldiğinde insanların isteklerikle pazarlık et. Bilinçaltı istekleriyle.
+* Frost Nixon
+* Hayatın versiyonlarını kavrayabilmek için. YOksa hayatı bütünsel olarak göremiyoruz.
+* Dışsal çatışmadan ziyade içsel 
+* Raskolnikov, 'Bazı insanların zihinsel kapasiteleri daha yüksektir. Bunun dışında bir de gözden çıkartılabilir insanlar vardır.'
+* Honoré de Balzac
+* marina abramovic
+* Ulysees
+* https://www.youtube.com/watch?v=1SuHkY2wAQA
+* wake the fuck up samurai we have a city the burn
+
+
+--------------------------------------------------------------------------------------------
+
 ## HyperNormalisation
 * Power
 * Keep the market stable	

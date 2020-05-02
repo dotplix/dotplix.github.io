@@ -50,15 +50,13 @@ Okumanın bir diğer sırrı yazılı metnin pek çok açıdan insan düşünces
 * Cheklist Manifesto
 * Jung, Carl: Aion
 * Shirer, William L: The Rise and Fall of the Third Reich
-
+* Kör Saatçi - Richard Dawkins
+* Karanlık Bir Dünyada Bilimin Mum Işığı - Carl Sagan
 
 ## Kitap Listeleri
 
 * Jordan Peterson - Great Books
 * https://www.jordanbpeterson.com/great-books/
-
-## Dostoyevski - Yeraltından Notlar
-
 
 ## Ne Okumalı?
 
