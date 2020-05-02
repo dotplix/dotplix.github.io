@@ -29,8 +29,7 @@ Kitabın giriş cümleri baştan okuyucuya mesafeyi veriyor. Dostoyevski kitap b
 
 ### Kitaptan Bazı Alıntılar
 
-Kitap ilginç bir kurguya sahip. İlk bölümde notların yazarı kendini anlatırken ikinci bölümde başından geçen olayları anlatıyor. İlk bölüm tamamen yazarın fikirlerini anlatırken ikinci bölümde yazarı faklı durumlarda buluyoruz.
-
+Kitap iki bölümden oluşuyor. İlkinde karakteri ve hayata bakışını, ikncisinde ise günlük hayatta başına gelen çeşitli olaylara dair notları okuyorsunuloz.
 
 * I. Kitap
     * Süvari İle Takışma
