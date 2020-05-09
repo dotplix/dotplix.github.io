@@ -4,16 +4,16 @@ title: Yeraltından Notlar
 date: 2020-05-01 00:00:00 +0300
 description: 
 img: notes_underground1.jpg
-tags: [Dostoyevski, İnsan, Roman, Psikoloji] # add tag
+tags: [Dostoyevski, İnsan, Roman, Psikoloji]
 ---
 
-Dostoyevski'nin insan doğasını anlatmaktaki iyi olduğu yönünde bir kanı var. Yeraltından notlar için Dostoyevski'nin en devrimci çalışması deniliyor. Roman boyunca ana tema, Dostoyevski'nin insandaki en büyük güç ve aynı zamanda göze çarpan zayıflık olduğuna inandığı insanın yoğun kendilik duygusu.
+Yeraltından Notlar uzun zamandır okumak istediğim bir romandı. Dostoyevski'nin insan doğasını anlatmaktaki iyi olduğu yönünde bir kanı var. Yeraltından Notlar için Dostoyevski'nin en fark yaratan çalışması deniliyor. Roman boyunca ana tema, Dostoyevski'nin *insandaki en büyük güç ve aynı zamanda en göze çarpan zayıflık* olduğuna inandığı insanın yoğun kendilik duygusu.
 
-Kitap bir bakıma şaşırtıcı derecede modern. Tıpkı bugün sanat filmlerinde olduğu gibi bir his bırakıyor. Biz hikayenin sonunu gördüğümüzden bu etkiyi anlamak biraz zor oluyor. Öncelikle böyle bir karaktere yer vermenin romancı açısından ne kadar ilerlemeci (progressive) bir yapıt olduğunu görmeliyiz. Dönemin paradigmasının çok dışında. Bir şok etkisi yaratıyor. Daha sonra düşünceleri dünyayı o kadar etkileyecek ki varoluşçu felsefe üzerinde derin izleri olacak. Bir mihenk taşı olacak. Bugün etkisini o kadar görüyoruz ki bu orijinallik artık klasikleşmeye başlıyor.
+Yeraltından Notlar'ın gerek anlatmak istedikleri gerekse bunları anlatış biçimi bakımından 1864 yılında yazılmış bir romana göre şaşırtıcı derecede modern. Tıpkı bugünün sanat filmlerinde olduğu gibi gri bir his bırakıyor. Bizler okuyucular olarak hikayenin sonunu gördüğümüzden değiştirici etkisini anlamak biraz zor olabilir. Öncelikle böyle bir karaktere yer vermenin romancı açısından ne kadar ilerlemeci bir hamle olduğunu görmeliyiz. Dönemin düşünce stilinin çok dışında. Bir şok etkisi yaratıyor. Daha sonra beslediği damarlar o kadar dünyayı o kadar etkileyecek kültür, felsefe ve edebiyat üzerinde derin izlerini göreceğiz. Yeraltından Notlar bu anlamda bir kilometre taşı olacak. Bugün etki o kadar yayılmış ki bu orijinallik artık klasikleşmeye başladığı bir dönemdeyiz.
 
 > "Daha o zamanlarda bile yeraltını ruhumda taşıyordum." - Yeraltından Notlar
 
-Kitabı okurken sıklıkla kendimi karakterin hatalarının neler olabileceğini düşünürken buldum. Çok düşünüyor. Bir tür fazla bilinçlenme problemi yaşıyor. Özellikle başka insanlar ile ilgili. Hastalığının kendisi de farkında. İnsanlara ve yaşamın geneline derin bir kin duyuyor. Aynı zamanda bir beğenilme arzusu sevgi arayışı var fakat asla yerini bulmuyor.
+Romanın ana karakteri çok *sağlıklı* biri değil. Kitabı okurken sıklıkla kendimi karakterin hatalarının neler olabileceğini düşünürken buldum. İlk aklıma gelen çok düşünmesi oldu. Bir tür fazla bilinçlenme problemi yaşıyor. Özellikle başka insanlar ile ilgili. Hastalığının kendisi de farkında. İnsanlara ve yaşamın geneline derin bir kin duyuyor. Aynı zamanda bir beğenilme arzusu sevgi arayışı var fakat asla yerini bulmuyor.
 
 Birtakım güçlü yönleri var. Bunları daha çok kendi özel amaçları için kullanıyor. Memurluğunu başkalarına eziyet etmek için kullanması. Ağzının laf yapmasını ise Liza'nın kafasını karıştırmak, aklını çelmek için kullanması gibi. Notların yazarının sıklıkla kötücül etkileri ve bundan aldığı bir zevk var. Bir yerde kötülüğün doğası üzerine bir yapıt olduğunu söylemek mümkün sanıyorum. Karakterinin benzerlerinin toplumda olduğu vurgusunu sıklıkla yapıyor. Notların yazarı sıklıkla ben sizim diyor.
 
