@@ -7,29 +7,25 @@ img: notes_underground1.jpg
 tags: [Dostoyevski, İnsan, Roman, Psikoloji]
 ---
 
-Yeraltından Notlar uzun zamandır okumak istediğim bir romandı. Dostoyevski'nin insan doğasını anlatmaktaki iyi olduğu yönünde bir kanı var. Yeraltından Notlar için Dostoyevski'nin en fark yaratan çalışması deniliyor. Roman boyunca ana tema, Dostoyevski'nin *insandaki en büyük güç ve aynı zamanda en göze çarpan zayıflık* olduğuna inandığı insanın yoğun kendilik duygusu.
+Yeraltından Notlar uzun zamandır okumak istediğim bir romandı. Dostoyevski'nin insan doğasını anlatmaktaki iyi olduğu yönünde bir yorum var. Yeraltından Notlar, Dostoyevski'nin tabir-i caizse en "garip" çalışması. Roman boyunca ana tema, Dostoyevski'nin *insandaki en büyük güç ve aynı zamanda en göze çarpan zayıflık* olduğuna inandığı insanın yoğun kendilik duygusu.
 
-Yeraltından Notlar'ın anlatmak istedikleri ve anlatış biçimi 1864 yılında yazılmış bir romana göre şaşırtıcı derecede modern. Tıpkı bugünün sanat filmlerinde olduğu gibi gri bir his bırakıyor. Bizler okuyucular olarak hikayenin sonunu gördüğümüzden değiştirici etkisini anlamak biraz zor olabilir. Öncelikle böyle bir karaktere yer vermenin romancı açısından ne kadar ilerlemeci bir hareket olduğunu görmeliyiz. Dönemin düşünce stilinin çok dışında. Bir şok etkisi yaratıyor. Daha sonra beslediği damarlar ile kültür, felsefe ve edebiyat üzerinde derin izlerini göreceğiz. Yeraltından Notlar bu anlamda bir kilometre taşı. Bugün etki o kadar yayılmış ki bu orijinallik artık klasikleşiyor.
+Yeraltından Notlar anlatmak istedikleri ve anlatış biçimi açısından 1864 yılında basılmış bir romana göre şaşırtıcı derecede modern. Tıpkı bugünün sanat filmlerinde olduğu gibi gri bir his bırakıyor. Bizler okuyucular olarak hikayenin sonunu gördüğümüzden değiştirici etkisini anlamak biraz zor olsa da böyle bir karaktere yer vermenin romancı açısından ne kadar ilerlemeci bir hareket olduğunu görmek gerekiyor. Yayınlandığı dönemde düşünce stilinin çok dışındaki bu eser daha sonra beslediği damarlar ile kültür, felsefe ve edebiyat üzerinde derin izler bırakacak. Yeraltından Notlar bu anlamda bir kilometre taşı. Bugün bu etki o kadar yayılmış ki bugün biraz onun dünyasında yaşıyoruz. Bu orijinallik artık klasikleşiyor.
 
 > "Daha o zamanlarda bile yeraltını ruhumda taşıyordum." - Yeraltından Notlar
 
-Romanın ana karakteri çok *sağlıklı* biri değil. Kitabı okurken sıklıkla kendimi karakterin hatalarının neler olabileceğini düşünürken buldum. İlk aklıma gelen çok düşünmesi oldu. Bir tür fazla bilinçlenme problemi yaşıyor. Özellikle başka insanlar ile ilgili. Hastalığının kendisi de farkında. İnsanlara ve yaşamın geneline derin bir kin duyuyor. Aynı zamanda bir beğenilme arzusu sevgi arayışı var fakat asla yerini bulmuyor.
+Yeraltından Notlar için ne söylenebilir? Romanın trajikomik ana karakteri çok *sağlıklı* biri değil. Kitabı okurken sıklıkla yaptığı hataları düşündüm. İlk aklıma gelen çok düşünmesi oldu. Bir tür fazla bilinçlenme problemi yaşıyor. Özellikle başka insanlar ile ilgili. Hastalığının kendisi de farkında. İnsanlara ve yaşamın geneline derin bir kin duyuyor. İlişkilerinden yoğun bir gücenme duyduğu insanlar tarafından beğenilmek istiyor.
 
-Birtakım güçlü yönleri var. Bunları daha çok kendi özel amaçları için kullanıyor. Memurluğunu başkalarına eziyet etmek için kullanması. Ağzının laf yapmasını ise Liza'nın kafasını karıştırmak, aklını çelmek için kullanması gibi. Notların yazarının sıklıkla kötücül etkileri ve bundan aldığı bir zevk var. Bir yerde kötülüğün doğası üzerine bir yapıt olduğunu söylemek mümkün sanıyorum. Karakterinin benzerlerinin toplumda olduğu vurgusunu sıklıkla yapıyor. Notların yazarı sıklıkla ben sizim diyor.
+Kitabın giriş cümleri baştan okuyucuya mesafeyi veriyor. Dostoyevski kitap boyunca bu mesafeyle hep akıllıca oynayacak. Buradan bir gerçeklik çıkaracak. Okuyucuyu ondan iyi tanıdığını ona ispat edecek. Yarattığı karakterin birtakım güçlü yönleri var. Bunları daha çok kendi özel amaçları için kullanıyor. Memurluğunu başkalarına eziyet etmek için kullanması. Ağzının laf yapmasını ise Liza'nın kafasını karıştırmak, aklını çelmek için kullanması gibi. Notların yazarının sıklıkla kötücül etkileri ve bundan aldığı bir zevk var. Pislik bir herifin notlarını okuyorsunuz. Bulacağınız da biraz pislik oluyor haliyle. Bir yerde kötülüğün doğası üzerine bir yapıt olduğunu söylemek mümkün. Karakterinin benzerlerinin toplumda olduğu vurgusu var. Okuyucu açısından şaşırtıcı ve gerçek bir tecrübe bu. Notların yazarı sıklıkla ben sizim diyor.
+
+Dostoyevski'nin incelikle kurguladığı sahnede notların yazarı bir tür kendini aklama peşinde. Bazen gerçekten zekice şeyler söylüyor. Ama biraz dengesiz. Okuyucusuna yaranmak için her türlü dalkavukluğu yapıyor. Biraz düzenbaz biraz sıkılgan. Siz buna bakarak eğleniyorsunuz. O ise bundan biraz pişman oluyor. Siz hafif acır gibi oluyorsunuz. Ama o bunu fark ediyor ve mağrur davranıyor. Acımanıza ihtiyacı yok.
+
+Söyleyeceğini karaktere söyleterek anlatımı güçlendirip önyargıyı kırdıktan sonra bunu çağın ve insanının ruhunu anlatmak için kullanacak. Notların yazarının hayata bakışını anlattığı bölümde ilginç bölümler var.
 
 Kitabın önsözünde yer aldığı üzere Dostoyevski'nin Yeraltından Notlar'ı bir yıl önce 1986'dan bir yıl önce yayınlanan Çernişevski'nin Ne Yapmalı? adlı eserine tepki olarak yazılmış. Çernişevski insan duygularının da doğanın bir parçası olduklarını bilinebilirliğini ve öngörülebilirliğini savunduğu eserinde Rahmetov karakteri disiplinli ve fedakalıkla dolu çileci bir yaşam sürüyor. Lenin kitabı birden fazla kez okuyup ilham almış. Dostoyevski Sovyet sisteminin çöküşünden sonra güncellik kazanıyor. Çernişevskinin kendini yeniden biçimlendiren insan fikrinin ütopik toplumuna alternatif oluşturuyor. 
 
-Dostoyevski "Kristal Saray"'a karşı olarak insanın çoğu kez kendi izole ve bencil dünyasında kendi çıkarına aykırı olsa da irrasyonel kararlar alabileceğini savunuyor. Üstelik insan bunu yalnızca özgür iradesini korumak için yapabileceğini söylüyor. İnsanın doğasındaki grotesk güzellik Çernişevski'nin dünyasının tam zıttı.
+Dostoyevski "Kristal Saray"'a karşı olarak insanın çoğu kez kendi izole ve bencil dünyasında kendi çıkarına aykırı olsa da irrasyonel kararlar alabileceğini savunuyor. Üstelik insan bunu yalnızca özgür iradesini korumak için yapabileceğini söylüyor. İnsandaki bu delice hal, Çernişevski'nin dünyasının tam zıttı olan insanın doğasındaki bu grotesk güzellik Dostoyevski'ye göre insanı değerli yapan tam da bu.
 
-Lafın inceliğini ve üslubunu ayarlarken romancılığı kullanıp söyleyen kişiyi de tanımlıyor. Söyleyeceğini karaktere söylereterek anlatımı güçlendirip önyargıyı kırıyor. Sizi kurgusal bir oyuna davet ediyor. Pislik bir herifin notlarını okuyorsunuz. Bulacağınız da biraz pislik oluyor haliyle. 
-
-Dostoyevski'nin kurduğu sahnede notların yazarı Bir tür kendini aklama peşindedir. Bazen gerçekten zekice şeyler söyler. Ama biraz dengesizdir. Okuyucusuna yaranmak için her türlü dalkavukluğu yapar. O bir düzenbaz (trickster)'dır. Siz buna bakarak eğlenirsiniz. O ise bundan biraz pişman olur. Siz hafif acır gibi olursunuz. Ama o bunu fark eder mağrur davranır. Acımanıza ihtiyacı yoktur.
-
-Kitabın giriş cümleri baştan okuyucuya mesafeyi veriyor. Dostoyevski kitap boyunca bu mesafeyle hep akıllıca oynayacak. Buradan bir gerçeklik çıkaracak. Seni senden iyi tanıdığını sana ispat edecek. 
-
-### Kitaptan Bazı Alıntılar
-
-Kitap iki bölümden oluşuyor. İlkinde karakteri ve hayata bakışını, ikncisinde ise günlük hayatta başına gelen çeşitli olaylara dair notları okuyorsunuloz.
+Kitap iki bölümden oluşuyor. İlkinde karakteri ve hayata bakışını, ikncisinde ise günlük hayatta başına gelen çeşitli olaylara dair notları okuyorsunuz.
 
 * I. Kitap
     * Süvari İle Takışma
@@ -41,6 +37,9 @@ Kitap iki bölümden oluşuyor. İlkinde karakteri ve hayata bakışını, iknci
 
 ### Kitaptan Bazı Alıntılar
 
+* Zeki insanların asla bir baltaya sap olamayacağı, olanların az biraz aptal olması gerektiği.
+* Gençlik geçicidir.
+
 > Gençliğine güvenme; o gün göz açıp kapayana kadar gelecek!
 
 > Öyle ya, belki yalnızca mutluluğu sevmiyordur insan? Belki aynı ölçüde acıyı da seviyordur? Belki acı da mutluluk kadar çıkarınadır?
@@ -49,7 +48,7 @@ Kitap iki bölümden oluşuyor. İlkinde karakteri ve hayata bakışını, iknci
 
 ### Neden İlgimi çekti?
 
-Kısa bir kitap yalnızca 150 sayfa kadar. Daha önce tavsiye edildiğini ve referans gösterildiğine çok şahit oldum. Dostoyevski'nin insan doğasını anlatmakta iyi olduğu yönünde bir kanı var.
+Kısa bir kitap yalnızca 150 sayfa kadar. Daha önce tavsiye edildiğini ve referans gösterildiğine çok şahit oldum. Dostoyevski'nin insan doğasını anlatmakta iyi olduğu yönünde bir yorum var.
 
 Takip ettiğim JBP* derslerinin etkisi oldu. Özellikle alıntı yaptığı insanın bir piyano tuşu olmamak için her şeyi yapacağı ile ilgili bölüm beni etkilemişti. Bu alıntıdaki dilin çok daha çarpıcı olduğunu belirtmeliyim.
 
