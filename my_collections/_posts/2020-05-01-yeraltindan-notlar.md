@@ -13,7 +13,7 @@ Yeraltından Notlar anlatmak istedikleri ve anlatış biçimi açısından 1864 
 
 > "Daha o zamanlarda bile yeraltını ruhumda taşıyordum." - Yeraltından Notlar
 
-Yeraltından Notlar için ne söylenebilir? Romanın trajikomik ana karakteri çok *sağlıklı* biri değil. Kitabı okurken sıklıkla yaptığı hataları düşündüm. İlk aklıma gelen çok düşünmesi oldu. Bir tür fazla bilinçlenme problemi yaşıyor. Özellikle başka insanlar ile ilgili. Hastalığının kendisi de farkında. İnsanlara ve yaşamın geneline derin bir kin duyuyor. İlişkilerinden yoğun bir gücenme duyduğu insanlar tarafından beğenilmek istiyor.
+Yeraltından Notlar için ne söylenebilir? Romanın trajikomik ana karakteri çok *sağlıklı* biri değil. Kitabı okurken sıklıkla yaptığı hataları düşündüm. İlk aklıma gelen çok düşünmesi oldu. Bir tür fazla bilinçlenme problemi yaşıyor. Özellikle başka insanlar ile ilgili. Hastalığının kendisi de farkında. İnsanlara ve yaşamın geneline derin bir kin duyuyor. İlişkilerinden yoğun bir gücenme duysa da insanların beğenisini istiyor.
 
 Kitabın giriş cümleri baştan okuyucuya mesafeyi veriyor. Dostoyevski kitap boyunca bu mesafeyle hep akıllıca oynayacak. Buradan bir gerçeklik çıkaracak. Okuyucuyu ondan iyi tanıdığını ona ispat edecek. İsimsiz karakterin birtakım güçlü yönleri var. Bunları daha çok kendi özel amaçları için kullanıyor. Memurluğunu başkalarına eziyet etmek için kullanması. Ağzının laf yapmasını ise Liza'nın kafasını karıştırmak, aklını çelmek için kullanması gibi. Notların yazarının sıklıkla kötücül etkileri ve bundan aldığı bir zevk var. Pislik bir herifin notlarını okuyorsunuz. Bulacağınız da biraz pislik oluyor haliyle. Bir yerde kötülüğün doğası üzerine bir yapıt olduğunu söylemek mümkün. Karakterinin benzerlerinin toplumda olduğu vurgusu var. Okuyucu açısından şaşırtıcı ve gerçek bir tecrübe bu. Notların yazarı sıklıkla ben sizim diyor.
 
@@ -25,9 +25,9 @@ Kitabın önsözünde yer aldığı üzere Dostoyevski'nin Yeraltından Notlar'�
 
 Dostoyevski "Kristal Saray"'a karşı olarak insanın çoğu kez kendi izole ve bencil dünyasında kendi çıkarına aykırı olsa da irrasyonel kararlar alabileceğini savunuyor. Üstelik insan bunu yalnızca özgür iradesini korumak için yapabileceğini söylüyor. İnsandaki bu delice hal, Çernişevski'nin dünyasının tam zıttı olan insanın doğasındaki bu grotesk güzellik Dostoyevski'ye göre insanı değerli yapan tam da bu.
 
-Kitap iki bölümden oluşuyor. İlkinde karakteri ve hayata bakışını, ikncisinde ise günlük hayatta başına gelen çeşitli olaylara dair notları okuyorsunuz.
-
 ### Kitabın Düzeni
+
+Roman iki bölümden oluşuyor. İlkinde bölüm karakteri ve hayata bakışını tanıtıyor. Bu bölümde ilginç sosyolojik tespitler var. İkincisinde ise günlük hayatta başına gelen çeşitli olaylara dair anılar var. İlkine teori ikinci kısma ise pratik diyebiliriz. 
 
 * I. Kitap
     * Süvari İle Takışma
