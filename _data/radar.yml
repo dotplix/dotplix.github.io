@@ -1,3 +1,23 @@
+- name: "16 Kişilik Tipi"
+  id: "0016"
+  date: "05.06.2020"
+  desc: "https://www.16personalities.com/"
+
+- name: "Ardahan Gülen Adam"
+  id: "0015"
+  date: "02.05.2020"
+  desc: "https://www.youtube.com/watch?v=b-QEDiESE8c"
+    
+- name: "How to use social media?"
+  id: "0014"
+  date: "02.05.2020"
+  desc: "What do i know?"
+    
+- name: "How to write an essay?"
+  id: "0014"
+  date: "02.05.2020"
+  desc: ""
+  
 - name: "Kitap - Tank Girl"
   id: "0013"
   date: "02.05.2020"
@@ -61,4 +81,4 @@
 - name: "Academic Papers and How To Read Them"
   id: "0001"
   date:
-  desc: "A research topic."
+  desc: "A research topic. What an academic writing process consist of?"
