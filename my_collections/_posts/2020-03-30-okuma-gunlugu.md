@@ -55,8 +55,8 @@ Okumanın bir diğer sırrı yazılı metnin pek çok açıdan insan düşünces
 
 ## Kitap Listeleri
 
-* Jordan Peterson - Great Books
-* https://www.jordanbpeterson.com/great-books/
+* Jordan Peterson - Great Books https://www.jordanbpeterson.com/great-books/
+* BBC - Bigread Nation's Best Loved Novel https://www.bbc.co.uk/arts/bigread/top100.shtml
 
 ## Ne Okumalı?
 
