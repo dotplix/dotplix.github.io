@@ -9,26 +9,10 @@ layout: default
   <li><a href="{{site.baseurl}}/tags/" id="two-link" style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0);">Etiketler</a></li>
   <li><a href="{{site.baseurl}}/hakkinda" id="six-link" style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0);">Hakkında</a></li>
 </ul>
+<p>{{site.author}}</p>
+<p>{{site.about-author}}</p>
+<p>{{site.time | date: '%Y'}} &copy; {{site.author}}</p>
 
-
-<aside class="sidebar">
-  <header>
-    <div class="about">
-    
-      <div class="author-name">{{site.author}}</div>
-      <p>{{site.about-author}}</p>
-     
-    </div>
-  </header> <!-- End Header -->
-  <footer>
-    <section class="contact">
-
-    </section> <!-- End Section Contact -->
-    <div class="copyright">
-      <p>{{site.time | date: '%Y'}} &copy; {{site.author}}</p>
-    </div>
-  </footer> <!-- End Footer -->
-</aside> <!-- End Sidebar -->
 <div class="content-box clearfix">
   {{ content }}
 </div>
