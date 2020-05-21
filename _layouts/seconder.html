@@ -22,26 +22,40 @@ layout: third
 </ul>
 </div></div>
 </div>
-<div class="hero">
+
+
+<div>
+  <div>
   <img src="/assets/img/0d14925.png">
-  <p>Original Artwork © <a href="http://yalestewart.deviantart.com/art/We-Will-Be-dasdasdGiants-370176475">Dsae Sawwart</a></p>
+</div>
 </div>
 
 
 <p>{{site.author}}</p>
 <p>{{site.about-author}}</p>
 <p>{{site.time | date: '%Y'}} &copy; {{site.author}}</p>
+
+<div>
 {% for post in site.posts %}
-<article>
-  <h2>
+
+
+
+<div>
+
+  <div>
     <a href="{{ post.url }}">
       {{ post.title }}
     </a>
-  </h2>
-  <time datetime="{{ post.date | date: "%Y-%m-%d" }}">{{ post.date | date_to_long_string }}</time>
-</article>
-{% endfor %}
+  </div>
 
+
+  <div>
+  <time datetime="{{ post.date | date: "%Y-%m-%d" }}">{{ post.date | date_to_long_string }}</time>
+</div>
+
+</div>
+{% endfor %}
+</div>
 <div class="content-box clearfix">
   {{ content }}
 </div>
