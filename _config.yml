@@ -37,41 +37,6 @@ paginate_path: "/page/:num"
 
 exclude: ["node_modules", "gulpfile.js", "package.json", "yarn.lock"]
 
-collections:
-  sinema:
-    output: true
-    permalink: /sinema/:name
-  kitaplar:
-    output: true
-    permalink: /kitaplar/:name
-  felsefe:
-    output: true
-    permalink: /felsefe/:name
-  sanat:
-    output: true
-    permalink: /sanat/:name
-  teknoloji:
-    output: true
-    permalink: /teknoloji/:name
-  muzik:
-    output: true
-    permalink: /muzik/:name
-  tarih:
-    output: true
-    permalink: /tarih/:name
-  antreman:
-    output: true
-    permalink: /antreman/:name
-  beslenme:
-    output: true
-    permalink: /beslenme/:name
-  dusunceler:
-    output: true
-    permalink: /dusunceler/:name
-  meta:
-    output: true
-    permalink: /meta/:name
-
 
 defaults:
   - 
