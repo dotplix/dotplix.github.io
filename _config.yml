@@ -1,1 +1,3 @@
 markdown: kramdown
+collections_dir: my_collections
+url: "https://tozbulut.github.io"
