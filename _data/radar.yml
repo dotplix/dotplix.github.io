@@ -1,0 +1,59 @@
+- name: "Breaking The Waves"
+  id: "0012"
+  date: ""
+  desc: "A movie directed in dogma 95 style."
+
+- name: "Kitap"
+  id: "0011"
+  date: "29.04.2020"
+  desc: "Kaybedilen Zaferler - Erich von Manstein"
+  
+- name: "Kitap"
+  id: "0010"
+  date:
+  desc: "<ul><li>Nuri Bilge Ceylan Söyleşiler: Nuri Bilge Ceylan edebiyattan çok etkilenmiş. Anton Çehov, Fyodor Dostoyevski </li><li>Karanlık Bir Dünyada Bilimin Mum Işığı, Carl Sagan</li><li>Kör Saatçi, Tübitak 2002 Baskısı</li></ul>"
+
+- name: "Bipolar Disorder"
+  id: "0009"
+  date:
+  desc: "https://www.nimh.nih.gov/health/publications/bipolar-disorder/index.shtml"
+
+- name: "Happy People: A Year in the Taiga"
+  id: "0008"
+  date:
+  desc: "A documentary about people live in hard circumtances. Pushing beyond the limits. Spiritual awakening. Self imposing hardship. Resillience is a muscle. Earning the comfort. If you dont earn it you feel bad, shame. Because you know. Putting the time."
+
+- name: "Tech News"
+  id: "0007"
+  date:
+  desc: "A research topic. How to get time effective tech news? How to get that kind of news?"
+  
+- name: "Comedian Dina Hashem"
+  id: "0006"
+  date:
+  desc: "..."
+
+- name: "Joe Rogan Experience 1221 - Jonathan Haidt"
+  id: "0005"
+  date:
+  desc: "A podcast. Bullying</br>01:00 – on modern Academia and scholarships</br> 17:28 – what’s messing us up as a society</br> 23:37 – POTUS and polarization of American society</br> 32:22 – What is good education and what makes you smart</br> 43:15 – on racism</br> 45:00 – describes black social media</br> 59:41 – modern day teaching</br> 1:10:30 – about parenting</br> 1:21:14 – on mental illness</br> 1:30:11 – keep your kids from getting addicted to gadgets and gizmos in bedroom</br> 1:48:03 – can teaching be fun and motivating</br> 1:56:20 – debate shitty ideas with arguments, not force</br> </br>Parenting, what is the policy about of letting them out</br> Unsupervized Free Play best way to kids learn </br> Teach kids about Abducted, Molested</br> Kids suicide rates, Overprotection, Social media causes depression anxiety and suicide</br>"
+
+- name: "The Coddling of the American Mind - Jonathan Haidt"
+  id: "0004"
+  date:
+  desc: "A book about social life of modern American society."
+
+- name: "Antifragility - Nassim Nicholas Taleb"
+  id: "0003"
+  date:
+  desc: "A book. Immune System is antifragile, kids are antifragile... "
+  
+- name: "Science Magazine"
+  id: "0002"
+  date:
+  desc: "A research topic. There are articles on Science magazine. Is it free? How to access it? Is it interesting enough?"
+  
+- name: "Academic Papers and How To Read Them"
+  id: "0001"
+  date:
+  desc: "A research topic."
