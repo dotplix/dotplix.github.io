@@ -1,90 +1,36 @@
-# Notlarında Yer Alıyordu, Serbest Düşünce Akışı, Karanlık Sanatlara Karşı Savunma Dersi.
-title: Tozbulut - Gezegendeki Olası Hayatlardan Birinin Bir Tarifnamesi
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: Your awesome title
 description: > # this means to ignore newlines until "baseurl:"
-  Gezegendeki Olası Hayatlardan Birinin Bir Tarifnamesi
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
-permalink: ':title/'
-url: "https://tozbulut.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-site-twitter: #if your site has a twitter account, enter it here
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://yourdomain.com" # the base hostname & protocol for your site
 
-# Author Settings
-author: Tozbulut # add your name
-author-img: david-freeman.jpg # add your photo
-about-author: Gezegendeki Olası Hayatlardan Birinin Bir Tarifnamesi # add description
-social-twitter: # add your Twitter handle
-social-facebook: # add your Facebook handle
-social-github:  # add your Github handle
-social-linkedin: # add your Linkedin handle
-social-email: # add your Email address
-
-# Disqus
-discus-identifier: mr-brown # add your discus identifier
-
-# Tracker
-analytics: # Google Analytics
-
-# Build Settings
+# Markdown settings
 markdown: kramdown
+
+# Sass settings
+sass:
+  add_charset: true
+  sass_dir: assets/sass
+  style: :compressed
+
+# Build settings
+exclude:
+  - package.json
+  - README.md
+  - CNAME
+  - assets/sass
+
+# Plugin settings
 plugins:
+  - jekyll-feed
   - jekyll-sitemap
-  - jekyll-paginate
-  - jemoji
-
-paginate: 8
-paginate_path: "/page/:num"
-
-exclude: ["node_modules", "gulpfile.js", "package.json", "yarn.lock"]
-
-collections:
-  sinema:
-    output: true
-    permalink: /sinema/:name
-  kitaplar:
-    output: true
-    permalink: /kitaplar/:name
-  felsefe:
-    output: true
-    permalink: /felsefe/:name
-  sanat:
-    output: true
-    permalink: /sanat/:name
-  teknoloji:
-    output: true
-    permalink: /teknoloji/:name
-  muzik:
-    output: true
-    permalink: /muzik/:name
-  tarih:
-    output: true
-    permalink: /tarih/:name
-  antreman:
-    output: true
-    permalink: /antreman/:name
-  beslenme:
-    output: true
-    permalink: /beslenme/:name
-  dusunceler:
-    output: true
-    permalink: /dusunceler/:name
-  meta:
-    output: true
-    permalink: /meta/:name
-
-
-defaults:
-  - 
-    scope:
-      path: ""
-      type: "sinema"
-    values:
-      layout: sinema
-  - 
-    scope:
-      path: ""
-      type: "kitaplar"
-    values:
-        layout: kitaplar
-
-collections_dir: my_collections
