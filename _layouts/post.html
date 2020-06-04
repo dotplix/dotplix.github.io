@@ -1,9 +1,81 @@
----
-layout: default
-title: This is just a placeholder post
----
+<!DOCTYPE html>
+<html lang="tr">
+    <head>
 
-<h1>{{ post.title }}</h1>
+  <!-- Basic Page Needs
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
 
-{{ content }}
+        <meta charset="utf-8">
+        <title>{{ page.title }}</title>
+        <meta name="description" content="">
+        <meta name="author" content="">
 
+  <!-- Mobile Specific Metas
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+
+
+  <!-- FONT
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <link href="//fonts.googleapis.com/css?family=Raleway:400,300,600" rel="stylesheet" type="text/css">
+
+
+  <!-- CSS
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <link rel="stylesheet" href="https://tozbulut.github.io/css/normalize.css">
+  <link rel="stylesheet" href="https://tozbulut.github.io/css/skeleton.css">
+  <link rel="stylesheet" href="https://tozbulut.github.io/css/custom.css">
+
+    <!-- Scripts
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+  <script src="https://google-code-prettify.googlecode.com/svn/loader/run_prettify.js"></script>
+  <link rel="stylesheet" href="https://tozbulut.github.io/css/github-prettify-theme.css">
+  <script src="https://tozbulut.github.io/js/site.js"></script>
+  <!-- Favicon
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <link rel="icon" type="image/png" href="https://tozbulut.github.io/images/favicon.png">
+
+
+    </head>
+    <body class="code-snippets-visible">
+  <!-- Primary Page Layout
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <div class="container">
+    <div class="navbar-spacer"></div>
+
+    <nav class="navbar">
+      <div class="container">
+        <ul class="navbar-list">
+          <li class="navbar-item"><a class="navbar-link" style="float: right;" href="/">Tozbulut</a></li>
+          <li class="navbar-item"><a class="navbar-link" style="float: right;" href="/yazilar">Yazılar</a></li>
+          <li class="navbar-item"><a class="navbar-link" style="float: right;" href="/kisa-kisa">Kısa Kısa</a></li>
+          <li class="navbar-item"><a class="navbar-link" style="float: right;" href="/radar">Radar</a></li>
+          <li class="navbar-item"><a class="navbar-link" style="float: right;" href="/etiketler">Etiketler</a></li>
+          <li class="navbar-item"><a class="navbar-link" style="float: right;" href="/hakkinda">Hakkında</a></li>
+
+        
+        </ul>
+      </div>
+    </nav>
+    
+
+    <div class="docs-section" id="intro">
+
+        <h1>{{ post.title }}</h1>
+
+        {{ content }}
+   
+    </div>
+
+
+
+    
+  </div>
+    
+
+<!-- End Document
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+    </body>
+</html>
