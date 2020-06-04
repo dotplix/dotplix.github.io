@@ -7,7 +7,7 @@ img: silence_of_the_lambs.jfif
 tags: [Psikoloji, Film] # add tag
 ---
 
-<img src="https://tozbulut.github.io/assets/img/silence_of_the_lambs.jfif"  width="600" alt="alt">
+<img src="https://tozbulut.github.io/imgages/silence_of_the_lambs.jfif"  width="600" alt="alt">
 
 2003 yılında Amerikan Film Enstitüsü tarafından Antony Hopkins tarafından canlandıran Hannibal Lecter karakteri tüm zamanların 1 numaralı kötü adamı olarak seçildi. Hopkins filmde 24 dakika 52 saniye gözükmesine rağmen 1992’de Akademi Ödülleri’nde En İyi Erkek Oyuncu Oscarını aldı. Karakterin tanınmasında Hopkins'in The Silence of the Lambs (Kuzuların Sessizliği) ve Hannibal gösterdiği ustaca performansın yeri büyük. Psikolojik korku ve gerilimin sınırlarını zorlayan bu karanlık karakter aynı zamanda entelektüel bir süperkahraman. Onu ucuz bir çizgiroman kötüsü olmaktan çok daha fazlası haline getiren bir etkiye cevap veriyor. Peki Lecter'ı özünde bu kadar orijinal yapan ne?
 
@@ -19,7 +19,7 @@ Lecter bu yönüyle belki de *doğa*nın bu enteresan yönünü yansıtıyor. B�
 
 Lecter biraz Sherlock Holmes'un Moriarty'si gibi. Bahsetmeden geçmek olmaz çünkü akıl deyince Arthur Conan Doyle'un ve Sherlock Holmes'un alanındasınız demektir. Filmde çizgiroman kötüsüne dönüşme riski olduğundan iyi bir oyuncu tarafından canlandırılması istenmiş. Filmin atmosferinin oluşturulmasında ressam Francis Bacon'un ürkütücü resimlerinden esinlenmeler yapılmış.
 
-<img src="https://tozbulut.github.io/assets/img/lecter.png"  width="600" alt="alt">
+<img src="https://tozbulut.github.io/imgages/lecter.png"  width="600" alt="alt">
 
 Biraz da romanın yazıldığı zamana bakacak olursak 90'larda Amerikan toplumu seri katillerle ilgili kültürel anlamda endişe ile karışık büyülenme yaşıyor. Ed Gein, Ted Bundy gibi seri katiller toplumun hafızasına kazınmış durumda. İşte böyle böyle bir ortamda yazar Tommas Harris polisiye, gotik korku ve psikolojik gerilim unsurlarını ustaca bir araya getirerek seriyi ortaya çıkarıyor. Lecter'ın grotesk karakteri yazar Harris'in zihninde doğuyor. Harris gazetecilik kariyerinin verdiği etkiyle Harris Ed Gein, Ted Bundy gibi seri katilleri araştırmış. 
 
