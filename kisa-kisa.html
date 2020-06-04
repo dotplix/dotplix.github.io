@@ -1,0 +1,14 @@
+---
+layout: default
+title: Tozbulut Kısa Kısa
+---
+
+<p>Hayatta olabildiğince rasyonel olmaya çalışırken sezgisel bir yönümüzün olduğunu da gözardı etmemeli. Daha felsefi ya da şiirsel düşüncelerimiz kesinlikle daha değersiz değiller. İnsan kendini bazen daha edebi bazen ise oldukça somut ve doğrudan ifade ediyor. Bu düşünceler düzenli hale getirildiğinde etkileri daha da güçlenebilir.</p>
+</p>
+<ul>
+{% for post in site.posts %}
+<li>
+    {{ post.date | date: "%B %e, %Y" }} | <a href="{{ post.url }}">{{ post.title }}</a>
+  </li>
+{% endfor %}
+</ul>
