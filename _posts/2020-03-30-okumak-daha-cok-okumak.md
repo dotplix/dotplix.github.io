@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Okuma Günlüğü
+title: Okumak, Daha Çok Okumak
 date: 2020-03-30 00:00:00 +0300
 description: Okuma listesi altında okumak istediğim kitapları sıralıyorum.
 img: okuma-listesi.jpg
