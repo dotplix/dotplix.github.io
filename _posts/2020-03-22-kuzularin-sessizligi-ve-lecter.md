@@ -8,25 +8,23 @@ tags: [Psikoloji, Film] # add tag
 ---
 
 <div class="row">
-   <div class="one column"></div>
-   <div class="ten columns"><img class="u-max-full-width" src="https://tozbulut.github.io/images/silence_of_the_lambs.jfif" alt="Kuzuların Sessizliği"></div>
+   <div class="ten columns offset-by-one"><img class="u-max-full-width" src="https://tozbulut.github.io/images/silence_of_the_lambs.jfif" alt="Kuzuların Sessizliği"></div>
    <div class="one column"></div>
 </div>
         
 
 2003 yılında Amerikan Film Enstitüsü tarafından Antony Hopkins tarafından canlandıran Hannibal Lecter karakteri tüm zamanların 1 numaralı kötü adamı olarak seçildi. Hopkins filmde 24 dakika 52 saniye gözükmesine rağmen 1992’de Akademi Ödülleri’nde En İyi Erkek Oyuncu Oscarını aldı. Karakterin tanınmasında Hopkins'in The Silence of the Lambs (Kuzuların Sessizliği) ve Hannibal gösterdiği ustaca performansın yeri büyük. Psikolojik korku ve gerilimin sınırlarını zorlayan bu karanlık karakter aynı zamanda entelektüel bir süperkahraman. Onu ucuz bir çizgiroman kötüsü olmaktan çok daha fazlası haline getiren bir etkiye cevap veriyor. Peki Lecter'ı özünde bu kadar orijinal yapan ne?
 
-Lecter hikaye içindeki sunuluş şekli ve zekası ile hemen sıyrılıyor. Lecter bu yönüyle zamanımızın son popüler kötüsü Joker’den bile daha incelikli bir yerde. 2019 tarihli Joker filmini yorumlaması istendiğinde Slavoj Zizek filmin  Lecter'a inginç bir atıfta bulunuyor.
+Lecter hikaye içindeki sunuluş şekli ve zekası ile hemen sıyrılıyor. Lecter bu yönüyle zamanımızın son popüler kötüsü Joker’den bile daha incelikli bir yerde. 2019 tarihli Joker filmini yorumlaması istendiğinde Slavoj Zizek filmin  Lecter'a ilginç bir atıfta bulunuyor.
 
 >Bu tarz anti kahramanlarda bütün bu yanlış şartlar toplumun onu dışlaması gibi durumlar aslında hatalı bir yaklaşım. Onlar aslında birer mucize. Elbette bazı şartların sonuçları oluyorlar. Fakat oluşan etki tamamen farklı. Aynı şartlar altındaki pek çok insan Joker olmuyor. Benzer şekilde acı çekseler bile bu onları Joker yapmıyor. Burada Burada Hannibel Lecter'dan bir satır aklıma geliyor. Lecter'ı sorguladıklarında. Bilirsiniz işte nasıl hapse düştüğü ve nasıl Lecter olduğunu. Psikologlar başına ne gelmesi hangi drama'nın bir Lecter gerektiğini sorguluyorlar. Onun çok güzel bir cevabı var. Bana hiçbir şey olmadı. Ben dünyaya oldum.
 
 Lecter bu yönüyle belki de *doğa*nın bu enteresan yönünü yansıtıyor. Bütün o düşük ihtimalli bir nevi mucizevi ölümcül ve güzel hayvanlarına baktığımızda ne kadar kaotik ne kadar mantığa ters bir şekilde güzel ve öldürücü olduklarını görüyoruz. Bu arkaik bir tema olarak zihinlerimizde yer alıyor. Lecter gibi tuhaf karakterlere duyduğumuz heyecanın kaynağı belki de bu olabilir.
 
-Entelektüel süperkahraman deyince Arthur Conan Doyle'un ve Sherlock Holmes'un alanına giriyoruz. Lecter biraz Sherlock Holmes'un Moriarty'si gibi. Lecter'ın filmde çizgiroman kötüsüne dönüşme riski olduğundan iyi bir oyuncu tarafından canlandırılması istenmiş. Bu detaylı yaklaşımı filmin her safasında görüyoruz. Çoğu izleyicinin pek dikkat etmediği sahnelerde bile yoğun bir detaycılık söz konusu. Örneğin bazı sahnelerde atmosfer oluşturulurken ressam Francis Bacon'un ürkütücü resimlerinden esinlenmeler yapılmış.
+Entelektüel süperkahraman deyince Arthur Conan Doyle ve Sherlock Holmes'un alanına giriyoruz. Lecter biraz Sherlock Holmes'un Moriarty'si gibi. Lecter'ın filmde çizgiroman kötüsüne dönüşme riski olduğundan iyi bir oyuncu tarafından canlandırılması istenmiş. Bu detaylı yaklaşımı filmin her safasında görüyoruz. Çoğu izleyicinin pek dikkat etmediği sahnelerde bile yoğun bir detaycılık söz konusu. Örneğin bazı sahnelerde atmosfer oluşturulurken ressam Francis Bacon'un ürkütücü resimlerinden esinlenmeler yapılmış.
 
 <div class="row">
-   <div class="one column"></div>
-   <div class="ten columns"><img class="u-max-full-width" src="https://tozbulut.github.io/images/lecter.png" alt="Lecter"></div>
+   <div class="ten columns offset-by-one"><img class="u-max-full-width" src="https://tozbulut.github.io/images/lecter.png" alt="Lecter"></div>
    <div class="one column"></div>
 </div>
 
@@ -59,8 +57,7 @@ Romanda filmde belirtilmeyen bir detay var. Lecter "mid ray duplication polydact
 Hannibal yaptıklarının gerilimi, ondan istenen şey, yukarıdaki tarif ettiğimiz özellikler. Seyirciye verilen uzun bir hazırlığın ardından. Konuşmaya başlaması. Konuşmaya başladığında keskin bir koku alma duygusuna sahip olduğunu ve bunu parfümleri tanımak için kullandığını görüyoruz. Cam paravan ardından Starling'in bir gün önce sürdüğü parfümün kokusunu alıyor.
 
 <div class="row">
-   <div class="one column"></div>
-   <div class="ten columns"><img class="u-max-full-width" src="https://tozbulut.github.io/images/clarice_starling.jpg" alt="Clarice Starling"></div>
+   <div class="ten columns offset-by-one"><img class="u-max-full-width" src="https://tozbulut.github.io/images/clarice_starling.jpg" alt="Clarice Starling"></div>
    <div class="one column"></div>
 </div>
 
