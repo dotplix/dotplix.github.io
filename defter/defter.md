@@ -1,6 +1,6 @@
 ## Notlar
 
-Chatbot'lar çok önemli olacak.
+Chatbot'lar çok önemli olacak. Yakın zamanda görsel arayüzden WhatsApp vs. gibi chatbotlara geçebiliriz.
 
 ---------
 
