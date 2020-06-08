@@ -8,11 +8,10 @@ tags: [Psikoloji, Film] # add tag
 ---
 
 <div class="row">
-          <div class="one column"></div>
-          <div class="ten columns"><img src="https://tozbulut.github.io/images/silence_of_the_lambs.jfif" alt="Kuzuların Sessizliği">
+   <div class="one column"></div>
+   <div class="ten columns"><img class="u-max-full-width" src="https://tozbulut.github.io/images/silence_of_the_lambs.jfif" alt="Kuzuların Sessizliği"></div>
+   <div class="one column"></div>
 </div>
-    <div class="one column"></div>
-        </div>
         
 
 2003 yılında Amerikan Film Enstitüsü tarafından Antony Hopkins tarafından canlandıran Hannibal Lecter karakteri tüm zamanların 1 numaralı kötü adamı olarak seçildi. Hopkins filmde 24 dakika 52 saniye gözükmesine rağmen 1992’de Akademi Ödülleri’nde En İyi Erkek Oyuncu Oscarını aldı. Karakterin tanınmasında Hopkins'in The Silence of the Lambs (Kuzuların Sessizliği) ve Hannibal gösterdiği ustaca performansın yeri büyük. Psikolojik korku ve gerilimin sınırlarını zorlayan bu karanlık karakter aynı zamanda entelektüel bir süperkahraman. Onu ucuz bir çizgiroman kötüsü olmaktan çok daha fazlası haline getiren bir etkiye cevap veriyor. Peki Lecter'ı özünde bu kadar orijinal yapan ne?
@@ -25,7 +24,11 @@ Lecter bu yönüyle belki de *doğa*nın bu enteresan yönünü yansıtıyor. B�
 
 Entelektüel süperkahraman deyince Arthur Conan Doyle'un ve Sherlock Holmes'un alanına giriyoruz. Lecter biraz Sherlock Holmes'un Moriarty'si gibi. Lecter'ın filmde çizgiroman kötüsüne dönüşme riski olduğundan iyi bir oyuncu tarafından canlandırılması istenmiş. Bu detaylı yaklaşımı filmin her safasında görüyoruz. Çoğu izleyicinin pek dikkat etmediği sahnelerde bile yoğun bir detaycılık söz konusu. Örneğin bazı sahnelerde atmosfer oluşturulurken ressam Francis Bacon'un ürkütücü resimlerinden esinlenmeler yapılmış.
 
-<img src="https://tozbulut.github.io/images/lecter.png"  width="600" alt="alt">
+<div class="row">
+   <div class="one column"></div>
+   <div class="ten columns"><img class="u-max-full-width" src="https://tozbulut.github.io/images/lecter.png" alt="Lecter"></div>
+   <div class="one column"></div>
+</div>
 
 Filmin bu kadar başarılı olmasında kitaptan uyarlama olmasının yeri var. 90'larda Amerikan toplumu seri katillerle ilgili kültürel anlamda endişe ile karışık büyülenme yaşıyor. Ed Gein, Ted Bundy gibi seri katiller toplumun hafızasına kazınmış durumda. İşte böyle böyle bir ortamda yazar Tommas Harris polisiye, gotik korku ve psikolojik gerilim unsurlarını ustaca bir araya getirerek seriyi ortaya çıkarıyor. Gazetecilik kariyerinin verdiği etkiyle Ed Gein, Ted Bundy gibi seri katilleri araştıran Harris Hannibal'ın Grotesk karakterine hayat veriyor.
 
@@ -55,7 +58,11 @@ Romanda filmde belirtilmeyen bir detay var. Lecter "mid ray duplication polydact
 
 Hannibal yaptıklarının gerilimi, ondan istenen şey, yukarıdaki tarif ettiğimiz özellikler. Seyirciye verilen uzun bir hazırlığın ardından. Konuşmaya başlaması. Konuşmaya başladığında keskin bir koku alma duygusuna sahip olduğunu ve bunu parfümleri tanımak için kullandığını görüyoruz. Cam paravan ardından Starling'in bir gün önce sürdüğü parfümün kokusunu alıyor.
 
-<img src="https://tozbulut.github.io/assets/img/clarice_starling.jpg" alt="">
+<div class="row">
+   <div class="one column"></div>
+   <div class="ten columns"><img class="u-max-full-width" src="https://tozbulut.github.io/images/clarice_starling.jpg" alt="Clarice Starling"></div>
+   <div class="one column"></div>
+</div>
 
 Entelektüel Lecter bekleneceği üzere derin bir felsefik arkaplana sahip. Bu felsefik arkaplan Roma İmparatoru ve stoacı filozof Marcus Aurelius'un Meditations kitabından yaptığı bir alıntıda görüyoruz.
 
