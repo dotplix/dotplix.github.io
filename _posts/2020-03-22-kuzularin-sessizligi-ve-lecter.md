@@ -58,6 +58,10 @@ Lecter tarafından yapılan alıntı şu şekilde:
 
 Lecter'ın stil sahibi olmayan herşeye duyduğu derin "yoketme hissi" yine onun adına yapılmış bir numara. Bu yoketme hissi nefret değil aslında. Yapılması gereken bir iş gibi. Bir tür jest. Durum bir şekilde ona karizma kazandırıyor. Filmin de avantajı olan katile katile sorma durumu. Ona muhtaç kalınması. Hayatın bu karanlık bir cilvesi tıpkı Harry Potter'daki Snape gibi çift taraflı ajanın karizmasını kazandırıyor. İyi ama bir yönü kötüye dönük. Belki zıttı olarak kötü ama iyiye dönük diyebiliriz.
 
-Oyuncu Antony Hopkins de tıpkı Hannibal gibi klasik sanat'a derin hayranlık besliyor. Kuzuların Sessizliği'nin senaryosunun kendisine gönderileceğini duyduğunda bunun bir çocuklara yönelik bir uyku masalı olduğunu düşünmüş. Senaryoyu okuduğunda ise hayatında pek çok şeyin değişeceğini anladığını söylemiş. Rolün kendisine gelmesi Elephant Man'deki Treeves rolünün etkisi olmuş. Lecter insancıl hatta merhametli olsa da her birimizin içinde gizli kalmış gölgeli bir figür olduğunu. Kendisini klasik müzik konserlerinde görmek mümkün. Andre Rieu and the Johann Strauss Orchestra konserinde görebiliyoruz. Günümüzde takip etmesi zorlu bir kültürel çizginin izini sürüyor. 
+Oyuncu Antony Hopkins de tıpkı Hannibal gibi klasik sanat'a derin hayranlık besliyor. Kuzuların Sessizliği'nin senaryosunun kendisine gönderileceğini duyduğunda bunun bir çocuklara yönelik bir uyku masalı olduğunu düşünmüş. Senaryoyu okuduğunda ise hayatında pek çok şeyin değişeceğini anladığını söylemiş. Rolün teklif edilmesinde Elephant Man'deki Treeves karakterini canlandırmasının etkisi olmuş. Lecter'ı kimi zaman insancıl hatta merhametli olsa da her birimizin içinde gizli kalmış gölgeli bir figür olarak tanımlıyor. Kendisini klasik müzik konserlerinde görmek mümkün. Şüphesiz Hopkins günümüzde takip etmesi zorlu bir kültürel çizginin izini sürüyor. 
 
 Bu eski moda çizginin izini sürmek bizim için eğlenceli olabilir.
+
+-----------------------
+
+* Andre Rieu and the Johann Strauss Orchestra konserinde
