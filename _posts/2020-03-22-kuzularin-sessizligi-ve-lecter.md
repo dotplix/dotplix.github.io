@@ -23,31 +23,31 @@ Entelektüel süperkahraman deyince Arthur Conan Doyle'un ve Sherlock Holmes'un 
 
 Filmin bu kadar başarılı olmasında kitaptan uyarlama olmasının yeri var. 90'larda Amerikan toplumu seri katillerle ilgili kültürel anlamda endişe ile karışık büyülenme yaşıyor. Ed Gein, Ted Bundy gibi seri katiller toplumun hafızasına kazınmış durumda. İşte böyle böyle bir ortamda yazar Tommas Harris polisiye, gotik korku ve psikolojik gerilim unsurlarını ustaca bir araya getirerek seriyi ortaya çıkarıyor. Gazetecilik kariyerinin verdiği etkiyle Ed Gein, Ted Bundy gibi seri katilleri araştıran Harris Hannibal'ın Grotesk karakterine hayat veriyor.
 
-Harris serinin ikinci romanı *Kuzuların Sessizliği*'ni 1988 yılında yayınlıyor. Dr. Hannibal Lecter’i konu alan serinin ilk kitabı Hannibal'ın devamı niteliğindeki bu kitabı Kızıl Ejder ve Hannibal Doğuyor izliyor. Seri 1991 yılındaki beyazperde uyarlamasının ulaştığı başarı tüm dünyada tanmasına sebep oluyor.
-
-Filmin baş karakterinin kadın polis olması yani kadın bir karakteri başrole koymak dönemi için sıradışı. Jodie Foster'ın canlandırdığı Clarice derinlikli mitik bir hikayenin kahramanı. Bu "Minatour hikayesi" kahramanın karanlık, kötülük ve cehalet ormanından prensesi kurtararak çıkması temasını işliyor.
+Kuzuların Sessizliği serinin ikinci kitabı. İlk kitap Kızıl Ejder, 1981 yılında yayınlanıyor. Sonrasında 1988'de Kuzuların Sessizliği  ve Hannibal Doğuyor yazılmış. Kuzuların Sessizliği'ndelecter Lecter bu sefer FBI ajanı Clarice Starling'e karşı geliyor. Hikayenin baş karakterinin kadın olması, böyle bir karakteri başrole koymak dönemi açısından önemli. Filmde Jodie Foster'ın canlandırdığı Clarice derinlikli mitik bir hikayenin kahramanı. Bu "Minatour hikayesi" kahramanın karanlık, kötülük ve cehalet ormanından prensesi kurtararak çıkması temasını işliyor. Fakat bir yandan da inatçı güçlü modern bir karakter görüyoruz. Karanlık, mitolojik, ilkel olanla modernitenin sembolü bürokratik FBI karşı karşıya geliyor. Kasvetli ortamda seri katil dünyası ile FBI dünyası çarpışmasını görüyoruz.
 
 İlgi çekici bir diğer nokta da filmin FBI'dan destek görmesi. FBI bulmakta zorlandıkları kadın ajanlar için filmi bir tür tanıtım olarak görüyor. Film ekibine çekimler Quantico'daki gerçek FBI tesisleri açılıyor. Filmde birimin başında yer alan Jack Crawford aslında gerçek hayatta o dönem FBI'ın davranışsal psikoloji birimini yöneten John Douglass'ı andırıyor. Benzer yöntemler seri katilleri takip etmekte, yakalamakta ve yasa önüne çıkarmakta kullanılıyor.
 
 Kuzuların Sessizliği bizi seri katillerin sıradışı dünyasına götürürken Washington Üniversitesinde kriminoloji hocası Robert Keppel ve seri katil Ted Bundy arasındaki gerçek ilişkiden esinleniyor. Ted Bundy Robert Keppel’a, Washington’daki Green River cinayetlerini araştırmasında yardım ediyor. Ted Bundy, 24 Ocak 1989’da idam edildiyse de Green River cinayetleri ancak 2001 yılında çözülebilmiş, cinayetleri işleyen Gary Ridgway 2003 yılında, kırk sekiz cinayet işlediğini kabul ederek suçlu bulunmuş.
 
-Lecter'ın adı Litvanya soylusu *Hannibal the Grimm*'den geliyor. Hannibal the Grim'de Lecter gibi kurgusal. Cannibal sözcüğünün ortaya çıkışı onaltıncı yüzyıl ortalarına dayanmakta. İspanyolca çoğul Canibales, Caribes'in bir varyantı. Bu kelime Colombus insan yiyen Kuzey Amerika Yerlileri'ne verdiği isim. Aynı zamanda bu takma ad, Romalıları dize getirmek için filler dahil Alplerini orduya yönlendirmekle ünlü olan Kartacalı general Hannibal Barca'ya ile bağlantılı. Detaya girecek olursak tüm zamanların en büyük askeri dehalarından biri kabul edilen Kartacalı politikacı ve generalin yanında kendisiyle aynı adı taşıyan bir adaşı var. Yardımcısı ve arkadaşı olan *Hannibal Monomachus* Yunan tarihçi Polybius'un anlatımına göre yanlış bir şekilde ordunun İspanya'dan İtalya'ya gidişinde erzakın tükeneceği ve yamyamlığa başvurmanın gerekeceği kehanetinde bulunmuş. 
+Lecter'ın adı Litvanya soylusu *Hannibal the Grimm*'den geliyor. Hannibal the Grim'de Lecter gibi kurgusal. Cannibal sözcüğünün ortaya çıkışı onaltıncı yüzyıl ortalarına dayanmakta. İspanyolca çoğul Canibales, Caribes'in bir varyantı. Bu kelime Colombus insan yiyen Kuzey Amerika Yerlileri'ne verdiği isim. Aynı zamanda bu takma ad, Romalıları dize getirmek için filler dahil Alplerini orduya yönlendirmekle ünlü olan Kartacalı general Hannibal Barca'ya ile bağlantılı.
+
+Detaya girecek olursak tüm zamanların en büyük askeri dehalarından biri kabul edilen Kartacalı politikacı ve generalin yanında kendisiyle aynı adı taşıyan bir adaşı var. Yardımcısı ve arkadaşı olan *Hannibal Monomachus* Yunan tarihçi Polybius'un anlatımına göre yanlış bir şekilde ordunun İspanya'dan İtalya'ya gidişinde erzakın tükeneceği ve yamyamlığa başvurmanın gerekeceği kehanetinde bulunmuş. 
 
 Hannibal Barca bağlantısı biraz kopuk görünse de yazar Harris Hannibal'a eskilerden Roma'yı andıracak bir isim vermek istemiş olabilir.
-Lecter'ı özel yapan durumlarınından biri de bu tarihselliği. Daha zorlu ve tehlikeli mistik bir eski düzenin mirasçısı.
+Lecter'ı özel yapan durumlarınından biri de bu tarihselliği. Lecter'ı daha zorlu ve tehlikeli mistik bir eski düzenin mirasçısı olarak görüyoruz.
 
-Hopkins'in canlandırdığı Hannibal karakterinin özelliklerine baktığımız zaman,
-* Göründüğü her sahnede entellektüel açıdan parlak, kültürlü, sofistike, sanata ve müziğe meraklı mutfakta rafine zevklere sahip olarak biri olarak portre ediliyor.
-* Bir şekilde iyi eğitim almış olduğu anlaşılıyor. İtalyanca, Almanca, Rusça gibi birçok dili konuşuyor.
-* Müthiş bir dikkate sahip. Sıklıkla kurbanlarının etinden gurme yemekler hazırlıyor. Hannibal'ın bu özelliği katil oluşu tekrar tekrar hatırlatılıyor. 
-* İnsanların kabalıklarından derin bir gücenme duyuyor. Sıklıkla tavırlarını nezaketsiz gördüğü insanları öldürüyor. 
-* Yakalanmasından ve Baltimore'da hapsedilmesinden önce Maryland'ın sosyal elitlerinden.Baltimore Filarmoni orkestrasının yönetiyor.
-* Kuzuların sessizliğinde Dr. Lecter Starling'in gözünden ufak, zarif, elleri ve kolları tıpkı kendisinin olduğu gibi güçlü ve sırım gibi dayanıklı olarak tarif ediliyor.
-* Hannibal'ın fiziksel özellikleri çok ilgi çekici görünmüyor. Gözleri kestane rengi olduğundan ve ışığı kırmızı noktalar şeklinde yansıttığından, ufak beyaz dişlere sahip olduğundan, koyu renk geriye yatırılmış saçları üçgen şeklinde altına indiğinden bahsediliyor. 
-* Eidetic bir hafızası var. <em>Loci yöntemini</em> kullanıyor. Hislerini ve hatıralarını zengin detaylarıyla zihninde inşa ettiği "hafıza sarayı"nda saklıyor.
-* Romanda filmde belirtilmeyen bir detay var. Lecter "mid ray duplication polydactyly" denilen hastalık sebebiyle çift orta parmağa sahip. Hannibal romanında çeşitli nedenlerle kendi yüzüne estetik ameliyat yapıyor ve fazla parmağını da alıyor.
+Hopkins'in canlandırdığı Hannibal karakterinin özelliklerine baktığımız zaman, Göründüğü her sahnede entellektüel açıdan parlak, kültürlü, sofistike, sanata ve müziğe meraklı, mutfakta rafine zevklere sahip olarak biri olarak portre ediliyor. Bir şekilde iyi eğitim almış olduğu anlaşılıyor. İtalyanca, Almanca, Rusça gibi birçok dili konuşuyor.
 
-Filmin ve romanın bir tür satirik abartı içerisinde olduğunu söylemek mümkün. Lecter'ın bu anlamda bir süpermen olduğunu söylemek mümkün.
+Müthiş bir dikkate sahip. Sıklıkla kurbanlarının etinden gurme yemekler hazırlıyor. Hannibal'ın bu özelliği katil oluşu tekrar tekrar hatırlatılıyor. İnsanların kabalıklarından derin bir gücenme duyuyor. Sıklıkla tavırlarını nezaketsiz gördüğü insanları öldürüyor. 
+
+Yakalanmasından ve Baltimore'da hapsedilmesinden önce Maryland'ın sosyal elitlerinden.Baltimore Filarmoni orkestrasının yönetiyor.
+Kuzuların sessizliğinde Dr. Lecter Starling'in gözünden ufak, zarif, elleri ve kolları tıpkı kendisinin olduğu gibi güçlü ve sırım gibi dayanıklı olarak tarif ediliyor.
+
+Hannibal'ın fiziksel özellikleri çok ilgi çekici görünmüyor. Gözleri kestane rengi olduğundan ve ışığı kırmızı noktalar şeklinde yansıttığından, ufak beyaz dişlere sahip olduğundan, koyu renk geriye yatırılmış saçları üçgen şeklinde altına indiğinden bahsediliyor. Eidetic bir hafızası var. <em>Loci yöntemini</em> kullanıyor. Hislerini ve hatıralarını zengin detaylarıyla zihninde inşa ettiği "hafıza sarayı"nda saklıyor.
+
+Romanda filmde belirtilmeyen bir detay var. Lecter "mid ray duplication polydactyly" denilen hastalık sebebiyle çift orta parmağa sahip. Hannibal romanında çeşitli nedenlerle kendi yüzüne estetik ameliyat yapıyor ve fazla parmağını da alıyor.
+
+Hannibal yaptıklarının gerilimi, ondan istenen şey, yukarıdaki tarif ettiğimiz özellikler. Seyirciye verilen uzun bir hazırlığın ardından. Konuşmaya başlaması. Konuşmaya başladığında keskin bir koku alma duygusuna sahip olduğunu ve bunu parfümleri tanımak için kullandığını görüyoruz. Cam paravan ardından Starling'in bir gün önce sürdüğü parfümün kokusunu alıyor.
 
 <img src="https://tozbulut.github.io/assets/img/clarice_starling.jpg" alt="">
 
@@ -56,9 +56,7 @@ Entelektüel Lecter bekleneceği üzere derin bir felsefik arkaplana sahip. Bu f
 Lecter tarafından yapılan alıntı şu şekilde:
 > İlk ilkeler, Clarice. Basitlik. Marcus Aurelius'u oku. Her bir şey için sor: Kendi içinde nedir? Doğası nedir? Ne yapar, bu aradığınız adam?
 
-Lecter'ın stil sahibi olmayan herşeye duyduğu derin "yoketme hissi" yine onun adına yapılmış bir numara. Bu yoketme hissi nefret değil aslında. Yapılması gereken bir iş gibi. Bir tür jest. Durum bir şekilde ona karizma kazandırıyor. Filmin de avantajı olan katile katile sorma durumu. Ona muhtaç kalınması. Hayatın bu karanlık bir cilvesi tıpkı Harry Potter'daki Snape gibi çift taraflı ajanın karizmasını kazandırıyor. İyi ama bir yönü kötüye dönük.
-
-Hannibal yaptıklarının gerilimi, ondan istenen şey, yukarıdaki tarif ettiğimiz özellikler. Konuşmaya başlaması. Konuşmaya başladığında keskin bir koku alma duygusuna sahip olduğunu ve bunu parfümleri tanımak için kullandığını görüyoruz. Cam paravan ardından Starling'in bir gün önce sürdüğü parfümün kokusunu alıyor.
+Lecter'ın stil sahibi olmayan herşeye duyduğu derin "yoketme hissi" yine onun adına yapılmış bir numara. Bu yoketme hissi nefret değil aslında. Yapılması gereken bir iş gibi. Bir tür jest. Durum bir şekilde ona karizma kazandırıyor. Filmin de avantajı olan katile katile sorma durumu. Ona muhtaç kalınması. Hayatın bu karanlık bir cilvesi tıpkı Harry Potter'daki Snape gibi çift taraflı ajanın karizmasını kazandırıyor. İyi ama bir yönü kötüye dönük. Belki zıttı olarak kötü ama iyiye dönük diyebiliriz.
 
 Oyuncu Antony Hopkins de tıpkı Hannibal gibi klasik sanat'a derin hayranlık besliyor. Kuzuların Sessizliği'nin senaryosunun kendisine gönderileceğini duyduğunda bunun bir çocuklara yönelik bir uyku masalı olduğunu düşünmüş. Senaryoyu okuduğunda ise hayatında pek çok şeyin değişeceğini anladığını söylemiş. Rolün kendisine gelmesi Elephant Man'deki Treeves rolünün etkisi olmuş. Lecter insancıl hatta merhametli olsa da her birimizin içinde gizli kalmış gölgeli bir figür olduğunu. Kendisini klasik müzik konserlerinde görmek mümkün. Andre Rieu and the Johann Strauss Orchestra konserinde görebiliyoruz. Günümüzde takip etmesi zorlu bir kültürel çizginin izini sürüyor. 
 
