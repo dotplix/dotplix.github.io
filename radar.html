@@ -3,18 +3,10 @@ layout: default
 title: Tozbulut
 ---
 
-<ul>
-{% for post in site.posts %}
-<li>
-    {{ post.date | date: "%B %e, %Y" }} | <a href="{{ post.url }}">{{ post.title }}</a>
-  </li>
-{% endfor %}
-</ul>
-
 
 {% for member in site.data.radar %}
 <div style="border-bottom: 1px solid #dfe1e5;">
-<div><h3>#{{ member.id }} - {{ member.name }}</h3><div></div></div>
+<div><h6>#{{ member.id }} - {{ member.name }}</h6><div></div></div>
 <div><p>{{ member.desc }}</p></div>
 </div>
 {% endfor %}
