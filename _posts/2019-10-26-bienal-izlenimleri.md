@@ -26,7 +26,7 @@ Bir diğer dikkat çeken konu Bienalin yerinin değiştirilmiş olması. Tarihi 
 Rehberdeki açıklama şöyle: 
 > Tarihi Haliç Tersaneleri'nde bir senedir süren yoğun çalışmalarmıza rağmen Bienal'in gerçekleştireceği alandaki asbestli malzemelerin halen temizlenenememiş olması nedeniyle mekanı kullanmama kararı aldık. Durumun insan sağlığı ve güvenliğini tehdit edebilecek olması bizi böyle bir kararı almaya mevcut bıraktı. Tam bu noktada Mimar Sinan Üniversitesi Güzel Sanatlar Fakültesi, Mart 2020 de üniversite bünyesinde İstanbul Resim ve Heykel Müzesi olarak kapılarını açacak beş numaralı Antrepo’nun, 2005 ve 2011 yıllarında olduğu gibi bienale ev sahipliği yapmasını kabul etti.
 
-<img src="https://tozbulut.github.io/assets/img/msgsu-5nolu-antrepo.jpg" alt="5 numaralı Antrepo" width="600"/>
+<img src="https://tozbulut.github.io/images/msgsu-5nolu-antrepo.jpg" alt="5 numaralı Antrepo" width="600"/>
 
 Modern sanatın provoke edici bir tarafı var. Sanatçının bizi biz yapan şeylerle bir sevgi nefret ilişkisi içerisinde olduğunu görmek mümkün.
 Sanatçı modern dünyanın getirdiği üretim, tüketim, teknoloji, iktidar gibi hayati fikirlerin tam göbeğinde fakat aynı zamanda onlarla bir savaş halinde.
