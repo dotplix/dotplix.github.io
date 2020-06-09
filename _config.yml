@@ -34,5 +34,3 @@ exclude:
 plugins:
   - jekyll-feed
   - jekyll-sitemap
-
-collections_dir: my_collections
