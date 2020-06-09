@@ -13,3 +13,12 @@ title: Tozbulut Kısa Kısa
   </li>
 {% endfor %}
 </ul>
+
+
+{% for member in site.data.aklima-dusenler %}
+<div style="border-bottom: 1px solid #dfe1e5;">
+<div><h3>#{{ member.id }} - {{ member.name }}</h3><div></div></div>
+<div><p>{{ member.desc }}</p></div>
+</div>
+{% endfor %}
+
