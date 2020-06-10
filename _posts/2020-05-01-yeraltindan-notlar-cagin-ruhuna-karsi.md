@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Yeraltından Notlar
+title: Yeraltından Notlar // Çağın Ruhuna Karşı
 date: 2020-05-01 00:00:00 +0300
 description: 
 img: notes_underground1.jpg
@@ -9,11 +9,11 @@ tags: [Dostoyevski, İnsan, Roman, Psikoloji]
 
 Yeraltından Notlar uzun zamandır okumak istediğim bir romandı. Dostoyevski'nin insan doğasını anlatmaktaki iyi olduğu yönünde bir yorum var. Yeraltından Notlar, Dostoyevski'nin en "garip" çalışması. Roman boyunca ana tema Dostoyevski'nin *insandaki en büyük güç ve aynı zamanda en göze çarpan zayıflık* olduğuna inandığı yoğun kendilik duygusu.
 
-Yeraltından Notlar anlatmak istedikleri ve anlatış biçimi açısından 1864 yılında basılmış bir romana göre şaşırtıcı derecede modern. Tıpkı bugünün sanat filmlerinde olduğu gibi gri bir his bırakıyor. Bizler okuyucular olarak hikayenin sonunu gördüğümüzden değiştirici etkisini anlamak biraz zor olsa da böyle bir karaktere yer vermenin romancı açısından ne kadar ilerlemeci bir hareket olduğunu görmek gerekiyor. Yayınlandığı dönemde düşünce stilinin çok dışındaki bu eser daha sonra beslediği damarlar ile kültür, felsefe ve edebiyat üzerinde derin izler bırakacak. Yeraltından Notlar bu anlamda bir kilometre taşı. Bugün bu etki o kadar yayılmış ki bugün biraz onun dünyasında yaşıyoruz. Bu orijinallik artık klasikleşiyor.
+Yeraltından Notlar anlatmak istedikleri ve anlatış biçimi açısından 1864 yılında basılmış bir romana göre şaşırtıcı derecede modern. Tıpkı bugünün sanat filmlerinde olduğu gibi gri bir his bırakıyor. Bizler okuyucular olarak hikayenin sonunu gördüğümüzden değiştirici etkisini anlamak biraz zor olsa da böyle bir karaktere yer vermenin romancı açısından ne kadar ilerlemeci bir hareket olduğunu görmek gerekiyor. Yayınlandığı dönemde düşünce stilinin çok dışında olsa da bugün biliyoruz ki bu eser daha sonra beslediği damarlar ile kültür, felsefe ve edebiyat üzerinde derin izler bıraktı. Yeraltından Notlar bu anlamda bir kilometre taşı. Bugün bu etki o kadar yayılmış ki bugün biraz onun dünyasında yaşıyoruz. Artık bu orijinalliğin artık klasikleştiği noktadayız.
 
 > "Daha o zamanlarda bile yeraltını ruhumda taşıyordum." - Yeraltından Notlar
 
-Yeraltından Notlar için ne söylenebilir? Romanın trajikomik ana karakteri çok *sağlıklı* biri değil. Kitabı okurken sıklıkla yaptığı hataları düşündüm. İlk aklıma gelen çok düşünmesi oldu. Bir tür fazla bilinçlenme problemi yaşıyor. Özellikle başka insanlar ile ilgili. Hastalığının kendisi de farkında. İnsanlara ve yaşamın geneline derin bir kin duyuyor. İlişkilerinden yoğun bir gücenme duysa da insanların beğenisini istiyor.
+Yeraltından Notlar için ne söylenebilir? Büyük düşünceleri bir kenara bırakıp insani dramaya bakacak olursak romanın trajikomik ana karakteri çok *sağlıklı* biri değil. Kitabı okurken sıklıkla yaptığı hataları düşündüm. İlk aklıma gelen çok düşünmesi oldu. Bir tür fazla bilinçlenme problemi yaşıyor. Özellikle başka insanlar ile ilgili. Hastalığının kendisi de farkında. İnsanlara ve yaşamın geneline derin bir kin duyuyor. İlişkilerinden yoğun bir gücenme duysa da aslında bu insanlar tarafından beğenilmek istiyor.
 
 Kitabın giriş cümleri baştan okuyucuya mesafeyi veriyor. Dostoyevski kitap boyunca bu mesafeyle hep akıllıca oynayacak. Buradan bir gerçeklik çıkaracak. Okuyucuyu ondan iyi tanıdığını ona ispat edecek. İsimsiz karakterin birtakım güçlü yönleri var. Bunları daha çok kendi özel amaçları için kullanıyor. Memurluğunu başkalarına eziyet etmek için kullanması. Ağzının laf yapmasını ise Liza'nın kafasını karıştırmak, aklını çelmek için kullanması gibi. Notların yazarının sıklıkla kötücül etkileri ve bundan aldığı bir zevk var. Pislik bir herifin notlarını okuyorsunuz. Bulacağınız da biraz pislik oluyor haliyle. Bir yerde kötülüğün doğası üzerine bir yapıt olduğunu söylemek mümkün. Karakterinin benzerlerinin toplumda olduğu vurgusu var. Okuyucu açısından şaşırtıcı ve gerçek bir tecrübe bu. Notların yazarı sıklıkla ben sizim diyor.
 
@@ -24,10 +24,11 @@ Söyleyeceğini karaktere söyleterek anlatımı güçlendirip önyargıyı kır
 Kitabın önsözünde yer aldığı üzere Dostoyevski'nin Yeraltından Notlar'ı bir yıl önce 1986'dan bir yıl önce yayınlanan Çernişevski'nin Ne Yapmalı? adlı eserine tepki olarak yazılmış. Çernişevski insan duygularının da doğanın bir parçası olduklarını bilinebilirliğini ve öngörülebilirliğini savunduğu eserinde Rahmetov karakteri disiplinli ve fedakalıkla dolu çileci bir yaşam sürüyor. Lenin kitabı birden fazla kez okuyup ilham almış. Dostoyevski Sovyet sisteminin çöküşünden sonra güncellik kazanıyor. Çernişevskinin kendini yeniden biçimlendiren insan fikrinin ütopik toplumuna alternatif oluşturuyor. 
 
 Dostoyevski "Kristal Saray"'a karşı olarak insanın çoğu kez kendi izole ve bencil dünyasında kendi çıkarına aykırı olsa da irrasyonel kararlar alabileceğini savunuyor. Üstelik insan bunu yalnızca özgür iradesini korumak için yapabileceğini söylüyor. İnsandaki bu delice hal, Çernişevski'nin dünyasının tam zıttı olan insanın doğasındaki bu grotesk güzellik Dostoyevski'ye göre insanı değerli yapan tam da bu.
+Çağının modernistlerine ve ütopyacılarına hicivli bir dille ne notların yazarının ne de insanlığın hiç de bildikleri gibi olmadığını söylüyor.
 
-### Kitabın Düzeni
+### Kitabın Yapısı
 
-Roman iki bölümden oluşuyor. İlkinde bölüm karakteri ve hayata bakışını tanıtıyor. Bu bölümde ilginç sosyolojik tespitler var. İkincisinde ise günlük hayatta başına gelen çeşitli olaylara dair anılar var. İlkine teori ikinci kısma ise pratik diyebiliriz. 
+Roman iki bölümden oluşuyor. İlkinde bölümde kendi ağzından karakteri ve hayata bakışını dinliyoruz. Bu bölümde ilginç sosyolojik tespitler var. İkincisinde ise günlük hayatta başına gelen çeşitli olaylara dair anılar var. İlk kısmın teori ikinci kısmın ise pratik olarak düşünülebileceği şeklinde bir yorum var. Bu yoruma katılıyorum. 
 
 * I. Kitap
     * Süvari İle Takışma
