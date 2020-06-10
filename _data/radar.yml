@@ -16,22 +16,22 @@
 - name: "Ne Yapsak?"
   id: "0020"
   date: "19.05.2020"
-  desc: "https://www.youtube.com/watch?v=u4vxO3vXok0"
+  desc: "https://youtube.com/watch?v=zh0xIOl93b0&list=PL0QFxC-u5wRFlXnY0Pfgjr8nwu1mNakik"
 
-- name: ""
+- name: "Kelebek - Henri Charriere"
   id: "0020"
   date: "19.05.2020"
   desc: "https://www.idefix.com/Kitap/Walden/Felsefe/Felsefe-Bilimi/urunno=0001850300001?gclid=CjwKCAjw5Ij2BRBdEiwA0Frc9VyT0OsEJ_3J835k47-fdAPQx5MvZlR6YWztzLjiWncE2DbOu_bwFRoCW60QAvD_BwE"
 
-- name: ""
+- name: "Walden - Henry David Thoreau"
   id:  "0019"
   date: "19.05.2020"
   desc: "https://www.dr.com.tr/Kitap/Kelebek/Edebiyat/Roman/Dunya-Roman/urunno=0000000024039"
 
-- name: ""
+- name: "Henry David Thoreau"
   id: "0018"
   date: "19.05.2020"
-  desc: "Henry David Thoreau"
+  desc: ""
 
 - name: "Marina Abramovic The Artist is Present Trailer "
   id: "0017"
@@ -62,12 +62,7 @@
   id: "0013"
   date: "02.05.2020"
   desc: "British post-apocalyptic comic series by Alan Martin and Jamie Hewlett that was originally published in Deadline magazine."
-  
-- name: "Kitap - Amak-ı Hayal"
-  id: "0012"
-  date: "02.05.2020"
-  desc: "A book about ..."
-  
+    
 - name: "Kitap"
   id: "0011"
   date: "29.04.2020"
@@ -96,12 +91,12 @@
 - name: "Comedian Dina Hashem"
   id: "0006"
   date:
-  desc: "..."
+  desc: "New York-based standup comedian. "
 
 - name: "Joe Rogan Experience 1221 - Jonathan Haidt"
   id: "0005"
   date:
-  desc: "A podcast. Bullying</br>01:00 – on modern Academia and scholarships</br> 17:28 – what’s messing us up as a society</br> 23:37 – POTUS and polarization of American society</br> 32:22 – What is good education and what makes you smart</br> 43:15 – on racism</br> 45:00 – describes black social media</br> 59:41 – modern day teaching</br> 1:10:30 – about parenting</br> 1:21:14 – on mental illness</br> 1:30:11 – keep your kids from getting addicted to gadgets and gizmos in bedroom</br> 1:48:03 – can teaching be fun and motivating</br> 1:56:20 – debate shitty ideas with arguments, not force</br> </br>Parenting, what is the policy about of letting them out</br> Unsupervized Free Play best way to kids learn </br> Teach kids about Abducted, Molested</br> Kids suicide rates, Overprotection, Social media causes depression anxiety and suicide</br>"
+  desc: "A podcast. Bullying</br>01:00 – on modern Academia and scholarships</br> 17:28 – what’s messing us up as a society</br> 23:37 – POTUS and polarization of American society</br> 32:22 – What is good education and what makes you smart</br> 43:15 – on racism</br> 45:00 – describes black social media</br> 59:41 – modern day teaching</br> 1:10:30 – about parenting</br> 1:21:14 – on mental illness</br> 1:30:11 – keep your kids from getting addicted to gadgets and gizmos in bedroom</br> 1:48:03 – can teaching be fun and motivating</br> 1:56:20 – debate shitty ideas with arguments, not force."
 
 - name: "The Coddling of the American Mind - Jonathan Haidt"
   id: "0004"
