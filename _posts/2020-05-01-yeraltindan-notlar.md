@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Yeraltından Notlar // Çağın Ruhuna Karşı
+title: Yeraltından Notlar
 date: 2020-05-01 00:00:00 +0300
 description: 
 img: notes_underground1.jpg

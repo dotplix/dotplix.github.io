@@ -8,8 +8,8 @@ tags: [Psikoloji, Film] # add tag
 ---
 
 <div class="row">
-   <div class="ten columns offset-by-one"><img class="u-max-full-width" src="https://tozbulut.github.io/images/silence_of_the_lambs.jfif" alt="Kuzuların Sessizliği"></div>
-   <div class="one column"></div>
+   <div class="ten columns"><img class="u-max-full-width" src="https://tozbulut.github.io/images/silence_of_the_lambs.jfif" alt="Kuzuların Sessizliği"></div>
+   <div class="two column"></div>
 </div>
         
 
@@ -24,7 +24,7 @@ Lecter bu yönüyle belki de *doğa*nın bu enteresan yönünü yansıtıyor. B�
 Entelektüel süperkahraman deyince Arthur Conan Doyle ve Sherlock Holmes'un alanına giriyoruz. Lecter biraz Sherlock Holmes'un Moriarty'si gibi. Lecter'ın filmde çizgiroman kötüsüne dönüşme riski olduğundan iyi bir oyuncu tarafından canlandırılması istenmiş. Bu detaylı yaklaşımı filmin her safasında görüyoruz. Çoğu izleyicinin pek dikkat etmediği sahnelerde bile yoğun bir detaycılık söz konusu. Örneğin bazı sahnelerde atmosfer oluşturulurken ressam Francis Bacon'un ürkütücü resimlerinden esinlenmeler yapılmış.
 
 <div class="row">
-   <div class="ten columns offset-by-one"><img class="u-max-full-width" src="https://tozbulut.github.io/images/lecter.png" alt="Lecter"></div>
+   <div class="ten columns"><img class="u-max-full-width" src="https://tozbulut.github.io/images/lecter.png" alt="Lecter"></div>
    <div class="one column"></div>
 </div>
 
@@ -57,7 +57,7 @@ Romanda filmde belirtilmeyen bir detay var. Lecter "mid ray duplication polydact
 Hannibal yaptıklarının gerilimi, ondan istenen şey, yukarıdaki tarif ettiğimiz özellikler. Seyirciye verilen uzun bir hazırlığın ardından. Konuşmaya başlaması. Konuşmaya başladığında keskin bir koku alma duygusuna sahip olduğunu ve bunu parfümleri tanımak için kullandığını görüyoruz. Cam paravan ardından Starling'in bir gün önce sürdüğü parfümün kokusunu alıyor.
 
 <div class="row">
-   <div class="ten columns offset-by-one"><img class="u-max-full-width" src="https://tozbulut.github.io/images/clarice_starling.jpg" alt="Clarice Starling"></div>
+   <div class="ten columns"><img class="u-max-full-width" src="https://tozbulut.github.io/images/clarice_starling.jpg" alt="Clarice Starling"></div>
    <div class="one column"></div>
 </div>
 
