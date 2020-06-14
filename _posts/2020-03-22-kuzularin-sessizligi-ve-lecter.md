@@ -7,7 +7,7 @@ img: silence_of_the_lambs.jfif
 tags: [Psikoloji, Film] # add tag
 ---
 
-Psikolojik korku ve gerilimin sınırlarını zorlayan bu karanlık karakter aynı zamanda entelektüel bir süperkahraman. Onu ucuz bir çizgiroman kötüsü olmaktan çok daha fazlası haline getiren bir etkiye cevap veriyor. Peki Lecter'ı özünde bu kadar orijinal yapan ne?
+Psikolojik korku ve gerilimin sınırlarını zorlayan bu karanlık karakter aynı zamanda entelektüel bir süperkahraman. Peki Lecter'ı ucuz bir çizgiroman kötüsü olmaktan çok daha fazlası getiren ne?
 
 <div class="row" style="margin-bottom: 2.5rem; margin-top: 2.5rem;">
    <div class="ten columns"><img class="u-max-full-width" src="https://tozbulut.github.io/images/silence_of_the_lambs.jfif" alt="Kuzuların Sessizliği"></div>
