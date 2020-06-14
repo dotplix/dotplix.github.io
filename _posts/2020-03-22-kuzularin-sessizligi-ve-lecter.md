@@ -7,13 +7,14 @@ img: silence_of_the_lambs.jfif
 tags: [Psikoloji, Film] # add tag
 ---
 
+Psikolojik korku ve gerilimin sınırlarını zorlayan bu karanlık karakter aynı zamanda entelektüel bir süperkahraman. Onu ucuz bir çizgiroman kötüsü olmaktan çok daha fazlası haline getiren bir etkiye cevap veriyor. Peki Lecter'ı özünde bu kadar orijinal yapan ne?
+
 <div class="row" style="margin-bottom: 2.5rem; margin-top: 2.5rem;">
    <div class="ten columns"><img class="u-max-full-width" src="https://tozbulut.github.io/images/silence_of_the_lambs.jfif" alt="Kuzuların Sessizliği"></div>
    <div class="two column"></div>
 </div>
         
-
-2003 yılında Amerikan Film Enstitüsü tarafından Antony Hopkins tarafından canlandıran Hannibal Lecter karakteri tüm zamanların 1 numaralı kötü adamı olarak seçildi. Hopkins filmde 24 dakika 52 saniye gözükmesine rağmen 1992’de Akademi Ödülleri’nde En İyi Erkek Oyuncu Oscarını aldı. Karakterin tanınmasında Hopkins'in The Silence of the Lambs (Kuzuların Sessizliği) ve Hannibal gösterdiği ustaca performansın yeri büyük. Psikolojik korku ve gerilimin sınırlarını zorlayan bu karanlık karakter aynı zamanda entelektüel bir süperkahraman. Onu ucuz bir çizgiroman kötüsü olmaktan çok daha fazlası haline getiren bir etkiye cevap veriyor. Peki Lecter'ı özünde bu kadar orijinal yapan ne?
+2003 yılında Amerikan Film Enstitüsü tarafından Antony Hopkins tarafından canlandıran Hannibal Lecter karakteri tüm zamanların 1 numaralı kötü adamı olarak seçildi. Hopkins filmde 24 dakika 52 saniye gözükmesine rağmen 1992’de Akademi Ödülleri’nde En İyi Erkek Oyuncu Oscarını aldı. Karakterin tanınmasında Hopkins'in The Silence of the Lambs (Kuzuların Sessizliği) ve Hannibal gösterdiği ustaca performansın yeri büyük.
 
 Lecter hikaye içindeki sunuluş şekli ve zekası ile hemen sıyrılıyor. Lecter bu yönüyle zamanımızın son popüler kötüsü Joker’den bile daha incelikli bir yerde. 2019 tarihli Joker filmini yorumlaması istendiğinde Slavoj Zizek filmin  Lecter'a ilginç bir atıfta bulunuyor.
 
