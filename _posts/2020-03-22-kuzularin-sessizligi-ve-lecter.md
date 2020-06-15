@@ -54,14 +54,18 @@ Romanda filmde belirtilmeyen bir detay var. Lecter "mid ray duplication polydact
 Hannibal yaptıklarının gerilimi, ondan istenen şey, yukarıdaki tarif ettiğimiz özellikler. Seyirciye verilen uzun bir hazırlığın ardından. Konuşmaya başlaması. Konuşmaya başladığında keskin bir koku alma duygusuna sahip olduğunu ve bunu parfümleri tanımak için kullandığını görüyoruz. Cam paravan ardından Starling'in bir gün önce sürdüğü parfümün kokusunu alıyor.
 
 <div class="row" style="margin-bottom: 2.5rem; margin-top: 2.5rem;">
-   <div class="ten columns"><img class="u-max-full-width" src="https://tozbulut.github.io/images/clarice_starling.jpg" alt="Clarice Starling"></div>
-   <div class="one column"></div>
+   <div class="nine columns">
+      <p style="
+         padding-top: 4rem;
+         ">Entelektüel Lecter bekleneceği üzere derin bir felsefik arkaplana sahip. Bu felsefik arkaplan Roma İmparatoru ve stoacı filozof Marcus Aurelius’un Meditations kitabından yaptığı bir alıntıda görüyoruz.</p>
+      <p>Lecter tarafından yapılan alıntı şu şekilde:</p>
+      <blockquote>
+         <p>İlk ilkeler, Clarice. Basitlik. Marcus Aurelius’u oku. Her bir şey için sor: Kendi içinde nedir? Doğası nedir? Ne yapar, bu aradığınız adam?</p>
+      </blockquote>
+   </div>
+   <div class="three columns" style="
+      "><img class="u-max-full-width" src="https://tozbulut.github.io/images/clarice_starling.jpg" alt="Clarice Starling"></div>
 </div>
-
-Entelektüel Lecter bekleneceği üzere derin bir felsefik arkaplana sahip. Bu felsefik arkaplan Roma İmparatoru ve stoacı filozof Marcus Aurelius'un Meditations kitabından yaptığı bir alıntıda görüyoruz.
-
-Lecter tarafından yapılan alıntı şu şekilde:
-> İlk ilkeler, Clarice. Basitlik. Marcus Aurelius'u oku. Her bir şey için sor: Kendi içinde nedir? Doğası nedir? Ne yapar, bu aradığınız adam?
 
 Lecter'ın stil sahibi olmayan herşeye duyduğu derin "yoketme hissi" yine onun adına yapılmış bir numara. Bu yoketme hissi nefret değil aslında. Yapılması gereken bir iş gibi. Bir tür jest. Durum bir şekilde ona karizma kazandırıyor. Filmin de avantajı olan katile katile sorma durumu. Ona muhtaç kalınması. Hayatın bu karanlık bir cilvesi tıpkı Harry Potter'daki Snape gibi çift taraflı ajanın karizmasını kazandırıyor. İyi ama bir yönü kötüye dönük. Belki zıttı olarak kötü ama iyiye dönük diyebiliriz.
 
