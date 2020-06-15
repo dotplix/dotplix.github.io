@@ -1,3 +1,23 @@
+- name: "Text Editing"
+  id : "0027"
+  date: "15.06.2020"
+  desc: 'Editleme, anlık düzeltme. Türkçede ne kadar azlar. Crowd-editing bu gibi Grammarly, MasterWriter <br/> <a href="https://blog.bookbaby.com/2017/10/nine-manuscript-editing-software-programs-reviewed/>Nine Manuscript Editing Software Programs You Should Consider</a>'
+
+- name: "Youtuberlar"
+  id : "0027"
+  date: "15.06.2020"
+  desc: "Youtuberlar bu kadar artarken onlara hizmet veren siteler de önem kazanıyor."
+
+- name: "Eğitim'de Değişik Bir Düşünce"
+  id : "0026"
+  date: "15.06.2020"
+  desc: "Üniversiteler bu kadar artarken üniversitelere bir hizmet sunmak iyi olabilir. Örneğin doğa yürüyüşleri."
+
+- name: "Chatbotların önemi"
+  id: "0025"
+  date: "15.06.2020"
+  desc: "Chatbot'lar ileride çok önemli olacağını görmek zor değil. Bir chatbotla konuşmak bir siteye girmekten çok daha kolay. An meselesi. Yakın zamanda görsel arayüzden WhatsApp vs. gibi chatbotlara geçeceğiz."
+
 - name: "T.S. Eliot"
   id: "0024"
   date: ""
