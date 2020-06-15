@@ -39,16 +39,13 @@ Kuzuların Sessizliği bizi seri katillerin sıradışı dünyasına götürürk
 
 Lecter'ın adı Litvanya soylusu *Hannibal the Grimm*'den geliyor. Hannibal the Grim'de Lecter gibi kurgusal. Cannibal sözcüğünün ortaya çıkışı onaltıncı yüzyıl ortalarına dayanmakta. İspanyolca çoğul Canibales, Caribes'in bir varyantı. Bu kelime Colombus insan yiyen Kuzey Amerika Yerlileri'ne verdiği isim. Aynı zamanda bu takma ad, Romalıları dize getirmek için filler dahil Alplerini orduya yönlendirmekle ünlü olan Kartacalı general Hannibal Barca'ya ile bağlantılı. 
 
-Detaya girecek olursak tüm zamanların en büyük askeri dehalarından biri kabul edilen Kartacalı politikacı ve generalin yanında kendisiyle aynı adı taşıyan bir adaşı var. Yardımcısı ve arkadaşı olan *Hannibal Monomachus* Yunan tarihçi Polybius'un anlatımına göre yanlış bir şekilde ordunun İspanya'dan İtalya'ya gidişinde erzakın tükeneceği ve yamyamlığa başvurmanın gerekeceği kehanetinde bulunmuş.
+Detaya girecek olursak tüm zamanların en büyük askeri dehalarından biri kabul edilen Kartacalı politikacı ve generalin yanında kendisiyle aynı adı taşıyan bir adaşı var. Yardımcısı ve arkadaşı olan *Hannibal Monomachus* Yunan tarihçi Polybius'un anlatımına göre yanlış bir şekilde ordunun İspanya'dan İtalya'ya gidişinde erzakın tükeneceği ve yamyamlığa başvurmanın gerekeceği kehanetinde bulunmuş. Hannibal Barca bağlantısı biraz kopuk görünse de yazar Harris Hannibal'a eskilerden Roma'yı andıracak bir isim vermek istemiş olabilir. Lecter'ı özel yapan durumlarınından biri de bu tarihselliği. Lecter'ı daha zorlu ve tehlikeli mistik bir eski düzenin mirasçısı olarak görüyoruz.
 
-Hannibal Barca bağlantısı biraz kopuk görünse de yazar Harris Hannibal'a eskilerden Roma'yı andıracak bir isim vermek istemiş olabilir. Lecter'ı özel yapan durumlarınından biri de bu tarihselliği. Lecter'ı daha zorlu ve tehlikeli mistik bir eski düzenin mirasçısı olarak görüyoruz.
+Hopkins'in canlandırdığı Hannibal karakterinin özelliklerine baktığımız zaman, Göründüğü her sahnede entellektüel açıdan parlak, kültürlü, sofistike, sanata ve müziğe meraklı, mutfakta rafine zevklere sahip olarak biri olarak portre ediliyor. Bir şekilde iyi eğitim almış olduğu anlaşılıyor. İtalyanca, Almanca, Rusça gibi birçok dili konuşuyor.
 
-Hopkins'in canlandırdığı Hannibal karakterinin özelliklerine baktığımız zaman, Göründüğü her sahnede entellektüel açıdan parlak, kültürlü, sofistike, sanata ve müziğe meraklı, mutfakta rafine zevklere sahip olarak biri olarak portre ediliyor. Bir şekilde iyi eğitim almış olduğu anlaşılıyor. İtalyanca, Almanca, Rusça gibi birçok dili konuşuyor.
+Müthiş bir dikkate sahip. Sıklıkla kurbanlarının etinden gurme yemekler hazırlıyor. Hannibal'ın bu özelliği katil oluşu tekrar tekrar hatırlatılıyor. İnsanların kabalıklarından derin bir gücenme duyuyor. Sıklıkla tavırlarını nezaketsiz gördüğü insanları öldürüyor.
 
-Müthiş bir dikkate sahip. Sıklıkla kurbanlarının etinden gurme yemekler hazırlıyor. Hannibal'ın bu özelliği katil oluşu tekrar tekrar hatırlatılıyor. İnsanların kabalıklarından derin bir gücenme duyuyor. Sıklıkla tavırlarını nezaketsiz gördüğü insanları öldürüyor. 
-
-Yakalanmasından ve Baltimore'da hapsedilmesinden önce Maryland'ın sosyal elitlerinden.Baltimore Filarmoni orkestrasının yönetiyor.
-Kuzuların sessizliğinde Dr. Lecter Starling'in gözünden ufak, zarif, elleri ve kolları tıpkı kendisinin olduğu gibi güçlü ve sırım gibi dayanıklı olarak tarif ediliyor.
+Yakalanmasından ve Baltimore'da hapsedilmesinden önce Maryland'ın sosyal elitlerinden.Baltimore Filarmoni orkestrasının yönetiyor. Kuzuların sessizliğinde Dr. Lecter Starling'in gözünden ufak, zarif, elleri ve kolları tıpkı kendisinin olduğu gibi güçlü ve sırım gibi dayanıklı olarak tarif ediliyor.
 
 Hannibal'ın fiziksel özellikleri çok ilgi çekici görünmüyor. Gözleri kestane rengi olduğundan ve ışığı kırmızı noktalar şeklinde yansıttığından, ufak beyaz dişlere sahip olduğundan, koyu renk geriye yatırılmış saçları üçgen şeklinde altına indiğinden bahsediliyor. Eidetic bir hafızası var. <em>Loci yöntemini</em> kullanıyor. Hislerini ve hatıralarını zengin detaylarıyla zihninde inşa ettiği "hafıza sarayı"nda saklıyor.
 
