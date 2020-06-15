@@ -10,7 +10,7 @@ tags: [Dostoyevski, İnsan, Roman, Psikoloji]
 Yeraltından Notlar uzun zamandır okumak istediğim bir romandı. Dostoyevski'nin insan doğasını anlatmaktaki iyi olduğu yönünde bir yorum var. Yeraltından Notlar, Dostoyevski'nin en "garip" çalışması. Roman boyunca ana tema Dostoyevski'nin *insandaki en büyük güç ve aynı zamanda en göze çarpan zayıflık* olduğuna inandığı yoğun kendilik duygusu.
 
 <div class="row" style="margin-bottom: 2.5rem; margin-top: 2.5rem;">
-   <div class="ten columns"><img class="u-max-full-width" src="https://tozbulut.github.io/images/n3.jpg" alt="Yeraltından Notlar"></div>
+   <div class="ten columns"><img class="u-max-full-width" src="https://tozbulut.github.io/images/n1.jpg" alt="Fyodor Dostoyevski"></div>
    <div class="two column"></div>
 </div>
 
@@ -20,10 +20,12 @@ Yeraltından Notlar anlatmak istedikleri ve anlatış biçimi açısından 1864 
 
 Yeraltından Notlar için ne söylenebilir? Büyük düşünceleri bir kenara bırakıp insani dramaya bakacak olursak romanın trajikomik ana karakteri çok *sağlıklı* biri değil. Kitabı okurken sıklıkla yaptığı hataları düşündüm. İlk aklıma gelen çok düşünmesi oldu. Bir tür fazla bilinçlenme problemi yaşıyor. Özellikle başka insanlar ile ilgili. Hastalığının kendisi de farkında. İnsanlara ve yaşamın geneline derin bir kin duyuyor. İlişkilerinden yoğun bir gücenme duysa da aslında bu insanlar tarafından beğenilmek istiyor.
 
+
 <div class="row" style="margin-bottom: 2.5rem; margin-top: 2.5rem;">
-   <div class="ten columns"><img class="u-max-full-width" src="https://tozbulut.github.io/images/n1.jpg" alt="Fyodor Dostoyevski"></div>
+   <div class="ten columns"><img class="u-max-full-width" src="https://tozbulut.github.io/images/n7.jpg" alt="Yeraltından Notlar"></div>
    <div class="two column"></div>
 </div>
+
 
 Kitabın giriş cümleri baştan okuyucuya mesafeyi veriyor. Dostoyevski kitap boyunca bu mesafeyle hep akıllıca oynayacak. Buradan bir gerçeklik çıkaracak. Okuyucuyu ondan iyi tanıdığını ona ispat edecek. İsimsiz karakterin birtakım güçlü yönleri var. Bunları daha çok kendi özel amaçları için kullanıyor. Memurluğunu başkalarına eziyet etmek için kullanması. Ağzının laf yapmasını ise Liza'nın kafasını karıştırmak, aklını çelmek için kullanması gibi. Notların yazarının sıklıkla kötücül etkileri ve bundan aldığı bir zevk var. Pislik bir herifin notlarını okuyorsunuz. Bulacağınız da biraz pislik oluyor haliyle. Bir yerde kötülüğün doğası üzerine bir yapıt olduğunu söylemek mümkün. Karakterinin benzerlerinin toplumda olduğu vurgusu var. Okuyucu açısından şaşırtıcı ve gerçek bir tecrübe bu. Notların yazarı sıklıkla ben sizim diyor.
 
