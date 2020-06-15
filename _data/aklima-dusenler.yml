@@ -1,10 +1,7 @@
-- name: "Nuclear Gandhi"
-  id: "0026"
-  desc: ""
 
 - name: "Advice - Alıntı"
   id: "0025"
-  desc: "Be softer with you. You are a breathing thing. A memory to someone. A home to a life. - Nayirrah Waheed"
+  desc: "<blockquote>Be softer with you. You are a breathing thing. A memory to someone. A home to a life. - Nayirrah Waheed</blockquote>"
 
 - name: "Body And The Software"
   id: "0023"
@@ -56,7 +53,7 @@
 
 - name: "İnsanların çoğu..."
   id: "0011"
-  desc: "İnsanların çoğunun gerçekten ileriye bakan bir ilişkiyi kaldırabilecek duygusal ağırlığa sahip olduğunu düşünmek hata olur. Herşeyden önce ne istediğini kendi de bilmiyor olabilir. Kendini yeterince iyi ifade edemiyor olabilir. Sen onun yerine onu anlamalısın. Gerekirse onu kendinden daha iyi anlamalısın."
+  desc: "İnsanların çoğunun gerçekten ileriye bakan bir ilişkiyi kaldırabilecek duygusal ağırlığa sahip olduğunu düşünmek hata olur. Herşeyden önce ne istediğini kendi de bilmiyor olabilir. Kendini yeterince iyi ifade edemiyor olabilir. Sen onun yerine onu anlamalısın. Gerekirse onu kendinden daha iyi anlamalısın. Böylece ötekini gözardı etmeden her ikiniz için de karar verebilirsin."
 
 - name: "Motivation"
   id: "0010"
