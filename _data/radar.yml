@@ -1,6 +1,8 @@
-- name: "Timeline"
+- name: "TimelineJS"
   id: ""
-  desc: '<p><a href="https://hyunyoung2.github.io/SimpleTimeLine/" target="_blank" rel="noopener">Timeline Örneği</a></p>'
+  date:
+  desc: '<p><a href="http://timeline.knightlab.com/" target="_blank" rel="noopener">TimelineJS</a></p> <p><a href="https://hyunyoung2.github.io/SimpleTimeLine/" target="_blank" rel="noopener">Timeline Örneği</a></p>'
+  type:
 
 - name: "Nuclear Gandhi"
   id: "0030"
