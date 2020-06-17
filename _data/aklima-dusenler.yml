@@ -1,6 +1,6 @@
-- name: "Umursamayanlar"
+- name: "What We Care"
   id: "0026"
-  desc: "Umursamamak çok karşılaşılan bir durum. Sonuçları olmasa insanlar kolayca her konuda umursamamazlık yapabilirler. Günümüz ekonomisi bunun önlemini çabuk alıyor. Bir fonksiyonu çalışmayan app hemen müşteri kaybediyor. Umursamayan biri için şöyle denebilir: Demek ki o böyle birisi bunu tolere edebiliyorsa bol şans!" 
+  desc: "Among all what we care is most primordial. There is no shortage of negligence. As deadly as it is - everywhere. Sonuçları olmasa insanlar kolayca her konuda umursamamazlık yapabilirler. Günümüz ekonomisi bunun önlemini çabuk alıyor. Bir fonksiyonu çalışmayan app hemen müşteri kaybediyor. Umursamayan biri için şöyle denebilir: Demek ki o böyle birisi bunu tolere edebiliyorsa bol şans!" 
 
 - name: "Advice - Alıntı"
   id: "0025"
