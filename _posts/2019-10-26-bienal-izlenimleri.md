@@ -9,7 +9,10 @@ tags: [Sanat, Aksiyon Odaklılık] # add tag
 
 26 Ekim Cumartesi günü nihayet 16. İstanbul Bienali'ni görmek için Bienal'in mekanlarından biri olan Tophane'deki MSGSÜ İstanbul Resim ve Heykel Müzesine gittim. İstanbul Kültür Sanat Vakfı (İKSV) tarafından düzenlenen ve katılımın ücretsiz olduğu Bienale bu yıl 500000 ziyaretçi bekleniyor. Bienal üç mekanda yapılıyor. Büyükada, Pera Müzesi, ve MSGSÜ. İsterseniz belli bir ücret ödeyerek rehberli turlara katılabiliyorsunuz.  
 
-<img src="https://tozbulut.github.io/images/yedinci-kita.jpg" alt="Yedinci Kıta" width="600"/>
+<div class="row" style="margin-bottom: 2.5rem; margin-top: 2.5rem;">
+   <div class="ten columns"><img class="u-max-full-width" src="https://tozbulut.github.io/images/yedinci-kita.jpg" alt="Yedinci Kıta"></div>
+   <div class="two column"></div>
+</div>
 
 Cumartesi öğleden sonra orada olacağımız için aşırı kalabalık olabileceğinden endişeleniyordum. Fakat öyle olmadı. Gayet rahat bir şekilde giriş yaptıktan sonra saat 14.40’dan kapanış saatine kadar sergi binasında kaldık. Bu süre aralıksız gezerek sonlara doğru hafif aceleyle tam tamına yetti diyebilirim. Tam bir gün ayrılırsa mesela sabah 10.00 gibi gelip öğle yemeği yiyerek rahat rahat gezilebilir.
 
