@@ -6,17 +6,6 @@ Modernite geri alınabilecek bir şey değil. Diyelim ki 1800'lerin sonunda bir 
 
 Yaşam deneyimi kısır
 
---------------------
-
-
-- Bilimsel
-- Felsefi
-- Kişisel
-üç eksenle değerlendirebilirim.
-
-Kaygı - Kaygı filmini mi izledi :D
-
-
 ---------------------
 
 
@@ -86,9 +75,7 @@ Modern Dünyanın 20 Tuzağı
 	
 Being Cheap Or Overconsumption
 Para ile ilişkimiz. Being cheap restircts you from some activities. 
-
-Dışarıya Gösterilen İle İçerdekinin Farklı Olma Zorunluluğu
-
+Dışarıya gösterilen ile içerdekinin Farklı Olma Zorunluluğu var mıdır?
 	
 	* Healty food
 	* Egzersize
@@ -104,10 +91,6 @@ Food, Shelter
 Faydalı Bulduğum 15 Düşünce Alışkanlığı
 	* Sürekli sayılarla düşünmeliyiz.
 	
-
----------
-
-
 ---------
 
 İlk problem dışarıdan gelecek bir yönlendirmenin motivasyondadır. Yönlendirmenin amacı kısmen sizin yararınızadır.
