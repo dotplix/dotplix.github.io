@@ -3,7 +3,7 @@ layout: post
 title: Yazmanın Önemi
 date: 2020-05-01 00:00:00 +0300
 description: 
-img: notes_underground1.jpg
+img: yaz2.png
 tags: [Not Almak]
 ---
 
