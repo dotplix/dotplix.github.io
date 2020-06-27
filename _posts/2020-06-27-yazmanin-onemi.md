@@ -11,9 +11,10 @@ Kendini daha iyi tanımak. Hayattan ne istediğini belirleyebilmek çok önemli.
 
 Gerekli ilgiyi ve iradeyi toplamakta bu tür ayakları yere basan sakin bir değerlendirmenin benim için fayda sağlayabileceğini düşündüm. Bu bir tür meditasyon, yoğunlaşma fırsatı, kendini değerlendirme. Kişisel tarihimizi yazmak güzel bir başlangıç olabilir. Geçmişe yönelik kişisel tarih içerisindeki zayıflıkları bulup çıkarmak iyileştirici bir etki yapabilir. Tekrar okumanın verdiği objektiflikten yararlanarak kendince bir psikolojik bir tahlil yapmak mümkün.
 
+Hayattan ne istediğimi kendime sormakla başladım. Kendime karşı yargılayıcı bir tavıra girmiyorum. Aslında bunun da faydası olacaktır. Fakat bunu daha sonraya saklıyorum.
+
 
 -----------
-
 
 Ünlü Fransız yazar ve düşünür Sartre insanın korkutucu derecede özgür olduğumuzu söyler. İçinde bulunduğum durumda varlığını hissettiğim durum bu.
 
@@ -28,7 +29,6 @@ Kişiliğimin her unsuru ile savaşmıyorum. Unutmamak lazım ki bazı unsurlar 
 Yazarken zamanı durdurabiliriz ama bir konuda naif olmayalım. Her şey zamana tabi. Bu nedenle hız çok önemli. Kaç yaşındayız? Planlarımı gerçekleştirmek için yeterli zamanım var mı? Gerçekçi bir stratejim var mı? Bu uğurda enerjimi yeterince verimli kullanıyor muyum?
 
 ------------
-
 
 Nasıl bir şema izlemeli? Ne istiyorum.
 
