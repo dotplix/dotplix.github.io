@@ -4,6 +4,7 @@ title: Yazmanın Önemi
 date: 2020-05-01 00:00:00 +0300
 description: 
 img: yaz2.png
+category: kitap
 tags: [Not Almak]
 ---
 
