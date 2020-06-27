@@ -56,7 +56,7 @@
   .columns {
     margin-left: 4%; }
   .column:first-child,
-  .columns:first-child {
+  .columns:first-child, .columns:nth-child(3n+1)  {
     margin-left: 0; }
 
   .one.column,
