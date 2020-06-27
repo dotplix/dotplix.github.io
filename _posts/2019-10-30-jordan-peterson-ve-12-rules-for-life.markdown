@@ -7,6 +7,7 @@ description: "Bu yazıda *12 Rules for Life, An Antidote to Chaos* kitabından b
 image: https://dotplix.github.io/assets/img/12rules.jpg
 optimized_image: https://dotplix.github.io/assets/img/12rules.jpg
 category: Kitap
+img: 12rules2.png
 tags:
   - Jordan Peterson
   - Felsefe
