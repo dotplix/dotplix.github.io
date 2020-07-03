@@ -1,6 +1,7 @@
 - name: "Balance"
   id: "0027"
-  desc: "Balanced."
+  desc: "Denge nerede eksiktir? Orada muhtemelen yanlış giden bir şey var."
+  desc2: "When you aim up. Its something. You are now above the mess. People will ridicule it. Because they are ridiculous."
 
 - name: "What We Care"
   id: "0026"
