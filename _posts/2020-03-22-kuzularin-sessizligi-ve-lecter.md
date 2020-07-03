@@ -14,7 +14,7 @@ Psikolojik korku ve gerilimin sınırlarını zorlayan bu karanlık karakter ayn
    <div class="two column"></div>
 </div>
         
-2003 yılında Amerikan Film Enstitüsü Hannibal Lecter'ı tüm zamanların 1 numaralı kötü adamı olarak seçildi. Lecter'a hayat veren Antony Hopkins filmde 24 dakika 52 saniye gözükmesine rağmen 1992’de Akademi Ödülleri’nde En İyi Erkek Oyuncu Oscarını aldı. Karakterin tanınmasında Hopkins'in gösterdiği ustaca performansın yeri büyük.
+2003 yılında Amerikan Film Enstitüsü Hannibal Lecter'ı tüm zamanların 1 numaralı kötü adamı olarak seçti. Lecter'a hayat veren oyuncu Antony Hopkins filmde yalnızca 24 dakika 52 saniye gözükmesine rağmen 1992 yılında yapılan Akademi Ödülleri’nde En İyi Erkek Oyuncu Oscarını aldı. Karakterin tanınmasında Hopkins'in gösterdiği ustaca performansın yeri büyük.
 
 Lecter hikaye içindeki sunuluş şekli ve zekası ile hemen sıyrılıyor. Bu yönüyle zamanımızın son popüler kötüsü Joker’den bile daha incelikli bir yerde. 2019 tarihli Joker filmini yorumlaması istendiğinde Slavoj Zizek Joker'in filmde tarif edilişini eleştirerek Lecter'a ilginç bir atıfta bulunuyor.
 
