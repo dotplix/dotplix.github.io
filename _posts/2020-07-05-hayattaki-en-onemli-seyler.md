@@ -14,9 +14,9 @@ Kaos içerisinde ilgimizin bu kadar dağıldığı bir dünyada en değerli şey
    <div class="two column"></div>
 </div>
 
-Seçmiş olduğum başlıklar ve anlatış biçimim tabi ki subjektif olabilir. İşin esası subjektif olmasında bir fayda da görüyorum. Böylelikle gerçek bir bakış otantik yönleriyle açığa çıkıyor.
+Anlatımım biraz subjektif olabilir. İşin esası kendi bakış açımdan yansıtmakta bir fayda da görüyorum. Böylelikle gerçek bir bakış otantik yönleriyle açığa çıkıyor.
 
-Öte yandan bu değerlerin hepimizi birleştiren bir yanı da var. Hayattan beklentilerimizin çoğumuz için ortak olduğu kanısındayım. 
+Bir yandan da bu değerlerin hepimizi birleştiren ortak bir yanı da var. O kadar farklılaşmıyorlar. Bu gerçekten değerli bir şey aslında. Immanuel Kant felsefesindeki [categorical imperative](https://en.wikipedia.org/wiki/Categorical_imperative) gibi hepimiz için doğru olan bazı davranış biçimleri var. 
 
 Ben ilk başta kulağa pek eğlenceli gelmese de önceliklerin bir şekilde dış dünya ile uyumlu olması taraftarıyım. Dışarıdan gelecek negatif etkiye kapalı. Fakat dışarıdan gelecek yeniliklere açık olmalı.
 
