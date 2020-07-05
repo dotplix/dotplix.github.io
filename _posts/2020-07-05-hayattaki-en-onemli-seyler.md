@@ -18,7 +18,7 @@ Anlatımım biraz subjektif olabilir. İşin esası kendi bakış açımdan yans
 
 Bir yandan da bu değerlerin hepimizi birleştiren ortak bir yanı da var. O kadar farklılaşmıyorlar. Bu gerçekten değerli bir şey aslında. Immanuel Kant felsefesindeki [categorical imperative](https://en.wikipedia.org/wiki/Categorical_imperative) gibi hepimiz için doğru olan bazı davranış biçimleri var. 
 
-Ben ilk başta kulağa pek eğlenceli gelmese de önceliklerin bir şekilde dış dünya ile uyumlu olması taraftarıyım. Dışarıdan gelecek negatif etkiye kapalı. Fakat dışarıdan gelecek yeniliklere açık olmalı.
+Hepimiz için ortak olan bu doğrular ilk başta kulağa pek eğlenceli gelmese de ben insanın değerlerinin, önceliklerinin bir şekilde dış dünya ile uyumlu olması taraftarıyım. Dışarıdan gelecek negatif etkiye kapalı olmalı fakat dışarıdan gelecek yeniliklere açık olmalı.
 
 Eğer gerçekten kopuk bir biçimde bir ilüzyona kapılıp önceliklerimizi kaybetmediysek, gerçek şu ki hassas bir denge üzerinde duruyoruz. Önceliklerimizi bir şekilde sınırlandıracak ve gerçekleştirecek iradeye sahip olsak bile bir "trade-off" ile karşılaşabiliriz. Bu değerler karşı karşıya gelebilir. Bir hedefiniz olmadığında dengeyi korumak kolaydır. Ama bir hedefiniz olduğunda ki istediğinizi elde etmek için hedef alanınız daralacak bu dengeyi sağlamak gittikçe zorlanacaksınız.
 
