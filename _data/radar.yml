@@ -1,8 +1,8 @@
 - name: "TimelineJS"
-  id: ""
-  date:
+  id: "0031"
+  date: ""
   desc: '<p><a href="http://timeline.knightlab.com/" target="_blank" rel="noopener">TimelineJS</a></p> <p><a href="https://hyunyoung2.github.io/SimpleTimeLine/" target="_blank" rel="noopener">Timeline Örneği</a></p>'
-  type:
+  type: "Teknik"
 
 - name: "Nuclear Gandhi"
   id: "0030"
@@ -13,31 +13,31 @@
   id: '0029'
   date: "15.06.2020"
   desc: '<p>A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine. I am so happy, my dear friend, so absorbed in the exquisite sense of mere tranquil existen</p> <p><br></p> <p><a href="https://www.idefix.com/Kitap/The-Sorrows-Of-Young-Werther/Foreign-Languages/Literature-And-Novel/Classics/urunno=0001709193001?gclid=Cj0KCQjwuJz3BRDTARIsAMg-HxU1feiWt34EpPvTolqEfSovCiMHna9cNeHOG2oL7BkXDcC3dVIx_ocaAiQCEALw_wcB" rel="noopener noreferrer" target="_blank">The Sorrows of Young Werther - Johann Wolfgang Von Goethe</a></p>'
-  type: "Book"
+  type: "Kitap"
 
 - name: "Text Editing"
   id : "0028"
   date: "15.06.2020"
   desc: 'Editleme, anlık düzeltme. Türkçede ne kadar azlar. Crowd-editing bu gibi Grammarly, MasterWriter <br/> <a href="https://blog.bookbaby.com/2017/10/nine-manuscript-editing-software-programs-reviewed/">Nine Manuscript Editing Software Programs You Should Consider</a>'
-  type: "inventive"
+  type: "Kreatif"
 
 - name: "Youtuberlar"
   id : "0027"
   date: "15.06.2020"
   desc: "Youtuberlar bu kadar artarken onlara hizmet veren siteler de önem kazanıyor."
-  type: "inventive"
+  type: "Kreatif"
 
 - name: "Eğitim'de Değişik Bir Düşünce"
   id : "0026"
   date: "15.06.2020"
   desc: "Üniversiteler bu kadar artarken üniversitelere bir hizmet sunmak iyi olabilir. Örneğin doğa yürüyüşleri."
-  type: "inventive"
+  type: "Kreatif"
 
 - name: "Chatbotların önemi"
   id: "0025"
   date: "15.06.2020"
   desc: "Chatbot'lar ileride çok önemli olacağını görmek zor değil. Bir chatbotla konuşmak bir siteye girmekten çok daha kolay. An meselesi. Yakın zamanda görsel arayüzden WhatsApp vs. gibi chatbotlara geçeceğiz."
-  type:  "inventive"
+  type:  "Kreatif"
 
 - name: "T.S. Eliot"
   id: "0024"
@@ -49,36 +49,36 @@
   id: "0023"
   date: "19.05.2020"
   desc: "Performans Sanatçısı, Beden Konsantrasyon, Mekan, Görsel"
-  type: "Cultural Reference"
+  type: "Kültürel Referans"
 
 - name: "Walpurgis Night"
   id : "0022"
   date : "19.05.2020"
-  desc: "https://en.wikipedia.org/wiki/Walpurgis_Night </br> Kuzey Avrupa ve İskandinavya'da kutlanan bayram. Pagan kökleri ve cadılıkla ilgisi bulunmaktadır."
-  type: "Cultural Reference"
+  desc: "[Walpurgis Night](https://en.wikipedia.org/wiki/Walpurgis_Night) </br> Kuzey Avrupa ve İskandinavya'da kutlanan bayram. Pagan kökleri ve cadılıkla ilgisi bulunmaktadır."
+  type: "Kültürel Referans"
 
 - name: "Walden - Ormanda Yaşam"
   id: "0021"
   date: "19.05.2020"
   desc: ""
-  type: "Book"
+  type: "Kitap"
 
 - name: "Ne Yapsak?"
   id: "0020"
   date: "19.05.2020"
-  desc: "https://youtube.com/watch?v=zh0xIOl93b0&list=PL0QFxC-u5wRFlXnY0Pfgjr8nwu1mNakik"
-  type: "Cultural Reference"
+  desc: "CNN TURK Ne yapsak? [Ne yapsak?](https://youtube.com/watch?v=zh0xIOl93b0&list=PL0QFxC-u5wRFlXnY0Pfgjr8nwu1mNakik)"
+  type: "Kültürel Referans"
 
 - name: "Kelebek - Henri Charriere"
   id: "0020"
   date: "19.05.2020"
-  desc: "https://www.idefix.com/Kitap/Walden/Felsefe/Felsefe-Bilimi/urunno=0001850300001?gclid=CjwKCAjw5Ij2BRBdEiwA0Frc9VyT0OsEJ_3J835k47-fdAPQx5MvZlR6YWztzLjiWncE2DbOu_bwFRoCW60QAvD_BwE"
+  desc: "[Kelebek](https://www.idefix.com/Kitap/Walden/Felsefe/Felsefe-Bilimi/urunno=0001850300001?gclid=CjwKCAjw5Ij2BRBdEiwA0Frc9VyT0OsEJ_3J835k47-fdAPQx5MvZlR6YWztzLjiWncE2DbOu_bwFRoCW60QAvD_BwE)"
   type: "Book"
 
 - name: "Walden - Henry David Thoreau"
   id:  "0019"
   date: "19.05.2020"
-  desc: "https://www.dr.com.tr/Kitap/Kelebek/Edebiyat/Roman/Dunya-Roman/urunno=0000000024039"
+  desc: "[Walden](https://www.dr.com.tr/Kitap/Kelebek/Edebiyat/Roman/Dunya-Roman/urunno=0000000024039)"
 
 - name: "Henry David Thoreau"
   id: "0018"
@@ -88,14 +88,14 @@
 - name: "Marina Abramovic The Artist is Present Trailer "
   id: "0017"
   date: "05.06.2020"
-  desc: "https://www.youtube.com/watch?v=YcmcEZxdlv4"
-  type: "Cultural Reference"
+  desc: "[The Artist is Present](https://www.youtube.com/watch?v=YcmcEZxdlv4)"
+  type: "Kültürel Referans"
 
 - name: "16 Kişilik Tipi"
   id: "0016"
   date: "05.06.2020"
   desc: "https://www.16personalities.com/"
-  type: "Research Topic"
+  type: "Araştır"
 
 - name: "Ardahan Gülen Adam"
   id: "0015"
@@ -107,19 +107,19 @@
   id: "0014"
   date: "02.05.2020"
   desc: "What do i know?"
-  type: "Research Topic"
+  type: "Araştır"
 
 - name: "How to write an essay?"
   id: "0014"
   date: "02.05.2020"
   desc: ""
-  type: "Research Topic"
+  type: "Araştır"
   
 - name: "Kitap - Tank Girl"
   id: "0013"
   date: "02.05.2020"
   desc: "British post-apocalyptic comic series by Alan Martin and Jamie Hewlett that was originally published in Deadline magazine."
-  type: "Cultural Reference"
+  type: "Kültürel Referans"
     
 - name: "Kitap"
   id: "0011"
@@ -136,53 +136,53 @@
 - name: "Bipolar Disorder"
   id: "0009"
   date:
-  desc: "https://www.nimh.nih.gov/health/publications/bipolar-disorder/index.shtml"
-  type: "Research Topic"
+  desc: "[Bipolar Disorder](https://www.nimh.nih.gov/health/publications/bipolar-disorder/index.shtml)"
+  type: "Araştır"
 
 - name: "Happy People: A Year in the Taiga"
   id: "0008"
   date:
   desc: "A documentary about people live in hard circumtances. Pushing beyond the limits. Spiritual awakening. Self imposing hardship. Resillience is a muscle. Earning the comfort. If you dont earn it you feel bad, shame. Because you know. Putting the time."
-  type: "Cultural Reference"
+  type: "Kültürel Referans"
 
 - name: "Tech News"
   id: "0007"
   date:
   desc: "A research topic. How to get time effective tech news? How to get that kind of news?"
-  type: "Research Topic"
+  type: "Araştır"
 
 - name: "Comedian Dina Hashem"
   id: "0006"
   date:
   desc: "New York-based standup comedian. "
-  type: "Cultural Reference"
+  type: "Kültürel Referans"
   
 - name: "Joe Rogan Experience 1221 - Jonathan Haidt"
   id: "0005"
   date:
   desc: "A podcast. Bullying</br>01:00 – on modern Academia and scholarships</br> 17:28 – what’s messing us up as a society</br> 23:37 – POTUS and polarization of American society</br> 32:22 – What is good education and what makes you smart</br> 43:15 – on racism</br> 45:00 – describes black social media</br> 59:41 – modern day teaching</br> 1:10:30 – about parenting</br> 1:21:14 – on mental illness</br> 1:30:11 – keep your kids from getting addicted to gadgets and gizmos in bedroom</br> 1:48:03 – can teaching be fun and motivating</br> 1:56:20 – debate shitty ideas with arguments, not force."
-  type: "Cultural Reference"
+  type: "Kültürel Referans"
 
 - name: "The Coddling of the American Mind - Jonathan Haidt"
   id: "0004"
   date:
   desc: "A book about social life of modern American society."
-  type: "Book"
+  type: "Kitap"
 
 - name: "Antifragility - Nassim Nicholas Taleb"
   id: "0003"
   date:
   desc: "A book. Immune System is antifragile, kids are antifragile... "
-  type: "Book"
+  type: "Kitap"
   
 - name: "Science Magazine"
   id: "0002"
   date:
-  desc: "A research topic. There are articles on Science magazine. Is it free? How to access it? Is it interesting enough?"
-  type: "Research Topic"
+  desc: "A Araştır. There are articles on Science magazine. Is it free? How to access it? Is it interesting enough?"
+  type: "Araştır"
   
 - name: "Academic Papers and How To Read Them"
   id: "0001"
   date:
-  desc: "A research topic. What an academic writing process consist of?"
-  type: "Research Topic"
+  desc: "A Araştır. What an academic writing process consist of?"
+  type: "Araştır"
