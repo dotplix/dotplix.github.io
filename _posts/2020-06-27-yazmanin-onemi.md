@@ -5,7 +5,8 @@ date: 2020-05-01 00:00:00 +0300
 description: 
 img: yaz2.png
 category: kitap
-tags: [Not Almak]
+tags: 
+- Not Almak
 ---
 
 Elime bir kalem kağıt alıp hemen yazmaya başlayacak olsam ne yazardım? Mesleki bir şey mi? Bir rapor? Belki bir şiir, kompozisyon belki de bir bilimkurgu romanı. Peki ya kendi dramanız? Hayatınızın macerası.
@@ -21,3 +22,30 @@ Hayattan ne istediğimizi kendimize sormakla başlayabiliriz. Şimdilik yargıla
 
 Hayatta önemli gördüğümüz şeyler aslında çoğumuz için pek farklılaşmıyor. Sağlık, Aile, Kariyer, Sevgili, Arkadaşlar ilk akla gelenler. Eğitim olabilir. Eğlence muhakkak olmalı. Zaman önemli, amaç önemli. Bir çoğumuz sağlığımızı
 
+
+Ne istediğine ve ihtiyacın olana kavuşabilirsin. Sevilmeye duyduğun ihtiyacını karşılaman gerekiyor. Kendinle bir bakıma muhtaç biri gibi ilgileniyorsun. Uygun bir tutum takınıyorsun. Önemsenmeye değer saygı duyulacak bir şey olarak kendinin bu parçası ile ilgileniyorsun. Değerli ve geliştirilebilecek bir şeyler var sende. Bu kadar kredi vermen gerekiyor kendine. Sevmeye ve ilgilenmeye değer gördüğün herkese yapacağın gibi. Tamam ne istediğini alabilirsin ama bunu belirtmen gerekiyor. 
+
+*  3-5 years down to road. 
+* Arkadaşların nasıl gözüksün? Friendship network look like.
+* Kariyerin kendini nasıl şekillendirecek. 
+* Ailenle nasıl başa çıkacaksın.
+* Çocuklar, long-term mate wife or husbant. 
+* Time outside of work that's useful and engaging and meaningful and productive. 
+* How you gonna take care of yourself mentally and physicaly.
+* How you are going to withstand temptation. In a partecular way might take you down. 
+* Not to be obsessive about it but sketch it out. 
+* Bad first draft. 
+
+15 minutes. 
+
+* Good person in the face of the suffering of life. 
+* COntrary. How they you fall apart. Everyone know they have the particular way to fall apart. 
+* If that part of your character dominate what particular corner of hell you want to occuppy. 
+
+
+Strategic Plan.
+Accomplesment of their goals. 
+A little change. Outside of your skillset. 
+
+
+Balance. 
