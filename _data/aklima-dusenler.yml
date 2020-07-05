@@ -1,7 +1,7 @@
 - name: "Balance"
   id: "0027"
   desc: "Denge nerede eksiktir? Orada muhtemelen yanlış giden bir şey var."
-  desc2: "When you aim up. Its something. You are now above the mess. People will ridicule it. Because they are ridiculous."
+  desc2: "When you aim up. Its something. You are now above the mess. People will ridicule it. Maybe they are ridiculous."
 
 - name: "What We Care"
   id: "0026"
@@ -99,3 +99,7 @@
 - name: "Objects"
   id: "0001"
   desc: "Are we big enough to became nobody? Big enough to became distant from ourselves and recognize outselves as mere objects. Or agents maybe."
+
+- name: "Meta"
+  id: "0000"
+  desc: "Bu düşünceler düzenli hale getirildiğinde etkileri daha da güçlenebilir."
