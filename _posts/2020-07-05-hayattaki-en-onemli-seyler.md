@@ -13,7 +13,7 @@ Böylece hayattaki en önemli şeylerin bir listesini yapmaya karar verdim. Seç
 ## Kariyer
 Hayattaki temel amacımız varoluş manifestomuz ile yakından ilişkili. Çünkü prpfesyonel anlamda bir yarar sağlıyorsak bunun bir lafşılığı olacaktır. Kendi ayakları üzerinde durabilmek ve bağımsız bir birey olmanın verdiği güç.  Gezegenle teke tek karşılaşabilme.
 
-Bu benim için nispeten kolay oldu. Bazıları için daha da kolay bazıları için daha da zor. Ama pek çoğumuz için her halükarda alınması gereken yol var. Özellikle ortalama bir yaşam sürmek istemeyen taraftaysanız. 
+Bu benim için nispeten kolay oldu. Bazıları için daha da kolay bazıları için daha da zor. Ama pek çoğumuz için her halükarda alınması gereken yol var. Özellikle sıkıcı bir yaşam sürmek istemeyen taraftaysanız. 
 
 ## Aile
 Aile sağlıktan sonra en önemli şey. 
