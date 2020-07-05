@@ -7,7 +7,7 @@ tags:
 - Sağlık # add tag
 ---
 
-Kaos içerisinde ilgimizin bu kadar dağıldığı bir dünyada, değerli şeyler kolayca kaybolabilir. Bu anlamda neyin kıymetli olduğunu tekrardan değerlendirmek bu anlamda faydalı olabilir diye düşünüyorum. Böylece hayattaki en önemli şeylerin bir listesini yapmaya karar verdim.
+Kaos içerisinde ilgimizin bu kadar dağıldığı bir dünyada en değerli şeyler kolayca kaybolabilir. Bu anlamda neyin kıymetli olduğunu tekrardan değerlendirmek faydalı olabilir diye düşünüyorum. Böylece hayattaki en önemli şeylerin bir listesini yapmaya karar verdim.
 
 <div class="row" style="margin-bottom: 2.5rem; margin-top: 2.5rem;">
    <div class="ten columns"><img class="u-max-full-width" src="https://tozbulut.github.io/images/window.jfif" alt="Trees"></div>
