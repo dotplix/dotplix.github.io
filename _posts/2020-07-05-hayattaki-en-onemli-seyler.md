@@ -1,3 +1,13 @@
+---
+layout: post
+title: Hayattaki En Önemli Şeyler
+date: 2020-03-30 00:00:00 +0300
+img: okuma-listesi.jpg
+tags: [Kitap, Gelişim] # add tag
+---
+
+
+
 Böylece hayattaki en önemli şeykerin bir listesini yapmaya karar verdim. Seçmiş olduğum başlıklar ve anlatış biçimim tabi ki subjektif olabilir. Ama ben pek çoğumuz için bu değerlerin ortak olduğu kanısındayım.
 
 
