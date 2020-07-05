@@ -2,7 +2,7 @@
 layout: post
 title: Hayattaki En Önemli Şeyler
 date: 2020-03-30 00:00:00 +0300
-img: okuma-listesi.jpg
+img: test3.jpg
 tags: [Sağlık] # add tag
 ---
 
