@@ -4,6 +4,7 @@ title: Kuzuların Sessizliği ve Lecter
 date: 2020-03-22 00:00:00 +0300
 description: 2003 yılında Antony Hopkins tarafından canlandıran Hannibal Lecter karakteri Amerikan Film Enstitüsü tarafından tüm zamanların 1 numaralı kötü adamı olarak seçildi.
 img: silence_of_the_lambs.jfif
+category: Kültürel
 tags: [Psikoloji, Film] # add tag
 ---
 

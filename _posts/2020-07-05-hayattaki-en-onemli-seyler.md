@@ -3,6 +3,7 @@ layout: post
 title: Hayattaki En Önemli Şeyler
 date: 2020-03-30 00:00:00 +0300
 img: test3.jpg
+category: Hayata Dair
 tags: 
 - Sağlık # add tag
 ---
