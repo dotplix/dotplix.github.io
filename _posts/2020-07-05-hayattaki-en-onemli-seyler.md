@@ -3,23 +3,20 @@ layout: post
 title: Hayattaki En Önemli Şeyler
 date: 2020-03-30 00:00:00 +0300
 img: okuma-listesi.jpg
-tags: [Kitap, Gelişim] # add tag
+tags: [Sağlık] # add tag
 ---
 
-
-
-Böylece hayattaki en önemli şeykerin bir listesini yapmaya karar verdim. Seçmiş olduğum başlıklar ve anlatış biçimim tabi ki subjektif olabilir. Ama ben pek çoğumuz için bu değerlerin ortak olduğu kanısındayım.
-
+Böylece hayattaki en önemli şeylerin bir listesini yapmaya karar verdim. Seçmiş olduğum başlıklar ve anlatış biçimim tabi ki subjektif olabilir. Ama ben pek çok insan için bu değerlerin ortak olduğu kanısındayım.
 
 ## Sağlık
 
 ## Kariyer
-Hayattaki temel amacımız varoluş manifestomuz ile yakından ilişkili. Çünkü prpfesyoneş anlamda bir yarar sağlıyorsak bunun bir lafşılığı olacaktır. Kendi ayakları üzerinde durabilmek ve bağımsız bir birey olmanın verdiği güç. 
-Gezegenle teke tek karşılaşabilme.
-Bu benim için nispeten kolay oldu. Bazıları için daha da kolay bazıları için daha da zor. Ama her halükarda alınması gereken yol var. Özellikşle ortalama bir yaşam sürmek istemeyen taraftaysanız. 
+Hayattaki temel amacımız varoluş manifestomuz ile yakından ilişkili. Çünkü prpfesyonel anlamda bir yarar sağlıyorsak bunun bir lafşılığı olacaktır. Kendi ayakları üzerinde durabilmek ve bağımsız bir birey olmanın verdiği güç.  Gezegenle teke tek karşılaşabilme.
+
+Bu benim için nispeten kolay oldu. Bazıları için daha da kolay bazıları için daha da zor. Ama pek çoğumuz için her halükarda alınması gereken yol var. Özellikle ortalama bir yaşam sürmek istemeyen taraftaysanız. 
 
 ## Aile
-Aile sağlıktan sonra en öbemli şey. 
+Aile sağlıktan sonra en önemli şey. 
 
 ## Çevre ve Arkadaşlar
 
