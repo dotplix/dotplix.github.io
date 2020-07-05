@@ -4,7 +4,7 @@ title: Amor Fati, Kibir ve Oluşun Masumiyeti
 date: 2019-10-28 13:32:20 +0300
 subtitle: Dikkate değer düşünceler...
 description: Friedrich Nietzsche'nin fikirleri arasında en heyecan verici olanlarından biri; Amor Fati.
-image: https://dotplix.github.io/assets/img/japo.jpg
+img: https://dotplix.github.io/assets/img/japo.jpg
 optimized_image: https://dotplix.github.io/assets/img/japo.jpg
 category: Felsefe
 tags:
@@ -25,3 +25,10 @@ Hayatımızı onu her koşulda sevmeyi öğrenmemiz önemli. Fakat insanlar olar
 Bu noktada sıradanlığımızı anlamamız çok önemli diye düşünüyorum. Kibrimizden kurtulmak bizi yalnızca kayıplardan kurtarmaz, kazandırabilir de. İnsan sıradanlığını anladığı anda kafasında bir şeyler değişiyor. Önce herkesin sıradan olduğunu kabul ederek başlıyorsun. Sonra bir adım daha ve hatta kendinin de sıradan olduğunu kabul ediyorsun. Özgürlük işte bu noktada başlıyor. İnsanlar olarak bizi harekete geçmekten alıkoyan tek şey kendimiz değil miyiz? Kendi faydasından kendi *ya ben ne olacağım?*' düşüncesinden kurtulmamız herşeyi değiştirmez mi?
 
 **Oluşun masumiyeti** Nietzsche'nin aynı minvalden bir diğer dahiyane fikri. Bu düşünceye göre bir olay gerçek ve de yaşanmışsa masumiyet kazanıyor. Onda suç aranamıyor. Hayatın kendisine dair olan her şey oluşun masumiyetine dahil ve bir şeyin gerçekleşmesi onu masum kılıyor.
+
+hedef
+kapsam
+yöntem
+irade
+
+Gelir adaletsizliği Fırsat Eşitliği
