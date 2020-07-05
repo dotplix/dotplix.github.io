@@ -3,6 +3,7 @@ layout: post
 title: Yeraltından Notlar
 date: 2020-05-01 00:00:00 +0300
 description: 
+category: Kitap
 img: notes_underground1.jpg
 tags: [Dostoyevski, İnsan, Roman, Psikoloji]
 ---
