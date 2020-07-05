@@ -13,6 +13,11 @@ tags:
 author: dotplix
 ---
 
+<div class="row" style="margin-bottom: 2.5rem; margin-top: 2.5rem;">
+   <div class="ten columns"><img class="u-max-full-width" src="https://tozbulut.github.io/images/japo.jpg" alt="Amor Fati, Kibir ve Oluşun Masumiyeti"></div>
+   <div class="two column"></div>
+</div>
+
 Friedrich Nietzsche'nin fikirleri arasında en heyecan verici olanlarından biri: Amor Fati. "Kaderini sev!" anlamına geliyor. Fakat bunu kuru bir kadercilik olarak anlamamalıyız. Anlatılmak istenen çok daha derin. Pişman olmayı reddeden güçlü ve coşkulu bir bu tutum basit bir teslimiyetçiliğin çok ötesinde. Olayların günlük yaşantımızdaki akışını kabullenmekte yaşadığımız zorlukla başa çıkmak için bir reçete tutuşturuyor elimize. Hatalarımızı, yaşanmamışlıklarımızı tıkıştırdığımız bir bagajla gezmeyi derhal bırakmamızı tembihliyor.
 
 > Gün geçtikçe şeylerde gerekli olanları güzel olarak görmeyi öğreniyorum. Ardından ise şeyleri güzel yapanlardan biri olmalıyım. Amor Fati! aşkım bu olsun bundan böyle. Çirkin olana karşı savaş ilan etmek istemiyorum. Suçlamak istemiyorum. Suçlayanları suçlamak da istemiyorum. Uzaklara bakmak tek olumsuzluğum olsun. Ve hepsinden öte: bir gün sadece bir Evet-diyen olmak istiyorum.
