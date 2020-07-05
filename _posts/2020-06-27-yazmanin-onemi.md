@@ -22,30 +22,15 @@ Hayattan ne istediğimizi kendimize sormakla başlayabiliriz. Şimdilik yargıla
 
 Hayatta önemli gördüğümüz şeyler aslında çoğumuz için pek farklılaşmıyor. Sağlık, Aile, Kariyer, Sevgili, Arkadaşlar ilk akla gelenler. Eğitim olabilir. Eğlence muhakkak olmalı. Zaman önemli, amaç önemli. Bir çoğumuz sağlığımızı
 
-
 Ne istediğine ve ihtiyacın olana kavuşabilirsin. Sevilmeye duyduğun ihtiyacını karşılaman gerekiyor. Kendinle bir bakıma muhtaç biri gibi ilgileniyorsun. Uygun bir tutum takınıyorsun. Önemsenmeye değer saygı duyulacak bir şey olarak kendinin bu parçası ile ilgileniyorsun. Değerli ve geliştirilebilecek bir şeyler var sende. Bu kadar kredi vermen gerekiyor kendine. Sevmeye ve ilgilenmeye değer gördüğün herkese yapacağın gibi. Tamam ne istediğini alabilirsin ama bunu belirtmen gerekiyor. 
 
-*  3-5 years down to road. 
-* Arkadaşların nasıl gözüksün? Friendship network look like.
-* Kariyerin kendini nasıl şekillendirecek. 
-* Ailenle nasıl başa çıkacaksın.
-* Çocuklar, long-term mate wife or husbant. 
-* Time outside of work that's useful and engaging and meaningful and productive. 
-* How you gonna take care of yourself mentally and physicaly.
-* How you are going to withstand temptation. In a partecular way might take you down. 
-* Not to be obsessive about it but sketch it out. 
-* Bad first draft. 
+Daha sonra ise gelecek yazımı geliyor. 3-5 sene sonrasını gözümüzde canlandırıyoruz. Arkadaşların nasıl gözüksün? Arkadaş ağın nasıl gözüksün? Kariyerin kendini nasıl şekillendireceksin? 
+Ailenle nasıl başa çıkacaksın? Çocuklar, uzun süreli ilişkin, karın ya da kocan. İş dışındaki zamanını yararlı ve ilgi çekici ve anlamlı ve üretken bir biçimde nasıl değerlendirebilirsin?
+Zihinsel ve fiziksel olarak kendinize nasıl bakacaksın? Belirli bir şekilde sizi aşağı çekebilecek yoldan çıkarıcı şeylere nasıl dayanacaksın?
 
-15 minutes. 
+Bu konuda takıntılı olmadan kaba taslağını çıkarmak önemli. Kötü bir ilk taslak. Daha sonra güncellenebilir. 15 dakika içerisinde yazılması mümkün. Hayatın acıları karşısında iyi bir insan olarak nasıl kalacaksın? 
 
-* Good person in the face of the suffering of life. 
-* COntrary. How they you fall apart. Everyone know they have the particular way to fall apart. 
-* If that part of your character dominate what particular corner of hell you want to occuppy. 
+Daha sonra tam tersini gözünde canlandır. Nasıl ayrı düşüyorsun. Nasıl dağılıyorsun. Herkes kendi zayıf noktasının dağılmasının belirli bir yolunun olduğunu biliyor. Herkes kendi şeytanlarını biliyor tabir-i caizse. Eğer karakterinin o kısmı hâkim olacak olursa cehennemin hangi özel kısmını işgal edeceğini de. 
 
-
-Strategic Plan.
-Accomplesment of their goals. 
-A little change. Outside of your skillset. 
-
-
-Balance. 
+Son olarak çıkış yolunda stratejik bir plan oluşturmak ile devam ediliyor. Hedeflerine ulaşma. Maruz kalma ile. Küçük bir değişiklik. Mevcut beceri setinin dışına çıkarak.
+Tüm bunları yaparken dengeyi gözetmek.
