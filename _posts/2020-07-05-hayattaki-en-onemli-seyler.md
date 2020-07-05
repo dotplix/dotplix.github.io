@@ -8,11 +8,18 @@ tags: [Sağlık] # add tag
 
 Kaos içerisinde ilgimizin bu kadar dağıldığı bir dünyada, değerli şeyler kolayca kaybolabilir. Bu anlamda neyin kıymetli olduğunu tekrardan değerlendirmek bu anlamda faydalı olabilir diye düşünüyorum. Böylece hayattaki en önemli şeylerin bir listesini yapmaya karar verdim.
 
-Seçmiş olduğum başlıklar ve anlatış biçimim tabi ki subjektif olabilir. İşin esası subjektif olmasında bir fayda da görüyorum. Böylelikle gerçek bakışım bir şekilde açığa çıkıyor. Öte yandan bu değerlerin hepimizi birleştiren bir yanı da var. Hayattan beklentilerimizin çoğumuz için ortak olduğu kanısındayım. 
+<div class="row" style="margin-bottom: 2.5rem; margin-top: 2.5rem;">
+   <div class="ten columns"><img class="u-max-full-width" src="https://tozbulut.github.io/images/test3.jpg" alt="Trees"></div>
+   <div class="two column"></div>
+</div>
 
-Eğer gerçekten kopuk bir biçimde bir ilüzyona kapılıp önceliklerimizi kaybetmediysek, gerçek şu ki hassas bir denge üzerinde duruyoruz. Önceliklerimizi bir şekilde sınırlandıracak ve gerçekleştirecek iradeye sahip olsak bile bir "trade-off" ile karşılaşabiliriz. Bu değerler karşı karşıya gelebilir. Bir hedefiniz olmadığında dengeyi korumak kolaydır. Ama bir hedefiniz olduğunda ki istediğinizi elde etmek için hedef alanınız daralacak bu dengeyi sağlamak gittikçe zorlanacaksınız.
+Seçmiş olduğum başlıklar ve anlatış biçimim tabi ki subjektif olabilir. İşin esası subjektif olmasında bir fayda da görüyorum. Böylelikle gerçek bir bakış otantik yönleriyle açığa çıkıyor.
+
+Öte yandan bu değerlerin hepimizi birleştiren bir yanı da var. Hayattan beklentilerimizin çoğumuz için ortak olduğu kanısındayım. 
 
 Ben ilk başta kulağa pek eğlenceli gelmese de önceliklerin bir şekilde dış dünya ile uyumlu olması taraftarıyım. Dışarıdan gelecek negatif etkiye kapalı. Fakat dışarıdan gelecek yeniliklere açık olmalı.
+
+Eğer gerçekten kopuk bir biçimde bir ilüzyona kapılıp önceliklerimizi kaybetmediysek, gerçek şu ki hassas bir denge üzerinde duruyoruz. Önceliklerimizi bir şekilde sınırlandıracak ve gerçekleştirecek iradeye sahip olsak bile bir "trade-off" ile karşılaşabiliriz. Bu değerler karşı karşıya gelebilir. Bir hedefiniz olmadığında dengeyi korumak kolaydır. Ama bir hedefiniz olduğunda ki istediğinizi elde etmek için hedef alanınız daralacak bu dengeyi sağlamak gittikçe zorlanacaksınız.
 
 ## Sağlık
 
