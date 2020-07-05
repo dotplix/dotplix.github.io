@@ -1,5 +1,10 @@
 ## Notlar
 
+Kendini yanlış düşüncelerdeyken yakalamak bir tür self correcting mechanism.
+
+Bende bu focuslanma zayıf tepkisellik olarak kendini gösteriyor. Anlık bazı durumlarda irade zayıflığı var. Dikkat dağınıklığı oluyor. 
+
+-----------
 
 hedef
 kapsam
@@ -9,8 +14,6 @@ irade
 Gelir adaletsizliği Fırsat Eşitliği
 
 -----------
-
-
 
 Tüm bu karmaşıklığa rağmen doğrunun bir noktada bilinebilir olduğunu düşünüyorum. Hedeflerim net olduğu zaman zayıflığın kangren olmuş çözülemez bir göstergesi olarak gözlerimi ve kulaklarımı tıkamadıysam ışık içeri girecektir.
 
