@@ -4,8 +4,7 @@ title: Stereotipler Hakkında
 date: 2019-10-21 00:00:00 +0300
 subtitle: "Stereotipler nedir ve ne için varlar?"
 description: "Stereotipler nedir ve ne için varlar?"
-image: https://dotplix.github.io/assets/img/people.jpg
-optimized_image: https://dotplix.github.io/assets/img/people.jpg
+img: people.jpg
 category: Kültürel
 tags:
   - İnsanlar
