@@ -1,6 +1,13 @@
 ## Notlar
 
 
+hedef
+kapsam
+yöntem
+irade
+
+Gelir adaletsizliği Fırsat Eşitliği
+
 -----------
 
 
