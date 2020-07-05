@@ -3,13 +3,14 @@ layout: post
 title: Hayattaki En Önemli Şeyler
 date: 2020-03-30 00:00:00 +0300
 img: test3.jpg
-tags: [Sağlık] # add tag
+tags: 
+- Sağlık # add tag
 ---
 
 Kaos içerisinde ilgimizin bu kadar dağıldığı bir dünyada, değerli şeyler kolayca kaybolabilir. Bu anlamda neyin kıymetli olduğunu tekrardan değerlendirmek bu anlamda faydalı olabilir diye düşünüyorum. Böylece hayattaki en önemli şeylerin bir listesini yapmaya karar verdim.
 
 <div class="row" style="margin-bottom: 2.5rem; margin-top: 2.5rem;">
-   <div class="ten columns"><img class="u-max-full-width" src="https://tozbulut.github.io/images/test3.jpg" alt="Trees"></div>
+   <div class="ten columns"><img class="u-max-full-width" src="https://tozbulut.github.io/images/window.jfif" alt="Trees"></div>
    <div class="two column"></div>
 </div>
 
