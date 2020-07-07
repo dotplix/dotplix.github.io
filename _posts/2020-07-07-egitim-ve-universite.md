@@ -14,7 +14,7 @@ Bu yazıda elimden geldiğince ülkemizde ve dünyada yükseköğretim hakkında
 Ülkemizde eğitim sisteminin durumu sıklıkla eleştiri konusu oluyor. Ülkemizde az sayıda kaliteli eğitim kurumu olsa da genel olarak üniversitelerin hali tartışma konusu.
 Son yıllarda üniversite sayılarının artması ile beraber kafalarda soru işaretleri oluşmaya başladı. Ben özellikle bazı özel üniversitelerde bir problem olduğunu düşünüyorum. Bu açıdan devlet üniversitesinde okumakta şanslıyım diyebilirim.
 
-Amerika ile Türkiye'yi karşılaştıracak olsak orada öğrencilerin ödedikleri krediler herkesçe biliyor. Burada bu kredileri ödemiyoruz ama ne pahasına? Serbest piyasa kapitalizmi bir kısma yararken bir kısma da zarar verecektir. Eskinin görüşü ise para kazanmaktan ziyade bir sistem oturtmak ve herkesi yetiştirmekti. 
+Amerika ile Türkiye'yi karşılaştıracak olsak Amerikan eğitim sistemi için öğrencilerin ödedikleri krediler herkesçe biliniyor. Burada bu kredileri ödemiyoruz ama ne pahasına? Serbest piyasa kapitalizmi bir kısma yararken bir kısma da zarar verecektir. Eskinin görüşü ise para kazanmaktan ziyade bir sistem oturtmak ve herkesi yetiştirmekti. 
 
 Ne yaparsanız yapın biryerde eğitim bireysel. Özellikle de günümüzde. 
 
