@@ -12,21 +12,35 @@ category: Hayata Dair
 Bu yazıda elimden geldiğince ülkemizde ve dünyada yükseköğretim hakkında bildiklerimi yazacağım. 
 
 Ülkemizde eğitim sisteminin durumu sıklıkla eleştiri konusu oluyor. Ülkemizde az sayıda kaliteli eğitim kurumu olsa da genel olarak üniversitelerin hali tartışma konusu.
-Son yıllarda üniversite sayılarının artması ile beraber kafalarda soru işaretleri oluşmaya başladı. Ben özellikle bazı özel üniversitelerde bir problem olduğunu düşünüyorum. Bu açıdan devlet üniversitesinde okumakta şanslıyım diyebilirim.
+Son yıllarda üniversite sayılarının artması ile beraber kafalarda soru işaretleri oluşmaya başladı. Ben özellikle bazı özel üniversitelerde bir problem olduğunu düşünüyorum.
 
 Amerika ile Türkiye'yi karşılaştıracak olsak Amerikan eğitim sistemi için öğrencilerin ödedikleri krediler herkesçe biliniyor. Burada bu kredileri ödemiyoruz ama ne pahasına? Serbest piyasa kapitalizmi bir kısma yararken bir kısma da zarar verecektir. Eskinin görüşü ise para kazanmaktan ziyade bir sistem oturtmak ve herkesi yetiştirmekti. 
 
 Ne yaparsanız yapın biryerde eğitim bireysel. Özellikle de günümüzde. 
 
-Eğitimin politik, dini, etnik 
+Üniversitelerin dünyanın heryerinde sorunları var. Özellikle eğitimin politik, dini, etnik meselelerle birlikte değerlendirilmesi eğitimin ticarileşmesi gibi sorunlar var.
 
-Eğitimin ticarileşmesi. 
+### Üniversite
 
-
-Üniversiteleri birbiri ile karşılaştırmak için dünya genelinde birçok sıralama sistemi var.
-Her birinin farklı kriterleri olması sebebiyle üniversite sıralamaları arasında büyük farklar olabiliyor. 
-İnternet üzerinde Uluslararası Universite sıralama sistemlerinin kriterlerinde değişikliğe gitmesiyle Türkiye’deki üniversitelerin sıralamalarında ciddi düşüşler oldu.
+Ülkede 207 üniversite 8 milyon öğrenci var. 
+Üniversiteleri birbiri ile karşılaştırmak için dünya genelinde birçok sistem var.
+Her birinin farklı kriterleri olması sebebiyle üniversite sıralamaları arasında bazı farklar olabiliyor.  Türkiye’deki üniversitelerden ilk 500 arasına girebilen yok.
+İnternet üzerinde Uluslararası Universite sıralama sistemlerinin kriterlerinde değişikliğe gitmesiyle Türkiye’deki üniversitelerin sıralamalarında ciddi düşüşler olmuş.
 Türk Üniversiteleri'nin sıra kaybına yol açan etmenlerin başında, bilimsel makale sayılarının artmasına rağmen atıf alan makale sayısının artmaması gösteriliyor.
+
+
+
+### Bilgisayar Mühendisliği Türkiye
+
+
+1. Istanbul Technical University
+2. Middle East Technical University
+3. Bogazici University
+4. Ihsan Dogramaci Bilkent University
+5. Sabanci University
+6. Hacettepe University
+7. Yildiz Technical University
+
 
 ### Yükseköğretim Kurumları Sınavı
 
@@ -56,3 +70,6 @@ Bir çok kişinin sınava girdiği dönemdeyiz.
 * Açıköğretim bence büyük bir imkan.
 * Yüksek Lisans
 * Yabancı Dil
+
+------------------------
+* [Türkiye'den 82 üniversite, dünyanın ilk 2 bin 500 üniversitesi arasına girdi](aa.com.tr/tr/egitim/turkiyeden-82-universite-dunyanin-ilk-2-bin-500-universitesi-arasina-girdi)
