@@ -1,13 +1,12 @@
 ---
 layout: post
 title: Eğitim ve Üniversite
-date: 2020-04-07 00:00:00 +0300
 description: 
 img: research_summaries_2.jpg
 category: Hayata Dair
 ---
 
-Üniversitenin önemi. Eğitimle önür boyu bağlantıyı koparmamak. Ama en iyi öğretmen sahanın kendisidir. 
+Üniversitenin önemi. Eğitimle önür boyu bağlantıyı koparmamak. Ama en iyi öğretmen sahanın kendisi olsa da...
 
 Yükseköğretim Kurumları Sınavı
 
