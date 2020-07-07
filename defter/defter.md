@@ -1,5 +1,9 @@
 ## Notlar
 
+Vitamin D - 5000 
+
+-----------
+
 Kendini yanlış düşüncelerdeyken yakalamak bir tür self correcting mechanism.
 
 Bende bu focuslanma zayıf tepkisellik olarak kendini gösteriyor. Anlık bazı durumlarda irade zayıflığı var. Dikkat dağınıklığı oluyor. 

@@ -1,3 +1,11 @@
+- name: "Necessities"
+  id: "0029"
+  desc: "Basic necessities. How fundemental they are? How they matter contrast to luxury? There is a purification to focus them. Its beautiful though..."
+
+- name: "Günler"
+  id: "0028"
+  desc: "Bilmez misin günler bir şeyler için yapılır."
+
 - name: "Balance"
   id: "0027"
   desc: "Where is the balance missing? There's probably something wrong there."
