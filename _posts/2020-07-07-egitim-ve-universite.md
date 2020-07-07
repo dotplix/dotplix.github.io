@@ -18,11 +18,19 @@ Amerika ile Türkiye'yi karşılaştıracak olsak orada öğrencilerin ödedikle
 
 Ne yaparsanız yapın biryerde eğitim bireysel. Özellikle de günümüzde. 
 
+Eğitimin politik, dini, etnik 
+
 Eğitimin ticarileşmesi. 
 
-## Yükseköğretim Kurumları Sınavı
 
-İçinde bulunduğumuz 2020 yılında Yükseköğretim Kurumları Sınavı 27-28 haziranda düzenlendi. Sınava yapılan başvuru sayısı toplam 2 milyon 433 bin 219. 
+Üniversiteleri birbiri ile karşılaştırmak için dünya genelinde birçok sıralama sistemi var.
+Her birinin farklı kriterleri olması sebebiyle üniversite sıralamaları arasında büyük farklar olabiliyor. 
+İnternet üzerinde Uluslararası Universite sıralama sistemlerinin kriterlerinde değişikliğe gitmesiyle Türkiye’deki üniversitelerin sıralamalarında ciddi düşüşler oldu.
+Türk Üniversiteleri'nin sıra kaybına yol açan etmenlerin başında, bilimsel makale sayılarının artmasına rağmen atıf alan makale sayısının artmaması gösteriliyor.
+
+### Yükseköğretim Kurumları Sınavı
+
+Türkiye'de 2017–2018 eğitim-öğretim yılı ile uygulanmaya başlanan yükseköğretime geçiş sistemi sınavı. İçinde bulunduğumuz 2020 yılında Yükseköğretim Kurumları Sınavı 27-28 haziranda düzenlendi. Sınava yapılan başvuru sayısı toplam 2 milyon 433 bin 219. 
 
 YGS, Temel Yeterlilik Testi (TYT) ve Alan Yeterlilik Testi (AYT) olarak ikiye ayrılıyor. TYT'de 40 Türkçe, 25 Sosyal Bilimler, 40 Temel Matematik, 20 Fen Bilimleri sorusu var. Öğrenciler bu soruların hepsinden sorumlu. Özelleştikleri kısım ise sınavın ikinci kısmı. Sınavın ikinci kısmı olan AYT'de TÜRK DİLİ VE EDEBİYATI-SOSYAL BİLİMLER-1, SOSYAL BİLİMLER-2, Matematik ve Fen Bilimleri sorusu yer alıyor. 
 
