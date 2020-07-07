@@ -7,7 +7,7 @@ img: research_summaries_2.jpg
 category: Hayata Dair
 ---
 
-Üniversitenin önemi. Eğitimle önür boyu bağlantıyı koparmamak.
+Üniversitenin önemi. Eğitimle önür boyu bağlantıyı koparmamak. Ama en iyi öğretmen sahanın kendisidir. 
 
 Yükseköğretim Kurumları Sınavı
 
