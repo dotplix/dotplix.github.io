@@ -7,8 +7,7 @@ img: research_summaries_2.jpg
 category: Hayata Dair
 ---
 
-
-Üniversitenin önemi.
+Üniversitenin önemi. Eğitimle önür boyu bağlantıyı koparmamak.
 
 Yükseköğretim Kurumları Sınavı
 
