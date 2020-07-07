@@ -1,3 +1,11 @@
+---
+layout: post
+title: Eğitim ve Üniversite
+date: 2020-04-07 00:00:00 +0300
+description: 
+img: research_summaries_2.jpg
+category: Hayata Dair
+---
 
 
 Üniversitenin önemi.
@@ -12,6 +20,7 @@ Yükseköğretim Kurumları Sınavı
 
 
 
+Eskişehir Osmangazi Üniversitesi Bilgisayar Mühendisliği
 
 Bir çok kişinin sınava girdiği dönemdeyiz.
 
