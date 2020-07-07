@@ -7,14 +7,18 @@ category: Hayata Dair
 ---
 
 Üniversitenin önemi. Eğitimle önür boyu bağlantıyı koparmamak. Ama en iyi öğretmen sahanın kendisi olsa da...
+Üniversite pratiklik vermez. Ama sizi mesleki anlamda bir şekle sokar. Kendiniz gibi insanlardan beslenmenizi sağlar.
 
 Bu yazıda elimden geldiğince ülkemizde ve dünyada yükseköğretim hakkında bildiklerimi yazacağım. 
 
-Ülkemizde eğitim sisteminin durumu sıklıkla eleştiri konusu oluyor.
+Ülkemizde eğitim sisteminin durumu sıklıkla eleştiri konusu oluyor. Ülkemizde az sayıda kaliteli eğitim kurumu olsa da genel olarak üniversitelerin hali tartışma konusu.
+Son yıllarda üniversite sayılarının artması ile beraber kafalarda soru işaretleri oluşmaya başladı. Ben özellikle bazı özel üniversitelerde bir problem olduğunu düşünüyorum. Bu açıdan devlet üniversitesinde okumakta şanslıyım diyebilirim.
+
+Amerika ile Türkiye'yi karşılaştıracak olsak orada öğrencilerin ödedikleri krediler herkesçe biliyor. Burada bu kredileri ödemiyoruz ama ne pahasına? Serbest piyasa kapitalizmi bir kısma yararken bir kısma da zarar verecektir. Eskinin görüşü ise para kazanmaktan ziyade bir sistem oturtmak ve herkesi yetiştirmekti. 
+
+Ne yaparsanız yapın biryerde eğitim bireysel. Özellikle de günümüzde. 
 
 Eğitimin ticarileşmesi. 
-
-Ben özel üniversitelerde bir kalitesizlik gözlemledim. Bu açıdan kendi halime şükrettim diyrbilirim. 
 
 ## Yükseköğretim Kurumları Sınavı
 
@@ -42,3 +46,5 @@ Bir çok kişinin sınava girdiği dönemdeyiz.
 * Stylbus ve Textbooklar
 * Açıköğretim
 * Açıköğretim bence büyük bir imkan.
+* Yüksek Lisans
+* Yabancı Dil
