@@ -27,14 +27,12 @@ Bir çok kişinin sınava girdiği dönemdeyiz.
     * Burada ikilem moda diye programlama dilleri arasında atlayamaz. 
 * Ticari olandan uzak kalma özellikle bilgisayar mühendisliğinde.
 
-Dijital Dönüşüm
 
-Türkiyedeki Eğitim Sisteminin Sorunlu Yapısı
-
-IVY League
-
-Stylbus ve Textbooklar
-
-Açıköğretim
-
-Açıköğretim bence büyük bir imkan.
+* Dijital Dönüşüm
+* Türkiyedeki Eğitim Sisteminin Sorunlu Yapısı
+* DÜnyada Üniversitelerin Eleştiri
+* STEM
+* IVY League
+* Stylbus ve Textbooklar
+* Açıköğretim
+* Açıköğretim bence büyük bir imkan.
