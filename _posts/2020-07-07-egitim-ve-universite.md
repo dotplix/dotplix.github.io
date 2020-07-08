@@ -14,9 +14,9 @@ Bu yazıda elimden geldiğince ülkemizde ve dünyada yükseköğretim hakkında
 Ülkemizde eğitim sisteminin durumu sıklıkla eleştiri konusu oluyor. Ülkemizde az sayıda kaliteli eğitim kurumu olsa da genel olarak üniversitelerin hali tartışma konusu.
 Son yıllarda üniversite sayılarının artması ile beraber kafalarda soru işaretleri oluşmaya başladı. Ben özellikle bazı özel üniversitelerde bir problem olduğunu düşünüyorum.
 
-Amerika ile Türkiye'yi karşılaştıracak olsak Amerikan eğitim sistemi için öğrencilerin ödedikleri krediler herkesçe biliniyor. Burada bu kredileri ödemiyoruz ama ne pahasına? Serbest piyasa kapitalizmi bir kısma yararken bir kısma da zarar verecektir. Eskinin görüşü ise para kazanmaktan ziyade bir sistem oturtmak ve herkesi yetiştirmekti. 
+Amerika ile Türkiye'yi karşılaştıracak olsak Amerikan eğitim sistemi için öğrencilerin ödedikleri krediler herkesçe biliniyor. Türkiye'deki üniversitelerde bu kredileri ödemiyoruz ama eğitimin kalitesi daha düşük. Devlet Üniversitelerinin durumu para kazanmaktan ziyade gerçek bir sistem oturtmak ve herkesi yetiştirmekti. 
 
-Ne yaparsanız yapın biryerde eğitim bireysel. Özellikle de günümüzde. 
+Ne yaparsanız yapın biryerde eğitim bireysel. Özellikle de günümüzde.
 
 Üniversitelerin dünyanın heryerinde sorunları var. Özellikle eğitimin politik, dini, etnik meselelerle birlikte değerlendirilmesi eğitimin ticarileşmesi gibi sorunlar var.
 
@@ -28,10 +28,9 @@ Her birinin farklı kriterleri olması sebebiyle üniversite sıralamaları aras
 İnternet üzerinde Uluslararası Universite sıralama sistemlerinin kriterlerinde değişikliğe gitmesiyle Türkiye’deki üniversitelerin sıralamalarında ciddi düşüşler olmuş.
 Türk Üniversiteleri'nin sıra kaybına yol açan etmenlerin başında, bilimsel makale sayılarının artmasına rağmen atıf alan makale sayısının artmaması gösteriliyor.
 
+[URAP](https://www.urapcenter.org/)'ın listelerinden faydalanarak 7 tane türk 7 tane yabancı üniversite seçtim.
 
-
-### Bilgisayar Mühendisliği Türkiye
-
+### Computing Sciences Türkiye
 
 1. Istanbul Technical University
 2. Middle East Technical University
@@ -40,6 +39,17 @@ Türk Üniversiteleri'nin sıra kaybına yol açan etmenlerin başında, bilimse
 5. Sabanci University
 6. Hacettepe University
 7. Yildiz Technical University
+
+### Computing Sciences - Dünya
+
+1. Tsinghua University - China
+2. Nanyang Technological University - Singapore
+3. Stanford University - USA
+4. Massachusetts Institute of Technology (MIT)
+5. ETH Zurich
+6. University of Toronto
+7. University of Cambridge
+8. Michigan State University
 
 
 ### Yükseköğretim Kurumları Sınavı
