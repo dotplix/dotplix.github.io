@@ -14,7 +14,7 @@ Bu yazıda elimden geldiğince ülkemizde ve dünyada yükseköğretim hakkında
 
 Üniversitelerin dünyanın heryerinde sorunları var. Özellikle eğitimin politik, dini, etnik meselelerle birlikte değerlendirilmesi eğitimin ticarileşmesi gibi sorunlar var.
 Ülkemizde eğitim sisteminin durumu sıklıkla eleştiri konusu oluyor. Ülkemizde az sayıda kaliteli eğitim kurumu olsa da genel olarak üniversiteler üzerinde tartışma var.
-Son yıllarda üniversite sayılarının artması ile beraber kafalarda soru işaretleri oluşmaya başladı. Ben özellikle bazı özel üniversitelerde bir problem olduğunu düşünüyorum.
+Son yıllarda üniversite sayılarının artması ile beraber kafalarda soru işaretleri oluşmaya başladı. Ben özellikle bazı özel üniversitelerde bir problem olduğunu düşünüyorum. Öte yandan eğitim alanındakilerin politikleşmesine de karşıyım. Eğitimin siyasi meselelerden ayrı bir biçimde temiz önyargısız bir yaklaşımla ele alınması gerekiyor.
 
 Amerika ile Türkiye'yi karşılaştıracak olsak Amerikan eğitim sistemi için öğrencilerin ödedikleri krediler herkesçe biliniyor. Türkiye'deki üniversitelerde bu kredileri ödemiyoruz ama eğitimin kalitesi daha düşük.
 
