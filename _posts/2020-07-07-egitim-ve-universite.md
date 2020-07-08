@@ -6,7 +6,7 @@ img: research_summaries_2.jpg
 category: Hayata Dair
 ---
 
-Üniversitenin önemi. Eğitimle ömür boyu bağlantıyı koparmamak. Ama en iyi öğretmen sahanın kendisi olsa da...
+Üniversitenin çoğu insanın hayatında bir dönüm noktası. Eğitimle ömür boyu bağlantıyı koparmamak. Ama en iyi öğretmen sahanın kendisi olsa da...
 Üniversite pratiklik verme gibi bir motivasyonu yok. Ama bireyi mesleki anlamda bir düzene sokuyor. Kendiniz gibi insanlardan beslenmeniyorsunuz.
 
 Bu yazıda elimden geldiğince ülkemizde ve dünyada yükseköğretim hakkında bildiklerimi yazacağım. 
