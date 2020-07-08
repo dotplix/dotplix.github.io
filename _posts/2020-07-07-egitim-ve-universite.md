@@ -6,15 +6,15 @@ img: research_summaries_2.jpg
 category: Hayata Dair
 ---
 
-Üniversitenin önemi. Eğitimle önür boyu bağlantıyı koparmamak. Ama en iyi öğretmen sahanın kendisi olsa da...
-Üniversite pratiklik vermez. Ama sizi mesleki anlamda bir şekle sokar. Kendiniz gibi insanlardan beslenmenizi sağlar.
+Üniversitenin önemi. Eğitimle ömür boyu bağlantıyı koparmamak. Ama en iyi öğretmen sahanın kendisi olsa da...
+Üniversite pratiklik verme gibi bir motivasyonu yok. Ama bireyi mesleki anlamda bir düzene sokuyor. Kendiniz gibi insanlardan beslenmeniyorsunuz.
 
 Bu yazıda elimden geldiğince ülkemizde ve dünyada yükseköğretim hakkında bildiklerimi yazacağım. 
 
-Ülkemizde eğitim sisteminin durumu sıklıkla eleştiri konusu oluyor. Ülkemizde az sayıda kaliteli eğitim kurumu olsa da genel olarak üniversitelerin hali tartışma konusu.
+Ülkemizde eğitim sisteminin durumu sıklıkla eleştiri konusu oluyor. Ülkemizde az sayıda kaliteli eğitim kurumu olsa da genel olarak üniversiteler üzerinde tartışma var.
 Son yıllarda üniversite sayılarının artması ile beraber kafalarda soru işaretleri oluşmaya başladı. Ben özellikle bazı özel üniversitelerde bir problem olduğunu düşünüyorum.
 
-Amerika ile Türkiye'yi karşılaştıracak olsak Amerikan eğitim sistemi için öğrencilerin ödedikleri krediler herkesçe biliniyor. Türkiye'deki üniversitelerde bu kredileri ödemiyoruz ama eğitimin kalitesi daha düşük. Devlet Üniversitelerinin durumu para kazanmaktan ziyade gerçek bir sistem oturtmak ve herkesi yetiştirmekti. 
+Amerika ile Türkiye'yi karşılaştıracak olsak Amerikan eğitim sistemi için öğrencilerin ödedikleri krediler herkesçe biliniyor. Türkiye'deki üniversitelerde bu kredileri ödemiyoruz ama eğitimin kalitesi daha düşük. Devlet Üniversitelerinin durumu para kazanmaktan ziyade gerçek bir sistem oturtmak ve herkesi yetiştirmekti.
 
 Ne yaparsanız yapın biryerde eğitim bireysel. Özellikle de günümüzde.
 
@@ -22,13 +22,16 @@ Ne yaparsanız yapın biryerde eğitim bireysel. Özellikle de günümüzde.
 
 ### Üniversite
 
-Ülkede 207 üniversite 8 milyon öğrenci var. 
+Türkiye'de 207 üniversite toplam 8 milyon öğrenci var. 
 Üniversiteleri birbiri ile karşılaştırmak için dünya genelinde birçok sistem var.
 Her birinin farklı kriterleri olması sebebiyle üniversite sıralamaları arasında bazı farklar olabiliyor.  Türkiye’deki üniversitelerden ilk 500 arasına girebilen yok.
 İnternet üzerinde Uluslararası Universite sıralama sistemlerinin kriterlerinde değişikliğe gitmesiyle Türkiye’deki üniversitelerin sıralamalarında ciddi düşüşler olmuş.
 Türk Üniversiteleri'nin sıra kaybına yol açan etmenlerin başında, bilimsel makale sayılarının artmasına rağmen atıf alan makale sayısının artmaması gösteriliyor.
 
-[URAP](https://www.urapcenter.org/)'ın listelerinden faydalanarak 7 tane türk 7 tane yabancı üniversite seçtim.
+*[URAP](https://www.urapcenter.org/)'
+*[CWUR](https://cwur.org/)
+
+Ben bu listeler faydalanarak 7 tane türk 7 tane yabancı üniversite seçtim.
 
 ### Computing Sciences Türkiye
 
