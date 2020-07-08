@@ -8,19 +8,15 @@ category: Hayata Dair
 
 Üniversitenin çoğu insanın hayatında bir dönüm noktası. Eğitimle ömür boyu bağlantıyı koparmamak. Teorisi sağlam bir hayat.
 
-Sahanın kendisinin iyi bir öğretmen olduğuna inanırım. Üniversite pratiklik verme gibi bir motivasyonu yok. Ama bireyi mesleki anlamda bir düzene sokuyor. Kendiniz gibi insanlardan beslenmeniyorsunuz.
+Herşeyi üniversiteden öğrenemeyiz. Ben bu noktada sahanın kendisinin de iyi bir öğretmen olduğunu düşünüyorum. Üniversite pratiklik verme gibi bir motivasyonu yok. Ama bireyi mesleki anlamda bir düzene sokuyor. Kendiniz gibi insanlardan beslendiğiniz öznel kişiliğinizin ortaya çıkacağı bir ortam olması gerekiyor..
 
-Bu yazıda elimden geldiğince ülkemizde ve dünyada yükseköğretim hakkında bildiklerimi yazacağım. 
+Biraz ülkemizde ve dünyada yükseköğretim hakkında konuşacak olursak. 
 
-Üniversitelerin dünyanın heryerinde sorunları var. Özellikle eğitimin politik, dini, etnik meselelerle birlikte değerlendirilmesi eğitimin ticarileşmesi gibi sorunlar var.
-Ülkemizde eğitim sisteminin durumu sıklıkla eleştiri konusu oluyor. Ülkemizde az sayıda kaliteli eğitim kurumu olsa da genel olarak üniversiteler üzerinde tartışma var.
-Son yıllarda üniversite sayılarının artması ile beraber kafalarda soru işaretleri oluşmaya başladı. Ben özellikle bazı özel üniversitelerde bir problem olduğunu düşünüyorum. Öte yandan eğitim alanındakilerin politikleşmesine de karşıyım. Eğitimin siyasi meselelerden ayrı bir biçimde temiz önyargısız bir yaklaşımla ele alınması gerekiyor.
+Üniversitelerin dünyanın heryerinde sorunları var. Bu sorunlara örnek olarak eğitimin politik, dini, etnik meselelerle birlikte değerlendirilmesi eğitimin ticarileşmesi ilk göze çarpanlardan. Ülkemizde eğitim sisteminin durumu sıklıkla eleştiri konusu oluyor. Az sayıda kaliteli eğitim kurumu olsa da genel olarak üniversiteler üzerinde tartışma var. Son yıllarda üniversite sayılarının artması ile beraber kafalarda soru işaretleri oluşmaya başladı. Konunun uzmanı olmamakla beraber ben özellikle bazı özel üniversitelerde bir problem olduğunu düşünüyorum. Öte yandan eğitimcilerin politikleşmesini doğru bulmuyorum. Eğitimin siyasi meselelerden ayrı bir biçimde temiz önyargısız bir yaklaşımla ele alınması gerekiyor.
 
 Amerika ile Türkiye'yi karşılaştıracak olsak Amerikan eğitim sistemi için öğrencilerin ödedikleri krediler herkesçe biliniyor. Türkiye'deki üniversitelerde bu kredileri ödemiyoruz ama eğitimin kalitesi daha düşük.
 
 Ne yaparsanız yapın biryerde eğitim bireysel. Özellikle de günümüzde.
-
-### Üniversite'lerin Değerlendirilmesi
 
 Türkiye'de 207 üniversite toplam 8 milyon öğrenci var. 
 Üniversiteleri birbiri ile karşılaştırmak için dünya genelinde birçok sistem var.
@@ -28,6 +24,7 @@ Her birinin farklı kriterleri olması sebebiyle üniversite sıralamaları aras
 İnternet üzerinde Uluslararası Universite sıralama sistemlerinin kriterlerinde değişikliğe gitmesiyle Türkiye’deki üniversitelerin sıralamalarında ciddi düşüşler olmuş.
 Türk Üniversiteleri'nin sıra kaybına yol açan etmenlerin başında, bilimsel makale sayılarının artmasına rağmen atıf alan makale sayısının artmaması gösteriliyor.
 
+Aşağıda bu konuda çalışma iki araştırma merkezinin listeleri yer almakta.
 *[URAP](https://www.urapcenter.org/)'
 *[CWUR](https://cwur.org/)
 
