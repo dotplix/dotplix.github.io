@@ -6,21 +6,21 @@ img: research_summaries_2.jpg
 category: Hayata Dair
 ---
 
-Üniversitenin çoğu insanın hayatında bir dönüm noktası. Eğitimle ömür boyu bağlantıyı koparmamak. Ama en iyi öğretmen sahanın kendisi olsa da...
-Üniversite pratiklik verme gibi bir motivasyonu yok. Ama bireyi mesleki anlamda bir düzene sokuyor. Kendiniz gibi insanlardan beslenmeniyorsunuz.
+Üniversitenin çoğu insanın hayatında bir dönüm noktası. Eğitimle ömür boyu bağlantıyı koparmamak. Teorisi sağlam bir hayat.
+
+Sahanın kendisinin iyi bir öğretmen olduğuna inanırım. Üniversite pratiklik verme gibi bir motivasyonu yok. Ama bireyi mesleki anlamda bir düzene sokuyor. Kendiniz gibi insanlardan beslenmeniyorsunuz.
 
 Bu yazıda elimden geldiğince ülkemizde ve dünyada yükseköğretim hakkında bildiklerimi yazacağım. 
 
+Üniversitelerin dünyanın heryerinde sorunları var. Özellikle eğitimin politik, dini, etnik meselelerle birlikte değerlendirilmesi eğitimin ticarileşmesi gibi sorunlar var.
 Ülkemizde eğitim sisteminin durumu sıklıkla eleştiri konusu oluyor. Ülkemizde az sayıda kaliteli eğitim kurumu olsa da genel olarak üniversiteler üzerinde tartışma var.
 Son yıllarda üniversite sayılarının artması ile beraber kafalarda soru işaretleri oluşmaya başladı. Ben özellikle bazı özel üniversitelerde bir problem olduğunu düşünüyorum.
 
-Amerika ile Türkiye'yi karşılaştıracak olsak Amerikan eğitim sistemi için öğrencilerin ödedikleri krediler herkesçe biliniyor. Türkiye'deki üniversitelerde bu kredileri ödemiyoruz ama eğitimin kalitesi daha düşük. Devlet Üniversitelerinin durumu para kazanmaktan ziyade gerçek bir sistem oturtmak ve herkesi yetiştirmekti.
+Amerika ile Türkiye'yi karşılaştıracak olsak Amerikan eğitim sistemi için öğrencilerin ödedikleri krediler herkesçe biliniyor. Türkiye'deki üniversitelerde bu kredileri ödemiyoruz ama eğitimin kalitesi daha düşük.
 
 Ne yaparsanız yapın biryerde eğitim bireysel. Özellikle de günümüzde.
 
-Üniversitelerin dünyanın heryerinde sorunları var. Özellikle eğitimin politik, dini, etnik meselelerle birlikte değerlendirilmesi eğitimin ticarileşmesi gibi sorunlar var.
-
-### Üniversite
+### Üniversite'lerin Değerlendirilmesi
 
 Türkiye'de 207 üniversite toplam 8 milyon öğrenci var. 
 Üniversiteleri birbiri ile karşılaştırmak için dünya genelinde birçok sistem var.
