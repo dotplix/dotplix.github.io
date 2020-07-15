@@ -6,7 +6,7 @@ img: research_summaries_2.jpg
 category: Hayata Dair
 ---
 
-Üniversite çağını geride bırakmış biri olarak bu dönem benim için tıpkı bir çok insanın hayatında olduğu gibi bir dönüm noktası oldu. Mezun olduktan sonra bile aklım biraz üniversite orada kaldı diyebilirim. Eğitimle ömür boyu bağlantıyı koparmamak. Teorisi sağlam bir hayat.
+Üniversite çağını geride bırakmış biri olarak bu dönem benim için tıpkı bir çok insanın hayatında olduğu gibi bir dönüm noktası oldu. Mezun olduktan sonra bile aklım biraz üniversite orada kaldı diyebilirim. Teorisi sağlam bir hayat için eğitimle ömür boyu bağlantıyı koparmamak gerekiyor.
 
 Üniversite yılları çok hızlı geçiyor. Bazen not veya başka önceliklerle eğitiminizde boşluklar kalabiliyor. Eğer zamanınız varsa geriye dönüp bu boşlukları gidermeye ne dersiniz? Ya da üzerine onca zaman harcadığınız o dersleri olgun halinizle yalnızca meraktan bir kez daha tekrar etmeye?
 
@@ -22,11 +22,11 @@ Her konuda olduğu gibi konuşanlara bakıp yanılgıya kapılmamak gerekiyor. U
 
 Amerika ile Türkiye'yi karşılaştıracak olsak Amerikan eğitim sistemi için öğrencilerin ödedikleri krediler herkesçe biliniyor. Türkiye'deki üniversitelerde bu kredileri ödemiyoruz ama eğitimin kalitesi daha düşük.
 
-Ne yaparsanız yapın biryerde eğitim bireysel. Özellikle de günümüzde. Bu nedenle bir fark yaratılabileceğini düşünüyorum.
+Ne yaparsanız yapın biryerde eğitim bireysel. Özellikle de günümüzde. Bu nedenle bir fark yaratılabileceğini düşünüyorum. Doğru çok az ve aslında bilinebilir.
 
-Türkiye'de 2017–2018 eğitim-öğretim yılı ile uygulanmaya başlanan yükseköğretime geçiş sistemi sınavı. İçinde bulunduğumuz 2020 yılında Yükseköğretim Kurumları Sınavı 27-28 haziranda düzenlendi. Sınava yapılan başvuru sayısı toplam 2 milyon 433 bin 219. 
+Üniversitelere girişin nasıl yapıldığına bakalım. Mevcut sistemde bu giriş YGS ile yapılıyor. YGS, Türkiye'de 2017–2018 eğitim-öğretim yılı ile uygulanmaya başlanan yükseköğretime geçiş sistemi sınavı. İçinde bulunduğumuz 2020 yılında Yükseköğretim Kurumları Sınavı 27-28 haziranda düzenlendi. Sınava yapılan başvuru sayısı toplam 2 milyon 433 bin 219'ken, [8 milyonu](https://www.ntv.com.tr/egitim/yuksekogretimdeki-ogrenci-sayisi-8-milyonu-asti) aşkın üniversite öğrencisi bulunuyor.
 
-YGS, Temel Yeterlilik Testi (TYT) ve Alan Yeterlilik Testi (AYT) olarak ikiye ayrılıyor. TYT'de 40 Türkçe, 25 Sosyal Bilimler, 40 Temel Matematik, 20 Fen Bilimleri sorusu var. Öğrenciler bu soruların hepsinden sorumlu. Özelleştikleri kısım ise sınavın ikinci kısmı. Sınavın ikinci kısmı olan AYT'de TÜRK DİLİ VE EDEBİYATI-SOSYAL BİLİMLER-1, SOSYAL BİLİMLER-2, Matematik ve Fen Bilimleri sorusu yer alıyor.  *Yükseköğretim Program Atlası* öğrencilere tercih sürecinde yardımcı olmak amacıyla hazırlanmış.
+YGS, Temel Yeterlilik Testi (TYT) ve Alan Yeterlilik Testi (AYT) olarak ikiye ayrılıyor. TYT'de 40 Türkçe, 25 Sosyal Bilimler, 40 Temel Matematik, 20 Fen Bilimleri sorusu var. Öğrenciler bu soruların hepsinden sorumlu. Özelleştikleri kısım ise sınavın ikinci kısmı. Sınavın ikinci kısmı olan AYT'de Türk Dili Ve Edebiyatı, Sosyal Bilimler 1, Sosyal Bilimler 2, Matematik ve Fen Bilimleri sorusu yer alıyor.  *Yükseköğretim Program Atlası* öğrencilere tercih sürecinde yardımcı olmak amacıyla hazırlanmış.
 
 Amerika'da durum nedir? SAT?
 
@@ -64,7 +64,6 @@ Ben bu listeler faydalanarak 7 tane türk 7 tane yabancı üniversite seçtim.
 8. Michigan State University
 
 Bu bölümlerin stylbus'larını inceledim. Detaylı karşılaştırmayı burada bulabilirsiniz.
-
 
 Eskişehir Osmangazi Üniversitesi Bilgisayar Mühendisliği
 
