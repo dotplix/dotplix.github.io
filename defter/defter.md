@@ -1,5 +1,9 @@
 ## Notlar
 
+https://mckeogh.tech/
+
+-----------
+
 Vitamin D - 5000 
 
 -----------
@@ -10,10 +14,10 @@ Bende bu focuslanma zayıf tepkisellik olarak kendini gösteriyor. Anlık bazı 
 
 -----------
 
-hedef
-kapsam
-yöntem
-irade
+* hedef
+* kapsam
+* yöntem
+* irade
 
 Gelir adaletsizliği Fırsat Eşitliği
 
