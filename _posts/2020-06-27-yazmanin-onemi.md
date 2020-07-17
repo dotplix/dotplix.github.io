@@ -9,11 +9,9 @@ tags:
 - Not Almak
 ---
 
-Elinize bir kalem kağıt alıp hemen yazmaya başlayacak olsanız ne yazardınız? Mesleki bir şey mi? Bir rapor? Belki bir şiir, kompozisyon belki de bir bilimkurgu romanı. İnsanoğlu pek çok şeye muktedir. Kalite ayrı bir soru. Fakat iş ortaya koymaya gelince her biri yapılabilir. Belki de kendi dramanızı yazmak istersiniz. Hayatınızın macerası... Kendi dramamızı yazmak temelde hayat içerisinde yaşadığımız çatışmanın ortaya koyulması anlamına geliyor. Bu da kişiliğin tanımlanması demek aslında. Birey için en önemli şeyin detaylı bir analizi.
+Yazı ve düşünce arasında bir bağlantı mevcut. Düşünce ile de aksiyon arasında. Fakat sıklıkla bu çizgiyi çekmekte zorlanıyoruz. Elinize bir kalem kağıt alıp hemen yazmaya başlayacak olsanız ne yazardınız? Mesleki bir şey mi? Bir rapor? Belki bir şiir, kompozisyon belki de bir bilimkurgu romanı. İnsanoğlu pek çok şeye muktedir. Kalite ayrı bir soru. Fakat iş ortaya koymaya gelince her biri yapılabilir. Belki de kendi dramanızı yazmak istersiniz. Hayatınızın macerası... Kendi dramamızı yazmak temelde hayat içerisinde yaşadığımız çatışmanın ortaya koyulması anlamına geliyor. Bu da kişiliğin tanımlanması demek aslında. Birey için en önemli şeyin detaylı bir analizi.
  
 Böyle bir pratik bizi bir nevi keskinleştirerek anlam hissini daha yoğun yaşamamıza olanak sağlayabilir. Bu kovalamaya değer bir amaç olmaz mı? Varoluş mücadelemizi tanımlamaktan daha değerli ne olabilir ki? Fazla ciddileşmek bizi burada alıkoyuyor diye düşünüyorum. Kendimizi *farkettirmeden* daha iyi tanımamız. Hayattan ne istediğini belirleyebilmek her ne kadar çok önemli olsa da bu uğurda zorlayıcı olmamamız gerekiyor. Yazmak gibi bir etkinliği çok önemsiyorum çünkü bize bir kapı açıyor. Bu inanılmaz şans yoluyla kendimizle yapıcı bir diyaloğa girebiliriz. Bu diyalogda bastırdıklarkımız açığa çıkarken küskün taraflarımız konuşmaya başlar. Pek tabi farkettirmeden... Sorunlarımız çözülürken kafamızdaki karışıklık kalkabilir.
-
-Yazı ve düşünce arasında bir bağlantı mevcut. Yazıyı bu kadar meditatif yapan düşüncenin kendisi ile olan bu yakın ilişkisi diye düşünüyorum.
 
 Mordern insanlar olarak Fransız düşünür Sartre'ın da söylediği gibi *korkutucu derecede özgürüz*. Serbeste bir şeyler yapmak isteyenin önünü açıyor, açıyor da kimi zaman da ışık görmüş bir tavşan gibi bizi hareketsiz bırakıyor. Belirgin bir dünya tasviri dünyanın yoruma açık karmaşıklığını daha kolay algılayabileceğimiz şekilde daraltacacağından, yazmak belki de bu sınırlanmaya yönelik duyduğumuz ihtiyacı karşılamada bir araç olabilir..
 
