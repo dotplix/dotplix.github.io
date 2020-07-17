@@ -42,6 +42,8 @@ Kitap 12 bölümden oluşuyor. Kabaca çevirecek olursak:
 
 ### Bazı Anahtar Konseptler
 
+Peterson'un sıklıkla değindiği bazı anahtar konseptler var.
+
 Varolmanın Ağırlığı: Peterson her zaman hayatın zorluklarından bahseden sert bir dünya tanımı yapıyor. Bu herkesin kötü olduğu Hobbes vari bir dünya değil aksine hepimiz zorluklardan pay alıyoruz. Hayatın sürekli bir çatışma hali bir mücadele olarak tanımlanması yine Nietzche ve Schopenheuer benzeri. Fakat biraz daha insani ve toplumsal, ailevi değerlerle iç içe.
 
 Düzen ve Kaos: Bizler düzen ve kaos ortasındaki varlıklarız. Fazla düzen bizi sıkıyor. Fazla kaos bizi öldürüyor. Kaos aynı zamanda yeni olanın geldiği yer. Bu nedenle insan hep bir ayağı düzende bir ayağı ise kaosta olmak zorunda.
@@ -55,9 +57,11 @@ Acılı ve Küskün : Çok kullandığı bir tabir. Düzeni yıkılmış insan t
 Kendini İfade Etmek : Anlaşılmak çok önemli. Bu noktada kendini düzgün ve gerçekten ifade edebilen bir kişi müthiş bir kuvvet ediniyor.
 
 > Get your words together. Make yourself an articulate creature. Than you are deadly. In the best possible way. And take that seriously. 
-Learn to find your true voice. Every time deviate from that for expedient reasons you corrupt yourself. Your arguments becomes your character. Became articulate and clear you can possibly become.
-Nothing more practical and noble than that at the same time. 
+Learn to find your true voice. Every time deviate from that for expedient reasons you corrupt yourself. Your arguments becomes your character. Became articulate and clear you can possibly become. Nothing more practical and noble than that at the same time. 
 
+Peterson kendini ifade etmek konusunda insanlara kendini zayıf hissettirecek hiçbir şeyi söylememelerini öğütlüyor.
+
+* Çatışma'dan Kaçınan İnsanın İkilemi
 * Düşen Cennet 
 * Cehennem
 * 5'li Kişilik Analizi
