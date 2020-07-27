@@ -17,7 +17,7 @@ Psikolojik korku ve gerilimin sınırlarını zorlayan bu karanlık karakter ayn
         
 2003 yılında Amerikan Film Enstitüsü Hannibal Lecter'ı tüm zamanların 1 numaralı kötü adamı olarak seçti. Lecter'a hayat veren oyuncu Antony Hopkins filmde yalnızca 24 dakika 52 saniye gözükmesine rağmen 1992 yılında yapılan Akademi Ödülleri’nde En İyi Erkek Oyuncu Oscarını aldı. Karakterin tanınmasında Hopkins'in gösterdiği ustaca performansın yeri büyük.
 
-Lecter hikaye içindeki sunuluş şekli ve zekası ile hemen sıyrılıyor. Bu yönüyle zamanımızın son popüler kötüsü Joker’den bile daha incelikli bir yerde. 2019 tarihli Joker filmini yorumlaması istendiğinde Slavoj Zizek Joker'in filmde tarif edilişini eleştirerek Lecter'a ilginç bir atıfta bulunuyor.
+Lecter hikaye içindeki sunuluş şekli ve zekası ile hemen sıyrılıyor. Lecter'ı belki bu özellikleri ile *Joker* ile karşılaştırmak mümkün. 2019 tarihli Joker filmini yorumlaması istendiğinde Slavoj Zizek Joker'in filmde tarif edilişini eleştirerek Lecter'a ilginç bir atıfta bulunuyor.
 
 >Bu tarz anti kahramanlarda bütün bu yanlış şartlar toplumun onu dışlaması gibi durumlar aslında hatalı bir yaklaşım. Onlar aslında birer mucize. Elbette bazı şartların sonuçları oluyorlar. Fakat oluşan etki tamamen farklı. Aynı şartlar altındaki pek çok insan Joker olmuyor. Benzer şekilde acı çekseler bile bu onları Joker yapmıyor. Burada Burada Hannibel Lecter'dan bir satır aklıma geliyor. Lecter'ı sorguladıklarında. Bilirsiniz işte nasıl hapse düştüğü ve nasıl Lecter olduğunu. Psikologlar başına ne gelmesi hangi drama'nın bir Lecter gerektiğini sorguluyorlar. Onun çok güzel bir cevabı var. Bana hiçbir şey olmadı. Ben dünyaya oldum.
 
