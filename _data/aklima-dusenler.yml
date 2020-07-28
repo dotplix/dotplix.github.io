@@ -1,6 +1,6 @@
 - name: "Necessities"
   id: "0029"
-  desc: "Basic necessities. How fundemental they are? How they matter contrast to luxury? There is a purification to focus them. Its beautiful though..."
+  desc: "Basic necessities..<br>How fundemental they are? How they matter contrast to luxury?<br>There is a purification to focus them. Its beautiful though..."
 
 - name: "Günler"
   id: "0028"
@@ -13,7 +13,7 @@
 
 - name: "What We Care"
   id: "0026"
-  desc: "Among all what we care is important. With our limited capacity... Our attention is limited yet there is no shortage of negligence. In our world as deadly as it is disengagement is everywhere. People can ignore everything to colusion if they don't suffer from the consequences. Today's economy is taking measures quickly. For an app, a function that does not work immediately means lost customers. It can be said as follows for a careless individual: If he can tolerate this good luck to him!" 
+  desc: "Among all what we care is important.<br>Our capacity is limits us.<br>Our attention is also limited.<br>Yet there is no shortage of negligence.<br>In our world as deadly as it is disengagement is everywhere.<br>People can ignore everything to colusion if they don't suffer from the consequences.<br>Today's economy is taking measures quickly.<br>For an app, a function that does not work immediately means lost customers.<br>It can be said as follows for a careless individual: If he can tolerate this good luck to him!" 
 
 - name: "Advice - Alıntı"
   id: "0025"
@@ -63,7 +63,7 @@
   id: "0013"
   desc: "İnsanların ne düşündüğünü anlamak çoğu zaman anlamak zor. Başka bir insanı bütünüyle anlamak ise neredeyse imkansız. Yalnızca yapılana odaklanmalı belki de. Kendimizi de ancak ne yaptığımız ile ifade edebiliriz. Buna bir kesinlik atfedilebilir. Yapılmış olanın yalanı yoktur."
 
-- name: "Arabuluculuk"
+- name: "Arayı Bulmak"
   id: "0012"
   desc: "Hayatta çoğu zaman arabuluculuk etmeliyiz. İki uç arasında. Bunlardan biri işimizin gereklerini yerine getirmek olabilir. İş insanı konsepti ile otantik kişiliğimizi birleştirmeliyiz. Bunlar iki uç birbirine zıt düşüyor ama arasında denge bulunmalı. İnsan eğer nefes bölgelerini kapatmazsa zaten belirli düzeyde denge sağlanambilir. Yalnızca belki de onu tabir-i caizse biraz ittirmeliyiz."
 
