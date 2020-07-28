@@ -110,8 +110,8 @@
   
 - name: "Objects"
   id: "0001"
-  desc: "Are we big enough to became nobody? Big enough to became distant from ourselves and recognize outselves as mere objects. Or agents maybe."
+  desc: "Are we big enough to became nobody?<br>Big enough to became distant from ourselves and recognize outselves as mere objects.<br>Or agents maybe."
 
 - name: "Meta"
   id: "0000"
-  desc: "Bu düşünceler düzenli hale getirildiğinde etkileri daha da güçlenebilir."
+  desc: "Bununla ne yapmalı? Bu düşünceler düzenli hale getirildiğinde etkileri daha da güçlenebilir. Ayrıca herkesin fikri alınarak genellenebilir."
