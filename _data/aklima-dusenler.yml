@@ -1,3 +1,7 @@
+- name: "Bir Kafede Oturmuşlar"
+  id: "0030"
+  desc: "Bir kafede oturmuşlar biri diğerini sorguya çekiyor.<br>Ben diyor ben sütüm çekilip kenara itiliyorum.<br>Diğeri ona güzelce açıklıyor.<br>Bu kandırılmış kuru karabalık pek bir şey ifade etmiyor."
+
 - name: "Necessities"
   id: "0029"
   desc: "Basic necessities..<br>How fundemental they are? How they matter contrast to luxury?<br>There is a purification to focus them. Its beautiful though..."
@@ -65,7 +69,7 @@
 
 - name: "Arayı Bulmak"
   id: "0012"
-  desc: "Hayatta çoğu zaman arabuluculuk etmeliyiz. İki uç arasında. Bunlardan biri işimizin gereklerini yerine getirmek olabilir. İş insanı konsepti ile otantik kişiliğimizi birleştirmeliyiz. Bunlar iki uç birbirine zıt düşüyor ama arasında denge bulunmalı. İnsan eğer nefes bölgelerini kapatmazsa zaten belirli düzeyde denge sağlanambilir. Yalnızca belki de onu tabir-i caizse biraz ittirmeliyiz."
+  desc: "Hayatta çoğu zaman arabuluculuk etmeliyiz. İki uç arasında.<br>Bunlardan biri profesyonel çalışmamızın gereklerini yerine getirmek olabilir.<br>Çalışma insanı konsepti ile otantik kişiliğimizi birleştirmeliyiz.<br>Bunlar iki uç.<br>Birbirine zıt düşüyorlar bu gerçeği görmezden gelemeyiz.<br>Ama aralarında denge bulunmalı.<br>İnsan eğer nefes bölgelerini kapatmazsa zaten belirli düzeyde denge sağlanambilir.<br>Yalnızca belki de onu tabir-i caizse biraz ittirmeliyiz."
 
 - name: "İnsanların çoğu..."
   id: "0011"
