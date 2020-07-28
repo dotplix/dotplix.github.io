@@ -8,7 +8,7 @@
 
 - name: "Balance"
   id: "0027"
-  desc: "Where is the balance missing? There's probably something wrong there."
+  desc: "Where is the balance missing?<br>There's probably something wrong there."
   desc2: "When you aim up. Its something. You are now above the mess. People will ridicule it. Maybe they are ridiculous."
 
 - name: "What We Care"
@@ -21,15 +21,15 @@
 
 - name: "Body And The Software"
   id: "0023"
-  desc:  "Maybe we are upper souls directing that avatar. Avatar consist of body and its software. By itself it doesn't mean anyhing."
+  desc:  "Maybe we are upper souls directing that agent.<br>Agent consist of body and its software.<br>By itself it doesn't mean anyhing."
 
 - name: "Ölümü Anımsatmak"
   id: "0022"
-  desc: "Nietzsche ne öğretir? Sıkıcı olan ölüme çeker. Onu anımsatır. İnsan da bu sıkışmayı çözemezse yaşlandıkça ölüme çekebilir. Ne yapıp et sıkıcı olma. Yaşamı çağrıştıranla bağlantını koparma. Zihninin eskimesine izin verme."
+  desc: "Nietzsche ne öğretir? Sıkıcı olan ölüme çeker. Onu anımsatır.<br>İnsan da bu sıkışmayı çözemezse yaşlandıkça ölüme çekebilir.<br>Ne yapıp et sıkıcı olma. Ölümü çağırıştıranlardan uzak dur.<br> Zihninin eskimesine izin verme."
   
 - name: "Gizli Söz"
   id: "0021"
-  desc: "Her şey heryerde söylenmez. Gizli söz ile olur herşey. Dar bir insan topluluğuna hitap eder. Yalnızca takipcisine gider. Takipci hazır değilse arttırıcı olmak yerine etkisiz ya da tam tersi azaltıcıdır."
+  desc: "Her şey heryerde söylenmez.<br>Gizli söz ile olur herşey.<br>Dar bir insan topluluğuna hitap eder.<br>Yalnızca takipcisine gider.<br>Takipçi hazır değilse arttırıcı olmak yerine etkisiz ya da tam tersi azaltıcıdır."
 
 - name: "Gurur"
   id: "0020"
