@@ -29,7 +29,7 @@
   
 - name: "Gizli Söz"
   id: "0021"
-  desc: "Her şey heryerde söylenmez.<br>Gizli söz ile olur herşey.<br>Dar bir insan topluluğuna hitap eder.<br>Yalnızca takipcisine gider.<br>Takipçi hazır değilse arttırıcı olmak yerine etkisiz ya da tam tersi azaltıcıdır."
+  desc: "Her şey heryerde söylenmez.<br>Gizli söz ile olur herşey.<br>Dar bir insan topluluğuna hitap eder.<br>Yalnızca takipcisine gider.<br>Takipçi hazır değilse arttırıcı olmayacaktır.<br>Arttırmak yerine azaltacaktır."
 
 - name: "Gurur"
   id: "0020"
