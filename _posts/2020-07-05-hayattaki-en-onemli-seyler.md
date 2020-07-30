@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hayattaki En Önemli Şeyler
+title: Hayattaki Önemli Şeyler
 date: 2020-03-30 00:00:00 +0300
 img: test3.jpg
 category: Hayata Dair
@@ -8,7 +8,7 @@ tags:
 - Sağlık # add tag
 ---
 
-Kaos içerisinde ilgimizin bu kadar dağıldığı bir dünyada en değerli şeyler kolayca kaybolabilir. Bu anlamda neyin kıymetli olduğunu tekrardan değerlendirmek faydalı olabilir diye düşünüyorum. Böylece hayattaki en önemli şeylerin bir listesini yapmaya karar verdim.
+Kaos içerisinde ilgimizin bu kadar dağıldığı bir dünyada en değerli şeyler kolayca kaybolabilir. Bu anlamda neyin kıymetli olduğunu tekrardan değerlendirmek faydalı olabilir diye düşünüyorum. Böylece hayattaki önemli şeylerin bir listesini yapmaya karar verdim.
 
 <div class="row" style="margin-bottom: 2.5rem; margin-top: 2.5rem;">
    <div class="ten columns"><img class="u-max-full-width" src="https://tozbulut.github.io/images/window.jfif" alt="Trees"></div>
@@ -27,11 +27,21 @@ Bir düşünce deneyi olarak bu öncelikleri bir kere tanımladıktan sonra prat
 
 ## Sağlık
 
+* Ne kadar sağlıklıyız?
+* Sağlık hakkında ne kadar düşünüyoruz?
+* Sağlığımızı riske attığımız durumlar oluyor mu?
+* Sağlığımıza iyi bakıyor muyuz?
+* Bize bahşedilmiş bir beden. Hazır olarak verilmiş. Fonksiyonelliği ne kadar? Eksik bir yanı var mı? Herkes kusursuz bir bedenle doğmuyor. Bedenin güzellik ayağı var.
+
 ## Kariyer
 
 Hayattaki temel amacımız varoluş manifestomuz ile yakından ilişkili. Çünkü prpfesyonel anlamda bir yarar sağlıyorsak bunun bir lafşılığı olacaktır. Kendi ayakları üzerinde durabilmek ve bağımsız bir birey olmanın verdiği güç.  Gezegenle teke tek karşılaşabilme.
 
 Bu benim için nispeten kolay oldu. Bazıları için daha da kolay bazıları için daha da zor. Ama pek çoğumuz için her halükarda alınması gereken yol var. Özellikle sıkıcı bir yaşam sürmek istemeyen taraftaysanız. 
+
+* Kariyeri tehdit eden unsurlar ne olabilir?
+
+* Kariyerimizi nasıl daha iyi bir yere taşırız?
 
 ## Aile
 
@@ -57,16 +67,24 @@ Gözümüz açık olduğu sütece hayatta kendimize sonsuz bir eğlebceli huzurl
 
 ## Zaman
 
+Zamanı doğru bir biçimde yönetebilmek.
+Kararlar verirken geç kalmamak.
+Zaman farkındalığı.
+Biraz girift bir konu insan full engagement'da zamanı unutur.
+
 ## Bilgelik
 
 Bence bilgelik yaşamın bütünsel sorularına bir bakış açısı geliştirmiş olmak ile ilişkili.
+Kültürle beraber kolkola fakat daha pratik ve sade.
 
 ## Para
-Yatırım vs. Yeni fırsatlar açması bakımımdan. 
 
+Yatırım vs. Yeni fırsatlar açması bakımımdan. 
 
 ## İrade
 
 ## Eğlence
 
 ## Eğitim
+
+## Hedefler
