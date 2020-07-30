@@ -8,22 +8,30 @@ tags:
 - Sağlık # add tag
 ---
 
-Kaos içerisinde ilgimizin bu kadar dağıldığı bir dünyada en değerli şeyler kolayca kaybolabilir. Bu anlamda neyin kıymetli olduğunu tekrardan değerlendirmek faydalı olabilir diye düşünüyorum. Böylece hayattaki önemli şeylerin bir listesini yapmaya karar verdim.
+Gündelik hayatın dalgınlığı içerisinde kimi zaman hayatın temel değerlerini ıskalayabiliyoruz. Bizim için neyin kıymetli olduğunun tanımını yapabilmede ve kimi zaman tekrardan gözden geçirmekte bir fayda görüyorum. Hayattaki önemli şeylerin bir listesini yapma fikri buradan doğdu.
 
 <div class="row" style="margin-bottom: 2.5rem; margin-top: 2.5rem;">
    <div class="ten columns"><img class="u-max-full-width" src="https://tozbulut.github.io/images/window.jfif" alt="Trees"></div>
    <div class="two column"></div>
 </div>
 
-Anlatımım biraz subjektif olabilir. İşin esası kendi bakış açımdan yansıtmakta bir fayda da görüyorum. Böylelikle gerçek bir bakış otantik yönleriyle açığa çıkıyor.
+Yazarken anlatımımın biraz subjektif olabileceğini farkettim. İşin esası kendi bakış açımdan yansıtmakta bir fayda da görüyorum. Böylelikle gerçek bir bakış otantik yönleriyle açığa çıkıyor. Bu da amaçlardan biri. 
 
-Bir yandan da bu değerlerin hepimizi birleştiren ortak bir yanı da var. O kadar farklılaşmıyorlar. Bu gerçekten değerli bir şey aslında. Immanuel Kant felsefesindeki [categorical imperative](https://en.wikipedia.org/wiki/Categorical_imperative) gibi hepimiz için doğru olan bazı davranış biçimleri var. Doğru az çok belli aslında. Problemlerimiz genelde uygulama tarafında oluyor.
+Değerlerin öznelliği ve nesnelliği üzerinde durmak gerek. İçerisinde yaşadığımız düzenin beklentilerini hesaba katmadan böyle bir çaba eksik kalacaktır. Bir çeşit arınma amaçlanıyorsa sistemin tanımladığı başlıca gereklilikleri hesaba katmak bunda önemli bir yer tutuyor.
 
-Hepimiz için ortak olan bu doğrular ilk başta kulağa pek eğlenceli gelmeyebilir. Fakat insana ait değerler bir şekilde dış dünya ile uyumlu olmalı. Dışarıdan gelecek negatif etkiye kapalı olmalı fakat dışarıdan gelecek yeniliklere açık olmalı.
+Genel değerlerin hepimizi birleştiren ortak bir yanı var. O kadar farklılaşmamaları gerçekten dikkat çekici. Immanuel Kant felsefesindeki [categorical imperative](https://en.wikipedia.org/wiki/Categorical_imperative) gibi hepimiz için doğru olan bazı davranış biçimleri var. Doğru az çok belli aslında. Problemlerimiz genelde uygulama tarafında oluyor.
+
+Dışarıdan alınacak doğrular kulağa ilk başta kulağa pek eğlenceli gelmeyebilir. Fakat insana ait değerler bir şekilde dış dünya ile uyumlu olmalı. Değerleri içselleştirir ve savurken dışarıdan gelecek yeniliklere açık olunmalı.
 
 Eğer gerçekten kopuk bir biçimde bir ilüzyona kapılıp önceliklerimizi kaybetmediysek, gerçek şu ki hassas bir denge üzerinde duruyoruz. Önceliklerimizi bir şekilde sınırlandıracak ve gerçekleştirecek iradeye sahip olsak bile bir "trade-off" ile karşılaşabiliriz. Bu değerler karşı karşıya gelebilir. Bir hedefiniz olmadığında dengeyi korumak kolaydır. Ama bir hedefiniz olduğunda ki istediğinizi elde etmek için hedef alanınız daralacak bu dengeyi sağlamak gittikçe zorlanacaksınız.
 
-Bir düşünce deneyi olarak bu öncelikleri bir kere tanımladıktan sonra pratikte geliştirmek için ne yapılabileceğine odaklanmak daha kolay olacaktır. Hataları belirleyip ortadan kaldırma yolunda bir adım izleyebiliriz.
+Bu her ne kadar serbest bir düşünce deneyi olsa da buradan bir pratiğe ve eyleme yönelik başlıklar da çıkarmayı umuyorum. Benzer şekilde hataları belirleyip ortadan kaldırma yolunda bir adım izleyebiliriz.
+
+* Neden değerli?
+* Onsuz bir hayat nasıl olurdu?
+* Yükseltmek için ne yapılır?
+* Korumak için ne yapılır?
+* Diğer önceliklerle nasıl çelişebilir?
 
 ## Sağlık
 
@@ -31,11 +39,13 @@ Bir düşünce deneyi olarak bu öncelikleri bir kere tanımladıktan sonra prat
 * Sağlık hakkında ne kadar düşünüyoruz?
 * Sağlığımızı riske attığımız durumlar oluyor mu?
 * Sağlığımıza iyi bakıyor muyuz?
-* Bize bahşedilmiş bir beden. Hazır olarak verilmiş. Fonksiyonelliği ne kadar? Eksik bir yanı var mı? Herkes kusursuz bir bedenle doğmuyor. Bedenin güzellik ayağı var.
+* Bize bahşedilmiş bir beden. Hazır olarak verilmiş. Fonksiyonelliği ne kadar? Eksik bir yanı var mı? Herkes kusursuz bir bedenle doğmuyor. Bedenin güzellik tarafı da var.
 
 ## Kariyer
 
-Hayattaki temel amacımız varoluş manifestomuz ile yakından ilişkili. Çünkü profesyonel anlamda bir yarar sağlıyorsak bunun bir karşılığı olacaktır. Kendi ayakları üzerinde durabilmek ve bağımsız bir birey olmanın verdiği güç.  Gezegenle teke tek karşılaşabilme.
+Yapmış olduğumuz iş hayattaki temel amacımız varoluş tanımımız ile yakından ilişkili. Çünkü profesyonel anlamda bir yarar sağlıyorsak bunun bir karşılığı olacaktır. Kendi ayakları üzerinde durabilmek ve bağımsız bir birey olmanın verdiği güç.  Gezegenle teke tek karşılaşabilme.
+
+Bir kariyer elde ettiğiniz zaman bunu geliştirme yolunda ne yapabileceğiniz söz konusu oluyor.
 
 Bu benim için nispeten kolay oldu. Bazıları için daha da kolay bazıları için daha da zor. Ama pek çoğumuz için her halükarda alınması gereken yol var. Özellikle sıkıcı bir yaşam sürmek istemeyen taraftaysanız. 
 
@@ -62,15 +72,15 @@ Aile sağlıktan sonra en önemli şey.
 ## Kültür
 
 Bu benim için elbette bir şekilde entelektüel birikim anlamına geliyor. 
-Kültür ayrıca iş başımda zevk alabileceğümiz bir yığın anlamına geliyor. 
-Gözümüz açık olduğu sütece hayatta kendimize sonsuz bir eğlebceli huzurlu bir meşguliyet yaratabiliriz. 
+Kültür ayrıca iş dıiında zevk alabileceğümiz bir yığın anlamına geliyor. 
+Antenlerimizi açık tuttuğumuz sürece hayatta kendimize sonu olmayan eğlenceli huzurlu bir meşguliyet yaratabiliriz. 
 
 ## Zaman
 
 Zamanı doğru bir biçimde yönetebilmek.
 Kararlar verirken geç kalmamak.
 Zaman farkındalığı.
-Biraz girift bir konu insan full engagement'da zamanı unutur.
+Biraz girift bir konu insan tam olarak adapte olduğunda zamanı unutur.
 
 ## Bilgelik
 
@@ -87,4 +97,6 @@ Yatırım vs. Yeni fırsatlar açması bakımımdan.
 
 ## Eğitim
 
-## Hedefler
+## Hedef
+
+## Üretim
