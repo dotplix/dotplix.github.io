@@ -35,7 +35,7 @@ Bir düşünce deneyi olarak bu öncelikleri bir kere tanımladıktan sonra prat
 
 ## Kariyer
 
-Hayattaki temel amacımız varoluş manifestomuz ile yakından ilişkili. Çünkü prpfesyonel anlamda bir yarar sağlıyorsak bunun bir lafşılığı olacaktır. Kendi ayakları üzerinde durabilmek ve bağımsız bir birey olmanın verdiği güç.  Gezegenle teke tek karşılaşabilme.
+Hayattaki temel amacımız varoluş manifestomuz ile yakından ilişkili. Çünkü profesyonel anlamda bir yarar sağlıyorsak bunun bir karşılığı olacaktır. Kendi ayakları üzerinde durabilmek ve bağımsız bir birey olmanın verdiği güç.  Gezegenle teke tek karşılaşabilme.
 
 Bu benim için nispeten kolay oldu. Bazıları için daha da kolay bazıları için daha da zor. Ama pek çoğumuz için her halükarda alınması gereken yol var. Özellikle sıkıcı bir yaşam sürmek istemeyen taraftaysanız. 
 
