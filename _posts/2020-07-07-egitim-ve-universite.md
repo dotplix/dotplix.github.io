@@ -56,10 +56,28 @@ Ben biraz sınavın içeriğine odaklanmak istiyorum. Çünkü bu bilgiler bir y
 
 YGS, Temel Yeterlilik Testi (TYT) ve Alan Yeterlilik Testi (AYT) olarak ikiye ayrılıyor. TYT'de 40 Türkçe, 25 Sosyal Bilimler, 40 Temel Matematik, 20 Fen Bilimleri sorusu var. Öğrenciler bu soruların hepsinden sorumlu. Özelleştikleri kısım ise sınavın ikinci kısmı. Sınavın ikinci kısmı olan AYT'de Türk Dili Ve Edebiyatı, Sosyal Bilimler 1, Sosyal Bilimler 2, Matematik ve Fen Bilimleri sorusu yer alıyor.  *Yükseköğretim Program Atlası* öğrencilere tercih sürecinde yardımcı olmak amacıyla hazırlanmış.
 
+* Temel Yeterlilik Testi (TYT)
+   * Türkçe (40)
+   * Sosyal Bilimler (25)
+   * Temel Matematik (40)
+   * Fen Bilimleri (20)
+* Alan Yeterlilik Testi (AYT)
+   * Türk Dili Ve Edebiyatı
+   * Sosyal Bilimler 1
+   * Sosyal Bilimler 2
+   * Matematik
+   * Fen Bilimleri
+   
+Girdiğim zamanda ilk kısım daha geneldi. İkinci kısım özeldi. Hala o şekilde görünüyor. İkinci kısımda sosyal ve edebiyatı çözmüyoruz sanırım. Sorulara yakından bakmakta fayda var. İnternette yayınlanıyor olabilir burada listelebiliriz.
+   
 
-### SAT - 
+### SAT - Scholastic Assessment Test
 
-Amerika'da durum nedir? SAT?
+* Amerika’da lisans eğitimi almak için girilmesi gereken bir sınav
+* Yabancı bir ülkeyi değerlendirmek perspektif sağlamak açısından faydalı olabilir.
+* Biraz da eğlenceli çünkü bir soyutlama getiriyor. Psikolojik açıdan baskıyı biraz izole ediyor. 
+* Bizim zamanımızda birey yayınları vardı. Biraz daha zordu . Soruları rusyadan aldıkları söylentisi vardı.
+* Eski yılların sorularını bulabiliyor muyuz?
 
 ### Üniversitelerin Birbiri İle Karşılaştırılması
 
@@ -97,3 +115,4 @@ Ben bu listeler faydalanarak 7 tane türk 7 tane yabancı üniversite seçtim.
 
 ------------------------
 * [Türkiye'den 82 üniversite, dünyanın ilk 2 bin 500 üniversitesi arasına girdi](aa.com.tr/tr/egitim/turkiyeden-82-universite-dunyanin-ilk-2-bin-500-universitesi-arasina-girdi)
+* Decoding The Essentials
