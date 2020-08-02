@@ -17,9 +17,9 @@ title: Tozbulut
 
 
 {% for member in site.data.radar %}
-<div style="">
-<div><h6 class="docs-header">#{{ member.id }} • {{ member.name }} • {{ member.type }} • {{ member.date }}  </h6><div></div></div>
-<div><p>{{ member.desc }}</p></div>
+<div style="kisabox">
+<div><h6 class="docs-header kisabaslik">#{{ member.id }} • {{ member.name }} • {{ member.type }} • {{ member.date }}  </h6><div></div></div>
+<div class="kisayazi"><p>{{ member.desc }}</p></div>
 <hr/>
 </div>
 {% endfor %}
