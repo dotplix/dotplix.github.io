@@ -1,7 +1,13 @@
+- name: "Still Alive"
+  id: "0034"
+  date: ""
+  desc: "<iframe width="500" src="//www.youtube.com/embed/Y6ljFaKRTrI" frameborder="0"></iframe> <p>Video oyunu Portal, bir mahkumun ileri teknoloji bir silah kullanarak hapishaneden kaçışını konu ediniyor. Her detayı titizlikle hazırlanmış oyunun kapanışında oyuncuların ve ekibin isimlerinin yer aldığı kısım için muazzam bir fikir düşünülmüş. Karanışta çalan şarkının adı 'Still Alive'. Şarkı GladOS’un Chell’e yazdığı mektup olarak kurgulanmış. Yapay zekanın robotik tonuyla pasif agresif ruh halini yansıtma biçimi ilgi çekici.</p> <p>'Still Alive' Jonathan Coulton tarafından bestelenmiş ve düzenlenmiş, Portal karakteri GLaDOS'u canlandıran Ellen McLain tarafından seslendiriliyor. Şarkı, iki Valve Corporation geliştiricisi ve Coulton arasındaki toplantıda ortaya çıkmış. Kısa sürede dünya çapında şöhrete eriştiğini ve bir marşa dönüştüğünü söylemek mümkün.</p>"
+  type: "Song"
+
 - name: "Dan Carlin - Wrath Of The Khans"
   id: "0033"
   date: ""
-  desc: "Dan Carlin is an American podcaster."
+  desc: "Dan Carlin is an American podcaster. He is great about some historical stories. Some of his podcasts avaible for free."
   type: "Podcast"
 
 - name: "Breath: The New Science of a Lost Art"
