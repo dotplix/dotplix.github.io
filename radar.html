@@ -16,10 +16,14 @@ title: Tozbulut
  <hr>
 
 
+<div class="row">
+ <div class="ten columns">
 {% for member in site.data.radar %}
 <div class="kisabox">
 <div><h6 class="docs-header kisabaslik">#{{ member.id }} • {{ member.name }} • {{ member.type }} • {{ member.date }}  </h6><div></div></div>
 <div class="kisayazi"><p>{{ member.desc }}</p></div>
 <hr/>
+     </div>
 </div>
 {% endfor %}
+</div>
