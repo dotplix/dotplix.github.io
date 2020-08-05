@@ -11,31 +11,42 @@ SAT Matematik Testinde toplam 58 matematik sorusu var. SAT-Math'ın hesap Makine
 SAT’ın matematik sorularını sınıflandırmak kullanılabilecek birden fazla kategorilendirme mevcut. Daha zor sorular birden fazla yetenek gerektirdiği için sınıflandırmak biraz zor olabiliyor. Resmi olarak "College Board" matematik sorularını dört ana kategoriye ayırıyor.
 
 * Heart of Algebra, 19 soru
-  * linear equations
-  * systems of linear equations
-  * inequalities
-* Problem Solving and Data Analysis, 17 questions
-  * ratios
-  * proportions
-  * percentages
-  * units
-  * quantitative data
-  * probabilities
-* Passport to Advanced Math, 16 questions
-  * equivalent algebraic expressions
-  * quadratic equations
-  * exponential functions
-  * other nonlinear equations and functions
-* Additional Topics in Math, 6 questions
-  * basic trigonometry
-  * the geometry of area
-  * volume
-  * lines
-  * angles
-  * shapes
+  * Linear Equations
+  * Systems of Linear Equations
+  * Inequalities
+  
+* Problem Solving and Data Analysis, 17 soru
+  * Ratios
+  * Proportions
+  * Percentages
+  * Units
+  * Quantitative Data
+  * Probabilities
+  
+* Passport to Advanced Math, 16 soru
+  * Equivalent Algebraic Expressions
+  * Quadratic Equations
+  * Exponential Functions
+  * Other Nonlinear Equations and Functions
 
+* Additional Topics in Math, 6 soru
+  * Basic Trigonometry
+  * The Geometry of Area
+  * Volume
+  * Lines
+  * Angles
+  * Shapes
+
+Kabaca böyle özetleyebiliriz. Teste girmeyen konular arasında kompleks trigonometri ve calculus var.
+
+
+
+
+
+---------------------------------------------------------------------------------------------------------------------
 
 Bir diğer bölüm yazım ve dil testi, yazım kısmı 35 dakika sürerken dil testinde çoktan seçmeli 44 soru bulunuyor. 
+
 
 Son olarak 80 dakika süren matematik testi 58 sorudan oluşuyor.
 
