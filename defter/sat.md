@@ -8,7 +8,7 @@ SAT Matematik Testinde toplam 58 matematik sorusu var. SAT-Math'ın hesap Makine
 
 "Grid-in" sorular SAT'de matematiğin iki bölümü arasında yer alıyor. Toplamda 13 ızgara sorusu var. Cevabı kendi başınıza buluyorsunuz ve içinde işaretliyorsunuz.
 
-SAT’ın matematik sorularını sınıflandırmak kullanılabilecek birden fazla kategorilendirme mevcut. Daha zor sorular birden fazla yetenek gerektirdiği için sınıflandırmak biraz zor olabiliyor. Resmi olarak "College Board" matematik sorularını dört ana katagoriye ayırıyor.
+SAT’ın matematik sorularını sınıflandırmak kullanılabilecek birden fazla kategorilendirme mevcut. Daha zor sorular birden fazla yetenek gerektirdiği için sınıflandırmak biraz zor olabiliyor. Resmi olarak "College Board" matematik sorularını dört ana kategoriye ayırıyor.
 
 * Heart of Algebra, 19 soru
   * linear equations
