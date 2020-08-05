@@ -39,7 +39,42 @@ SAT’ın matematik sorularını sınıflandırmak kullanılabilecek birden fazl
 
 Kabaca böyle özetleyebiliriz. Teste girmeyen konular arasında kompleks trigonometri ve calculus var.
 
+# Okuma Bölümü (Reading)
 
+SAT Okuma Testindeki tüm sorular 500-750 kelime uzunluğundaki paragraflara dayanmaktadır ve sınavda toplam beş paragraf bulunmaktadır.
+
+* [Paragraf Örneği](https://www.cracksat.net/sat/reading/test-10.html)
+
+Paragraflardan biri “ikili paragraf” şeklinde olacaktır. Aynı konuyu kapsayan iki okuma parçası bulunmaktadır.
+
+Her paragrafı takip eden sorular üç geniş kategoriye ayrılabilir: delil komutu soruları, bağlam içi kelimeler ve metin analizi soruları. Okuma bölümünde, hepsi çoktan seçmeli olmak üzere toplam 52 soru bulunmaktadır.
+
+* Command of Evidence, 10 soru (Kanıt Tabanlı Okuma)
+ * Bu sorular kanıta dayalı çıkarımlara ve yazarların iddialarını desteklemek için kanıt kullanmadığı (veya kullanmadığı) yöntemlere odaklanmaktadır.
+* Words in Context, 10 soru
+ * Bu sorular paragraflar kullanılarak kelime dağarcığının anlamı ve kullanımına odaklanmaktadır.
+* Analysis, 32 soru
+ * Analiz soruları sınava girenlere yazarın tutum ve amacını değerlendirmeye yönelik sorular soruluyor, paragraf yapısı ve organizasyonu, her bir yazının “daha derin” yönleri  de sorulabiliyor. command-of-evidence ve words-in-context sorularının da bazen bir analiz bileşenine sahip olabileceğini unutmamak gerekiyor.
+
+# Yazma Bölümü (Writing)
+
+SAT Yazma ve Dil Testi 44 çoktan seçmeli sorudan oluşur. Gerçekten sadece iki tür soru vardır: fikir ifade soruları ve İngilizce standart yazma kuralları anlayışınızı test eden sorular.
+
+Expression of Ideas, 24 Soru
+ * Organizing Content
+ * Adding Relevant Information
+ * Removing Irrelevant Information
+ * Setting The Correct Tone
+* Standard English Conventions, 20 Soru
+ * Grammar
+ * Punctuation
+ * Mechanics
+ * Word Choice
+ * Phrase Structure
+ 
+# Optional Essay Section
+
+On the SAT, the Essay Section is optional but may be added to the exam for a small extra fee ($11.50). All essay questions have the same format: a piece of editorial writing is given to the test-taker, who must then compose an analysis of the author’s argument.
 
 
 
