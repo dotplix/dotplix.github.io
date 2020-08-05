@@ -59,6 +59,12 @@ Son olarak 80 dakika süren matematik testi 58 sorudan oluşuyor.
 
 Matematik testi çoktan seçmeli ya da grid in olabiliyor.
 
+----------------------------------------------------------------------------------------------------------------------
+
+* Reading Test (65 Minutes, 52 Questions)
+* Writing and Language Test (35 Minutes, 44 Questions)
+* Math – No Calculator Test (25 Minutes, 20 Questions)
+* Math – Calculator Test (55 Minutes, 38 Questions)
 
 ----------------------------------------------------------------------------------------------------------------------
 • https://magoosh.com/hs/sat/about-the-sat/2013/sat-question-types/
