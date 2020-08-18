@@ -33,8 +33,6 @@ Ne yaparsanız yapın biryerde eğitim bireysel. Özellikle de günümüzde. Bu 
 
 Bu bölümlerin stylbus'larını inceledim. Detaylı karşılaştırmayı burada bulabilirsiniz.
 
-Eskişehir Osmangazi Üniversitesi Bilgisayar Mühendisliği
-
 Bir çok kişinin sınava girdiği dönemdeyiz.
 
 * Dijital Dönüşüm
@@ -112,6 +110,20 @@ Ben bu listeler faydalanarak 7 tane türk 7 tane yabancı üniversite seçtim.
 6. University of Toronto
 7. University of Cambridge
 8. Michigan State University
+
+### Bilgisayar Mühendisliği Bölümü
+
+Okuduğum üniversite 4 yıllık Bilgisayar Mühendisliği Eğitimi aldım. 2010-2011 yılındaki hazırlığın ardından aldığım dersler aşağıdaki gibi.
+Dersler 4 yılı kapsayacak şekilde olsa da okulu 3 dönem kadar uzattım.
+
+* Birinci Sınıf
+* İkinci Sınıf
+* Üçüncü Sınıf
+* Dördüncü Sınıf
+* Teknik Seçmeli A
+* Teknik Seçmeli B
+* Teknik Olmayan Seçmeli
+
 
 ------------------------
 * [Türkiye'den 82 üniversite, dünyanın ilk 2 bin 500 üniversitesi arasına girdi](aa.com.tr/tr/egitim/turkiyeden-82-universite-dunyanin-ilk-2-bin-500-universitesi-arasina-girdi)
