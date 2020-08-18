@@ -35,15 +35,18 @@ Bu bölümlerin stylbus'larını inceledim. Detaylı karşılaştırmayı burada
 
 Bir çok kişinin sınava girdiği dönemdeyiz.
 
-* Dijital Dönüşüm
-* Türkiyedeki Eğitim Sisteminin Sorunlu Yapısı
-* DÜnyada Üniversitelerin Eleştiri
-* STEM
-* IVY League
-* Stylbus ve Textbooklar
-* Açıköğretim
-* Açıköğretim bence büyük bir imkan.
-* Yüksek Lisans
+## Değinmek İstediğim Konu Başlıkları
+
+* Teori vePratik Arısındaki Net ayırım
+* Dünyada Üniversitelerin Eleştiri
+* STEM : Kesinlikle sosyal bir alana göre avantajlı. Günümüzde business da daha bilimsel bir hal almaya başladı. Fakat yönetim bambaşka bir konu.
+* Teknik Bir Bölüm Okumanın bazı *downside* ları var. cost-benefit, taking risks or not? If you can take risk then you can win. Not locking up yourself yet being consistent.
+* Bilimsel Düşünce hayata bakışta çok önemli. Objektif ve kritik olarak bir olguyu inceleyebilmek. Bakış açının temiz olması. Öte yandan yalnızca analiz edici olarak kalmamak gerekiyor ve insanın hayata dair tüm bakış açısını tanımlamakta biraz uyuşmazlık yaşanabileceğini düşünüyorum. Mümkün olduğunca bilimsel düşünmeliyiz ama hayat sadece bununla sınırlı olmadığından sığ olma tehlikesi ile karşılaşabiliriz.
+* IVY League : Sıklıkla duyduğum bu terim Amerika'daki en üst sıralarda yer alan üniversiteleri tanımlamak için kullanılıyor. Bu üniversitelerin öğrencilerinin bir zihinsel birlik içerisinde olduğunu söyleyebiliriz.
+* Stylbus ve Textbooklar : Kafa karışıklığı içerisinde bir ışık tutabilir. Genel bir görüş sağlayabilir. Dünyanın çeşitli üniversitelerinde ne okutuluyor bilmek eğitime daha bütünsel bir bakış.
+* Online kurslar
+* Açıköğretim bence büyük bir imkan. Açıköğretim kaynakları herkese açık. Nereye bakacağını bilen ve value assesment'ı yapan bir kişi gerekli faydayı edinebilir.
+* Yüksek Lisans : Nasıl bir yüksek lisans?
 * Yabancı Dil
 
 #### YGS - Yükseköğretim Kurumları Sınavı
