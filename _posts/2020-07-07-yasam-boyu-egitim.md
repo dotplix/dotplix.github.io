@@ -8,7 +8,7 @@ category: Hayata Dair
 
 Üniversite çağını geride bırakmış biri olarak bu dönem benim için tıpkı bir çok insanın hayatında olduğu gibi bir dönüm noktası oldu. Mezun olduktan sonra bile aklım biraz üniversite orada kaldı diyebilirim. Teorisi sağlam bir hayat için eğitimle ömür boyu bağlantıyı koparmamak gerektiğini düşünüyorum.
 
-Üniversite yılları çok hızlı geçiyor. Bazen not veya başka önceliklerle eğitiminizde boşluklar kalabiliyor. Eğer zamanınız varsa geriye dönüp bu boşlukları gidermenin önemli olduğunu düşünüyorum. Üzerine onca zaman harcadığınız o dersleri olgun halinizle yalnızca meraktan tekrar edebiliriz.
+Üniversite yılları çok hızlı geçiyor. Bazen not kaygısı veya başka önceliklerle eğitiminizde boşluklar kalabiliyor. Eğer zamanınız varsa geriye dönüp bu boşlukları gidermenin önemli olduğunu düşünüyorum. Üzerine onca zaman harcadığınız o dersleri olgun halinizle yalnızca meraktan tekrar edebiliriz.
 
 ### Eğitime Dair Bazı Düşünceler
 
