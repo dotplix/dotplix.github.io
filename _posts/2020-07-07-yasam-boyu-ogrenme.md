@@ -10,7 +10,7 @@ category: Hayata Dair
 
 Üniversite yılları çok hızlı geçiyor. Bazen not kaygısı veya başka önceliklerle eğitiminizde boşluklar kalabiliyor. Eğer zamanınız varsa geriye dönüp bu boşlukları gidermenin önemli olduğunu düşünüyorum. Üzerine onca zaman harcadığınız o dersleri olgun halinizle yalnızca meraktan tekrar edebiliriz.
 
-İnsan,hayatı boyunca öğrenmeye ve kendini geliştirmeye devam etmelidir.
+İnsan,hayatı boyunca öğrenmeye ve kendini geliştirmeye devam etmelidir. Normal eğitimin dışında kalarak dışarıdan yeni bir anlayış geliştirme lüksüne sahip oluyoruz.
 
 ### Eğitime Dair Bazı Düşünceler
 
