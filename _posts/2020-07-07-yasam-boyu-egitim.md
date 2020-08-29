@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Eğitim ve Üniversite
+title: Yaşam Boyu Eğitim
 description: 
 img: research_summaries_2.jpg
 category: Hayata Dair
