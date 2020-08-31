@@ -1,0 +1,33 @@
+---
+layout: default
+title: Tozbulut
+---
+
+<div class="row">
+    <div class="eight columns">
+       <h6 class="docs-header">Steh Auf</h6>
+        <p>Rammstein'dan tanıdığımız Till Lindemann'ın Peter Tägtgren ile ortaklaşa oluşturduğu Lindemann'ı ilgiyle takip ediyorum.</p>
+        <p>Grubun 2019 yılında yayınlanan Steh auf şarkısının ilaç kullanımı ve ruhsal sorunlar'a değiniyor gibi görünen renkli bir klibi var. Yalnız klipte çok beğendiğim bir imge kullanılmış. Klibin 2:18 saniyesinde at üstündeki askerler duvarı yıkarak içeri giriyor ve kahramanlardan birini kaçırıyor.</p>
+        <p>Açık alanda bir moğol atlısı - tarihin büyük travması - hayatın akışının işlemeyene, tıkanmış olana getirdiği ferahlatıcı çözüm oluyor. İzleyiciler olarak tüm bu durumu işlemeyen ve tıkananın gözünden görme imkanı yakalıyoruz. Grup elemanlarının perişan biraz önemsemez durumu trajikomik bir atmosfer yaratıyor.</p>
+        <iframe height="315" style="width: 100%;" src="//www.youtube.com/embed/hiOjK992bPU" frameborder="0"></iframe>
+    </div>
+    <div class="four columns" style="
+       "><img class="u-max-full-width" src="https://tozbulut.github.io/images/nixie2.jpg" alt="Radar Nixie Saati" style="
+       padding-top: 1.5rem;
+       "></div>
+ </div>
+ <hr>
+
+
+<div class="row">
+ 
+{% for member in site.data.radar %}
+   
+<div class="kisabox">
+<div><h6 class="docs-header kisabaslik">#{{ member.id }} • {{ member.name }} • {{ member.type }} • {{ member.date }}  </h6><div></div></div>
+<div class="kisayazi"><p>{{ member.desc }}</p></div>
+<hr/>
+
+</div>
+{% endfor %}
+</div>
