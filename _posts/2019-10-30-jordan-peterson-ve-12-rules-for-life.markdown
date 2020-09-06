@@ -67,3 +67,4 @@ Peterson kendini ifade etmek konusunda insanlara kendini zayıf hissettirecek hi
 * 5'li Kişilik Analizi
 * Temizlik ve Hitler 
 
+Zamanın Geçişi: Zaman sevdiğimiz bir şeyi yaparken fazla hızlı zorlandığımız bir şeyi yaparken çok yavaş gelir. Zamanın geçişi biraz zorlandığımız ama sıkılmadığımız anda ideal haline ulaşır. 
