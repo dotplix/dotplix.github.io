@@ -1,4 +1,12 @@
-- name: "Advice - Alıntı"
+- name: ""
+  id: "0034"
+  desc: "Birinin bir diğerinin içsel bunalımını sallamaması biraz komik. Tam da hayatın özünde olan bu... "
+
+- name: "Esas Kaybeden"
+  id: "0033"
+  desc: "Herkesi kendi dramasında bir kaybeden olarak görmekten geri kalmıyoruz.<br>Ama nihai oyun için...<br>Nezaketi olmayanlar.<br>Onların hiçbir hakkı yoktur."
+
+- name: "Fair Weather"
   id: "0032"
   desc: "<blockquote>Fair weather makes no sailor.</blockquote>"
 
