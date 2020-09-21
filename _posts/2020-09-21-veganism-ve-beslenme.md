@@ -8,7 +8,7 @@ category: Beslenme
 
 JRE #992 Podcast'inden çevrildi.
 
-### What The Health Hakkında 
+#### What The Health Hakkında 
 
 "what the health" belgeseli konusunda doktorların cevabına bakıyorum. Belgeselin vegan propagandası olduğu ve bilimsel temelli olmadığını duydum. Yağın diabete neden olduğunu söylüyorlar.  Yağın damarları tıkandığını söylüyorlar. Bir çok kişi buna baktı. Bunun yanlış olduğunu gösterdi. Bu bir sahtebilim ve gerçek değil. 
 
@@ -19,7 +19,7 @@ Bugün hayvan tarımının pek çok negatif yönü var. Bu negatif yönler konus
 
 İşlenmiş gıda sağlığınız için çok zararlı. Özellikle koruyucu madde içeren besinler. Koruyucu madde içeren etler. Fakat bu demek değil ki çimle beslenen biftek sizin için kötü olsun. Değil çünkü. Bu demek değil ki tüm et sağlıksızdır. Bu bir yalan. Salmon ve balık, çeşitli okyanus balıkları ve deniz tarağı ile bunu birincil protein kaynağı olarak kullanıp yanına da sebze yiyecek olursan gayet sağlıklı bir beslenmen olur.
 
-## Peki sağlığını nasıl iyileştirirsin?
+#### Peki sağlığını nasıl iyileştirirsin?
 
 İşlenmiş gıda'nın son derece sağlıksız olduğunu söyledik. Biliyorsun diary'den kaçınmak yönünde çok sayıda argüman var. Bence bu kişiden kişiye değişiyor. İşlenmiş şekerden kaçınmak yönünde bir argüman var. Tabi ki kaçınmak gerekiyor. Vegan takımında olmakta sorun yok. Ama gerçekleri de görmek lazım.
 
@@ -40,7 +40,7 @@ Bİldiklerin kimliğini oluşturuyor ya burada yeni bilgi geldiğinde peripheral
 
 Ideal olan komunutelerin yardımlaşarak bunları yetiştirmesi. Herkes kendi sebzelerini üretir.
 
-### Filme Dönecek Olursak
+#### Filme Dönecek Olursak
 
 Dürüst olmuyorsan filmini seyredemem. Kimse sebzeler sağlıksız demiyor. Sebzeler aşırı sağlıklı. Pancar (beets) sağlığın için mükemmel.  Lahana (kale) sağlığın için mükemmel. Bunlar besin ve kesinlikle faydalılar. Havuç (Carrots), Soğan (onions), yams (patates), tatlı patates (sweet potatoes) yerden çıkan herşey gerçek besin bu. Ama yumurta da öyle.  Kötü bir vegan da olabirsin. Vegan olup da kötü beslenmen de olasıdır. Örneğin devamlı şeker ve vegan dondurma yersen bu sağlığın için kötü olur.
 
