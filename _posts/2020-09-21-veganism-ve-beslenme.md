@@ -6,7 +6,7 @@ img: research_summaries_2.jpg
 category: Beslenme
 ---
 
-> JRE #992 Podcast'inden çevrildi.
+JRE #992 Podcast'inden çevrildi.
 
 "what the health" belgeseli konusunda doktorların cevabına bakıyorum. Belgeselin vegan propagandası olduğu ve bilimsel temelli olmadığını duydum. Yağın diabete neden olduğunu söylüyorlar.  Yağın tıkandığını söylüyorlar. Bir çok kişi buna baktı. Bunun yanlış olduğunu gösterdi. Bu bir sahtebilim ve gerçek değil. 
 
