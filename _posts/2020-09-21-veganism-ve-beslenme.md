@@ -1,3 +1,13 @@
+---
+layout: post
+title: Veganism ve Beslenme
+description: 
+img: research_summaries_2.jpg
+category: Beslenme
+---
+
+> JRE #992 Podcast'inden çevrildi.
+
 "what the health" belgeseli konusunda doktorların cevabına bakıyorum. Belgeselin vegan propagandası olduğu ve bilimsel temelli olmadığını duydum. Yağın diabete neden olduğunu söylüyorlar.  Yağın tıkandığını söylüyorlar. Bir çok kişi buna baktı. Bunun yanlış olduğunu gösterdi. Bu bir sahtebilim ve gerçek değil. 
 
 Kesinlikle vegan diyet sağlıklı olabilir. Kesinlikle çok sayıda sebze almak size faydalı olabilir. Nutrient-rich besinler almak iyidir. İster taze sebze (fresh vegatables) olsun ya da başka bir şey. Eğer dikkatliysen ve örneğin saturated-fat ve unsaturated fat ilerin konusunda zekiysen sorun yok. Ne biliyim esantial fat acid'ler konusunda bilgiliysen vegan olarak sağlıklı bir yaşam yaşayabilirsin. Sadece doğrusunu yap. Ama bu kişiler yalan söylüyorlar. Rol yapıyorlar. Veganlık dinini tebliğ ediyorlar. Amaç insanları vegan yapmak bunu da onları korkutarak yapmak. Yalanlarla. Yağın diabete neden olduğunu söylüyorlar. Yağın tıkandığını söylüyorlar. Bu doğru değil.
