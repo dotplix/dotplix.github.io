@@ -6,13 +6,15 @@ img: research_summaries_2.jpg
 category: Beslenme
 ---
 
-JRE #992 Podcast'inden çevrildi.
+JRE #992 Podcast'inden bir bölüm dikkatimi çekti. Kan testi konusuna yaptığı vurguya özellikle değinmek istiyorum.
+
+* Ülkemizde devlet ve özel hastanelerde bu testlerin hangilerine ulaşmak mümkün?
 
 #### What The Health Hakkında 
 
-"what the health" belgeseli konusunda doktorların cevabına bakıyorum. Belgeselin vegan propagandası olduğu ve bilimsel temelli olmadığını duydum. Yağın diabete neden olduğunu söylüyorlar.  Yağın damarları tıkandığını söylüyorlar. Bir çok kişi buna baktı. Bunun yanlış olduğunu gösterdi. Bu bir sahtebilim ve gerçek değil. 
+"what the health" belgeseli konusunda doktorların cevabına bakıyorum. Belgeselin vegan propagandası olduğu ve bilimsel temelli olmadığını duydum. Yağın diabete neden olduğunu söylüyorlar. Yağın damarları tıkandığını söylüyorlar. İnternet üzerinde bir çok kişi bunu incelediğinde yanlış olduğunu kolayca gösterebiliyor. Bu bir sahtebilim ve gerçek değil. 
 
-Kesinlikle vegan diyet sağlıklı olabilir. Kesinlikle çok sayıda sebze almak size faydalı olabilir. Nutrient-rich besinler almak iyidir. İster taze sebze (fresh vegatables) olsun ya da başka bir şey. Eğer dikkatliysen ve örneğin saturated-fat ve unsaturated fat ilerin konusunda zekiysen sorun yok. Ne biliyim esantial fat acid'ler konusunda bilgiliysen vegan olarak sağlıklı bir yaşam yaşayabilirsin. Sadece doğrusunu yap. Ama bu kişiler yalan söylüyorlar. Rol yapıyorlar. Veganlık dinini tebliğ ediyorlar. Amaç insanları vegan yapmak bunu da onları korkutarak yapmak. Yalanlarla. Yağın diabete neden olduğunu söylüyorlar. Yağın tıkandığını söylüyorlar. Bu doğru değil.
+Kesinlikle vegan diyet sağlıklı olabilir. Kesinlikle çok sayıda sebze almak size faydalı olabilir. Nutrient-rich besinler almak iyidir. İster taze sebze (fresh vegatables) olsun ya da başka bir şey. Eğer dikkatliysen ve örneğin doymuş yağlar (saturated-fat) ve doymamış yağlar (unsaturated-fat) konusunda bilgiliysen sorun yok. Ne biliyim esantial fat acid'ler konusunda bilgiliysen vegan olarak sağlıklı bir yaşam yaşayabilirsin. Sadece doğrusunu yap. Ama bu kişiler yalan söylüyorlar. Rol yapıyorlar. Veganlık dinini tebliğ ediyorlar. Amaç insanları vegan yapmak bunu da onları yalanlarla korkutarak yapmak. Bu yaptıkları çok yanlış. Yağın diabete neden olduğunu söylüyorlar. Yağın tıkandığını söylüyorlar. Bu doğru değil.
 
 Bu belgeseli yapan kişiler Cowspracy'i yapan kişiler. Bunda da yanılıyorlar. 
 Bugün hayvan tarımının pek çok negatif yönü var. Bu negatif yönler konusunda dürüst olmalıyız. Eleştirirken bile böyle yapmalıyız. Davayı daha iyi göstermek için abartamazsın. Mevcut gerçekler yeterince rahatsız edici zaten. Özellikle factory farming de konu ineklere vs. geldiğinde. Onları bu şekilde görmek rahatsız edici. Ama sağlık hakkında yalan söylediğiniz zaman sınırı kaçırıyorsunuz. Bir doktor "what the health" hakkında yanlış olan şeyleri teker teker söylediğinde görüyorsunuz. Belki iyi bir şey yapmaya çalışıyorlar. Amaçları iyi olabilir bazı konularda örneğin insanları işlenmiş gıdalardan uzak tutmaya çalışıyorlar ki bu çok iyi bir fikir. 
@@ -21,10 +23,9 @@ Bugün hayvan tarımının pek çok negatif yönü var. Bu negatif yönler konus
 
 #### Peki sağlığını nasıl iyileştirirsin?
 
-İşlenmiş gıda'nın son derece sağlıksız olduğunu söyledik. Biliyorsun diary'den kaçınmak yönünde çok sayıda argüman var. Bence bu kişiden kişiye değişiyor. İşlenmiş şekerden kaçınmak yönünde bir argüman var. Tabi ki kaçınmak gerekiyor. Vegan takımında olmakta sorun yok. Ama gerçekleri de görmek lazım.
+İşlenmiş gıda'nın son derece sağlıksız olduğunu söyledik. Biliyorsun diary'den kaçınmak yönünde çok sayıda argüman var. Bence bu kişiden kişiye değişiyor. İşlenmiş şekerden kaçınmak yönünde bir argüman var. Tabi ki kaçınmak gerekiyor. Vegan olmakta sorun yok. Ama gerçekleri de görmek lazım.
 
-Yüksek kan basıncı mesela (High blood pressure). Bu gerçekten sodium ile mi ilgili? Bunun bir sebebi sedanter yaşam tarzı (sedentary lifestyle) ve genetik. 
-Egzersiz yapmalısın. Yine ölçümle belirginleştirmekte fayda var. Ama tuz bir mineraldir. Tek başına suçlu değil. Himalaya tuzu mesela sabah limonla beraber suyunuza ekleyin. 
+Yüksek kan basıncı mesela (High blood pressure) konusunda pek çoğu bu durumun gerçekten sodium ile mi ilgili? Bunun bir sebebi sedanter yaşam tarzı (sedentary lifestyle) ve genetik. Egzersiz yapmalısın. Yine ölçümle belirginleştirmekte fayda var. Ama tuz bir mineraldir. Tek başına suçlu değil. Himalaya tuzu mesela sabah limonla beraber suyunuza ekleyin. 
 
 Kan ölçümü yapılırken. Kan basıncıdan mı bahsediyorsun. Kan basıncının yüksek olup olmadığını kontrol ettireceksin tabi ki ama. Nutritional levels kontrolü yapılması lazım. Vitamin B, Vitamin D, B12, Niasin  alman lazım gibi bir sonuç çıkması lazım.
 
