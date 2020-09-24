@@ -26,3 +26,6 @@ author: dotplix
 
 * It's completely a cultural thing and related to presence. There is a distance to inner. It should be that way.
 * What is the ideal stereotype? Looks well physically. Dressed fine.
+
+
+* Stereotype bir nesneleştirme midir? Nesneleştirmeden alınan bir mutluluk söz konusu mudur? Bu yüzden mi alışveriş yapmak bu kadar bağımlılık yapıyor?
