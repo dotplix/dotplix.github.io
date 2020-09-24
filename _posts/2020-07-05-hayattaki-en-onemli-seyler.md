@@ -8,7 +8,7 @@ tags:
 - Sağlık # add tag
 ---
 
-Gündelik hayatın dalgınlığı içerisinde kimi zaman hayatın temel değerlerini ıskalayabiliyoruz. Bizim için neyin kıymetli olduğunun tanımını yapabilmede ve kimi zaman tekrardan gözden geçirmekte bir fayda görüyorum. Hayattaki önemli şeylerin bir listesini yapma fikri buradan doğdu.
+Ben hayatta bütünselliği çok önemsiyorum. Gündelik hayatın dalgınlığı içerisinde kimi zaman hayatın temel değerlerini ıskalayabiliyoruz. Bizim için neyin kıymetli olduğunun tanımını yapabilmede ve kimi zaman tekrardan gözden geçirmekte bir fayda görüyorum. Hayattaki önemli şeylerin bir listesini yapma fikri buradan doğdu.
 
 <div class="row" style="margin-bottom: 2.5rem; margin-top: 2.5rem;">
    <div class="ten columns"><img class="u-max-full-width" src="https://tozbulut.github.io/images/window.jfif" alt="Trees"></div>
@@ -25,7 +25,7 @@ Dışarıdan alınacak doğrular kulağa ilk başta kulağa pek eğlenceli gelme
 
 Eğer gerçekten kopuk bir biçimde bir ilüzyona kapılıp önceliklerimizi kaybetmediysek, gerçek şu ki hassas bir denge üzerinde duruyoruz. Önceliklerimizi bir şekilde sınırlandıracak ve gerçekleştirecek iradeye sahip olsak bile bir "trade-off" ile karşılaşabiliriz. Bu değerler karşı karşıya gelebilir. Bir hedefiniz olmadığında dengeyi korumak kolaydır. Ama bir hedefiniz olduğunda ki istediğinizi elde etmek için hedef alanınız daralacak bu dengeyi sağlamak gittikçe zorlanacaksınız.
 
-Bu her ne kadar serbest bir düşünce deneyi olsa da buradan bir pratiğe ve eyleme yönelik başlıklar da çıkarmayı umuyorum. Benzer şekilde hataları belirleyip ortadan kaldırma yolunda bir adım izleyebiliriz.
+Bu her ne kadar serbest bir düşünce deneyi olsa da buradan bir pratiğe ve eyleme yönelik başlıklar da çıkarmayı umuyorum. Benzer şekilde hataları belirleyip ortadan kaldırma yolunda bir adım izleyebiliriz. Her biri için aksiyonlar çıkaracağım.
 
 * Neden değerli?
 * Onsuz bir hayat nasıl olurdu?
@@ -33,7 +33,23 @@ Bu her ne kadar serbest bir düşünce deneyi olsa da buradan bir pratiğe ve ey
 * Korumak için ne yapılır?
 * Diğer önceliklerle nasıl çelişebilir?
 
-## Sağlık
+Bu nedenle hayattaki değerlerimizi bir an önce belirlemek. Iskalamamak için. Brainstorming yaparak aşağıdaki listeyi hazırladım.
+
+1. Sağlık
+2. Kariyer
+3. Aile
+4. Çevre ve Arkadaşlar
+5. Kültür
+6. Bilgelik
+7. Para
+8. İrade
+9. Eğlence : Bir eğlence anlayışın var mı? 
+10. Eğitim : Eğitim seviyeni yükseltmek için neler yapabilirsin?
+11. Hedef : Hayatta hedeflerin net mi yoksa savruluyor musun?
+12. Üretim : Ne üretiyorsun? Gerekli kadar üretiyor musun? Üretimini nasıl daha etkin maddi bir kaynağa dönüştürebilirsin?
+13. Çevresel Koşullar : Oturduğun semt, oturduğun ev.
+
+### Sağlık
 
 * Ne kadar sağlıklıyız?
 * Sağlık hakkında ne kadar düşünüyoruz?
@@ -41,7 +57,7 @@ Bu her ne kadar serbest bir düşünce deneyi olsa da buradan bir pratiğe ve ey
 * Sağlığımıza iyi bakıyor muyuz?
 * Bize bahşedilmiş bir beden. Hazır olarak verilmiş. Fonksiyonelliği ne kadar? Eksik bir yanı var mı? Herkes kusursuz bir bedenle doğmuyor. Bedenin güzellik tarafı da var.
 
-## Kariyer
+### Kariyer
 
 Yapmış olduğumuz iş hayattaki temel amacımız varoluş tanımımız ile yakından ilişkili. Çünkü profesyonel anlamda bir yarar sağlıyorsak bunun bir karşılığı olacaktır. Kendi ayakları üzerinde durabilmek ve bağımsız bir birey olmanın verdiği güç.  Gezegenle teke tek karşılaşabilme.
 
@@ -66,37 +82,37 @@ Ailemiz temelimizdir. Onu gerçekten hak ettikleri sevgi ve dikkatle beslemeliyi
 
 Aile sağlıktan sonra en önemli şey. 
 
-## Çevre ve Arkadaşlar
+### Çevre ve Arkadaşlar
 
 
-## Kültür
+### Kültür
 
 Bu benim için elbette bir şekilde entelektüel birikim anlamına geliyor. 
 Kültür ayrıca iş dıiında zevk alabileceğümiz bir yığın anlamına geliyor. 
 Antenlerimizi açık tuttuğumuz sürece hayatta kendimize sonu olmayan eğlenceli huzurlu bir meşguliyet yaratabiliriz. 
 
-## Zaman
+### Zaman
 
 Zamanı doğru bir biçimde yönetebilmek.
 Kararlar verirken geç kalmamak.
 Zaman farkındalığı.
 Biraz girift bir konu insan tam olarak adapte olduğunda zamanı unutur.
 
-## Bilgelik
+### Bilgelik
 
 Bence bilgelik yaşamın bütünsel sorularına bir bakış açısı geliştirmiş olmak ile ilişkili.
 Kültürle beraber kolkola fakat daha pratik ve sade.
 
-## Para
+### Para
 
 Yatırım vs. Yeni fırsatlar açması bakımımdan. 
 
-## İrade
+### İrade
 
-## Eğlence
+### Eğlence
 
-## Eğitim
+### Eğitim
 
-## Hedef
+### Hedef
 
-## Üretim
+### Üretim
