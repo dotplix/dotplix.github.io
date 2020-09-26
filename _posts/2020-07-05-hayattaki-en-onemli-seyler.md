@@ -37,6 +37,7 @@ Bu nedenle hayattaki değerlerimizi bir an önce belirlemek. Iskalamamak için. 
 Yöntem olarak 4 bölümde bahsetmeye karar verdim. Birinci bölümde sağlık kariyer aile, çevre ve arkadaşları ikinci bölümde kültür bilgelik para ve irade'yi, üçüncü bölümde eğlence eğitim, hedef, üretim ve çevresel koşullar üzerinde duracağım. Örneğin son bölüm için. Bir eğlence anlayışın var mı? Eğitim seviyeni yükseltmek için neler yapabilirsin?  Hayatta hedeflerin net mi yoksa savruluyor musun? Ne üretiyorsun? Gerekli kadar üretiyor musun? Üretimini nasıl daha etkin maddi bir kaynağa dönüştürebilirsin?
 Oturduğun semt, oturduğun evin, gelir seviyenin yaşamına etkisi nedir? 
 
+Para ve dış güzellik. Bu pek çok insanın bakış açısıdır. Hadi sağlığı da ekledik diyelim. bunu yaparken de sağlığı kaybetmemek. Bir görüşe göre formülü buna indirgeyebiliriz. 
 
 
 
@@ -96,7 +97,8 @@ Kültürle beraber kolkola fakat daha pratik ve sade.
 
 ### Para
 
-Yatırım vs. Yeni fırsatlar açması bakımımdan. 
+Yatırım vs. Yeni fırsatlar açması bakımımdan. Bir yerde girişimciliğe doğru evrilmek. Kendi fikirlerini gerçekleştirmek. Çünkü bu düzeni kırman gerekiyor.
+Herkesi yıllık ne kadar yaptığıyla sınıflandırabilrsin. Ama bu sınıflandırmanın etkisinde boğulanların durumu da pek iyi değildir.
 
 ### İrade
 
