@@ -33,21 +33,12 @@ Bu her ne kadar serbest bir düşünce deneyi olsa da buradan bir pratiğe ve ey
 * Korumak için ne yapılır?
 * Diğer önceliklerle nasıl çelişebilir?
 
-Bu nedenle hayattaki değerlerimizi bir an önce belirlemek. Iskalamamak için. Brainstorming yaparak aşağıdaki listeyi hazırladım.
+Bu nedenle hayattaki değerlerimizi bir an önce belirlemek. Iskalamamak için. Aklıma gelenleri sıralayarak aşağıdaki listeyi hazırladım.
+Yöntem olarak 4 bölümde bahsetmeye karar verdim. Birinci bölümde sağlık kariyer aile, çevre ve arkadaşları ikinci bölümde kültür bilgelik para ve irade'yi, üçüncü bölümde eğlence eğitim, hedef, üretim ve çevresel koşullar üzerinde duracağım. Örneğin son bölüm için. Bir eğlence anlayışın var mı? Eğitim seviyeni yükseltmek için neler yapabilirsin?  Hayatta hedeflerin net mi yoksa savruluyor musun? Ne üretiyorsun? Gerekli kadar üretiyor musun? Üretimini nasıl daha etkin maddi bir kaynağa dönüştürebilirsin?
+Oturduğun semt, oturduğun evin, gelir seviyenin yaşamına etkisi nedir? 
 
-1. Sağlık
-2. Kariyer
-3. Aile
-4. Çevre ve Arkadaşlar
-5. Kültür
-6. Bilgelik
-7. Para
-8. İrade
-9. Eğlence : Bir eğlence anlayışın var mı? 
-10. Eğitim : Eğitim seviyeni yükseltmek için neler yapabilirsin?
-11. Hedef : Hayatta hedeflerin net mi yoksa savruluyor musun?
-12. Üretim : Ne üretiyorsun? Gerekli kadar üretiyor musun? Üretimini nasıl daha etkin maddi bir kaynağa dönüştürebilirsin?
-13. Çevresel Koşullar : Oturduğun semt, oturduğun ev.
+
+
 
 ### Sağlık
 
