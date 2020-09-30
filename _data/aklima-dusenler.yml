@@ -1,6 +1,10 @@
+- name: "Hipnotik Bir Anı" 
+  id: "0038"
+  desc: 'Doğa nasık da tuhaflıklarla dolu. Bunu bir köpeği izlerken bile müthiş bir deneyim yaşayabilirsiniz. Köpek yeri eşeler. Siz köpeği izlersiniz. Bir süre sonra eşelediği yerden bir şey çıkar. Bir şey bulmuştur. Siz onun orada olmasının algınız dışında olmasının ürütücü garipliğini hissedersiniz. Köpek senin farkedemediğin bir şeyi fark etmiştir. Algının dışındaki şey nasıl da anlamsız görünüyor. Köpeğin yeri eşeleyişine anlam atfetmedin. Ama bir şey buldu. Rastgele eşeliyor oynuyor sandın. Ama o bir şey çıkartır. Beklemediğiniz ölçüde şaşırtır.'
+
 - name: ""
   id: "0037"
-  desc: "Ne yaparsın da olursun şu günün kahramanı? Yarım günün? Belki de şu 3 saatin?"
+  desc: "İhtimal dahilinde midir olmak şu günün muzafferi. Yarım günün? Belki de şu 3 saatin?"
 
 - name: ""
   id: "0036"
@@ -12,7 +16,7 @@
 
 - name: ""
   id: "0034"
-  desc: "Birinin bir diğerinin içsel bunalımını sallamaması biraz komik. Tam da hayatın özünde olan bu... "
+  desc: "Birinin bir diğerinin içsel bunalımını sallamaması biraz komik. Tam da hayatın özünde olan bu... Hayatın espri anlayışı."
 
 - name: "Esas Kaybeden"
   id: "0033"
