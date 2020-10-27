@@ -6,7 +6,6 @@ $(document).ready(function() {
       $body = $('body'),
       $window = $(window),
       $popoverLink = $('[data-popover]'),
-      navOffsetTop = $nav.offset().top,
       $document = $(document),
       entityMap = {
         "&": "&amp;",
