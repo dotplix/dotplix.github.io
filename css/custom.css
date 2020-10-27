@@ -5,6 +5,11 @@
     border-right: 1px solid #fdfdfd;
 }
 
+.menu-item a {
+    color: #eee;
+    text-decoration: none;
+}
+
 .menu-category {
     text-align: center;
 }
