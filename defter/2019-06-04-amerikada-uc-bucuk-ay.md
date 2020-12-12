@@ -12,7 +12,6 @@ tags: [Gezi]
 2015 yazında katıldığım Work And Travel öğrenci değişim programıyla 3.5 ay süreyle Amerika’da Los Angeles’da bir eğlence parkında ride operator olarak çalıştım. Yabancı bir kültürü anlayıp öğrenmenin, pratikte onlar gibi yaşamanın ve iş disiplinini gözlemlemenin bana çok faydası oldu. Gözüm açıldı diyebilirim. Daha önceden boşa harcadığım onca zamana üzüldüm. Bu yazının büyük bir kısmını oradayken aldığım notlardan oluşturdum. 
 
 > Life begins at the end of your comfort zone.
-> Neale Donald Walsch
 
 Programın fazla bir maddi bir getirisi olmadı. Work & Travel yapan öğrenciler daha çok Amerika'nın daha ucuz eyaletlerine gidiyorlar. Alaska'da 3.5 ay bir kampta yaşayıp balık temizleyenler bile vardı. Benim katıldığım dönemde Alaska iptal olmuştu. Ucuz eyaletlere giden öğrenciler döndüklerinde araç satın alabiliyorlardı. Benim için böyle bir durum söz konusu değildi. Programın da isteyeceği üzere kazandığım parayı neredeyse tamamen harcadım.
 
@@ -99,30 +98,30 @@ Hızlı karar vermek
 ## Çalışırken Yaşadığım Garip Durumlar
 
 * Dönme dolaptan inerken elimi elimi sıkmayan kız. Are we supposed to?
-* Hİppiler pasific wheel'e işeyen
-* Basket Görüntüsü
-* Asılanlar, Parkta, Saatçi kız
-* Herkesin Herkesle Konuşması,
-* Partiler başta takıldığımız çinli grup. Şampuan ve ddd
+* Hippiler pasific wheel'e tuvaletini yapmıştı.
+* Basket Görüntüsü bize parkta sunulmuştu. Dikkatli olmamız öğütlenmişti.
+* Asılanlar, parkta çalışırken bu başıma gelmişti. Saatçi kız
+* Herkesin Herkesle Konuşması olumlu bir durumdu.
+* Partiler başta takıldığımız çinli grup. Şampuan ve sanatçı kız.
 * Daha sonra gelen rus kız
 * Tabi ki Adamımız Jew
-* Otobüste konuştuğum amca
-* Amerika'da Polisin Allah Olması
-* Evsizler
-* Venice Beach , Twlight Concerts
-* UCLA ve parti ortamı. Extension'lar. Bir keresinde Koç Üniversitesi'nden öğrencilerle karşılaşmamız. Bir keresinde Türkçe okuyan bir yabancı ile karşılaşmamız.
+* Otobüste konuştuğum amca nasa şapkası satıyordu. Bu nasa kıyafetleri sonradan moda haline geldi ama o zaman pek yoktu.
+* Amerika'da Polisin Allah Olması. Oda arkadaşım böyle tanımlıyordu.
+* Evsizler.
+* Venice Beach , Tiwgilight Concerts
+* UCLA ve ortamı. Extension'lar. Bir keresinde Koç Üniversitesi'nden öğrencilerle karşılaşmamız. Bir keresinde Türkçe okuyan bir yabancı ile karşılaşmamız.
 * Çinli Arkadaşlarımızla Yaptığımız Garip Parti, Partiye katılan latin çift ve siyahi. Siyahi arkadaşın çinli arkadaşlardan birine yürümesi.
 * Artık programın gediklisi olmuş italyan ve california id.
-* Ot Kullanımı, Eşcinsel Evliliğin serbest olması.
+* Ot Kullanımı, Evliliğin serbest olması.
 * Yaşadığımız yerin. Pasadena'ya yakın olması. Mullholand Drive'ın yakın olması.
 * Bir keresinde kirayı azıcık geciktirmemiz ve hemen fee ödememiz.
-* Mr. Amsterdam. 
-* Grayhound Bus
-* Raphs
+* Mr. Amsterdam. Bu giderken yolda yaşadığım bir durumdu. 
+* Grayhound Bus. İkonik Las Vegas'da vardı.
+* Ralphs devamlı alışverişimizi yaptığımız.
 * In-N-Out Burger
 * Wells Fargo
-* Amtrak Tren
-* Holywood Tepesi
+* Amtrak Tren San Diego'ya giderken bunlardan birine binmiştik.
+* Holywood Tepesi burada fotograf çekinmiştik.
 * Griffith Observatory
 * Getty Museum
 * LA Downtown
