@@ -75,7 +75,6 @@ Suzanne Treister, resim ve videolarının yanı sıra internet temelli ve işbir
    <div class="two column"></div>
 </div>
 
-
 Bianel Tanıtımından:
 > Çin’in mezara gömülü terakota askerlerinin zamanından günümüze kadar yöneticiler kitleleri hep kullanageldi ama bu kitlelerin iktidarı kinetik değil, göstergesel güçlerinden geliyordu. Johannes Büttner’in Hannah Black’ten alıntıyla adlandırdığı çalışması, şiddet temsillerini ele alıyor. Yerleştirme, farklı topraklardan yoğurulmuş yedi heykelden oluşuyor; her bir heykelin altında bir makinenin iskeleti var. Heykeller, bilimkurgu savaşçıları, toplum polisi ve tepetaklak çevrilmiş terakota askerlerin bir karışımına benziyor. Kontrolü kaybetmiş veya işi şiddete dökmüş bir algoritmalar ve ağlar dünyasına titreşip sarsılarak tepki veriyor, makine suretinde bir Golem’i serbest bırakıyorlar.
 
