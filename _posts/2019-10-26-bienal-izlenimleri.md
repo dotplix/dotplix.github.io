@@ -30,7 +30,10 @@ Bir diğer dikkat çeken konu Bienalin yerinin değiştirilmiş olması. Tarihi 
 Rehberdeki açıklama şöyle: 
 > Tarihi Haliç Tersaneleri'nde bir senedir süren yoğun çalışmalarmıza rağmen Bienal'in gerçekleştireceği alandaki asbestli malzemelerin halen temizlenenememiş olması nedeniyle mekanı kullanmama kararı aldık. Durumun insan sağlığı ve güvenliğini tehdit edebilecek olması bizi böyle bir kararı almaya mevcut bıraktı. Tam bu noktada Mimar Sinan Üniversitesi Güzel Sanatlar Fakültesi, Mart 2020 de üniversite bünyesinde İstanbul Resim ve Heykel Müzesi olarak kapılarını açacak beş numaralı Antrepo’nun, 2005 ve 2011 yıllarında olduğu gibi bienale ev sahipliği yapmasını kabul etti.
 
-<img src="https://tozbulut.github.io/images/msgsu-5nolu-antrepo.jpg" alt="5 numaralı Antrepo" width="600"/>
+<div class="row" style="margin-bottom: 2.5rem; margin-top: 2.5rem;">
+   <div class="ten columns"><img class="u-max-full-width" src="https://tozbulut.github.io/images/msgsu-5nolu-antrepo.jpg" alt="5 numaralı Antrepo"/>
+   <div class="two column"></div>
+</div>
 
 Modern sanatın provoke edici bir tarafı var. Sanatçının bizi biz yapan şeylerle bir sevgi nefret ilişkisi içerisinde olduğunu görmek mümkün.
 Sanatçı modern dünyanın getirdiği üretim, tüketim, teknoloji, iktidar gibi hayati fikirlerin tam göbeğinde fakat aynı zamanda onlarla bir savaş halinde.
@@ -49,7 +52,10 @@ Bunlar üzerinden bir temel inşa etmenin inanılmaz derecede pratik olduğunu d
 
 ### Suzanne Treister - Bahçıvan HFT
 
-<img class="u-max-full-width" src="https://tozbulut.github.io/images/HFT_HFT-Diagram3.jpg" alt="Suzanne Treister - Bahçıvan HFT" width="600"/>
+<div class="row" style="margin-bottom: 2.5rem; margin-top: 2.5rem;">
+   <div class="ten columns"><img class="u-max-full-width" src="https://tozbulut.github.io/images/HFT_HFT-Diagram3.jpg" alt="Suzanne Treister - Bahçıvan HFT" />
+   <div class="two column"></div>
+</div>
 
 Her bir bitki kartına gösterilen müthiş detay ilgi.
 İnsan konsantrasyonunun bu şekilde kullanılması.
@@ -64,24 +70,31 @@ Suzanne Treister, resim ve videolarının yanı sıra internet temelli ve işbir
 
 ### Johannes Büttner - Başka bir yaşam olasılığı kendisini yanan bir polis arabasında doğrudan, arkadaşlarımın yüzlerinde ise dolaylı olarak ifade eder, 2019
 
+<div class="row" style="margin-bottom: 2.5rem; margin-top: 2.5rem;">
+   <div class="ten columns"><img class="u-max-full-width" src="https://tozbulut.github.io/images/buttner.jpg" alt="Johannes Büttner"/>
+   <div class="two column"></div>
+</div>
 
-<img class="u-max-full-width" src="https://tozbulut.github.io/images/buttner.jpg" alt="Johannes Büttner" width="600"/>
 
 Bianel Tanıtımından:
 > Çin’in mezara gömülü terakota askerlerinin zamanından günümüze kadar yöneticiler kitleleri hep kullanageldi ama bu kitlelerin iktidarı kinetik değil, göstergesel güçlerinden geliyordu. Johannes Büttner’in Hannah Black’ten alıntıyla adlandırdığı çalışması, şiddet temsillerini ele alıyor. Yerleştirme, farklı topraklardan yoğurulmuş yedi heykelden oluşuyor; her bir heykelin altında bir makinenin iskeleti var. Heykeller, bilimkurgu savaşçıları, toplum polisi ve tepetaklak çevrilmiş terakota askerlerin bir karışımına benziyor. Kontrolü kaybetmiş veya işi şiddete dökmüş bir algoritmalar ve ağlar dünyasına titreşip sarsılarak tepki veriyor, makine suretinde bir Golem’i serbest bırakıyorlar.
 
 ### Mika Rottenberg - Spagetti Blok Zinciri
 
-
-<img class="u-max-full-width" src="https://tozbulut.github.io/images/spagetti.jpg" alt="Spagetti Blok Zinciri" width="600"/>
+<div class="row" style="margin-bottom: 2.5rem; margin-top: 2.5rem;">
+   <div class="ten columns"><img class="u-max-full-width" src="https://tozbulut.github.io/images/spagetti.jpg" alt="Spagetti Blok Zinciri"/>
+   <div class="two column"></div>
+</div>
 
 Bianel Tanıtımından:
 > Mika Rottenberg’in yapıtları, insan ilişkilerinin ve emeğinin parasallaştırılmasının ve sermayeleştirilmesinin etkilerini inceliyor. Absürt mizahı maddi ayrıntılara gösterilen özenle birleştiren yapıtlarının işlediği konular, kadınların deneyimleri ve emek pratiklerinden kapitalist montaj zincirlerine, paketleme ve sunum bantlarına kadar geniş bir yelpazeye yayılıyor. Rottenberg’in malzemeleri ve maddeyi, emeği, dokuyu, dokunsallığı ve teknolojiyi inceleyen Spagetti Blok Zinciri adlı çalışması nesnelere ve maddeselliğe dair deneyimimizle bağlantılı mit oluşturma ve gizleme süreçleri ile vadesi dolmuş gelenekler ve dünya görüşleriyle üst üste bindirilmiş güncel deneyimlerimizi öne çıkarıyor. 
 
 ### Ursula Mayer - Atom Ruhu
 *2016, 16 mm on HD, 20 min*
-
-<img class="u-max-full-width" src="https://tozbulut.github.io/images/atom-spirith.jpg" alt="Atom Spirith" width="600"/>
+<div class="row" style="margin-bottom: 2.5rem; margin-top: 2.5rem;">
+   <div class="ten columns"><img class="u-max-full-width" src="https://tozbulut.github.io/images/atom-spirith.jpg" alt="Atom Spirith" />
+   <div class="two column"></div>
+</div>
 
 Bianel Tanıtımından:
 > Atom Ruhu, biyomedikal yeniliklerin arttığı yakın bir gelecekte geçen spekülatif bir anlatı. Trinidad ve Tobago’da geçen ve bu iki adadaki LGBT topluluğuyla çekilen film, kriyojenik olarak dondurulmuş bir Nuh’un Gemisi oluşturmak için tüm yaşam biçimlerinden DNA örneklerini inceleyen ve toplayan bir grup evrim genetikçisinin çalışmasını ele alıyor. Soyu tükenmiş medeniyetlerden arta kalan titreşimlerin hâlâ hissedildiği tekno-bilimsel bir sibernetik gelecek sunan video, bilim ve mitolojiyi harmanlayarak, hesaplama ve biyoloji teknolojilerinin insanlığın ve çevrenin gelecekteki tekrarları üzerindeki etkilerine odaklanıyor.
@@ -95,8 +108,11 @@ Filmi İzlemek İçin:
 ### Korakrit Arunanondchai - tarihle birlikte tuhaf isimli insanlarla dolu bir odada 4 
 *With history in a room filled with people with funny names 4, HD Video: 23’28”*
 
-<img class="u-max-full-width" src="https://tozbulut.github.io/images/KorakritArunanondchai.png" alt="Korakrit Arunanondchai" width="600"/>
-
+<div class="row" style="margin-bottom: 2.5rem; margin-top: 2.5rem;">
+   <div class="ten columns"><img class="u-max-full-width" src="https://tozbulut.github.io/images/KorakritArunanondchai.png" alt="Korakrit Arunanondchai"/>
+   <div class="two column"></div>
+</div>
+   
 Bianel Tanıtımından:
 > Korakrit Arunanondchai çalışmalarında, endüstriyel süreçler, aile tarihçeleri ve çağdaş spiritüalizm veya animizm gibi fenomenleri Tayland ile Batı arasındaki kültürel alışverişler çerçevesinde sorguluyor. Arunanondchai’ın bir seri resminin yanı sıra sunduğu tarihle birlikte tuhaf isimli insanlarla dolu bir odada 4 adlı yapıtı, iki tarihsel olayı ilişkiye sokuyor: Donald Trump’ın yükselişi ve Tayland kralının ölümü. Filmde protesto ve yas etkinliklerini, sanatçının Chantri adında bir droneun ruhu ile mektuplaşmalarını, erken yaşta bunayarak hafızasını ve maddi dünyayla ilişkisini yitiren büyükannesini izliyoruz.
 
