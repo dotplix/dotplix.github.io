@@ -1,18 +1,12 @@
-## Notlar
+# Notlar
 
 https://mckeogh.tech/
 
------------
-
 Vitamin D - 5000 
-
------------
 
 Kendini yanlış düşüncelerdeyken yakalamak bir tür self correcting mechanism.
 
 Bende bu focuslanma zayıf tepkisellik olarak kendini gösteriyor. Anlık bazı durumlarda irade zayıflığı var. Dikkat dağınıklığı oluyor. 
-
------------
 
 * hedef
 * kapsam
@@ -20,8 +14,6 @@ Bende bu focuslanma zayıf tepkisellik olarak kendini gösteriyor. Anlık bazı 
 * irade
 
 Gelir adaletsizliği Fırsat Eşitliği
-
------------
 
 Tüm bu karmaşıklığa rağmen doğrunun bir noktada bilinebilir olduğunu düşünüyorum. Hedeflerim net olduğu zaman zayıflığın kangren olmuş çözülemez bir göstergesi olarak gözlerimi ve kulaklarımı tıkamadıysam ışık içeri girecektir.
 
@@ -32,8 +24,6 @@ Hayattan ne istediğimi kendime sormakla başladım. Tıpkı birçoğumuz için 
 Kişiliğimin her unsuru ile savaşmıyorum. Unutmamak lazım ki bazı unsurlar özelliktir. Bunları değiştirmeye çalışmak olumsuz sonuçlar doğurabilir. Otantik bir kişilik ortaya çıkarmayacaksam bu manada çabam anlamsızlaşır. Bu şekilde donuklaşmaktan kaçınmalı. Burada nelerin ilginç olduğuna odaklanmalı, ilginç olandan yana olmalı.
 
 Yazarken zamanı durdurabiliriz ama bir konuda naif olmayalım. Her şey zamana tabi. Bu nedenle hız çok önemli. Kaç yaşındayız? Planlarımı gerçekleştirmek için yeterli zamanım var mı? Gerçekçi bir stratejim var mı? Bu uğurda enerjimi yeterince verimli kullanıyor muyum?
-
-------------
 
 Nasıl bir şema izlemeli? Ne istiyorum.
 
@@ -50,26 +40,15 @@ Gerçek sanat ile laf kalabalığı arasında fark var. Gerçek sanat çok az. L
 
 Tıpkı Sartre gibi yine sosyal olarak Adorno'nun tespitleri ilginç. Yaşadığımız düzeni Sosyolojide Frankfurt okulunun temsilcisi.
 
-
----------------------
-
 Modernite geri alınabilecek bir şey değil. Diyelim ki 1800'lerin sonunda bir kere ulaşmışız. Bugün yalnızca göktelenleri camdan yapıyoruz. Arabaları elektrikli yapıyoruz ama major bir kırılma yok.
 İnternet dediğiniz nedir? Telgraftan ne farkı vardır? Biraz indirgemeci yaklaşırsak görüyoruz ki işin çoğu bir fantazi. Video transferi, resim transferi yapabiliyorsun evet. Cep telefonunda app kullanıyorsun. Ama bunlar modernite geldiğindeki kırılma ile boy ölçüşemez.
 
----------------------
-
 Yaşam deneyimi kısır
-
----------------------
-
 
 The Forbidden Room
 Hard to be a God
 
 Stalker
-
----------------------
-
 
 Nietzche'nin ilgilendiği temel sorular. What is to meaning to be alive? Is there anything makes us make less alive?
 
@@ -79,11 +58,9 @@ Emerson
 
 Hiked - 
 
-
 He had early feminist friends and jewish women.
 
 Purposive without purpose - Kant
-
 
 Our lives filled with purposes.
 
@@ -100,53 +77,47 @@ Aesthetic Ideal,
 
 Hyperboreans : Nietzche en hasta halinde bile kendini bu mitolojik insanlarla bir görüyordu.
 
-
 Mad possibilities of life.  	
-
----------
-
 
 Kitap Okumak İle İlgili Bilmemiz Gerekenler
 Modern Dünyanın 20 Tuzağı
-	* Gününü Gün Et
-	* Satın Alma Alışkanlıkları
-	* Düzenin Basamaklarında Hızla Yükselmeye Çalışmak
-	* Genç Kalmaya Çalışmak
-	* Bitmeyen Ergenlik
-	* İşsizlik
-	* Derinleşememe
-	* Sağlıksız Beslenme
-	* Zamanını Doğru Yönetememek
-	* Kökene Göre Farklılaşma
-	* İnanca Bağlı Farklılaşma
-	* Aşırı Politikleşmek
-	* Sisteme Güvenmemek
-	* Entelektüelizm : Toksik gerçekçilik.
-	* Cinselliğin Yanlış Yönlendirilmesi
-	* Ekonomik Sınıfını Kompleks Haline Getirmek
-	* Maddi Durumunu Kompleks Haline Getirmek
-	* Karşı Cinse Karşı Yanlış Anlayışlar
+
+* Gününü Gün Et
+* Satın Alma Alışkanlıkları
+* Düzenin Basamaklarında Hızla Yükselmeye Çalışmak
+* Genç Kalmaya Çalışmak
+* Bitmeyen Ergenlik
+* İşsizlik
+* Derinleşememe
+* Sağlıksız Beslenme
+* Zamanını Doğru Yönetememek
+* Kökene Göre Farklılaşma
+* İnanca Bağlı Farklılaşma
+* Aşırı Politikleşmek
+* Sisteme Güvenmemek
+* Entelektüelizm : Toksik gerçekçilik.
+* Cinselliğin Yanlış Yönlendirilmesi
+* Ekonomik Sınıfını Kompleks Haline Getirmek
+* Maddi Durumunu Kompleks Haline Getirmek
+* Karşı Cinse Karşı Yanlış Anlayışlar
 	
 Being Cheap Or Overconsumption
 Para ile ilişkimiz. Being cheap restircts you from some activities. 
 Dışarıya gösterilen ile içerdekinin Farklı Olma Zorunluluğu var mıdır?
 	
-	* Healty food
-	* Egzersize
-	* Clothing
-	* Significant Other
-	* Family
-	* Friendship
-	* Sexual Intimacy
-	
-	
+* Healty food
+* Egzersize
+* Clothing
+* Significant Other
+* Family
+* Friendship
+* Sexual Intimacy
+		
 Food, Shelter
 
 Faydalı Bulduğum 15 Düşünce Alışkanlığı
-	* Sürekli sayılarla düşünmeliyiz.
+* Sürekli sayılarla düşünmeliyiz.
 	
----------
-
 İlk problem dışarıdan gelecek bir yönlendirmenin motivasyondadır. Yönlendirmenin amacı kısmen sizin yararınızadır.
 Kültürel anlamda dışarıdan gelecek yönlendirmeler esasen dışarının faydasını gözetecek şekilde tanımlanır.
 Aradaki farklılık sizin için çok önemli olabilir.
