@@ -12,8 +12,6 @@ tags: [Sanat, Aksiyon Odaklılık] # add tag
 Covid sırasında işe gitmiyorum. Aşı geldiği zaman bir diyet veya egzersiz programını uygulamak daha zor olabilir. Şuan daha basit.
 Bu nedenle bir diyet ve egzersiz programı yapmaya karar verdim. Bir yandan da burada günlerin kaydını tutacağım.
 
-
-
 ### Günlük
 
 * 14.01.2021 Başlangıç
