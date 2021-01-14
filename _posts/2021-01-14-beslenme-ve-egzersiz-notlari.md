@@ -8,18 +8,34 @@ tags: [nutrition, exercise] # add tag
 ---
 
 2021'in Ocak ayının yarısına geldiğimiz bu dönemde diyet ve egzersiz açısından daha ileri gidebileceğimi düşündüm.
-Covid sırasında işe gitmiyorum. Aşı geldiği zaman bir diyet veya egzersiz programını uygulamak daha zor olabilir. Şuan daha basit.
+Covid sırasında gün içerisinde yaptığım aktiviteler daha kolay kontrol edilebilir oluyor. Bu da kendinde bir değişiklik yapmak için fırsat olarak görüyorum.
 Bu nedenle bir diyet ve egzersiz programı yapmaya karar verdim. Bir yandan da burada günlerin kaydını tutacağım.
 
-### Günlük
+İçindekiler
+* Beslenme ve Egzersiz Günlüğü
+* Beslenme Rehberi
 
-* 14.01.2021 Başlangıç
 
-## Beslenme Notları
+## Beslenme ve Egzersiz Günlüğü
+
+#### Beslenme
+
+14.01.2021 Perşembe günü tavuk ve avokado su soğan baharat içeren bir öğün hazırladım. (900 kl) Bunun yanında 200ml'lik maden suyu (24kl), bir kutu kahve (138kl) ve antep fıstığı (511kl) tükettim. Kutu kahve özellikle hatalı oldu. 19:30 gibi spor salonuna vardım. Ne yazık ki kapanmak üzereydi. Yine de 15-20 dklık zamanı birkaç set yaparak geçirdim. Toplam 1573 kalori yapıyor. İlk gün için gayet iyi.
+
+#### Egzersiz
+
+14.01.2021 günü spor salonunun 20.00'de kapandığı için egzersiz yapma fırsatım olmadı. Yarım saatlik bir yoga egzersizi yapmayı planlıyorum.
+
+#### Muayene
+* Diş
+* Bilek
+
+## Beslenme Rehberi
 
 Kas kaybını engellemek için egzersiz yapmak ve protein oranını yüksek tutmak önemli.
 16/8 aralıklı oruç ile beraber yapacağım. Yalnızca 12:00 - 20:00 arası yiyorum.
 Bolca su içmeye gayret ediyorum.
+Yemeklerin mümkün olduğunca evde hazırlanması.
 
 ### Tüketilecek Yiyecekler:
 
@@ -57,9 +73,5 @@ Aşağıda bu yiyeceklerin bir listesi yer almakta.
 
 Genel olarak Tahıllar, şekerler, baklagiller, pirinç, patates, şeker, meyve suyu ve hatta çoğu meyve gibi karbonhidrat bazlı gıdalardan kaçınmak gerekiyor.
 
-## Egzersiz Notları
-
 * https://www.healthline.com/nutrition/44-healthy-low-carb-foods#total-vs-net
 * https://www.healthline.com/nutrition/ketogenic-diet-101#foods-to-eat
-
-
