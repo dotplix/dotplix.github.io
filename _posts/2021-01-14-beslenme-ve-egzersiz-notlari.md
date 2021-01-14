@@ -1,11 +1,11 @@
 ---
 layout: post
 title: Beslenme ve Egzersiz Notları
-date: 2021-14-01 00:00:00 +0300
+date: 2021-01-14 00:00:00 +0300
 description: Beslenme ve Egzersiz Notları
 img: yedinci-kita.jpg
-category: Letter
-tags: [Sanat, Aksiyon Odaklılık] # add tag
+category: diary
+tags: [nutrition, exercise] # add tag
 ---
 
 2021'in Ocak ayının yarısına geldiğimiz bu dönemde diyet ve egzersiz açısından daha ileri gidebileceğimi düşündüm.
