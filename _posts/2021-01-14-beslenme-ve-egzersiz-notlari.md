@@ -1,11 +1,15 @@
 ---
 layout: post
 title: Yeni Yıl Kararları
-description: Beslenme ve Egzersiz Notları
+description: Yeni Yıl Kararkarı
 img: yedinci-kita.jpg
 category: diary
 tags: [nutrition, exercise] # add tag
 ---
+
+<div class="row" style="margin-bottom: 2.5rem; margin-top: 2.5rem;">
+   <img class="u-max-full-width" src="https://images.unsplash.com/photo-1548136479-a8a16809c609?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=1350&q=80" alt="Fyodor Dostoyevski">
+</div>
 
 2021'in Ocak ayının yarısına geldiğimiz bu dönemde diyet ve egzersiz açısından daha ileri gidebileceğimi düşündüm.
 Covid sırasında gün içerisinde yaptığım aktiviteler daha kolay kontrol edilebilir oluyor. Yeni senenin bu ilk ayını kendimde bir değişiklik yapmak için fırsat olarak görüyorum.
@@ -43,7 +47,7 @@ Dijital içeriklere bağımlılık günümüzde çok karşılaşılan bir sorun.
 
 #### Düzensiz Uyku
 
-Bu da dikkat etmem gereken bir konu.
+Düzenli bir uyku olmadan verimli olmak mümkün değil.
 
 ## Beslenme Rehberi
 
@@ -90,6 +94,19 @@ Aşağıda bu yiyeceklerin bir listesi yer almakta.
 * Şekersiz Diyet Gıdalar: şekersiz şekerler, şuruplar, pudingler, tatlandırıcılar, tatlılar vb.
 
 Genel olarak Tahıllar, şekerler, baklagiller, pirinç, patates, şeker, meyve suyu ve hatta çoğu meyve gibi karbonhidrat bazlı gıdalardan kaçınmak gerekiyor.
+
+### Ağız Temizliği
+
+Aralıklı oruç ve ağır diyetlerde vücut enerji gereksinimini sağlamak için yağları yakar.
+Yağların yanması ketonların ortaya çıkmasına neden olur. Ketonların bir bölümü de nefes yoluyla dışarı atılır. Nefesteki keton kötü bir kokunun çevreye yayılmasına neden olabilir. Bu nedenle ağız temizliğine fazladan bir özen gösterilmelidir. 
+
+Kokuya karşı öneriler
+• İyi bir ağız bakımı ve dilin mutlaka fırçalanması
+• Diş ipi kullanımı
+• Ağzın kurumasına izin vermeyecek kadar günlük su tüketimi
+• Antiseptik gargaraların kullanımı
+• Düzenli diş hekimi kontrolü
+• Aralıklı oruç süresince dişlerin fırçalanması
 
 * https://www.healthline.com/nutrition/44-healthy-low-carb-foods#total-vs-net
 * https://www.healthline.com/nutrition/ketogenic-diet-101#foods-to-eat
