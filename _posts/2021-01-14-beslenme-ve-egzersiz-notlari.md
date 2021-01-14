@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Beslenme ve Egzersiz Notları
-date: 2021-01-14 00:00:00 +0300
 description: Beslenme ve Egzersiz Notları
 img: yedinci-kita.jpg
 category: diary
