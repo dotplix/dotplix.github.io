@@ -29,11 +29,11 @@ Bu nedenle bir diyet ve egzersiz programı yapmaya karar verdim. Bir yandan da b
 
 30 günlük bir programla başlamaya karar verdim. Bir beslenme ve egzersiz günlüğü tutacağım. Öte yandan dikkatimi de mesleki gelişime ve eğitime yönlendirmek istiyorum.
 
-#### Beslenme
+#### Beslenme Günlüğü
 
 14.01.2021 Perşembe günü tavuk ve avokado su soğan baharat içeren bir öğün hazırladım. (900 kl) Bunun yanında 200ml'lik maden suyu (24kl), bir kutu kahve (138kl) ve antep fıstığı (511kl) tükettim. Kutu kahve özellikle hatalı oldu. 19:30 gibi spor salonuna vardım. Ne yazık ki kapanmak üzereydi. Yine de 15-20 dklık zamanı birkaç set yaparak geçirdim. Toplam 1573 kalori yapıyor. İlk gün için gayet iyi.
 
-#### Egzersiz
+#### Egzersiz Günlüğü
 
 14.01.2021 günü spor salonunun 20.00'de kapandığı için egzersiz yapma fırsatım olmadı. Yarım saatlik bir yoga egzersizi yapmayı planlıyorum.
 
@@ -52,18 +52,18 @@ Dijital içeriklere bağımlılık günümüzde çok karşılaşılan bir sorun.
 
 Düzenli bir uyku olmadan verimli olmak mümkün değil.
 
-## Beslenme
+## Beslenme Rehberi
 
-* Aşağıda detaylarını verdiğim ketogenic diyet uyguluyorum. Bu yolla 10-12 kilo kadar vermeyi umuyorum.
+* Aşağıda detaylarını verdiğim ketogenic diyet uyguluyorum. Egzersiz, yoga ve yürüyüşle destekleyerek bu yolla 10-12 kilo kadar vermeyi umuyorum.
 * Kas kaybını engellemek için egzersiz yapmak ve protein oranını yüksek tutuyorum.
-* 16/8 aralıklı oruç yapıyorum. Bu yalnızca 12:00 - 20:00 arası kalori almak anlamına geliyor.
-* Bolca su içmeye gayret et.
+* 16/8 aralıklı oruç programı uyguluyorum. Bu yalnızca 12:00 - 20:00 arası kalori almak anlamına geliyor.
+* Bolca su içmeye gayret ediyorum.
 * Yemeklerimi mümkün olduğunca evde hazırlamaya özen gösteriyorum. Dışarıdan söylemek yerine malzemesini dışarıdan söyleyip kendim yapıyorum.
 * İşlenmiş gıda kesinlikle almıyorum.
 * Gazlı içecek tüketmiyorum.
 * Günlük 10.000 adımı tutturmaya çalışıyorum.
 
-Öğünlerinizin çoğunu aşağıdaki bu yiyeceklere dayandırıyoruz:
+Ketojenik diyette öğünlerinizin çoğunu aşağıdaki bu yiyeceklere dayandırıyorsunuz:
 
 * Et: Kırmızı Et, biftek, jambon, sosis, pastırma, tavuk ve hindi
 * Yağlı Balık: Somon, alabalık, ton balığı ve uskumru
@@ -76,11 +76,12 @@ Düzenli bir uyku olmadan verimli olmak mümkün değil.
 * Düşük Karbonhidratlı Sebzeler: yeşil sebzeler, domates, soğan, biber vb.
 * Çeşniler: Tuz, karabiber, otlar ve baharatlar
 
-Diyetimizi çoğunlukla tek bileşenli gıdalara dayandırıyoruz. (whole food, single-ingredient food)
-Et, balık, yumurta, tereyağı, fındık, sağlıklı yağlar, avokado ve bol miktarda düşük karbonhidratlı sebze gibi yiyeceklere dayandırıyoruz.
+Diyetimizde çoğunlukla tek bileşenli tüketiyoruz. (whole food, single-ingredient food)
+Et, balık, yumurta, tereyağı, fındık, sağlıklı yağlar, avokado ve bol miktarda düşük karbonhidratlı sebze gibi yiyecekler ana kaynağı oluşturuyor.
 
-Ketojenik diyette karbonhidratı yüksek olan yiyeceklerin sınırlandırılması ya da hiç tüketilmemesi gerekiyor.
-Aşağıda bu yiyeceklerin bir listesi yer almakta.
+Ketojenik diyette karbonhidratı yüksek olan yiyeceklerin sınırlandırılması ya da hiç tüketilmemesi gerekiyor. 
+
+Ketjenik diyette bu yiyecekleri sınırlandırıyor ya da hiç tüketmiyorsunuz.
 
 * Şekerli yiyecekler: soda, meyve suyu, tatlılar, kek, dondurma, şekerleme vb.
 * Tahıllar veya nişastalar: buğday bazlı ürünler, pirinç, makarna, tahıl vb.
