@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Beslenme ve Egzersiz Notları
+title: Yeni Yıl Kararları
 description: Beslenme ve Egzersiz Notları
 img: yedinci-kita.jpg
 category: diary
@@ -8,13 +8,17 @@ tags: [nutrition, exercise] # add tag
 ---
 
 2021'in Ocak ayının yarısına geldiğimiz bu dönemde diyet ve egzersiz açısından daha ileri gidebileceğimi düşündüm.
-Covid sırasında gün içerisinde yaptığım aktiviteler daha kolay kontrol edilebilir oluyor. Bu da kendinde bir değişiklik yapmak için fırsat olarak görüyorum.
+Covid sırasında gün içerisinde yaptığım aktiviteler daha kolay kontrol edilebilir oluyor. Yeni senenin bu ilk ayını kendimde bir değişiklik yapmak için fırsat olarak görüyorum.
 Bu nedenle bir diyet ve egzersiz programı yapmaya karar verdim. Bir yandan da burada günlerin kaydını tutacağım.
+
+2021 başladığında ben de bu yılın hedeflerimin geçekleştiği bir yıl olmasını arzu ettim. Kendimce güçlü ve zayıf yönlerimi analiz etmeye giriştim. Motivasyonum yüksek. Çevremdeki dünyanın işleyişi hakkında tutarlıyım. Yaratıcı kabiliyetim yüksek. Öte yandan dikkatim çok dağınık. Kimi zaman da çekingen davranabiliyorum. Bazen de tembellik edebiliyorum.
+
+30 günlük bir programla başlamaya karar verdim. Bir beslenme ve egzersiz günlüğü tutacağım. Öte yandan dikkatimi de mesleki gelişime ve eğitime yönlendirmek istiyorum.
 
 İçindekiler
 * Beslenme ve Egzersiz Günlüğü
 * Beslenme Rehberi
-
+* İlham veren Düşünceler
 
 ## Beslenme ve Egzersiz Günlüğü
 
@@ -27,15 +31,29 @@ Bu nedenle bir diyet ve egzersiz programı yapmaya karar verdim. Bir yandan da b
 14.01.2021 günü spor salonunun 20.00'de kapandığı için egzersiz yapma fırsatım olmadı. Yarım saatlik bir yoga egzersizi yapmayı planlıyorum.
 
 #### Muayene
+
+Konu sağlık olduğunda profesyonel bir yardım almak her zaman iyidir. 
+
 * Diş
 * Bilek
 
+#### Dijital Arınma
+
+Dijital içeriklere bağımlılık günümüzde çok karşılaşılan bir sorun. Özellikle izlediğin içeriğe dikkat etmek gerekiyor. Arada farklı birşeyler izlemek güzel olsa da zaman kaybına sebebiyet veriyor. Dikkat dağıtıyor.
+
+#### Düzensiz Uyku
+
+Bu da dikkat etmem gereken bir konu.
+
 ## Beslenme Rehberi
 
-Kas kaybını engellemek için egzersiz yapmak ve protein oranını yüksek tutmak önemli.
-16/8 aralıklı oruç ile beraber yapacağım. Yalnızca 12:00 - 20:00 arası yiyorum.
-Bolca su içmeye gayret ediyorum.
-Yemeklerin mümkün olduğunca evde hazırlanması.
+* Kas kaybını engellemek için egzersiz yapmak ve protein oranını yüksek tut.
+* 16/8 aralıklı oruç yap. Yalnızca 12:00 - 20:00 arası kalori al.
+* Bolca su içmeye gayret et.
+* Yemeklerin mümkün olduğunca evde hazırla.
+* İşlenmiş gıda tüketme.
+* Gazlı içecek tüketme.
+* Günlük 10.000 adımı muhakkak tuttur.
 
 ### Tüketilecek Yiyecekler:
 
