@@ -7,13 +7,13 @@ category: diary
 tags: [nutrition, exercise] # add tag
 ---
 
-<div class="row" style="margin-bottom: 2.5rem; margin-top: 2.5rem;">
-   <img class="u-max-full-width" src="https://images.unsplash.com/photo-1548136479-a8a16809c609?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=1350&q=80" alt="Fyodor Dostoyevski">
-</div>
-
 2021'in Ocak ayının yarısına geldiğimiz bu dönemde diyet ve egzersiz açısından daha ileri gidebileceğimi düşündüm.
 Covid sırasında gün içerisinde yaptığım aktiviteler daha kolay kontrol edilebilir oluyor. Yeni senenin bu ilk ayını kendimde bir değişiklik yapmak için fırsat olarak görüyorum.
 Bu nedenle bir diyet ve egzersiz programı yapmaya karar verdim. Bir yandan da burada günlerin kaydını tutacağım.
+
+<div class="row" style="margin-bottom: 2.5rem; margin-top: 2.5rem;">
+   <img class="u-max-full-width" src="https://images.unsplash.com/photo-1548136479-a8a16809c609?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=1350&q=80" alt="Fyodor Dostoyevski">
+</div>
 
 2021 başladığında ben de bu yılın hedeflerimin geçekleştiği bir yıl olmasını arzu ettim. Kendimce güçlü ve zayıf yönlerimi analiz etmeye giriştim. Motivasyonum yüksek. Çevremdeki dünyanın işleyişi hakkında tutarlıyım. Yaratıcı kabiliyetim yüksek. Öte yandan dikkatim çok dağınık. Kimi zaman da çekingen davranabiliyorum. Bazen de tembellik edebiliyorum.
 
