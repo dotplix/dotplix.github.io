@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Yeni Yıl Kararları
-description: Yeni Yıl Kararkarı
+title: "2020'nin Ardından"
+description: Bu yazıda geçen yılın benim için ne ifade ettiğini ve yeni yıl için planlarımı paylaştım.
 img: yedinci-kita.jpg
 category: diary
 tags: [nutrition, exercise] # add tag
 ---
 
-2020 için kolay bir yıl demek zor. Bu yazının kaleme alındığı 14 Ocak gününden yaklaşık 10 ay kadar önce covid-19 salgını dünyayı daha önce eşi benzeri görülmemiş bir biçimde değiştirdi.
+2020 için kolay bir yıl demek zor. Bu yazının kaleme alındığı 14 Ocak gününden yaklaşık 10 ay kadar önce covid-19 salgını dünyayı daha önce eşi benzeri görülmemiş bir biçimde değiştirdi.Bu yazıda geçen yılın benim için ne ifade ettiğini ve yeni yıl için planlarımı paylaştım.
 
 Artık evden çalışıyoruz. Şubat ayında yeni işime henüz başlamıştım. Mart ayının ortasında eve dönüşler başladı. Evden çalışmak adaptasyonum açısından zorlukları beraberinde getirdi. Yoğun bir yıldı. Ortalama olarak haftada bir ofise gittim, toplantılara katıldım, projeleri ilerlettim. Bu yeni ortamda çok şey öğrendim. Bilişim bu dönemde değerini yine ispatladı. Bu zor durumda kendimi şanslı sayıyorum. 
 
