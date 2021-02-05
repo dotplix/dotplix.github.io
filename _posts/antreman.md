@@ -27,9 +27,9 @@
 
 * Haftada 3-5 gün arası egzersiz yapılması uygun. Asla kendinizi fazla zorlamayın. Bir çok insan egzersiz yaparken kendine zarar veriyor. Ayrıca vücudun yıpranmasına da sebep olmak istemeyiz.
 
-* Hafif egzersiz yapan (Haftada 1-3 gün)
-* Orta şiddette egzersiz yapan (Haftada 3-5 gün)
-* Ağır egzersiz yapan (Haftada 5-6 gün)
+  * Hafif egzersiz yapan (Haftada 1-3 gün)
+  * Orta şiddette egzersiz yapan (Haftada 3-5 gün)
+  * Ağır egzersiz yapan (Haftada 5-6 gün)
 
 ### Kendi Egzersiz Planım
 
