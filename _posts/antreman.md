@@ -2,15 +2,14 @@
 
 
 * Kas grupları genellikle göğüs, sırt, omuz, kol, karın, kalça, bacak, baldır olmak üzere sekiz alanda inceleniyor.  
-
-* GOGUS(CHEST/PECS :Upper, Middle, Lower)
-* SIRT(BACK :Traps, Lats, Middle-back, Lower-back
-* OMUZ(SHOULDERS/DELTS :Front, Middle, Rear)
-* KOLLAR(ARMS :Biceps, Triceps)
-* KARIN(ABS :Upper Abs, Lower Abs, Obliques)
-* KALCA(GLUTES)
-* BACAKLAR(LEGS: Quads, Hams)
-* BALDIR(CALVES)
+  * GOGUS(CHEST/PECS :Upper, Middle, Lower)
+  * SIRT(BACK :Traps, Lats, Middle-back, Lower-back
+  * OMUZ(SHOULDERS/DELTS :Front, Middle, Rear)
+  * KOLLAR(ARMS :Biceps, Triceps)
+  * KARIN(ABS :Upper Abs, Lower Abs, Obliques)
+  * KALCA(GLUTES)
+  * BACAKLAR(LEGS: Quads, Hams)
+  * BALDIR(CALVES)
 
 * Bazı kaslar özellikle fiziksel görünümü iyileştirmek için öncelikli olabiliyor. Örneğin göğüs, omuz ve biceps erkekler için öncelikli iken ön bacak kadında pek tercih edilmiyor.
 
