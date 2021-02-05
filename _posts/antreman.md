@@ -1,6 +1,7 @@
 Ömür boyu egzersiz yapmanın hem sağlık hem de genel olarak iyi hal için bir gereklilik olduğuna inanıyorum. Kişisel doğru bulduğum not ettiğim bazı bilgileri maddeler halinde burada toplamaya başladım.
 
-Kas grupları genellikle göğüs, sırt, omuz, kol, karın, kalça, bacak, baldır olmak üzere sekiz alanda inceleniyor.  
+
+* Kas grupları genellikle göğüs, sırt, omuz, kol, karın, kalça, bacak, baldır olmak üzere sekiz alanda inceleniyor.  
 
 * GOGUS(CHEST/PECS :Upper, Middle, Lower)
 * SIRT(BACK :Traps, Lats, Middle-back, Lower-back
@@ -11,10 +12,10 @@ Kas grupları genellikle göğüs, sırt, omuz, kol, karın, kalça, bacak, bald
 * BACAKLAR(LEGS: Quads, Hams)
 * BALDIR(CALVES)
 
-Bazı kaslar özellikle fiziksel görünümü iyileştirmek için öncelikli olabiliyor. Örneğin göğüs, omuz ve biceps erkekler için öncelikli iken ön bacak kadında pek tercih edilmiyor.
+* Bazı kaslar özellikle fiziksel görünümü iyileştirmek için öncelikli olabiliyor. Örneğin göğüs, omuz ve biceps erkekler için öncelikli iken ön bacak kadında pek tercih edilmiyor.
 
-Vücut kitle endeksi
-Waist/Hip Ratio
+* Vücut kitle endeksi
+* Waist/Hip Ratio
 
 * Kasları çalıştırmak sizi zayıflatmıyor. Zayıflama ya da incelme ancak ve ancak yağ kaybederek/kilo vererek mümkün. Dolayısıyla pişman olmamak için, karın çalışarak karın bölgenizden zayıflayacağınızı, kol çalışarak kollarınızın zayıflayacağını, bacak çalışarak bacaklarınızın inceleceğini düşünmemeniz gerekiyor.
 
