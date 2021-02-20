@@ -28,3 +28,4 @@ tags: []
 
 ### Take a Look:
 * Upanishads (Religious Text)
+* Essays and Aphorisms (Penguin Classics) Paperback – May 30, 1973
