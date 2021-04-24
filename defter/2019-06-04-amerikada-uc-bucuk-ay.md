@@ -70,7 +70,7 @@ Ride'a vardığınızda ilk olarak. BAM (kol bantlarını ve kartları tarayan c
 
 Son olarak imza atıp kartı tamamlarsın. Bu sırada lead veya supervisor gelip senden kartı alır. Bu sırada bilet kabinlerinden bilet satışları başlamıştır ve müşteriler gelmeye başlar. Sıraya kol bantlarını veya biletlerini BAM'e okutmaları gerekir. Müşteriler kartların içerisine para yükletip kullanırken kol bantlarıyla sınırsız ride'a binebilirler. Ridelar 4 dolarlık ve 8 dolarlık olarak ayrılır bu nedenle 8 dolarlık ride için para yüklettiyse 4 dolarlık ride'a binemez. Çoğu müşterinin kafasını karışır çünkü BAM no funds yazıp öttükten sonra para ödedikleri halde neden binemediklerini merak ederler. I'm sorry. (Suç sende değil ama yine de böyle söylersin.) I think this is an 8 dolar ticket. 8 dolar tickets and 4 dolar tickets are different from each other and this is a 4 dolar ride. Hala anlamadıysa -ki burası bir turist bölgesi ve insanların İngilizcesi yetersiz olabilir- bazen fişini çıkartıp gösterir. Siz de fiş üzerinde "8$ ticket" yazan yeri gösterirsiniz. "If you want, you can change it from ticket booth. It's over there." Böylece problem çözülmüş oldu. Gün boyu bunun gibi bir çok problemle karşılacaksınız. Sürüş esnasında emniyet kemerini çözmesi, ayağa kalkması Çocukların sürüş esnasında ağlaması Sürüş esnasında sürüşün durdurulmasını istemesi BAM'ın çalışmaması. Eşyasını unutması. İçecek veya yiyecek taşıyor olması Oturmaması gereken şekilde oturması Dışarıdaki konuğun içeridekine çak bir beşlik (high five) yapması veya benzeri tehlikeli hareketler...
 
-Bu durumlar ve daha birçoğu için yapmanız gerekenler bellidir. Sürekli karşılaştığınızdan 2-3 gün sonra nasıl davranacağınız konusunda uzmanlaşıyorsunuz. 
+Bu durumlar ve daha birçoğu için yapmanız gerekenler bellidir. Sürekli karşılaştığınızdan 2-3 gün sonra nasıl davranacağınız konusunda uzmanlaşıyorsunuz. Hızlı karar vermek.
 
 Müşteriler sıraya geldiği andan itibaren şu döngüyü tekrarlarsınız : 
 * Bekleyen müşterilerin bulunduğu sıranın başına geç. 
@@ -85,15 +85,13 @@ Müşteriler sıraya geldiği andan itibaren şu döngüyü tekrarlarsınız :
 * Ride bitince müşterileri ridedan indir.
 
 Bu şekilde gün boyu sürer gider. Ride'ların üstünde şemsiye olsa da öğlen güneşi altındasınızdır. Ride çalışırken mümkün olduğunca güneşten uzakta kalmaya çalışırsınız. Güneş gözlüğü ile çalışmanız serbesttir. Sıra bazen çok uzayabilir. Ama Amerikalılar sıralarda beklemeye alışkındır. Bu onları rahatsız etmez. Sıra beklemek bir medeniyet göstergesidir. Six Flags ve Universal gibi Amerika geneline yayılmış büyük eğlence parklarında girişe 80 dolar verdiği halde ride için saatlerce bekleyen insanlar vardır. Starbucks'ta beklerler. Trafikte beklerler. Restoran ve bar girişlerinde beklerler. Bu hizmetin talep edildiğini yani kaliteli olduğunu gösterir, deneyimin bir parçasıdır.
+Mesela çocuklar önemli bir eğlence ve kendi başına bir kültür olan tema parklarından Six Flags'de kuyruklar için yapılmış uzun bariyerler yer alır.
 
+2.5 saat çalıştıktan sonra ilk break'inizi alırsınız. Breaker gelir saati size söyleyip kağıdına yazdıktan sonra ride'ı devralır. Öğle arasında Park'ın sattığı yiyeceklerden indirimli olarak yiyebilirsiniz. Bu yiyeceklerin fast-food olduğunu ve sağlıksız olduğunu belirtmeliyim tabi. Asla devamlı tüketmek için uygun değil. Ama yine de orada bulunduğumuz süre içerisinde bu şekilde besleniyorduk. Öğleden sonra da benzer şekilde bir break hakkınız daha olur.
 
-Six Flags'de kuyruklar için yapılmış bariyerler
+Orada bulunduğum süre içerisinde bir de hırsızlık olayı yaşadım. Çantam eşyalarımızı koyduğum dolaptan çalındı. Shift'i bitirip döndüğümde çantamı dolaplarda bulamadım. Arkadaşımla beraber uzun süre aradık yoktu. Sonrasında supervisor'a haber verdiğimizde kameralardan kontrol etmek üzere yukarı çıktı. Geldiğinde benden özür diledi ve çantamın çalınmış olduğunu söyledi. Güvenlik kamerasında çantamın çalındığı net bir şekilde görünüyordu. Şans eseri yalnızca e-book reader'ım ve üçbeş öteberi gitmişti. Telefonum ve cüzdanım yanımdaydı. Pasaportum ise evdeydi. Eğer pasaportumu kaybetmiş olsaydım çok büyük zorluk yaşayacaktım.
 
-2.5 saat çalıştıktan sonra ilk break'inizi alırsınız. Breaker gelir saati size söyleyip kağıdına yazdıktan sonra ride'ı devralır. 
-
-Hızlı karar vermek
-
-## Yaşadığım Hırsızlık Olayı
+O gün bir hispanik bir kızla ride esnasında sorun yaşamıştık. Breaker olunca aynı anda iki kişi break isteyebiliyordu. Ben ise break i istemesine rağmen ona vermemiştim. Aramızda kısa bir gerilim olmuştu. Elimde bir kanıt olmamasına rağmen bir yanım onun bana bir ders vermek için böyle birşeyi yaptırmış olabileceğini düşünüyorum. Çantam asla bulunamadı. Ama oradaki ufak şerif ofisinde ilgili kişiye çantamın içerisinde olanları saymıştım. Çinli arkadaşlarım Alice ve .. beni orada beklediler.
 
 ## Çalışırken Yaşadığım Garip Durumlar
 
